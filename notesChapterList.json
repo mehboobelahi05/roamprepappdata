@@ -1,136 +1,118 @@
 [
   {
-    "id": "",
-    "string": "General Studies",
-    "children": [
+    "name": "General Studies",
+    "sub_chapters": [
       {
-        "id": "NtRNtmcey",
-        "string": "Ladakh GK",
-        "children": []
+        "name": "[[Ladakh GK]]",
+        "sub_chapters": []
       },
       {
-        "id": "rp7kniV-l",
-        "string": "KSSRB GS 2024 | by Elahi",
-        "children": []
+        "name": "[[KSSRB GS 2024 | by Elahi]]",
+        "sub_chapters": []
       },
       {
-        "id": "",
-        "string": "Polity",
-        "children": [
+        "name": "Polity",
+        "sub_chapters": [
           {
-            "id": "n29qp0t32",
-            "string": "Important Bodies",
-            "children": []
+            "name": "[[Important Bodies]]",
+            "sub_chapters": []
           },
           {
-            "id": "x77aPTPI-",
-            "string": "Constituent Assembly",
-            "children": []
+            "name": "[[Constituent Assembly]]",
+            "sub_chapters": []
           },
           {
-            "id": "cQq3lyA4t",
-            "string": "Preamble",
-            "children": []
+            "name": "[[Preamble]]",
+            "sub_chapters": []
           },
           {
-            "id": "phRFcBz9E",
-            "string": "Fundamental Rights",
-            "children": []
+            "name": "[[Fundamental Rights]]",
+            "sub_chapters": []
           },
           {
-            "id": "ZCi9vLnXj",
-            "string": "Fundamental Duties",
-            "children": []
+            "name": "[[Fundamental Duties]]",
+            "sub_chapters": []
           },
           {
-            "id": "iQtBqriqv",
-            "string": "Union Territories",
-            "children": []
+            "name": "[[Union Territories]]",
+            "sub_chapters": []
           },
           {
-            "id": "NoGYCraKA",
-            "string": "Parliament",
-            "children": []
+            "name": "[[Parliament]]",
+            "sub_chapters": []
           }
         ]
       },
       {
-        "id": "",
-        "string": "History",
-        "children": [
+        "name": "History",
+        "sub_chapters": [
           {
-            "id": "0QSi1z0TJ",
-            "string": "Harappan Civilization",
-            "children": []
+            "name": "[[Harappan Civilization]]",
+            "sub_chapters": []
           },
           {
-            "id": "PdYTtWt2t",
-            "string": "Buddhism",
-            "children": []
+            "name": "[[Buddhism]]",
+            "sub_chapters": []
           },
           {
-            "id": "mPAWm2F5H",
-            "string": "Maurya Empire",
-            "children": []
+            "name": "[[Maurya Empire]]",
+            "sub_chapters": []
           },
           {
-            "id": "LpzzWAX9F",
-            "string": "Social Reforms",
-            "children": []
+            "name": "[[Delhi Sultanate]]",
+            "sub_chapters": []
           },
           {
-            "id": "GQLj8l9hh",
-            "string": "Arrival of Europeans In India",
-            "children": []
+            "name": "[[Mughals]]",
+            "sub_chapters": []
           },
           {
-            "id": "7pgey0rKi",
-            "string": "INC Sessions",
-            "children": []
+            "name": "[[Social Reforms]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[Arrival of Europeans In India]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[INC Sessions]]",
+            "sub_chapters": []
           }
         ]
       },
       {
-        "id": "",
-        "string": "Geography",
-        "children": [
+        "name": "Geography",
+        "sub_chapters": [
           {
-            "id": "Iw7MWhazb",
-            "string": "River Systems",
-            "children": []
+            "name": "[[River Systems]]",
+            "sub_chapters": []
           },
           {
-            "id": "OYdZagmhJ",
-            "string": "Map Based Locations",
-            "children": []
+            "name": "[[Map Based Locations]]",
+            "sub_chapters": []
           }
         ]
       },
       {
-        "id": "lfiTU-u7Y",
-        "string": "International Groupings",
-        "children": []
+        "name": "[[International Groupings]]",
+        "sub_chapters": []
       },
       {
-        "id": "0Ciale3sr",
-        "string": "National Symbols",
-        "children": []
+        "name": "[[National Symbols]]",
+        "sub_chapters": []
       },
       {
-        "id": "a6woX5CKZ",
-        "string": "Art and Culture",
-        "children": []
+        "name": "[[Art and Culture]]",
+        "sub_chapters": []
       }
     ]
   },
   {
-    "id": "",
-    "string": "Grammer",
-    "children": [
+    "name": "Grammer",
+    "sub_chapters": [
       {
-        "id": "lERgSdUkl",
-        "string": "60 Important Rules of Grammar | By Rani Maam",
-        "children": []
+        "name": "[[60 Important Rules of Grammar | By Rani Maam]]",
+        "sub_chapters": []
       }
     ]
   }
