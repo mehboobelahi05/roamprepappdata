@@ -530,7 +530,7 @@
   {
     "id": "ylameAb7Y",
     "name": "KSSRB Mock Test 1 (Medium Level)",
-    "type": "kssrbMockTest",
+    "type": "kssrbMockTests",
     "que_ids": [
       "YPqugVkC4",
       "uXYDJKQhU",
