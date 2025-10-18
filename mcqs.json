@@ -241,10 +241,10 @@
     "id": "zr1tkHpxB",
     "question": "LAHDC in Leh and Kargil were created under which act of the parliament?",
     "options": [
-      "the Ladakh Autonomous Hill Development Council Act, 1993",
-      "the Ladakh Autonomous Hill Development Council Act, 1995",
-      "the Ladakh Autonomous Hill Development Council Act, 1999",
-      "the Ladakh Autonomous Hill Development Council Act, 2003"
+      "Ladakh Autonomous Hill Development Council Act, 1993",
+      "Ladakh Autonomous Hill Development Council Act, 1995",
+      "Ladakh Autonomous Hill Development Council Act, 1999",
+      "Ladakh Autonomous Hill Development Council Act, 2003"
     ],
     "correct_option_index": 1,
     "explanation": "",
@@ -375,7 +375,7 @@
   },
   {
     "id": "AEb1T2DxJ",
-    "question": "How many councilors in LAHDC Kargil are elected?",
+    "question": "How many elected members are there in LAHDC Leh (or Kargil) ?",
     "options": [
       "20",
       "22",
@@ -1179,7 +1179,7 @@
   },
   {
     "id": "K7QbpKpsw",
-    "question": "How many Ramsar Sites are there in UT of Ladakh?",
+    "question": "How many Ramsar Sites are there in the UT of Ladakh?",
     "options": [
       "1",
       "2",
@@ -2166,12 +2166,12 @@
   },
   {
     "id": "k2RsY3k-8",
-    "question": "Which Indus Valley site is located in Punjab, Pakistan?",
+    "question": "Which Indus Valley site is located in present day Punjab, Pakistan?",
     "options": [
-      "Harappan",
+      "Harappa",
       "Mohenjodaro",
       "Lothal",
-      "Dholavira"
+      "Banwali"
     ],
     "correct_option_index": 0,
     "explanation": "",
@@ -7025,7 +7025,7 @@
   },
   {
     "id": "qc_1AYfKV",
-    "question": "Sattriya is a classical dance form associated with ?",
+    "question": "The classical dance \"Sattriya\" is associated from which state of India ?",
     "options": [
       "North India / Uttar Pradesh",
       "Kerala",
@@ -7033,7 +7033,7 @@
       "Assam"
     ],
     "correct_option_index": 3,
-    "explanation": "",
+    "explanation": "The classical dance \"Sattriya\" is associated from  Assam.",
     "level": "",
     "tags": [
       "dances",
@@ -8605,7 +8605,7 @@
   },
   {
     "id": "2myOPnogr",
-    "question": "Who patronaged Third Buddhist Council?",
+    "question": "Who patronaged the Third Buddhist Council?",
     "options": [
       "Ashoka",
       "Bindusara",
@@ -15063,7 +15063,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15099,7 +15099,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15119,7 +15119,7 @@
   },
   {
     "id": "QkyCez0Jp",
-    "question": "Which of the below is the founder of Lodi dynasty?",
+    "question": "Who was the founder of Lodi dynasty?",
     "options": [
       "Bhulul Lodi",
       "Daulat Khan Lodi",
@@ -15127,7 +15127,7 @@
       "Ibrahim Lodi"
     ],
     "correct_option_index": 0,
-    "explanation": "",
+    "explanation": "Bhulul Lodi was the founder of Lodi Dynasty",
     "level": "",
     "tags": [
       "founder",
@@ -15136,7 +15136,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15172,7 +15172,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15208,7 +15208,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15244,7 +15244,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15280,7 +15280,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15316,7 +15316,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15355,7 +15355,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15392,7 +15392,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15430,7 +15430,7 @@
       "history",
       "delhi sultanate"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "_tWWifkuQ",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -15445,6 +15445,2382 @@
       "Lodi dynasty"
     ],
     "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "znVxcPKxO",
+    "question": "Who was the founder of Mughal empire?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Jahangir"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "bGzMQ0TSk",
+    "question": "Babur founded Mughal empire in?",
+    "options": [
+      "1520",
+      "1522",
+      "1526",
+      "1529"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "year",
+      "babur",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "DAHuorE8n",
+    "question": "After which battle the Mughal empire was established?",
+    "options": [
+      "First battle of Panipat",
+      "Second battle of Panipat",
+      "Third battle of Panipat",
+      "Battle of Khanua"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "azBS3PHgR",
+    "question": "What was the real name of Babur?",
+    "options": [
+      "Ghazi Malik",
+      "Zahiruddin Muhammad",
+      "Salim",
+      "Khurram"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "babur",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "B_ePIYPmz",
+    "question": "Which Mughal ruler adopted the title of \"Ghazi\"?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Jahangir"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "title",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "wsGqlnyvm",
+    "question": "Which Mughal ruler adopted the title of \"Emperor of Hindustan\"?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Jahangir"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "title",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "dPMeBk4Rt",
+    "question": "Who invited Babur to invade India?",
+    "options": [
+      "Daulat Khan Lodi, the governor of Lahore under Lodi dynasty",
+      "Sikandar Lodi, the governor of Multan under Lodi dynasty",
+      "Daulat Khan Lodi, the governor of Punjab under Lodi dynasty",
+      "Ibrahim Lodi, the Delhi Sultan during Lodi dynasty"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "babur",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "pTeHPutNx",
+    "question": "The Mughal dynasty is of which origin?",
+    "options": [
+      "Persian-Mongolian",
+      "Turkish-Persian",
+      "Turkish-Mongolian",
+      "Afgan-Turkish"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "babur",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "Jbox22-wl",
+    "question": "What was the period of Babur as Mughal emperor?",
+    "options": [
+      "1525 - 1535",
+      "1525 - 1530",
+      "1526 - 1530",
+      "1526 - 1535"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "babur",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "RAuvzwuNQ",
+    "question": "Who was the son of Babur?",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "lG_3-8hfu",
+    "question": "When did Humayun became the emperor?",
+    "options": [
+      "1526",
+      "1530",
+      "1535",
+      "1540"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "year",
+      "humayun",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "s2LOhSD1v",
+    "question": "When did Babur died?",
+    "options": [
+      "1526",
+      "1530",
+      "1535",
+      "1540"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "year",
+      "babur",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "2IrZUFkBx",
+    "question": "Which of the below Mughal ruler have written his own autobiography?",
+    "options": [
+      "Babur",
+      "Akbar",
+      "Humayun",
+      "Shah Jahan"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "vokE3Ey9K",
+    "question": "Which of the below Mughal ruler have written his own autobiography?",
+    "options": [
+      "Jahangir",
+      "Akbar",
+      "Humayun",
+      "Shah Jahan"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "PN1I3c0S2",
+    "question": "Where is the tomb of Babur ?",
+    "options": [
+      "Lahore",
+      "Delhi",
+      "Kabul",
+      "Fargana"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "city",
+      "place",
+      "babur",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "Z5ese6_YZ",
+    "question": "Which of the below battle was not fought by Humayun?",
+    "options": [
+      "Battle of Chanderi",
+      "Battle of Chausa",
+      "Battle of Bilgram",
+      "Battle of Kannuj"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "humayun",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "diGj3p9tM",
+    "question": "Humayun defeated which Sultan of Gujarat Region?",
+    "options": [
+      "Sikandar Shah",
+      "Malik Kafur",
+      "Bahadur Shah  ruler",
+      "Adil Shah"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "humayun",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "n1foqXCxK",
+    "question": "Which Afghan ruler defeated Humayun?",
+    "options": [
+      "Sikandar Khan",
+      "Sher Khan",
+      "Malik Kafur",
+      "Sharrukh Khan"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "humayun",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "3qbyftWj1",
+    "question": "Which Afghan ruler founded Suri dynasty after defeating Humayun?",
+    "options": [
+      "Muhammad Suri",
+      "Ahmad Suri",
+      "Sher Khan",
+      "Malik Kafur"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "humayun",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "wY_xzJB7K",
+    "question": "When did Humayun was forced to leave India?",
+    "options": [
+      "1530",
+      "1539",
+      "1540",
+      "1555"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "humayun",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "01WjQVnFe",
+    "question": "In between the Mughal empire, the Suri dynasty ruled for how many years?",
+    "options": [
+      "10 years",
+      "15 years",
+      "12 years",
+      "17 years"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "year",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "GOs8iRJHn",
+    "question": "The author \"Jyasi Muhammad Malik\", who wrote the famous work \"Padmavath\" lived in the court of which ruler?",
+    "options": [
+      "Alauddin Khilji",
+      "Humayun",
+      "Babur",
+      "Sher Khan"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "author",
+      "literature",
+      "book",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "a-KeFC-N_",
+    "question": "Sher Khan, the founder of Suri dynasty ruled between?",
+    "options": [
+      "1535 - 1545",
+      "1540 - 1545",
+      "1540 - 1555",
+      "1545 - 1555"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "DHOLCVaS-",
+    "question": "When did Humayun recaptured \"Delhi\"?",
+    "options": [
+      "1539",
+      "1540",
+      "1550",
+      "1555"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "humayun",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "YIW4RN264",
+    "question": "Who wrote \"Humayun nama\" ?",
+    "options": [
+      "His wife Bega Begum",
+      "His son Akbar",
+      "His daughter Gulbadan Begam",
+      "His wazir Birbal"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "literature",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "RCUFGySkM",
+    "question": "Who built \"Humayun tomb\" in Delhi?",
+    "options": [
+      "His wife Bega Begum",
+      "His son Akbar",
+      "His daughter Gulbadan Begam",
+      "His wazir Birbal"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "D87Z5_4Be",
+    "question": "The tomb of Humayun is in which city?",
+    "options": [
+      "Kabul",
+      "Lahore",
+      "Delhi",
+      "Agra"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "city",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "DzyDXhdoj",
+    "question": "Which Mughal ruler got the title of \"Alamgir\"?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "title",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "YVWwDQXZu",
+    "question": "When did Aurangzeb captured \"Bijapur\" ?",
+    "options": [
+      "1685",
+      "1686",
+      "1687",
+      "1688"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "year",
+      "date",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "EQMItQIam",
+    "question": "When did Aurangzeb captured \"Golkonda\" ?",
+    "options": [
+      "1685",
+      "1686",
+      "1687",
+      "1688"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "date",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "_QonCzquY",
+    "question": "Who was the ruler of Bijapur when it was captured by Aurangzeb?",
+    "options": [
+      "Muhammad Adil Shah",
+      "Sikandar Adil Shah",
+      "Ibrahim Adil Shah",
+      "Abul Hassan"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "year",
+      "medium",
+      "date",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "c96qZUbga",
+    "question": "Who was the ruler of Golkonda when it was captured by Aurangzeb?",
+    "options": [
+      "Sultan Quli Qutb-ul-Mulk",
+      "Muhammad Quli Qutb Shah",
+      "Ibrahim Quli Qutb Shah",
+      "Abul Hasan Qutb Shah"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "year",
+      "medium",
+      "date",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "_ea3vX8wn",
+    "question": "Who wrote \"Shahjahan nama\" ?",
+    "options": [
+      "Abul Faizi",
+      "Abdul Hamid Lahori",
+      "Inayat Khan",
+      "Abdul Samad"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "wGBwUmmkO",
+    "question": "Who was the painter that was patronaged by Akbar and was author of Hamzanama ?",
+    "options": [
+      "Abul Faizi",
+      "Abdul Hamid Lahori",
+      "Inayat Khan",
+      "Abdul Samad"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "cbgs9hHd3",
+    "question": "Who was the musician that was patronaged by Akbar ?",
+    "options": [
+      "Inayat Khan",
+      "Abdul Samad",
+      "Mir Syed Ali",
+      "Tansen"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "e-WqWBNu-",
+    "question": "Who translated Gita and Upanishads into Persian?",
+    "options": [
+      "Abul Fazl",
+      "Sheik Mubarak",
+      "Daro Shiko",
+      "Inayat Khan"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "0FlouR9u0",
+    "question": "Who translated Gita into English language?",
+    "options": [
+      "William Hawkins",
+      "Thomas Rao",
+      "Charles Wilkins",
+      "William Bentinck"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "language",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "NakxPxWAO",
+    "question": "Which Mughal ruler is also known as \"Shah e Bekhabar\"?",
+    "options": [
+      "Aurangzeb",
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "8DxhmjXzK",
+    "question": "Which Mughal ruler is also known as \"Rangeela\"?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "65j3vR0o0",
+    "question": "Which Mughal ruler became new king with the help of nobel \"Ali Brothers\"?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "_1nkXKicu",
+    "question": "Who is the only Mughal ruler was killed by his nobels?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "sRXK7N1Bg",
+    "question": "Which Mughal ruler issued \"Farman of free trade in Bengal \" to English East India Company?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "uSEwvmMkI",
+    "question": "Which Mughal ruler allowed the English East India Company to mint their coins?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "uYE3Z9-q0",
+    "question": "During which Mughal ruler \"Bengal\" became independent?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "uESWCar92",
+    "question": "During which Mughal ruler \"Hyderabad\" became independent?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "BAbhFhNZj",
+    "question": "During which of the below Mughal ruler killed \"Nadir Shah\" invaded India?",
+    "options": [
+      "Bahadur Shah-I",
+      "Jahandar Shah",
+      "Faruk Siyar",
+      "Muhammad Shah"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "T_p96qHAT",
+    "question": "When did Bengal declared itself as independent kingdom?",
+    "options": [
+      "1715",
+      "1717",
+      "1719",
+      "1724"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "medium",
+    "tags": [
+      "medium",
+      "date",
+      "year",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "7N-QbvSXd",
+    "question": "When Bengal declared it self independent from the Mughal rule, who was the subedar of Bengal?",
+    "options": [
+      "Alivardi Khan",
+      "Shuja-ud-Daulah",
+      "Mir Jaffar",
+      "Murshid Quli Khan"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "RIdsdYkLw",
+    "question": "Who was the first Nawab of Bengal when it became independent from Mughals in 1917?",
+    "options": [
+      "Alivardi Khan",
+      "Shuja-ud-Daulah",
+      "Murshid Quli Khan",
+      "Mir Kasim"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "fXyYITH8T",
+    "question": "Who was the Nawab of Bengal when battle of Plassey took place?",
+    "options": [
+      "Alivardi Khan",
+      "Shuja-ud-Daulah",
+      "Mir Jaffar",
+      "Mir Kasim"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "A781snafS",
+    "question": "Who was the Nawab of Bengal when \"Black hole tragedy\" took place?",
+    "options": [
+      "Alivardi Khan",
+      "Siraj-ud-Daulah",
+      "Mir Jaffar",
+      "Mir Kasim"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "oYRVh1Spt",
+    "question": "Who was the Nawab of Bengal when battle of Buxar took place?",
+    "options": [
+      "Alivardi Khan",
+      "Shuja-ud-Daulah",
+      "Mir Jaffar",
+      "Mir Kasim"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "vTJSQe5dh",
+    "question": "Who declared Hyderabad as an independent state during Mughal rule?",
+    "options": [
+      "Asaf Jha",
+      "Syed Brothers",
+      "Zulfikar Khan",
+      "None of these"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "AIaDwCbqy",
+    "question": "When did third battle of Panipat took place?",
+    "options": [
+      "1526",
+      "1556",
+      "1764",
+      "1761"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "pNB599RgG",
+    "question": "When did battle of Karnal took place?",
+    "options": [
+      "1730",
+      "1738",
+      "1759",
+      "1761"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "BwDPY_XF2",
+    "question": "When did battle of Buxar took place?",
+    "options": [
+      "1556",
+      "1757",
+      "1759",
+      "1764"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "d8fMVKJz_",
+    "question": "When did treaty of Allahabad took place?",
+    "options": [
+      "1757",
+      "1761",
+      "1764",
+      "1765"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "treaty",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "kNjIWEXcn",
+    "question": "Who was the ruler of Mughals when battle of Plassey took place?",
+    "options": [
+      "Muhammad Shah",
+      "Ahmad Shah",
+      "Alamgir-II",
+      "Shah Alam- II"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "eIuH9aWGp",
+    "question": "Who was the ruler of Mughals when battle of Buxar took place?",
+    "options": [
+      "Muhammad Shah",
+      "Ahmad Shah",
+      "Alamgir-II",
+      "Shah Alam-II"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "-q47kSiaY",
+    "question": "Who was the ruler of Mughals when third battle of Panipat took place?",
+    "options": [
+      "Ahmad Shah",
+      "Alamgir-II",
+      "Shah Alam - II",
+      "Akbar-II"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "tsMsjjdY5",
+    "question": "Who was the ruler of Mughals when battle of Karnal took place?",
+    "options": [
+      "Muhammad Shah",
+      "Alamgir-II",
+      "Shah Alam-II",
+      "Akbar-II"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "TFxhwnCzy",
+    "question": "Who was the ruler of Mughals when Nadir Shah invaded Delhi?",
+    "options": [
+      "Muhammad Shah",
+      "Alamgir-II",
+      "Shah Alam - II",
+      "Akbar-II"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "HZbpHYN3R",
+    "question": "Who was the ruler of Mughals when Ahmad Shah Abdali invaded Delhi?",
+    "options": [
+      "Muhammad Shah",
+      "Alamgir-II",
+      "Shah Alam-II",
+      "Akbar-II"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "S3HOsfC8y",
+    "question": "Which Mughal ruler gave the title of \"Raja\" to Raja Ram Mohan Roi?",
+    "options": [
+      "Muhammad Shah",
+      "Akbar",
+      "Shah Alam-II",
+      "Akbar-II"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "title",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "OEYHB_FrV",
+    "question": "Which of the below event did not occur during the reign of Shah Alam-II  of Mughals?",
+    "options": [
+      "Battle of Plessay",
+      "Battle of Chinsura or Hoogly",
+      "Battle of Buxar",
+      "Treaty of Allahabad"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "5Oj4g1zcR",
+    "question": "Which of the below event occur during the reign of Alamgir-II  of Mughals?",
+    "options": [
+      "Battle of Plessay",
+      "Battle of Chinsura or Hoogly",
+      "Battle of Buxar",
+      "Treaty of Allahabad"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "9Fevy07Uu",
+    "question": "The battle of Plessay took place between ?",
+    "options": [
+      "Shuja-ud-Daulah vs English",
+      "Siraj-ud-Daulah vs English",
+      "Mir Kasim vs English",
+      "Shah Alam -II vs English"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "neFK-Z4eB",
+    "question": "Which of the below did not participate in the  battle of Buxar?",
+    "options": [
+      "Shuja-ud-Daulah",
+      "Siraj-ud-Daulah",
+      "Mir Kasim",
+      "Shah Alam-II"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "level": "",
+    "tags": [
+      "battle",
+      "general studies",
+      "history",
+      "mughals"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mughals",
+    "page_uid": "gEBNErqkd",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "history"
+    ],
+    "taken_from": "",
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -16854,7 +19230,7 @@
   },
   {
     "id": "HKNxHpDe0",
-    "question": "Which European power left India last?",
+    "question": "Which of the below European power left India the last?",
     "options": [
       "Dutch",
       "English",
@@ -17572,7 +19948,7 @@
   },
   {
     "id": "a6n0g8J87",
-    "question": "In which session of INC \"Vande Mataram\" was sung first time?",
+    "question": "In which session of INC \"Vande Mataram\" was sung for the first time?",
     "options": [
       "1887 Madrass session",
       "1896 Calcutta session",
@@ -20000,10 +22376,10 @@
     "id": "GJrKL86aW",
     "question": "The Attorney General of India is defined under which article?",
     "options": [
-      "Article 324",
-      "Article 148",
+      "Article 74",
+      "Article 75",
       "Article 76",
-      "Article 280"
+      "Article 67"
     ],
     "correct_option_index": 2,
     "explanation": "",
@@ -21803,7 +24179,7 @@
   },
   {
     "id": "65zTalmri",
-    "question": "How many Fundamental Rights are available only to Indian citizens?",
+    "question": "How many Fundamental Rights are there that are available only to the Indian citizens?",
     "options": [
       "3",
       "4",
@@ -25069,8 +27445,8 @@
     "question": "The Parliament of India consists of?",
     "options": [
       "Lok Sabha and Rajya Sabha",
-      "President and Lok Sabha",
       "Rajya Sabha and President",
+      "Both Lok Sabha and Rajya Sabha",
       "Lok Sabha, Rajya Sabha, and the President"
     ],
     "correct_option_index": 3,
@@ -26235,7 +28611,7 @@
   },
   {
     "id": "BZ6BukqbZ",
-    "question": "Which Union Territory became the first UT to have its own legislature?",
+    "question": "Which of the below became the first Union Territory to have its own legislature?",
     "options": [
       "Delhi",
       "Jammu & Kashmir",
@@ -28222,7 +30598,7 @@
       "Chenab"
     ],
     "correct_option_index": 2,
-    "explanation": "",
+    "explanation": "Wular Lake is the largest freshwater lake in India and is situated on the course of the Jhelum River. It is located in the Bandipora district of Jammu and Kashmir.",
     "level": "",
     "tags": [
       "lake",
@@ -31347,7 +33723,7 @@
       "TungaBhadra"
     ],
     "correct_option_index": 1,
-    "explanation": "",
+    "explanation": "The largest tributary of the Godavari is the Pranhita, which covers about 34% of the drainage basin. It is formed by the combined waters of the Wardha, Wainganga, and Penganga rivers",
     "level": "",
     "tags": [
       "godavari",
@@ -32413,6 +34789,251 @@
       "Geography",
       "river",
       "Kaveri"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "-JPaQweDF",
+    "question": "What is the highest peak of the Aravali range?",
+    "options": [
+      "Guru Shikhar",
+      "Kalumar Peak",
+      "Dhupgarh",
+      "Jindhagada Peak"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Guru Shikhar is identified as the highest peak of the Aravali range, located in Rajasthan with an elevation of approximately 1,722 meters.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "mountains and peaks"
+    ],
+    "linked_block_uid": "2fld_mpzC",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mountains and Peaks",
+    "page_uid": "qukeBs5r9",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "Mountains and Peaks"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "zhGwAo7xE",
+    "question": "What is the highest peak of the Vindhaya Range?",
+    "options": [
+      "Guru Shikhar",
+      "Sad-Bhawna Shikhar (Kalumar)",
+      "Dhupgarh",
+      "Jindhagada Peak"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Sad-Bhawna Shikhar, also known as Kalumar Peak, is the highest peak of the Vindhaya Range, with an elevation of 752 meters, located in Madhya Pradesh.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "mountains and peaks"
+    ],
+    "linked_block_uid": "2fld_mpzC",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mountains and Peaks",
+    "page_uid": "qukeBs5r9",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "Mountains and Peaks"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "yPab-tkiI",
+    "question": "What is the highest peak of the Satpura range?",
+    "options": [
+      "Guru Shikhar",
+      "Kalumar Peak",
+      "Dhupgarh",
+      "Jindhagada Peak"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Dhupgarh is the highest peak of the Satpura range, located in Madhya Pradesh with an elevation of approximately 1,352 meters.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "mountains and peaks"
+    ],
+    "linked_block_uid": "2fld_mpzC",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mountains and Peaks",
+    "page_uid": "qukeBs5r9",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "Mountains and Peaks"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "c3vgFYrP9",
+    "question": "What is the highest peak of the Eastern Ghats?",
+    "options": [
+      "Guru Shikhar",
+      "Kalumar Peak",
+      "Jindhagada Peak",
+      "Anamudi"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Jindhagada Peak, also known as Arma Konda, is the highest peak of the Eastern Ghats, located in Araku Valley, Andhra Pradesh, with an elevation of 1,690 meters.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "mountains and peaks"
+    ],
+    "linked_block_uid": "2fld_mpzC",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mountains and Peaks",
+    "page_uid": "qukeBs5r9",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "Mountains and Peaks"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "o-Rd-oZkz",
+    "question": "What is the highest peak of the Western Ghats?",
+    "options": [
+      "Guru Shikhar",
+      "Kalumar Peak",
+      "Anamudi",
+      "Jindhagada Peak"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Anamudi is the highest peak of the Western Ghats, located in Kerala with an elevation of 2,695 meters, making it the highest peak in South India and the highest point in India outside the Himalayan range.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "mountains and peaks"
+    ],
+    "linked_block_uid": "2fld_mpzC",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mountains and Peaks",
+    "page_uid": "qukeBs5r9",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "Mountains and Peaks"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "EAjiCAGau",
+    "question": "What is the highest peak of South India?",
+    "options": [
+      "Guru Shikhar",
+      "Kalumar Peak",
+      "Anamudi",
+      "Jindhagada Peak"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Anamudi is the highest peak of the Western Ghats, located in Kerala with an elevation of 2,695 meters, making it the highest peak in South India and the highest point in India outside the Himalayan range.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "mountains and peaks"
+    ],
+    "linked_block_uid": "2fld_mpzC",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mountains and Peaks",
+    "page_uid": "qukeBs5r9",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "Mountains and Peaks"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "Mqb_-S9-N",
+    "question": "What is the highest peak in India outside Himalayas?",
+    "options": [
+      "Guru Shikhar",
+      "Kalumar Peak",
+      "Anamudi",
+      "Jindhagada Peak"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Anamudi is the highest peak of the Western Ghats, located in Kerala with an elevation of 2,695 meters, making it the highest peak in South India and the highest point in India outside the Himalayan range.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "mountains and peaks"
+    ],
+    "linked_block_uid": "2fld_mpzC",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-18",
+    "exams": [],
+    "page_title": "Mountains and Peaks",
+    "page_uid": "qukeBs5r9",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "Mountains and Peaks"
     ],
     "taken_from": {},
     "paragraph_text": "",
@@ -38687,14 +41308,14 @@
       "To get hurt"
     ],
     "correct_option_index": 1,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:00:01}} \"take down a peg\"",
+    "explanation": "{video:OLbnD3mGTUM:1} \"take down a peg\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38721,14 +41342,14 @@
       "A punctual person"
     ],
     "correct_option_index": 2,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:01:09}} \"single blessedness\"",
+    "explanation": "{video:OLbnD3mGTUM:69} \"single blessedness\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38755,14 +41376,14 @@
       "Inferior"
     ],
     "correct_option_index": 3,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:01:55}} \"not fit to hold candle to\"",
+    "explanation": "{video:OLbnD3mGTUM:115} \"not fit to hold candle to\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38789,14 +41410,14 @@
       "To let loose a wild animal on someone"
     ],
     "correct_option_index": 1,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:02:17}} \"make somebody's hackles rise\"",
+    "explanation": "{video:OLbnD3mGTUM:137} \"make somebody's hackles rise\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38823,14 +41444,14 @@
       "To make comparisons"
     ],
     "correct_option_index": 1,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:03:10}} \"turn up one's nose at\"",
+    "explanation": "{video:OLbnD3mGTUM:190} \"turn up one's nose at\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38857,14 +41478,14 @@
       "To have a long day of work ahead of you"
     ],
     "correct_option_index": 1,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:03:57}} \"turn up one's nose at\"",
+    "explanation": "{video:OLbnD3mGTUM:237} \"turn up one's nose at\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38891,14 +41512,14 @@
       "To get disappointed"
     ],
     "correct_option_index": 1,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:04:31}} \"to go pear shaped\"",
+    "explanation": "{video:OLbnD3mGTUM:271} \"to go pear shaped\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38925,14 +41546,14 @@
       "Separation strengthens  the bond of love"
     ],
     "correct_option_index": 3,
-    "explanation": "{{video-timestamp: ((iNaCL59ko)) 00:05:08}} \"absence makes the heart grow fonder\"",
+    "explanation": "{video:OLbnD3mGTUM:308} \"absence makes the heart grow fonder\"",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "iNaCL59ko",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38959,14 +41580,14 @@
       "A habit of talking too much"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:04:07}}  \n\nThe ability to speak confidently and convincingly. People with the gift of the gab can easily persuade or entertain others with their words.  \n\nExample: Rahul convinced his teacher to postpone the test—he really has the gift of the gab!",
+    "explanation": "Video: {video:M1qQn7V0PaY:247}  \n\nThe ability to speak confidently and convincingly. People with the gift of the gab can easily persuade or entertain others with their words.  \n\nExample: Rahul convinced his teacher to postpone the test—he really has the gift of the gab!",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -38993,14 +41614,14 @@
       "An easy challenge"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:08:19}}  \n\nSomething that is very difficult to understand or solve.  \n\nExample: The final math problem in the exam was a hard nut to crack.",
+    "explanation": "Video: {video:M1qQn7V0PaY:499}  \n\nSomething that is very difficult to understand or solve.  \n\nExample: The final math problem in the exam was a hard nut to crack.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39027,14 +41648,14 @@
       "Traveling abroad"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:10:39}}  \n\nNot feeling well or being slightly sick.  \n\nExample: I couldn’t go to school today because I was under the weather.",
+    "explanation": "Video: {video:M1qQn7V0PaY:639}  \n\nNot feeling well or being slightly sick.  \n\nExample: I couldn’t go to school today because I was under the weather.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39061,14 +41682,14 @@
       "A special festival"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:12:33}}  \n\nSomething that happens very rarely.  \n\nExample: I eat fast food once in a blue moon because I prefer home-cooked meals.",
+    "explanation": "Video: {video:M1qQn7V0PaY:753}  \n\nSomething that happens very rarely.  \n\nExample: I eat fast food once in a blue moon because I prefer home-cooked meals.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39095,14 +41716,14 @@
       "A day full of work"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:14:06}}  \n\nA special day that is remembered because of something important or good happening.  \n\nExample: The day I got my first job was a red-letter day in my life.",
+    "explanation": "Video: {video:M1qQn7V0PaY:846}  \n\nA special day that is remembered because of something important or good happening.  \n\nExample: The day I got my first job was a red-letter day in my life.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39129,14 +41750,14 @@
       "To be in danger"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:15:42}}  \n\nTo suspect that something is wrong or that someone is lying.  \n\nExample: When I saw the manager acting nervously, I smelled a rat.",
+    "explanation": "Video: {video:M1qQn7V0PaY:942}  \n\nTo suspect that something is wrong or that someone is lying.  \n\nExample: When I saw the manager acting nervously, I smelled a rat.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39163,14 +41784,14 @@
       "To explain something clearly"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:18:39}}  \n\nTo talk about something in an indirect way instead of getting to the point.  \n\nExample: Stop beating around the bush and tell me what really happened!",
+    "explanation": "Video: {video:M1qQn7V0PaY:1119}  \n\nTo talk about something in an indirect way instead of getting to the point.  \n\nExample: Stop beating around the bush and tell me what really happened!",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39197,14 +41818,14 @@
       "To work slowly"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:20:07}}  \n\nTo grow, improve, or progress very fast.  \n\nExample: The company’s profits have increased by leaps and bounds this year.",
+    "explanation": "Video: {video:M1qQn7V0PaY:1207}  \n\nTo grow, improve, or progress very fast.  \n\nExample: The company’s profits have increased by leaps and bounds this year.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39231,14 +41852,14 @@
       "To listen to music loudly"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:21:33}}  \n\nTo accept the punishment or consequences of something you have done.  \n\nExample: After failing the exam, Ramesh had to face the music when his parents found out.",
+    "explanation": "Video: {video:M1qQn7V0PaY:1293}  \n\nTo accept the punishment or consequences of something you have done.  \n\nExample: After failing the exam, Ramesh had to face the music when his parents found out.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39265,14 +41886,14 @@
       "To waste time talking"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:24:22}}  \n\nTo accidentally tell a secret or reveal important information.  \n\nExample: Rohan spilled the beans about the surprise party.",
+    "explanation": "Video: {video:M1qQn7V0PaY:1462}  \n\nTo accidentally tell a secret or reveal important information.  \n\nExample: Rohan spilled the beans about the surprise party.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39299,14 +41920,14 @@
       "A fun outdoor adventure"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:26:41}}  \n\nA pointless or fruitless search for something that is difficult or impossible to find.  \n\nExample: Looking for my lost keys in the huge park felt like a wild goose chase.",
+    "explanation": "Video: {video:M1qQn7V0PaY:1601}  \n\nA pointless or fruitless search for something that is difficult or impossible to find.  \n\nExample: Looking for my lost keys in the huge park felt like a wild goose chase.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39333,14 +41954,14 @@
       "To win an argument"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:29:59}}  \n\nTo stop fighting or arguing and become friends again.  \n\nExample: After years of rivalry, the two teams decided to bury the hatchet.",
+    "explanation": "Video: {video:M1qQn7V0PaY:1799}  \n\nTo stop fighting or arguing and become friends again.  \n\nExample: After years of rivalry, the two teams decided to bury the hatchet.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39367,14 +41988,14 @@
       "Only when needed"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:32:53}}  \n\nTo stay loyal and supportive in both good and bad situations.  \n\nExample: True friends stick together through thick and thin.",
+    "explanation": "Video: {video:M1qQn7V0PaY:1973}  \n\nTo stay loyal and supportive in both good and bad situations.  \n\nExample: True friends stick together through thick and thin.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39401,14 +42022,14 @@
       "To read a book many times"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:34:33}}  \n\nTo understand something that is not directly stated.  \n\nExample: He didn’t say he was upset, but I could read between the lines.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2073}  \n\nTo understand something that is not directly stated.  \n\nExample: He didn’t say he was upset, but I could read between the lines.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39435,14 +42056,14 @@
       "A rare bird"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:36:42}}  \n\nSomething surprising that happens suddenly without warning.  \n\nExample: His decision to quit his job was a bolt from the blue.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2202}  \n\nSomething surprising that happens suddenly without warning.  \n\nExample: His decision to quit his job was a bolt from the blue.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39469,14 +42090,14 @@
       "A tricky puzzle"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:39:30}}  \n\nA person who pretends to be a friend but is actually harmful or deceitful.  \n\nExample: Be careful, he is a snake in the grass.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2370}  \n\nA person who pretends to be a friend but is actually harmful or deceitful.  \n\nExample: Be careful, he is a snake in the grass.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39503,14 +42124,14 @@
       "At midnight"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:41:52}}  \n\nTo do something just before the deadline.  \n\nExample: She submitted her assignment at the eleventh hour.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2512}  \n\nTo do something just before the deadline.  \n\nExample: She submitted her assignment at the eleventh hour.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39537,14 +42158,14 @@
       "To insult someone"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:43:56}}  \n\nTo boast or talk about one’s achievements.  \n\nExample: He always blows his own trumpet about his success.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2636}  \n\nTo boast or talk about one’s achievements.  \n\nExample: He always blows his own trumpet about his success.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39571,14 +42192,14 @@
       "To get angry"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:45:09}}  \n\nTo do or say something to make people feel comfortable.  \n\nExample: The teacher told a joke to break the ice on the first day of class.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2709}  \n\nTo do or say something to make people feel comfortable.  \n\nExample: The teacher told a joke to break the ice on the first day of class.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39605,14 +42226,14 @@
       "To be painful"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:47:40}}  \n\nSomething that is very costly.  \n\nExample: This new phone costs an arm and a leg.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2860}  \n\nSomething that is very costly.  \n\nExample: This new phone costs an arm and a leg.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39639,14 +42260,14 @@
       "To give up easily"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:49:37}}  \n\nTo make every effort to achieve a goal.  \n\nExample: The police left no stone unturned to find the criminal.",
+    "explanation": "Video: {video:M1qQn7V0PaY:2977}  \n\nTo make every effort to achieve a goal.  \n\nExample: The police left no stone unturned to find the criminal.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39673,14 +42294,14 @@
       "To catch a fish"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:50:37}}  \n\nTo feel awkward or out of place.  \n\nExample: I felt like a fish out of water at my new school.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3037}  \n\nTo feel awkward or out of place.  \n\nExample: I felt like a fish out of water at my new school.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39707,14 +42328,14 @@
       "A small stone"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:52:04}}  \n\nSomething that is very close in distance.  \n\nExample: The mall is a stone’s throw away from my house.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3124}  \n\nSomething that is very close in distance.  \n\nExample: The mall is a stone’s throw away from my house.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39741,14 +42362,14 @@
       "When forced to do something"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:53:10}}  \n\nTo do something quickly without delay.  \n\nExample: She is ready to help at the drop of a hat.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3190}  \n\nTo do something quickly without delay.  \n\nExample: She is ready to help at the drop of a hat.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39775,14 +42396,14 @@
       "To ignore someone"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:55:18}}  \n\nTo listen carefully and attentively.  \n\nExample: The students were all ears during the teacher’s lecture.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3318}  \n\nTo listen carefully and attentively.  \n\nExample: The students were all ears during the teacher’s lecture.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39809,14 +42430,14 @@
       "To chew food slowly"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:56:21}}  \n\nTo take on too many responsibilities and struggle.  \n\nExample: He bit off more than he could chew by accepting multiple projects.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3381}  \n\nTo take on too many responsibilities and struggle.  \n\nExample: He bit off more than he could chew by accepting multiple projects.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39843,14 +42464,14 @@
       "With excitement"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 00:59:11}}  \n\nTo do something with pauses and interruptions.  \n\nExample: His studies progressed by fits and starts.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3551}  \n\nTo do something with pauses and interruptions.  \n\nExample: His studies progressed by fits and starts.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39877,14 +42498,14 @@
       "A bedtime tale"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:00:59}}  \n\nA false or exaggerated story that is difficult to believe.  \n\nExample: He gave a cock and bull story about why he was late for work.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3659}  \n\nA false or exaggerated story that is difficult to believe.  \n\nExample: He gave a cock and bull story about why he was late for work.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39911,14 +42532,14 @@
       "Friends who enjoy sunny weather"
     ],
     "correct_option_index": 1,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:02:33}}  \n\nPeople who are only your friends when things are going well but disappear when you need help.  \n\nExample: When I lost my job, I realized who my fair-weather friends were.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3753}  \n\nPeople who are only your friends when things are going well but disappear when you need help.  \n\nExample: When I lost my job, I realized who my fair-weather friends were.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39945,14 +42566,14 @@
       "To handle something well"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:03:56}}  \n\nWhen a situation becomes difficult to control.  \n\nExample: The party got out of hand when too many people arrived.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3836}  \n\nWhen a situation becomes difficult to control.  \n\nExample: The party got out of hand when too many people arrived.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -39979,14 +42600,14 @@
       "To enjoy luxury"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:04:54}}  \n\nTo share the same difficulties as others.  \n\nExample: We both lost our jobs, so we are in the same boat.",
+    "explanation": "Video: {video:M1qQn7V0PaY:3894}  \n\nTo share the same difficulties as others.  \n\nExample: We both lost our jobs, so we are in the same boat.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40013,14 +42634,14 @@
       "Being in a high place"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:07:00}}  \n\nTo feel very happy or excited.  \n\nExample: She was on cloud nine after winning the lottery.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4020}  \n\nTo feel very happy or excited.  \n\nExample: She was on cloud nine after winning the lottery.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40047,14 +42668,14 @@
       "To take something seriously"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:07:52}}  \n\nTo playfully trick or tease someone.  \n\nExample: Don’t be serious! I was just pulling your leg.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4072}  \n\nTo playfully trick or tease someone.  \n\nExample: Don’t be serious! I was just pulling your leg.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40081,14 +42702,14 @@
       "To make a quick decision"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:09:20}}  \n\nTo remain neutral and not take a side in a debate.  \n\nExample: He always sits on the fence instead of choosing a side.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4160}  \n\nTo remain neutral and not take a side in a debate.  \n\nExample: He always sits on the fence instead of choosing a side.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40115,14 +42736,14 @@
       "To take care of an animal"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:12:00}}  \n\nTo keep trying to do something that is already failed.  \n\nExample: Discussing that failed project again is like flogging a dead horse.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4320}  \n\nTo keep trying to do something that is already failed.  \n\nExample: Discussing that failed project again is like flogging a dead horse.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40149,14 +42770,14 @@
       "To be deaf"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:13:29}}  \n\nTo ignore what someone is saying.  \n\nExample: The government turned a deaf ear to the complaints.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4409}  \n\nTo ignore what someone is saying.  \n\nExample: The government turned a deaf ear to the complaints.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40183,14 +42804,14 @@
       "A religious event"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:16:40}}  \n\nSomething that first seems bad but actually has a good result.  \n\nExample: Losing my job was a blessing in disguise because I found a better one.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4600}  \n\nSomething that first seems bad but actually has a good result.  \n\nExample: Losing my job was a blessing in disguise because I found a better one.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40217,14 +42838,14 @@
       "A well-known celebrity"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:18:36}}  \n\nSomeone who achieves success when no one expected it.  \n\nExample: The unknown player was a dark horse in the tournament.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4716}  \n\nSomeone who achieves success when no one expected it.  \n\nExample: The unknown player was a dark horse in the tournament.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40251,14 +42872,14 @@
       "A big challenge"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:20:51}}  \n\nA task that is very simple and easy.  \n\nExample: The math test was a piece of cake.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4851}  \n\nA task that is very simple and easy.  \n\nExample: The math test was a piece of cake.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40285,14 +42906,14 @@
       "To cry too much"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:21:32}}  \n\nTo be upset over something that has already happened and cannot be changed.  \n\nExample: There’s no use crying over spilled milk— just move on.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4892}  \n\nTo be upset over something that has already happened and cannot be changed.  \n\nExample: There’s no use crying over spilled milk— just move on.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40319,14 +42940,14 @@
       "To eat a lot of beans"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:22:36}}  \n\nTo have a lot of energy and enthusiasm.  \n\nExample: The kids were full of beans after eating candy.",
+    "explanation": "Video: {video:M1qQn7V0PaY:4956}  \n\nTo have a lot of energy and enthusiasm.  \n\nExample: The kids were full of beans after eating candy.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40353,14 +42974,14 @@
       "To repair something"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:24:11}}  \n\nTo have a personal interest or motive behind doing something.  \n\nExample: He criticized the policy because he had an axe to grind.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5051}  \n\nTo have a personal interest or motive behind doing something.  \n\nExample: He criticized the policy because he had an axe to grind.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40387,14 +43008,14 @@
       "In a large space"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:26:29}}  \n\nTo explain something briefly and clearly.  \n\nExample: He explained the situation in a nutshell.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5189}  \n\nTo explain something briefly and clearly.  \n\nExample: He explained the situation in a nutshell.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40421,14 +43042,14 @@
       "To avoid eye contact"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:27:39}}  \n\nTo have the same opinion as someone.  \n\nExample: They see eye to eye on most issues.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5259}  \n\nTo have the same opinion as someone.  \n\nExample: They see eye to eye on most issues.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40455,14 +43076,14 @@
       "To be proud"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:29:24}}  \n\nTo accept one’s mistake and apologize.  \n\nExample: After his wrong prediction, he had to eat humble pie.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5364}  \n\nTo accept one’s mistake and apologize.  \n\nExample: After his wrong prediction, he had to eat humble pie.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40489,14 +43110,14 @@
       "To go swimming"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:31:38}}  \n\nTo get into a difficult or dangerous situation.  \n\nExample: He got into hot water for missing the deadline at work.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5498}  \n\nTo get into a difficult or dangerous situation.  \n\nExample: He got into hot water for missing the deadline at work.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40523,14 +43144,14 @@
       "A piece of chocolate"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:32:35}}  \n\nSomeone who resembles their parent in appearance or behavior.  \n\nExample: John is a chip off the old block—just like his father in everything!",
+    "explanation": "Video: {video:M1qQn7V0PaY:5555}  \n\nSomeone who resembles their parent in appearance or behavior.  \n\nExample: John is a chip off the old block—just like his father in everything!",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40557,14 +43178,14 @@
       "To find a solution quickly"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:34:14}}  \n\nTo be extremely worried, confused, or frustrated.  \n\nExample: After trying to fix the computer for hours, he was at his wits' end.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5654}  \n\nTo be extremely worried, confused, or frustrated.  \n\nExample: After trying to fix the computer for hours, he was at his wits' end.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40591,14 +43212,14 @@
       "To complain about something unimportant"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:35:19}}  \n\nTo blame the wrong person or follow the wrong course of action.  \n\nExample: If you think I stole your book, you are barking up the wrong tree.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5719}  \n\nTo blame the wrong person or follow the wrong course of action.  \n\nExample: If you think I stole your book, you are barking up the wrong tree.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -40625,14 +43246,14 @@
       "To live in two different places"
     ],
     "correct_option_index": 0,
-    "explanation": "Video: {{video-timestamp: ((PchscNdYX)) 01:37:52}}  \n\nTo enjoy two different opportunities or benefits at once.  \n\nExample: Living in the countryside but working in the city gives him the best of both worlds.",
+    "explanation": "Video: {video:M1qQn7V0PaY:5872}  \n\nTo enjoy two different opportunities or benefits at once.  \n\nExample: Living in the countryside but working in the city gives him the best of both worlds.",
     "level": "",
     "tags": [
       "english",
       "vocabulary",
       "idioms"
     ],
-    "linked_block_uid": "PchscNdYX",
+    "linked_block_uid": "",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -64213,6 +66834,7 @@
       "geography",
       "atmosphere",
       "geography",
+      "atmosphere",
       "general studies",
       "mock",
       "kssrb exam",
@@ -64258,6 +66880,7 @@
       "chemistry",
       "greenhouse gases",
       "global warming",
+      "greenhouse gases",
       "general studies",
       "mock",
       "kssrb exam",
@@ -65998,7 +68621,7 @@
   },
   {
     "id": "0DSus9-XO",
-    "question": "The protein deficiency disease is known as ?",
+    "question": "The protein deficiency Diseaseas is known as ?",
     "options": [
       "Kwashiorkor",
       "Cirrhosis",
@@ -66009,7 +68632,7 @@
     "explanation": "Kwashiorkor is a disease caused by severe protein deficiency, commonly affecting children in regions with inadequate nutrition.",
     "level": "easy",
     "tags": [
-      "disease",
+      "diseaseas",
       "science",
       "biology",
       "general studies",
@@ -66562,6 +69185,7 @@
       "geography",
       "atmosphere",
       "geography",
+      "atmosphere",
       "general studies",
       "mock",
       "kssrb exam",
@@ -70097,7 +72721,8 @@
     "tags": [
       "science",
       "biology",
-      "disease",
+      "diseaseas",
+      "diseaseas",
       "general studies",
       "mock",
       "kssrb exam",
@@ -73363,6 +75988,7 @@
       "geography",
       "atmosphere",
       "geography",
+      "atmosphere",
       "general studies",
       "mock",
       "kssrb exam",
@@ -73408,6 +76034,7 @@
       "atmosphere",
       "ozone layer",
       "geography",
+      "atmosphere",
       "general studies",
       "mock",
       "kssrb exam",
@@ -73453,6 +76080,7 @@
       "atmosphere",
       "ozone layer",
       "geography",
+      "atmosphere",
       "general studies",
       "mock",
       "kssrb exam",
