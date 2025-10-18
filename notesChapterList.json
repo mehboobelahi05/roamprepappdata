@@ -11,6 +11,10 @@
         "sub_chapters": []
       },
       {
+        "name": "[[Important Current Affairs for KSSRB 2025]]",
+        "sub_chapters": []
+      },
+      {
         "name": "Polity",
         "sub_chapters": [
           {
@@ -90,6 +94,18 @@
           {
             "name": "[[Map Based Locations]]",
             "sub_chapters": []
+          },
+          {
+            "name": "[[Mountains and Peaks]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[Atmosphere]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[Greenhouse Gases]]",
+            "sub_chapters": []
           }
         ]
       },
@@ -104,6 +120,15 @@
       {
         "name": "[[Art and Culture]]",
         "sub_chapters": []
+      },
+      {
+        "name": "Science",
+        "sub_chapters": [
+          {
+            "name": "[[Diseaseas]]",
+            "sub_chapters": []
+          }
+        ]
       }
     ]
   },
