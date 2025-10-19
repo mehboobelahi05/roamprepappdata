@@ -218,11 +218,20 @@
     "sub_chapters": [
       {
         "name": "Number System",
-        "sub_chapters": []
-      },
-      {
-        "name": "LCM and HCF",
-        "sub_chapters": []
+        "sub_chapters": [
+          {
+            "name": "LCM and HCF",
+            "sub_chapters": []
+          },
+          {
+            "name": "Divisibility",
+            "sub_chapters": []
+          },
+          {
+            "name": "Problems on Numbers",
+            "sub_chapters": []
+          }
+        ]
       },
       {
         "name": "Percentage",
@@ -237,15 +246,19 @@
         "sub_chapters": []
       },
       {
-        "name": "Average",
-        "sub_chapters": []
-      },
-      {
         "name": "Problem on Ages",
         "sub_chapters": []
       },
       {
+        "name": "Average",
+        "sub_chapters": []
+      },
+      {
         "name": "Time Speed and Distance",
+        "sub_chapters": []
+      },
+      {
+        "name": "Ratio and Proportion",
         "sub_chapters": []
       }
     ]
@@ -303,16 +316,17 @@
         "sub_chapters": []
       },
       {
-        "name": "Number Analogy",
-        "sub_chapters": []
-      },
-      {
         "name": "Coding Decoding",
-        "sub_chapters": []
-      },
-      {
-        "name": "Word Analogy",
-        "sub_chapters": []
+        "sub_chapters": [
+          {
+            "name": "Word Analogy",
+            "sub_chapters": []
+          },
+          {
+            "name": "Number Analogy",
+            "sub_chapters": []
+          }
+        ]
       },
       {
         "name": "Paragraph Based",
@@ -323,7 +337,11 @@
         "sub_chapters": []
       },
       {
-        "name": "Shape Based Reasoning",
+        "name": "Calendar",
+        "sub_chapters": []
+      },
+      {
+        "name": "Syllogism",
         "sub_chapters": []
       },
       {
@@ -331,11 +349,15 @@
         "sub_chapters": []
       },
       {
-        "name": "Calendar",
+        "name": "Sitting Arrangement",
         "sub_chapters": []
       },
       {
-        "name": "Syllogism",
+        "name": "Shape Based Reasoning",
+        "sub_chapters": []
+      },
+      {
+        "name": "Dices",
         "sub_chapters": []
       }
     ]
