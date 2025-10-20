@@ -2279,16 +2279,21 @@
         "children": [
           {
             "order": 0,
-            "string": "**Brahmo Samaj**\n▪️ Brahmo sabha was founded in 1828\n▪️ It was founded by Raja Rammohan Roy, in 1828, in Calcutta.\n▪️ In 1830 it was renamed as \"Brahma Samaj\"\n▪️ Raja Rammohan Roy is also known as Father of Indian Renaissance\n\n**Core Ideas of Brahmo Samaj**\n▪️ Belief in one God (monotheism).\n▪️ Rejection of idol worship and rituals.\n▪️ Opposed caste system and social evils (sati, polygamy, child marriage).\n▪️ Brahmo Samaj played the key role in abolition of Sati in India. \n▪️ Promoted women’s education and widow remarriage.\n\n**Influence:**\n▪️ Brahmo Samaj based its ideas on the teachings of the Upanishads.",
+            "string": "**Brahmo Samaj**\n▪️ Brahmo sabha was founded in 1828\n▪️ It was founded by Raja Rammohan Roy, in 1828, in Calcutta.\n▪️ In 1830 it was renamed as \"Brahma Samaj\"\n▪️ Raja Rammohan Roy is also known as Father of Indian Renaissance\n▪️ Gopal Krishna Gokhale called Raja Rammohan Roy the ‘Father of Modern India’.\n\n**Core Ideas of Brahmo Samaj**\n▪️ Belief in one God (monotheism).\n▪️ Rejection of idol worship and rituals.\n▪️ Opposed caste system and social evils (sati, polygamy, child marriage).\n▪️ Brahmo Samaj played the key role in abolition of Sati in India. \n▪️ Promoted women’s education and widow remarriage.\n\n**Influence:**\n▪️ Brahmo Samaj based its ideas on the teachings of the Upanishads.",
             "uid": "7hJctOV0n"
           },
           {
             "order": 1,
+            "string": "**Raja Rammohan Roy & Press Freedom**\n▪️ Raja Rammohan Roy started his first Bengali language weekly newspaper, Sambad Koumudi, in 1918\n▪️ His newspaper Sambad Koumudi helped people form an opinion about the issues affecting their daily life in British India.\n▪️ In 1822, Roy published the journal Mirat-ul-Akbar in Persian.\n▪️ It was Mughal ruler Akbar-II who gave the title of \"Raja\" to Raja Rammohan Roy.",
+            "uid": "-8MJ26TnC"
+          },
+          {
+            "order": 2,
             "string": "**Arya Samaj**\n▪️ Arya Samaj was founded by Swami Dayanand Saraswati in 1875 in Bombay.\n▪️ Arya Samaj believed in the infallibility of the Vedas. \n▪️ Arya Samaj gave the slogan “Back to the Vedas”.\n\n**Core Beliefs:**\n▪️ Monotheism (belief in one God).\n▪️ Rejection of idol worship, rituals, and priestly dominance.\n▪️ Condemned caste system based on birth, but supported the caste system by occupation. \n▪️ Promoted equality of all human beings, including women.\n\n**Social Reforms:**\n▪️ Supported widow remarriage.\n▪️ Opposed child marriage.\n▪️ Promoted education for girls and boys alike.\n\n** Educational Work:** \n▪️ Established Dayanand Anglo-Vedic (DAV) Schools & Colleges.",
             "uid": "k0t0--17L"
           },
           {
-            "order": 2,
+            "order": 3,
             "string": "**Ramakrishna Mission**\n▪️ It was founded in 1897 by Swami Vivekananda.\n▪️ It was founded yo spread the teachings of Ramakrishna Paramhansa, guru of Swami Vivekananda. \n▪️ The phrase \"service to man is service to God\" was coined by Swami Vivekananda\n\n**Teachings and Beliefs**\n▪️ All religions lead to the same truth.\n▪️ Service to man is service to God.\n▪️ Promoted universal brotherhood and tolerance.\n▪️ Condemned caste system and untouchability.",
             "uid": "taeMYqXMh"
           }
@@ -2296,6 +2301,22 @@
         "order": 0,
         "string": "Important Social Reform Movements",
         "uid": "CX1unG3hM"
+      }
+    ]
+  },
+  {
+    "page_title": "Newspaper",
+    "page_uid": "wp0Ra-6rC",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "Watch video: {video:X97ztKuSlvc:0}",
+        "uid": "6-lOziJOh"
+      },
+      {
+        "order": 1,
+        "string": "Image Hand Notes:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FIvSy1lUf87.png?alt=media&token=7121ed8e-d367-4103-90b3-a36047591799)",
+        "uid": "ey_Tj_lI_"
       }
     ]
   },
@@ -2378,13 +2399,37 @@
       },
       {
         "order": 2,
+        "string": "**Women Presidents of INC**\n\n**1917 – Annie Besant**\n▪️ First woman president of the Indian National Congress (INC)\n▪️ Presided over the Calcutta Session\n\n**1925 – Sarojini Naidu**\n▪️ Second woman president of the INC\n▪️ First Indian woman president of the INC\n▪️ Presided over the Kanpur Session\n\n**1933 – Nellie Sengupta**\n▪️ Third woman to preside over the INC\n▪️ Presided over the Calcutta Session",
+        "uid": "CAkweDKFp"
+      },
+      {
+        "order": 3,
         "string": "**Muslim Presidents of INC**\n▪️ 1887: Badruddin Tyabji\n▪️ 1896: Rahmatullah M. Sayani",
         "uid": "42T1HIMoC"
       },
       {
-        "order": 3,
+        "order": 4,
         "string": "Bombay, 1885\tW.C Banerjee\tThe first session of INC.\nMadras, 1887\tBadruddin Tayabji\tFirst Muslim President of INC.\nAllahabad, 1888\tGeorge Yule\tFirst English President of INC.\nCalcutta, 1896\tRahimtullah\nM. Sayani\tThe national song ‘Vande Mataram’ sung for the first time.\nVaranasi, 1905\tG.K. Gokhale\tIntroduce the term Swadesi.\nCalcutta, 1906\tDadabhai Naoroji\tIntroduce the term Swaraj.\nSurat, 1907\tRash Behari Ghosh\tParty splits into extremists and moderates.\nLahore, 1909\tMadan Mohan Malaviya\tIndian Councils Act, 1909\nCalcutta, 1911\tBishan Narayan Dar\tNational Anthem ‘Jana Gana Mana’ sung for the first time.\nLucknow, 1916\tAmbica Charan Mazumdar\tMerger/Reunion of Congress and Lucknow pact – joint session with the Muslim league.\nCalcutta, 1917\tAnnie Besant\tFirst Woman President of the INC.\nBelgaum, 1924\tM K Gandhi\tThe only session where Gandhi Ji was the President of INC.\nKanpur, 1925\tSarojini Naidu\tFirst Indian Woman President of INC.\nLahore, 1929\tJawaharlal Nehru\tThe resolution for Poorna Swaraj was passed.\nHaripura, 1938\tSubhas Chandra Bose\tSubhas Chandra Bose became president for the first time.\nMeerut, 1946\tJ.B.\nKripalani\tLast session before the independence of India.",
         "uid": "wNdJIcIob"
+      }
+    ]
+  },
+  {
+    "page_title": "Governor Generals",
+    "page_uid": "5MtAi2Okl",
+    "blocks": [
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Lord Dalhousie (1848–1856):**\n▪️ Tenure: 1848–1856)\n**Administrative Reforms:**\n▪️ Introduced Doctrine of Lapse – annexed states with no natural heir (e.g., Satara, Jhansi, Nagpur).\n▪️ Introduced centralized administration and improved railways, posts, and telegraphs.\n▪️ Started the Public Works Department (PWD).\n▪️ Introduced modern postal system (1854) and telegraph lines.\n▪️ Started railways in India (1853) – first line between Bombay and Thane.\n▪️ Reformed the education system – established universities and improved vernacular education.\n▪️ Introduced wood’s despatch (1854) – “Magna Carta of English Education in India.”\n\n**Territorial Expansion (Annexations):**\n▪️ Punjab (1849) after the Second Anglo-Sikh War.\n▪️ Sikkim, Lower Burma, Satara, Jhansi, Nagpur, Oudh (under Doctrine of Lapse or misrule).\n\n**Other Works:**\n▪️ Improved roads and canals for communication and irrigation.\n▪️ Focused on economic development and military modernization.\n\n**Criticism:**\n▪️ The Doctrine of Lapse caused widespread resentment.\n▪️ His policies were a major cause leading to the Revolt of 1857.",
+            "uid": "cAiBaieho"
+          }
+        ],
+        "heading": 3,
+        "order": 0,
+        "string": "Lord Dalhousi",
+        "uid": "1poiom-Nq"
       }
     ]
   },
