@@ -42,7 +42,7 @@
           },
           {
             "order": 4,
-            "string": "**State Animal**\n▪️ ^^Snow leopard^^ is the state animal of Ladakh. \n▪️ The Hemis national park, the only national park in ladakh, is known for snow leopard.\n\n**State Bird**\n▪️ State bird of Ladakh is ^^Black necked crane^^.\n▪️ Tso Moriri ramsar site is the only breeding ground of black necked crane outside Ladakh\n\n**State Tree**\n▪️ The State Tree of the Ladakh is the ^^Juniper^^, known locally as Shukpa.",
+            "string": "**State Animal**\n▪️ ^^Snow leopard^^ is the state animal of Ladakh. \n▪️ The Hemis national park, the only national park in ladakh, is known for snow leopard.\n\n**State Bird**\n▪️ State bird of Ladakh is ^^Black necked crane^^.\n▪️ The Tso Moriri Ramsar site, located in Ladakh, is recognized as the only breeding ground in India for this globally threatened species. \n▪️ It is also a significant breeding site for other species, including the bar-headed goose\n\n**State Tree**\n▪️ The State Tree of the Ladakh is the ^^Juniper^^, known locally as Shukpa.",
             "uid": "rHdCrXI6F"
           }
         ],
@@ -74,13 +74,24 @@
       },
       {
         "order": 5,
-        "string": "**Official Languages of Ladakh**\n▪️ Ladakh has 5 official languages.\n▪️ Which are: Purgi, Bhoti, Urdu, Hindi, and English.",
+        "string": "**Official Languages of UT Ladakh**\n▪️ Ladakh has 5 official languages.\n▪️ These are: Purgi, Bhoti, Urdu, Hindi, and English.",
         "uid": "AiGr3c3fA"
       },
       {
         "order": 6,
         "string": "",
         "uid": "F-UcZPpHl"
+      }
+    ]
+  },
+  {
+    "page_title": "Jammu and Kashmir",
+    "page_uid": "buXVXi8bO",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**📘 Pointer Notes Summary**\n**🏛️ History & Government**\n▪️ Nightingale of Kashmir: Habba Khatun\n▪️ Samudragupta of Kashmir: Lalitaditya Muktapida\n▪️ Treaty giving Kashmir to Dogras: Treaty of Amritsar (1846)\n▪️ Lt. Governor Appointment: By President of India\n\n**🌏 Geography & Environment**\n▪️ Lifeline River: Jhelum River\n▪️ Land of Saffron: Pulwama District\n▪️ Asia’s Largest Tulip Garden: Indira Gandhi Memorial Tulip Garden, Srinagar\n▪️ Chilla-i-Kalan Duration: 40 days (Dec 21 – Jan 31)\n\n**🎉 Culture & Tourism**\n▪️ Main Crops: Saffron and Rice\n▪️ Famous Festival: Hemis Festival (Ladakh)\n▪️ Famous Lake: Dal Lake, Srinagar\n▪️ Lhachen Palkhar: Leh Palace",
+        "uid": "mdPXFe4jM"
       }
     ]
   },
@@ -1516,7 +1527,20 @@
     "page_uid": "VIABJVT9k",
     "blocks": [
       {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Current Office Holders** (as of October 20, 2025)\n\n**Jammu & Kashmir**\n▪️ Chief Minister: ^^Omar Abdullah^^\n▪️ Lt Governor: ^^Manoj Sinha^^ (appointed in August 2020)\n\n**Ladakh**\n▪️ Lt. Governor of UT Ladakh: ^^Kavinder Gupta^^\n▪️ DC of Leh: ^^Shri Romil Singh Donk, IAS^^\n▪️ DC of Kargil: ^^Rakesh Kumar, IAS^^\n▪️ CEC of LAHDC Leh: ^^Advocate Tashi Gyalson^^\n▪️ CEC of LAHDC Kargil: ^^Dr. Mohd Jaffer Akhoon^^\n\n▪️ Vice Chancellor of Ladakh University Leh: ^^Prof. Saket Kushwaha^^\n▪️ Vice Chancellor of Ladakh University Kargil: Prof. Saket Kushwaha ▪️ University of Ladakh has a unified VC for both Leh and Kargil campuses.\n\n**Jammu & Kashmir and Ladakh High Court**\n▪️ Current Chief Justice: ^^Justice Arun Palli^^ \n▪️ Total Strength: sanctioned 25 judges.\n▪️ The High Court of Jammu and Kashmir and Ladakh has a ^^sanctioned strength of 25 judges^^, with 19 permanent and 6 additional judges. However, the current number of sitting judges is lower than the sanctioned strength, with ^^current a strength of 15 judges^^, including Chief Justice.",
+            "uid": "VfSfM4opV"
+          }
+        ],
+        "heading": 3,
         "order": 0,
+        "string": "LADAKH Current Affairs",
+        "uid": "sxRjvwiCd"
+      },
+      {
+        "order": 1,
         "string": "**Nobel Prize 2025 Winners List** \n\n**Physiology or Medicine**\nNames: Mary E. Brunkow, Fred Ramsdell, Shimon Sakaguchi\nDiscovery: Discoveries concerning peripheral immune tolerance\n\n**Physics**\nNames: John Clarke, Michel H. Devoret, John M. Martinis\nDiscovery: Discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit\n\n**Chemistry**\nNames: Susumu Kitagawa, Richard Robson, Omar M. Yaghi\nDiscovery: For the development of metal-organic frameworks\n\n**Literature**\nNames: László Krasznahorkai\nDiscovery: For his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art\n\n**Peace**\nNames: María Corina Machado\nDiscovery: For her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy\n\n**Economic Sciences**\nNames: Joel Mokyr, Philippe Aghion, Peter Howitt\nDiscovery: For having explained innovation-driven economic growth; Joel Mokyr for identifying the prerequisites for sustained growth through technological progress, and Philippe Aghion and Peter Howitt for the theory of sustained growth through creative destruction",
         "uid": "Q76ca_QVU"
       }
@@ -1884,6 +1908,17 @@
     ]
   },
   {
+    "page_title": "President",
+    "page_uid": "TLEu0Exfr",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**President as Supreme Commander of Defence**\n\n▪️ Article 52 of the Indian Constitution states that there shall be a President of India. As the Supreme Commander, the President is the head of the Indian Army, Navy, and Air Force.\n▪️ The  President is the commander of the defence forces of India. \nPresident appoints: Chief of the Army, Chief of the Navy, Chief of the Air Force \n▪️ The Chief of the Army is a **General**, the Chief of the Navy is an **Admiral**, and the Chief of the Air Force is an **Air Chief Marshal**. \n▪️ These three positions are collectively known as the armed forces chiefs",
+        "uid": "lsWr7s8MM"
+      }
+    ]
+  },
+  {
     "page_title": "Harappan Civilization",
     "page_uid": "0QSi1z0TJ",
     "blocks": [
@@ -2164,6 +2199,68 @@
         "order": 5,
         "string": "**Chanakya**\n▪️ Other names are **Vishnugupta** and **Kautilya**.\n▪️ Chanakya is also called ‘**Indian Machiavelli**”.\n▪️ Teacher of Chandragupta Maurya, who was also his Chief Minister.\n▪️ He was a teacher and scholar at Taxila. \n▪️ He was also a minister in the court of Bindusara.\n▪️ He is credited to be the master strategist behind the usurping of the Nanda throne and the rise of the Mauryan Empire through his student, Chandragupta.\n▪️ He wrote **Arthashastra** which mentioned about various aspects of Maurya administration.",
         "uid": "4viJ2PA58"
+      }
+    ]
+  },
+  {
+    "page_title": "Gupta dynasty",
+    "page_uid": "cjbBK6p4z",
+    "blocks": [
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "The disappearance of the Mauryas from the political map of India saw the emergence of many indigenous and foreign rulers, who divided north and south India and ruled over them for nearly five centuries.\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FK79SV992c1.png?alt=media&token=d8c9572e-e511-444d-b1b7-acdcf6489a37)",
+            "uid": "1dHl3W8Jt"
+          },
+          {
+            "order": 1,
+            "string": "The eclipse of the Kushanas in North India and of the Satavahanas in the Deccan in the 3rd century CE resulted in a period of political disintegration. It paved the way for the emergence of several minor powers and new ruling families. It was against this background the Guptas laid the foundation of the empire. After the Mauryas, Guptas realized the political unification of North India and covered much of the Indian subcontinent. The Gupta Empire stretched across northern, central, and parts of southern India between 320 and 550 CE. This was how the Gupta Empire map looked at the end of the 4th century",
+            "uid": "Hw27XFYoT"
+          }
+        ],
+        "heading": 3,
+        "order": 0,
+        "string": "**Gupta Empire Map**",
+        "uid": "a3rlJyrU_"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Sri Gupta**\n▪️ The founder of the Gupta dynasty was Sri Gupta.\n▪️ He was succeeded by Ghatotkacha.\n▪️ These two were called Maharajas.",
+            "uid": "jt1TrQVCD"
+          },
+          {
+            "order": 1,
+            "string": "**Chandragupta I (320 – 330 A.D.)**\n▪️ Chandragupta I and was the first to be called Maharajadhiraja (the great king of kings).\n▪️ He strengthened his position by a matrimonial alliance with the Licchavis.\n▪️ He married Kumaradevi, a princess of that family.\n▪️ The Mehrauli Iron Pillar inscription mentions his extensive conquests.\n▪️ Chandragupta I is considered to be the first important ruler of the Gupta era which starts with his accession in A.D. 320.",
+            "uid": "7kZmaKkA5"
+          },
+          {
+            "order": 2,
+            "string": "**Samudragupta (330-380 A.D.)**\n▪️ He was the greatest of the rulers of the Gupta dynasty.\n▪️ His court poet was Harisena.\n▪️ Harisena composed the  court Allahabad Pillar inscriptions\n▪️ The Allahabad Pillar inscriptions provide a detailed account of Samudragupta’s reign.\n▪️ He marched against the South Indian monarchs.\n▪️ He issued gold and silver coins with the legend ‘restorer of the asvamedha’.\n▪️ Because of his military achievements, Samudragupta was hailed as ‘**Indian Napoleon**’.",
+            "uid": "oTq0GSTod"
+          },
+          {
+            "order": 3,
+            "string": "**Chandragupta II (380-415 A.D.)**\n▪️ He was son of Samudragupta\n▪️ He adopted the title  of \"Vikramaditya\".\n▪️ Through matrimonial alliances, he strengthened his political power.\n▪️ His fought war against the Saka satraps of western India.\n▪️ After his victory, he performed the horse sacrifice and assumed the title Sakari, meaning, ‘destroyer of Sakas’. \n▪️ He also called himself ‘Vikramaditya’.",
+            "uid": "rkdTa8gXL"
+          },
+          {
+            "order": 4,
+            "string": "**Kumaragupta**\nKumaragupta was the son and successor of Chandragupta II.\nA number of coins were issued and his inscriptions are found all over the Gupta Empire.\nKumaragupta also performed an asvamedha sacrifice.\nKumaragupta laid the foundation of Nalanda University which emerged as an institution of international reputation.\nA powerful wealthy tribe called the ‘Pushyamitras’ defeated the Gupta army at the end of his reign.",
+            "uid": "Y9ufbV3JH"
+          },
+          {
+            "order": 5,
+            "string": "**Skandagupta**\nA branch of the Huns from Central Asia made attempts to cross the Hindukush mountains and invade India.\nSkandagupta who really faced the Hun invasion.\nHe fought successfully against the Huns and saved the empire.",
+            "uid": "VEs4aMm3h"
+          }
+        ],
+        "heading": 3,
+        "order": 1,
+        "string": "Rulers of Gupta Dynasty",
+        "uid": "ko5i0mreh"
       }
     ]
   },
@@ -2568,6 +2665,27 @@
         "order": 2,
         "string": "**Important International Conventions:**",
         "uid": "RuGhvNfn6"
+      }
+    ]
+  },
+  {
+    "page_title": "Economy",
+    "page_uid": "zbD_Bs2gy",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**RBI (Reserve Bank of India)**\n▪️ Founded April 1, 1935, under RBI Act 1934; \n▪️ HQ in Mumbai (shifted from Kolkata in 1937); \n▪️ Nationalized in 1949.\n▪️ Current Governor: Sanjay Malhotra (appointed Dec 2024; oversees monetary policy & banking regs).\n\n**Core Functions:**\n▪️ Issue & manage currency (regulates money supply).\n▪️ Formulate & implement monetary policy (e.g., repo rate, CRR, SLR to control inflation & growth).\n▪️ Banker to govt (manages public debt, accounts).\n▪️ Regulator of banks & NBFCs\n▪️ Forex management\n▪️ Promotes financial inclusion \n▪️ Bank of last resort for bankers",
+        "uid": "GFTa5LjWS"
+      },
+      {
+        "order": 1,
+        "string": "**SEBI (Securities & Exchange Board of India)**\n▪️ Set up Apr 12, 1988 (statutory powers via SEBI Act 1992); \n▪️ HQ in Mumbai; \n▪️ Under Ministry of Finance.\n▪️ Current Chairman: Tuhin Kanta Pandey.\n\n\n**Core Functions:**\n▪️ Regulate stock exchanges, brokers, mutual funds, depositories.\n▪️ Prevent unfair practices (insider trading, fraud).\n▪️ Promote investor education & market development.\n▪️ Ensure transparency in disclosures & listings.",
+        "uid": "60As-Xh9T"
+      },
+      {
+        "order": 2,
+        "string": "**Economic Fullforms:**\n▪️ RBI: Reserve Bank of India\n▪️ SEBI: Security and Exchange Board of India\n▪️ UPI: Unified Payments Interface\n▪️ ATM: Automatic Teller Machine\n▪️ FDI: Foreign Direct Investment\n▪️ IBC: Insolvency and Bankruptcy Code\n▪️ IBBI: Insolvency and Bankruptcy Board of India\n▪️ GST: Goods & Services Tax",
+        "uid": "4px-fK97-"
       }
     ]
   },
