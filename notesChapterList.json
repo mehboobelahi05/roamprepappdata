@@ -7,6 +7,10 @@
         "sub_chapters": []
       },
       {
+        "name": "[[Jammu and Kashmir]]",
+        "sub_chapters": []
+      },
+      {
         "name": "[[History Video Lectures]]",
         "sub_chapters": []
       },
@@ -44,6 +48,10 @@
           {
             "name": "[[Parliament]]",
             "sub_chapters": []
+          },
+          {
+            "name": "[[President]]",
+            "sub_chapters": []
           }
         ]
       },
@@ -60,6 +68,10 @@
           },
           {
             "name": "[[Maurya Empire]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[Gupta dynasty]]",
             "sub_chapters": []
           },
           {
@@ -116,6 +128,10 @@
             "sub_chapters": []
           }
         ]
+      },
+      {
+        "name": "[[Economy]]",
+        "sub_chapters": []
       },
       {
         "name": "[[International Groupings]]",
