@@ -49,6 +49,10 @@
         "sub_chapters": []
       },
       {
+        "name": "Jammu and Kashmir",
+        "sub_chapters": []
+      },
+      {
         "name": "Polity",
         "sub_chapters": [
           {
@@ -64,7 +68,7 @@
             "sub_chapters": []
           },
           {
-            "name": "Constitutional Body",
+            "name": "constitutional bodies",
             "sub_chapters": []
           },
           {
@@ -89,6 +93,10 @@
           },
           {
             "name": "symbols",
+            "sub_chapters": []
+          },
+          {
+            "name": "President",
             "sub_chapters": []
           }
         ]
