@@ -97894,6 +97894,45 @@
     "mock_uid": "BD-EacuGz"
   },
   {
+    "id": "xmzlmexaE",
+    "question": "Simplify: 2+3*4-5 ??",
+    "options": [
+      "9",
+      "-1",
+      "14",
+      "5"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Follow BODMAS: 3*4=12, 2+12=14, 14-5=9.",
+    "level": "easy",
+    "tags": [
+      "aptitude",
+      "kssrb mock test 1 (10th level)",
+      "mock",
+      "easy"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-21",
+    "exams": [
+      "KSSRB Mock Test 1 (10th Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 1 (10th Level)",
+      "mock",
+      "easy",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "BD-EacuGz"
+  },
+  {
     "id": "rYIMY7tZD",
     "question": "If 2/3 of a number is 40, what is 5/6 of it?",
     "options": [
@@ -98606,6 +98645,45 @@
     ],
     "correct_option_index": 0,
     "explanation": "Doctor works in hospital, teacher in school.",
+    "level": "easy",
+    "tags": [
+      "reasoning",
+      "kssrb mock test 1 (10th level)",
+      "mock",
+      "easy"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-21",
+    "exams": [
+      "KSSRB Mock Test 1 (10th Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 1 (10th Level)",
+      "mock",
+      "easy",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "BD-EacuGz"
+  },
+  {
+    "id": "s4xe2zC5L",
+    "question": "Odd one out:\nApple, Banana, Carrot, Orange ??",
+    "options": [
+      "Carrot",
+      "Apple",
+      "Banana",
+      "Orange"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Carrot is vegetable, others fruits.",
     "level": "easy",
     "tags": [
       "reasoning",
