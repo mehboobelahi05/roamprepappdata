@@ -169,7 +169,36 @@
         "sub_chapters": [
           {
             "name": "River",
-            "sub_chapters": []
+            "sub_chapters": [
+              {
+                "name": "Indus",
+                "sub_chapters": []
+              },
+              {
+                "name": "Ganga",
+                "sub_chapters": []
+              },
+              {
+                "name": "Brahmaputra",
+                "sub_chapters": []
+              },
+              {
+                "name": "Godavari",
+                "sub_chapters": []
+              },
+              {
+                "name": "Krishna",
+                "sub_chapters": []
+              },
+              {
+                "name": "Kaveri",
+                "sub_chapters": []
+              },
+              {
+                "name": "Mahanadi",
+                "sub_chapters": []
+              }
+            ]
           },
           {
             "name": "Mountains and Peaks",
