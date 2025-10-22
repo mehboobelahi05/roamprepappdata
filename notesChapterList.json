@@ -126,6 +126,10 @@
           {
             "name": "[[Greenhouse Gases]]",
             "sub_chapters": []
+          },
+          {
+            "name": "[[World Geography]]",
+            "sub_chapters": []
           }
         ]
       },
@@ -149,7 +153,7 @@
         "name": "Science",
         "sub_chapters": [
           {
-            "name": "[[Diseaseas]]",
+            "name": "[[Diseases]]",
             "sub_chapters": []
           }
         ]
