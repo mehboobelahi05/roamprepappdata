@@ -176,6 +176,10 @@
         "name": "Geography",
         "sub_chapters": [
           {
+            "name": "Solar System",
+            "sub_chapters": []
+          },
+          {
             "name": "River",
             "sub_chapters": [
               {
