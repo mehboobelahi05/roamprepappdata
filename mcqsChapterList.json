@@ -412,6 +412,14 @@
       {
         "name": "Dices",
         "sub_chapters": []
+      },
+      {
+        "name": "Missing Character",
+        "sub_chapters": []
+      },
+      {
+        "name": "Missing Number",
+        "sub_chapters": []
       }
     ]
   }
