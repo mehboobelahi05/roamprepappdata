@@ -30,6 +30,10 @@
             "sub_chapters": []
           },
           {
+            "name": "[[Important Amendments]]",
+            "sub_chapters": []
+          },
+          {
             "name": "[[Preamble]]",
             "sub_chapters": []
           },
@@ -107,6 +111,10 @@
       {
         "name": "Geography",
         "sub_chapters": [
+          {
+            "name": "[[Solar System]]",
+            "sub_chapters": []
+          },
           {
             "name": "[[River Systems]]",
             "sub_chapters": []
