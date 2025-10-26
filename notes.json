@@ -3473,5 +3473,231 @@
         "uid": "bPtBvf3DZ"
       }
     ]
+  },
+  {
+    "page_title": "Confusing Words - Verbs",
+    "page_uid": "6GgQ1WCDs",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "Practise vs Practice\nPractise (Verb): To do something repeatedly to improve.\nExample: You should practise batting daily.\nPractice (Noun): The act of doing something regularly.\nExample: Cricket practice starts at 6 AM.",
+        "uid": "r-JFGbTTb"
+      },
+      {
+        "order": 1,
+        "string": "**Advice vs Advise**\nAdvice (Noun): Suggestion or recommendation.\nExample: His advice helped me score a century.\nAdvise (Verb): To give suggestion.\nExample: The coach advised him to play defensively.",
+        "uid": "ZDh56qJ7v"
+      },
+      {
+        "order": 2,
+        "string": "Complain vs Complaint\nComplain (Verb): To express dissatisfaction.\nExample: Fans complain about poor umpiring.\nComplaint (Noun): A statement of dissatisfaction.\nExample: He filed a complaint against the decision.",
+        "uid": "sVYvfiiM0"
+      },
+      {
+        "order": 3,
+        "string": "Affect vs Effect\nAffect (Verb): To influence.\nExample: Rain affected the match.\nEffect (Noun/Verb): Result / To bring about.\nExample: The effect was a draw.",
+        "uid": "MeRdztD9H"
+      },
+      {
+        "order": 4,
+        "string": "**Assure vs Ensure vs Insure**\nAssure (Verb): To promise or reassure.\nExample: He assured the team of victory.\nEnsure (Verb): To make certain.\nExample: Ensure you wear helmet.\nInsure (Verb): To protect financially (insurance).\nExample: Insure your bat against damage.",
+        "uid": "axviztIQT"
+      },
+      {
+        "order": 5,
+        "string": "Hear vs Listen\nHear (Verb): To perceive sound.\nExample: I heard the crowd cheer.\nListen (Verb): To pay attention to sound.\nExample: Listen to the coach carefully.",
+        "uid": "67Erg-NFS"
+      },
+      {
+        "order": 6,
+        "string": "Heal vs Heel\nHeal (Verb): To cure or recover.\nExample: The injury will heal in a week.\nHeel (Noun): Back part of foot.\nExample: He was hit on the heel.",
+        "uid": "2PQ9Q00bU"
+      },
+      {
+        "order": 7,
+        "string": "Prescribe vs Proscribe\nPrescribe (Verb): To recommend (medicine).\nExample: Doctor prescribed rest.\nProscribe (Verb): To prohibit.\nExample: Betting is proscribed in cricket.",
+        "uid": "NzMx7iTeG"
+      },
+      {
+        "order": 8,
+        "string": "Adopt vs Adapt vs Adept\nAdopt (Verb): To take up legally.\nExample: They adopt new batting technique.\nAdapt (Verb): To adjust.\nExample: Adapt to spin bowling.\nAdept (Adjective): Skilled.\nExample: He is adept at cover drive.",
+        "uid": "PMOP5puih"
+      },
+      {
+        "order": 9,
+        "string": "Allude vs Elude\nAllude (Verb): To refer indirectly.\nExample: He alluded to his century.\nElude (Verb): To escape.\nExample: The ball eluded the fielder.",
+        "uid": "nmMiM7ELA"
+      },
+      {
+        "order": 10,
+        "string": "Amend vs Emend\nAmend (Verb): To improve or change (law).\nExample: They amended the playing rules.\nEmend (Verb): To correct (text).\nExample: The scorecard was emended.",
+        "uid": "akzoZOotS"
+      },
+      {
+        "order": 11,
+        "string": "Bought vs Brought\nBought (V. of buy): Purchased.\nExample: He bought a new bat.\nBrought (V. of bring): Carried.\nExample: He brought lunch to the ground.",
+        "uid": "nVwycSms_"
+      },
+      {
+        "order": 12,
+        "string": "Compose vs Comprise\nCompose (Verb): To make up.\nExample: The team is composed of 11 players.\nComprise (Verb): To include.\nExample: The team comprises 11 players.",
+        "uid": "o_sVPvCYC"
+      },
+      {
+        "order": 13,
+        "string": "Deface vs Efface\nDeface (Verb): To spoil appearance.\nExample: Someone defaced the stadium wall.\nEfface (Verb): To erase.\nExample: He effaced the mistake from the board.",
+        "uid": "9SQyKUHTX"
+      },
+      {
+        "order": 14,
+        "string": "Deprecate vs Depreciate\nDeprecate (Verb): To disapprove.\nExample: He deprecated sledging.\nDepreciate (Verb): To reduce in value.\nExample: Old bats depreciate fast.",
+        "uid": "_JBQSpGp2"
+      },
+      {
+        "order": 15,
+        "string": "Envelop vs Envelope\nEnvelop (Verb): To wrap or cover.\nExample: Fog enveloped the stadium.\nEnvelope (Noun): Paper cover.\nExample: Put the ticket in an envelope.",
+        "uid": "llm431rzc"
+      },
+      {
+        "order": 16,
+        "string": "Excite vs Incite\nExcite (Verb): To arouse interest.\nExample: The match excited the crowd.\nIncite (Verb): To provoke.\nExample: He incited the fans to boo.",
+        "uid": "IHAybIOUE"
+      },
+      {
+        "order": 17,
+        "string": "Flout vs Flaunt\nFlout (Verb): To disobey openly.\nExample: He flouted the no-ball rule.\nFlaunt (Verb): To show off.\nExample: He flaunted his new bat.",
+        "uid": "cOzFOYrzq"
+      },
+      {
+        "order": 18,
+        "string": "Hoard vs Horde\nHoard (Verb/Noun): To store secretly.\nExample: He hoards old cricket balls.\nHorde (Noun): Large group.\nExample: A horde of fans rushed in.",
+        "uid": "6elxpJtNV"
+      },
+      {
+        "order": 19,
+        "string": "Loathe vs Loath\nLoathe (Verb): To hate.\nExample: I loathe losing.\nLoath (Adjective): Reluctant.\nExample: He is loath to bowl in death overs.",
+        "uid": "N7uqgFBa4"
+      },
+      {
+        "order": 20,
+        "string": "Lose vs Loose\nLose (Verb): To misplace or fail.\nExample: Don't lose the match.\nLoose (Adjective): Not tight.\nExample: His grip was loose.",
+        "uid": "kx9Xsz24x"
+      },
+      {
+        "order": 21,
+        "string": "Mitigate vs Militate\nMitigate (Verb): To lessen.\nExample: Rain gear mitigates discomfort.\nMilitate (Verb): To oppose (with against).\nExample: Injury militates against performance.",
+        "uid": "6Dq_Ttrn0"
+      },
+      {
+        "order": 22,
+        "string": "Pour vs Pore\nPour (Verb): To flow.\nExample: Rain poured during the match.\nPore (Verb): To study closely.\nExample: He pored over the scorecard.",
+        "uid": "T2x11xsr3"
+      },
+      {
+        "order": 23,
+        "string": "Proceed vs Precede\nProceed (Verb): To continue.\nExample: Proceed to the next over.\nPrecede (Verb): To come before.\nExample: Warm-up precedes the match.",
+        "uid": "PcaUnGHUb"
+      },
+      {
+        "order": 24,
+        "string": "Pray vs Prey\nPray (Verb): To request spiritually.\nExample: Fans pray for victory.\nPrey (Noun/Verb): Victim / To hunt.\nExample: Bowlers prey on weak batsmen.",
+        "uid": "HLQjKKOlc"
+      },
+      {
+        "order": 25,
+        "string": "Rout vs Route\nRout (Verb/Noun): Defeat badly.\nExample: India routed Australia.\nRoute (Noun): Path.\nExample: The team took a new route to the stadium.",
+        "uid": "qrj4deIh7"
+      },
+      {
+        "order": 26,
+        "string": "Censor vs Censure\nCensor (Verb): To suppress content.\nExample: They censored the controversial ad.\nCensure (Verb): To criticize strongly.\nExample: The board censured the player.",
+        "uid": "y7h5ceUW4"
+      },
+      {
+        "order": 27,
+        "string": "Wave vs Waive\nWave (Noun/Verb): Hand gesture / Ocean movement.\nExample: Fans wave flags.\nWaive (Verb): To give up right.\nExample: He waived the follow-on.",
+        "uid": "1rLs_WqeI"
+      },
+      {
+        "order": 28,
+        "string": "Tow vs Toe\nTow (Verb/Noun): To pull.\nExample: The car was towed away.\nToe (Noun): Part of foot.\nExample: He stepped on my toe.",
+        "uid": "OKab24wQl"
+      },
+      {
+        "order": 29,
+        "string": "Site vs Sight vs Cite\nSite (Noun): Location.\nExample: The match site was changed.\nSight (Noun): Vision.\nExample: The six was a beautiful sight.\nCite (Verb): To quote.\nExample: He cited the rule correctly.",
+        "uid": "al-d9G787"
+      },
+      {
+        "order": 30,
+        "string": "Diffuse vs Defuse\nDiffuse (Verb): To spread.\nExample: Rumors diffused quickly.\nDefuse (Verb): To calm tension.\nExample: Captain defused the argument.",
+        "uid": "Jrs0gcXRz"
+      },
+      {
+        "order": 31,
+        "string": "Desert vs Dessert\nDesert (Noun/Verb): Sandy area / To abandon.\nExample: He deserted the team.\nDessert (Noun): Sweet dish.\nExample: Ice cream is a popular dessert.",
+        "uid": "c2oNfJgCK"
+      },
+      {
+        "order": 32,
+        "string": "Sever vs Severe\nSever (Verb): To cut off.\nExample: He severed ties with the coach.\nSevere (Adjective): Serious.\nExample: The injury was severe.",
+        "uid": "IVTh-WZYO"
+      },
+      {
+        "order": 33,
+        "string": "See vs Look vs Stare vs Peep vs Glare vs Glow vs Glance vs Glimpse\nSee (Verb): To perceive with eyes.\nExample: I saw the ball hit the stump.\nLook (Verb): To direct gaze.\nExample: Look at the scoreboard.\n\nStare (Verb): To gaze fixedly.\nExample: He stared at the umpire.\nPeep (Verb): To look secretly.\nExample: He peeped through the window.\n\nGlare (Verb/Noun): Angry look / Bright light.\nExample: He glared at the bowler.\nGlow (Verb/Noun): Soft light.\nExample: The trophy glowed in the light.\n\nGlance (Verb/Noun): Quick look.\nExample: He glanced at the clock.\nGlimpse (Noun/Verb): Brief view.\nExample: I caught a glimpse of the captain.",
+        "uid": "-2_eF_R89"
+      },
+      {
+        "order": 34,
+        "string": "Light vs Burn\nLight (Noun/Verb/Adjective): Illumination / Not heavy.\nExample: The stadium lights were bright.\nBurn (Verb/Noun): To be on fire.\nExample: The sun burned his skin.",
+        "uid": "mtlb6TF7a"
+      },
+      {
+        "order": 35,
+        "string": "Catch vs Hold\nCatch (Verb/Noun): To grab in air.\nExample: He took a brilliant catch.\nHold (Verb/Noun): To grip.\nExample: Hold the bat firmly.",
+        "uid": "yo0Pt8wGK"
+      },
+      {
+        "order": 36,
+        "string": "Canvas vs Canvass\nCanvas (Noun): Cloth.\nExample: The banner was made of canvas.\nCanvass (Verb): To campaign.\nExample: They canvassed for fan support.",
+        "uid": "cpBwV66KM"
+      },
+      {
+        "order": 37,
+        "string": "Refuse vs Deny vs Decline\nRefuse (Verb): To reject.\nExample: He refused to play.\nDeny (Verb): To say not true.\nExample: He denied cheating.\nDecline (Verb): To refuse politely.\nExample: He declined the interview.",
+        "uid": "39weka6z0"
+      },
+      {
+        "order": 38,
+        "string": "Peddle vs Pedal\nPeddle (Verb): To sell (illegally).\nExample: He peddled fake tickets.\nPedal (Noun/Verb): Foot lever / To ride cycle.\nExample: He pressed the pedal hard.",
+        "uid": "iUqVyrIIU"
+      },
+      {
+        "order": 39,
+        "string": "Ride vs Drive\nRide (Verb/Noun): To sit on and control (horse/bike).\nExample: He rides a bike to the ground.\nDrive (Verb/Noun): To operate (car).\nExample: He drives the team bus.",
+        "uid": "GKroUWGXP"
+      },
+      {
+        "order": 40,
+        "string": "Wither vs Weather vs Whether\nWither (Verb): To dry up.\nExample: The grass withered in heat.\nWeather (Noun/Verb): Climate / To survive.\nExample: The match weathered the storm.\nWhether (Conjunction): If.\nExample: Whether we win or lose...",
+        "uid": "3Zd2T8wDk"
+      },
+      {
+        "order": 41,
+        "string": "Sink vs Drown\nSink (Verb): To go down in water.\nExample: The ball sank in the lake.\nDrown (Verb): To die in water.\nExample: He nearly drowned in the pool.",
+        "uid": "PFwT8NW-A"
+      },
+      {
+        "order": 42,
+        "string": "Cease vs Seize\nCease (Verb): To stop.\nExample: Play ceased due to rain.\nSeize (Verb): To grab.\nExample: Police seized fake tickets.",
+        "uid": "2bxuOr4jH"
+      },
+      {
+        "order": 43,
+        "string": "Invent vs Discover\nInvent (Verb): To create something new.\nExample: He invented a new bat grip.\nDiscover (Verb): To find something existing.\nExample: He discovered a talent in bowling.",
+        "uid": "8DwuJtIaU"
+      }
+    ]
   }
 ]
