@@ -51311,6 +51311,356 @@
     "paragraph_uid": ""
   },
   {
+    "id": "CDY1zwxQP",
+    "question": "Which is the longest lake in the world?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Baikal",
+      "Lake Superior",
+      "Lake Titicaca"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Tanganyika, located in Central Africa (Tanzania, DRC, Burundi, Zambia), is the longest lake in the world, stretching about 660 km.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "LHU2ZL61F",
+    "question": "Lake Tanganyika, the longest lake in the world, is located in ?",
+    "options": [
+      "Central Africa",
+      "South America",
+      "North America",
+      "Europe"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Tanganyika lies in Central Africa, shared by Tanzania, DRC, Burundi, and Zambia.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "xUNJAlpSd",
+    "question": "Which is the deepest lake in the world?",
+    "options": [
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Lake Superior",
+      "Lake Titicaca"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Baikal in Siberia, Russia is the deepest lake in the world and also the oldest, containing around 20% of the world’s unfrozen freshwater.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "CHni2DpEv",
+    "question": "Which is the largest lake in the world by surface area?",
+    "options": [
+      "Caspian Sea",
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Lake Superior"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The Caspian Sea, bordered by Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan, is the largest lake by surface area in the world.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "quMTWwfK6",
+    "question": "The Caspian Sea, the largest lake by surface area, lies between which regions?",
+    "options": [
+      "Russia and Central Asia",
+      "Europe and Africa",
+      "North America and Asia",
+      "Australia and Oceania"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The Caspian Sea is located in Eurasia, shared by Russia and several Central Asian countries.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "EhsPjty7j",
+    "question": "Which is the largest freshwater lake (by area)?",
+    "options": [
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Lake Baikal",
+      "Lake Titicaca"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Superior, located between the USA and Canada, is the largest freshwater lake by surface area.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "Lljrr95A8",
+    "question": "Which is the highest lake in the world?",
+    "options": [
+      "Lake Titicaca",
+      "Lake Superior",
+      "Lake Turkana",
+      "Lake Baikal"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Titicaca, on the Peru–Bolivia border in the Andes Mountains, is the highest navigable lake in the world.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "7oJtm_T1c",
+    "question": "Which is the largest desert lake in the world?",
+    "options": [
+      "Lake Turkana",
+      "Lake Titicaca",
+      "Lake Baikal",
+      "Lake Superior"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Turkana, located between Kenya and Ethiopia, is the largest desert lake in the world, found in the arid Great Rift Valley.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "naDhqNrCZ",
+    "question": "Lake Turkana, the largest desert lake, lies in which region?",
+    "options": [
+      "Kenya–Ethiopia",
+      "Peru–Bolivia",
+      "Russia–Mongolia",
+      "Tanzania–Zambia"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Turkana lies in the Great Rift Valley of Kenya and Ethiopia, within desert terrain.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "69gLDKwbA",
+    "question": "Which lake holds the largest volume of water?",
+    "options": [
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Lake Superior",
+      "Caspian Sea"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lake Baikal holds about 23,615 km³ of water, around 20% of the world’s liquid freshwater, making it the largest by volume.",
+    "level": "",
+    "tags": [
+      "general studies",
+      "geography",
+      "world geography"
+    ],
+    "linked_block_uid": "yxtn9wN-Y",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "World Geography",
+    "page_uid": "OM8KYe6mc",
+    "path_tags": [
+      "mcqs",
+      "general studies",
+      "Geography",
+      "World Geography"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
     "id": "lIhsq3hCz",
     "question": "When was the Reserve Bank of India (RBI) established?",
     "options": [
@@ -54612,6 +54962,99 @@
     "paragraph_uid": ""
   },
   {
+    "id": "BhnbzLG5U",
+    "question": "Find the sum of first 90 even natural numbers. ??",
+    "options": [
+      "8180",
+      "8190",
+      "8100",
+      "8110"
+    ],
+    "correct_option_index": 1,
+    "explanation": "We know that, sum of first n even natural number is given by n2+n.\nTherefore, the sum of first 90 even natural numbers = 902+90 = 8190.",
+    "level": "",
+    "tags": [
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "BHNkDq_82",
+    "question": "If a³ - b³ = 208 and a- b = 4, then (a + b)² - ab is\nequal to ??",
+    "options": [
+      "52",
+      "38",
+      "32",
+      "42"
+    ],
+    "correct_option_index": 0,
+    "explanation": "We know that a^3 - b^3 = (a - b)(a^2 + ab + b^2) = 208\nand a - b = 4.\n208/4 = 52",
+    "level": "",
+    "tags": [
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "743Qy2vtF",
+    "question": "Find the ten’s digit in the expression 65^2 – 55^2:\nNote: a^b: means a aquare b.  ??",
+    "options": [
+      "2",
+      "6",
+      "5",
+      "0"
+    ],
+    "correct_option_index": 3,
+    "explanation": "652 – 552 = (65+55) (65-55) = 120*10.\nTherefore, ten’s digit of the expression is 0.",
+    "level": "",
+    "tags": [
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
     "id": "OPDp2cpJK",
     "question": "12 men can finish a work in 15 days. After working for 5 days, 4 men leave. How many more days will the remaining men take to finish the work?",
     "options": [
@@ -54622,6 +55065,37 @@
     ],
     "correct_option_index": 2,
     "explanation": "Total work = 12 × 15 = 180 man-days\nWork done in 5 days = 12 × 5 = 60 man-days\nRemaining work = 120 man-days\nRemaining men = 8\nDays required = 120 ÷ 8 = **15 days**",
+    "level": "",
+    "tags": [
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "ah_dFRjZG",
+    "question": "The purchase price of an article is 20% less than the profit made. Find the profit if the selling price is 360 rupees. ?",
+    "options": [
+      "180 rupees",
+      "240 rupees",
+      "200 rupees",
+      "160 rupees"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The purchase price is 20% less than the profit made.\nLet the profit made be x.\nThe purchase price = x – 20% of x = 0.8x\nx + 0.8x = 360\n1.8x = 360\nX = 200 rupees",
     "level": "",
     "tags": [
       "aptitude"
@@ -55025,6 +55499,68 @@
     ],
     "correct_option_index": 1,
     "explanation": "12½ = 25/2, 12⅓ = 37/3, 12⅙ = 73/6\nSum = (75 + 74 + 73)/6 = 222/6 = **37**",
+    "level": "",
+    "tags": [
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "-PKxRbm0W",
+    "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+    "options": [
+      "30%",
+      "50%",
+      "20%",
+      "40%"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Numbers ending in 1 or 9 are: 1, 9, 11, 19, 21, 29, …, 61, 69 → total 14 numbers.\n(14 ÷ 70) × 100 = 20%.",
+    "level": "",
+    "tags": [
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "V2cZ7Iy5R",
+    "question": "There is a rectangular garden of 220 metres × 70 metres. A path of width 4 metres is built around the garden. What is the area of the path?",
+    "options": [
+      "2472 m²",
+      "2162 m²",
+      "1836 m²",
+      "2384 m²"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Outer rectangle = (220 + 8) × (70 + 8) = 228 × 78 = 17,784 m²\nInner rectangle = 220 × 70 = 15,400 m²\nArea of path = 17,784 – 15,400 = 2,384 m².",
     "level": "",
     "tags": [
       "aptitude"
@@ -63873,6 +64409,336 @@
     "paragraph_uid": ""
   },
   {
+    "id": "vAsoi5aza",
+    "question": "Which one of the following words is a verb?",
+    "options": [
+      "Happiness",
+      "Happily",
+      "Happy",
+      "Happen"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Happiness** – Noun (state of being happy)\n**Happily** – Adverb (describes how something is done)\n**Happy** – Adjective (describes a noun)\n**Happen** – Verb (an action or occurrence)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "zqrypCr3K",
+    "question": "Which one of the following words is a noun?",
+    "options": [
+      "Run",
+      "Runner",
+      "Running",
+      "Quickly"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Run** – Verb (to move fast on foot)\n**Runner** – Noun (person who runs)\n**Running** – Verb/Adjective (gerund/participle)\n**Quickly** – Adverb (modifies verbs)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "PO4y9oyaC",
+    "question": "Which one of the following words is an adjective?",
+    "options": [
+      "Beauty",
+      "Beautify",
+      "Beautiful",
+      "Beautifully"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Beauty** – Noun (quality of being beautiful)\n**Beautify** – Verb (to make beautiful)\n**Beautiful** – Adjective (describes a noun)\n**Beautifully** – Adverb (describes how an action is done)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "RNibw7jX1",
+    "question": "Which one of the following words is an adverb?",
+    "options": [
+      "Slow",
+      "Slowly",
+      "Slowness",
+      "Slowed"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Slow** – Adjective (describes a noun)\n**Slowly** – Adverb (describes how an action is performed)\n**Slowness** – Noun (state of being slow)\n**Slowed** – Verb (past tense)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "NeVoo7xMo",
+    "question": "Which one of the following words is a verb?",
+    "options": [
+      "Decision",
+      "Decide",
+      "Decisive",
+      "Decisively"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Decision** – Noun (act of deciding)\n**Decide** – Verb (to make a choice)\n**Decisive** – Adjective (having the power to decide)\n**Decisively** – Adverb (describes how an action is performed)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "4br-kUA0k",
+    "question": "Which one of the following words is a noun?",
+    "options": [
+      "Excite",
+      "Excited",
+      "Excitement",
+      "Excitingly"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Excite** – Verb (to cause excitement)\n**Excited** – Adjective (feeling excitement)\n**Excitement** – Noun (state of being excited)\n**Excitingly** – Adverb (describes how an action is done)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "sFawmpv4k",
+    "question": "Which one of the following words is an adjective?",
+    "options": [
+      "Courage",
+      "Courageous",
+      "Encourage",
+      "Courageously"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Courage** – Noun (quality of being brave)\n**Courageous** – Adjective (describes a brave person)\n**Encourage** – Verb (to give support)\n**Courageously** – Adverb (describes how an action is performed)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "w-vBw0w-L",
+    "question": "Which one of the following words is an adverb?",
+    "options": [
+      "Honest",
+      "Honesty",
+      "Honestly",
+      "Honor"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Honest** – Adjective (describes a person)\n**Honesty** – Noun (quality of being honest)\n**Honestly** – Adverb (describes how an action is done)\n**Honor** – Noun/Verb (respect or to show respect)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "hHS00Ovbh",
+    "question": "Which one of the following words is a verb?",
+    "options": [
+      "Strength",
+      "Strengthen",
+      "Strong",
+      "Strongly"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Strength** – Noun (quality of being strong)\n**Strengthen** – Verb (to make stronger)\n**Strong** – Adjective (describes a noun)\n**Strongly** – Adverb (describes how an action is done)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "X5IABNwHE",
+    "question": "Which one of the following words is a noun?",
+    "options": [
+      "Create",
+      "Creative",
+      "Creatively",
+      "Creation"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Create** – Verb (to make something)\n**Creative** – Adjective (describes a noun)\n**Creatively** – Adverb (describes how an action is done)\n**Creation** – Noun (the act of creating or something created)",
+    "level": "",
+    "tags": [
+      "english",
+      "parts of speech"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Parts of Speech",
+    "page_uid": "Ajk-XToWJ",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "Parts of Speech"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
     "id": "rgWnYXhSi",
     "question": "Select the most appropriate ANTONYM of the given word.\nAstute ??",
     "options": [
@@ -66391,6 +67257,39 @@
     ],
     "correct_option_index": 1,
     "explanation": "“Passing” shows ongoing action → Present Participle.",
+    "level": "",
+    "tags": [
+      "english",
+      "verb"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "verb",
+    "page_uid": "V99DsbfvK",
+    "path_tags": [
+      "mcqs",
+      "english",
+      "verb"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "w1ywelQPJ",
+    "question": "The verb form of 'Hard' is _________. ??",
+    "options": [
+      "Harden",
+      "Harder",
+      "Hardest",
+      "Hard"
+    ],
+    "correct_option_index": 0,
+    "explanation": "“Harden” is the verb form.",
     "level": "",
     "tags": [
       "english",
@@ -90425,6 +91324,46 @@
     ],
     "correct_option_index": 0,
     "explanation": "“A student” is general and singular, so we use the indefinite article “a.”",
+    "level": "",
+    "tags": [
+      "english",
+      "articles a an and the",
+      "subject wise mock test",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [
+      "English | Articles A An The - 1"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Subject Wise Mock Test",
+      "mock",
+      "mcqs",
+      "english",
+      "Articles A An and The"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "cIvwejMgr"
+  },
+  {
+    "id": "oMkMxcJ8v",
+    "question": "I saw . . . . . . . . old man yesterday. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“An” is used before words beginning with a vowel sound — “old man.”",
     "level": "",
     "tags": [
       "english",
