@@ -348,11 +348,19 @@
         "sub_chapters": []
       },
       {
+        "name": "Verb",
+        "sub_chapters": []
+      },
+      {
         "name": "Preposition",
         "sub_chapters": []
       },
       {
         "name": "Passage Based",
+        "sub_chapters": []
+      },
+      {
+        "name": "Confusing Words - Verbs",
         "sub_chapters": []
       }
     ]
