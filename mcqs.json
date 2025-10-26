@@ -55517,7 +55517,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55548,7 +55548,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55565,6 +55565,8 @@
     "explanation": "The eldest person has a share of 11 from the proportion, so, let the age of the eldest from them be 11x.\nThe total of the proportion = (2 + 3 + 4 + 10 + 11) x = 30x\nThe average of the proportion = 30x / 5 = 6x\nAverage age as per proportion = 6x\nAverage age given = 18\nOn putting values, 6x = 18, x = 3\nThe age of the eldest person = 11x = 11 * 3 = 33.",
     "level": "",
     "tags": [
+      "average",
+      "average",
       "aptitude"
     ],
     "linked_block_uid": "",
@@ -55579,7 +55581,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55610,7 +55612,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55641,7 +55643,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55672,7 +55674,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55703,7 +55705,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55734,13 +55736,13 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
   {
     "id": "MSIYex83v",
-    "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit ?",
+    "question": "What percentage of numbers from 1 to 77 have 1 or 9 in the unit's digit ?",
     "options": [
       "30%",
       "50%",
@@ -55765,7 +55767,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55796,7 +55798,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55827,7 +55829,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55858,7 +55860,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55889,7 +55891,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55920,7 +55922,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55951,7 +55953,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -55982,7 +55984,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -56013,7 +56015,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -56044,7 +56046,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -56075,7 +56077,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -56106,38 +56108,7 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
-    "paragraph_text": "",
-    "paragraph_uid": ""
-  },
-  {
-    "id": "-PKxRbm0W",
-    "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
-    "options": [
-      "30%",
-      "50%",
-      "20%",
-      "40%"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Numbers ending in 1 or 9 are: 1, 9, 11, 19, 21, 29, …, 61, 69 → total 14 numbers.\n(14 ÷ 70) × 100 = 20%.",
-    "level": "",
-    "tags": [
-      "aptitude"
-    ],
-    "linked_block_uid": "",
-    "linked_video": "",
-    "linked_pdf": "",
-    "external_link": "",
-    "create_date": "2025-10-26",
-    "exams": [],
-    "page_title": null,
-    "page_uid": "",
-    "path_tags": [
-      "mcqs",
-      "aptitude"
-    ],
-    "taken_from": "",
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -56168,7 +56139,469 @@
       "mcqs",
       "aptitude"
     ],
-    "taken_from": "",
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "1bOFNf-Qx",
+    "question": "The average runs scored by a batsman in 23 matches is 41. In the next 10 matches, the batsman scored an average of 16 runs. Find his average runs scored (rounded off to two decimal places) in all the 33 matches. ?",
+    "options": [
+      "34.42",
+      "33.42",
+      "35.42",
+      "32.42"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Total runs in 23 matches = 41 × 23 = 943\nTotal runs in next 10 matches = 16 × 10 = 160\nTotal runs in 33 matches = 943 + 160 = 1103\nOverall average = 1103 / 33 ≈ 33.42",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "5uS_qsCJU",
+    "question": "A batsman has a certain average for his first 14 innings. He scores 112 runs in his 15th innings, thus increasing his average by 4 runs. Find his average after the 15th innings. ?",
+    "options": [
+      "64",
+      "52",
+      "56",
+      "48"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Let initial average = x\nTotal runs in 14 innings = 14x\nNew total runs = 14x + 112\nNew average = (14x + 112) / 15 = x + 4\n⇒ 14x + 112 = 15x + 60\n⇒ x = 52\nNew average = 52 + 4 = 56",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "ubjGsyhhZ",
+    "question": "If runs scored by a batsman in 5 overs are 4, 3, 2, 0, 1 respectively, then his average score for 5 overs is ?",
+    "options": [
+      "2",
+      "3",
+      "2.5",
+      "4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Total runs = 4 + 3 + 2 + 0 + 1 = 10\nAverage = 10 / 5 = 2",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "SzE5ehbEg",
+    "question": "In the first 24 matches, a cricket player averages 60 runs. The overall average for all 32 matches is 80. Determine the average for the last 8 matches. ?",
+    "options": [
+      "140",
+      "110",
+      "120",
+      "130"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Runs in first 24 matches = 60 × 24 = 1440\nRuns in 32 matches = 80 × 32 = 2560\nRuns in last 8 matches = 2560 – 1440 = 1120\nAverage for last 8 = 1120 / 8 = 140",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "I_Uu2rFw7",
+    "question": "The average of runs scored by a player in 22 innings is 40 runs. How many runs should he score in the 23rd innings so that his average is increased by 6 runs?",
+    "options": [
+      "148 runs",
+      "178 runs",
+      "188 runs",
+      "158 runs"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Total runs in 22 innings = 40 × 22 = 880\nNew average = 46\nTotal runs needed in 23 innings = 46 × 23 = 1058\nRuns needed in 23rd = 1058 – 880 = 178",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "-ef0uodXA",
+    "question": "The batting average for 27 innings of a cricket player is 47 runs. His highest score exceeds his lowest score by 157 runs. If these two innings are excluded, the average of the remaining 25 innings is 42 runs. Find his highest score. ?",
+    "options": [
+      "176",
+      "188",
+      "186",
+      "174"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Total runs in 27 innings = 47 × 27 = 1269\nRuns in 25 innings = 42 × 25 = 1050\nRuns in highest + lowest = 1269 – 1050 = 219\nLet lowest = x, highest = x + 157\n⇒ x + (x + 157) = 219\n⇒ 2x = 62 → x = 31\nHighest = 31 + 157 = 188",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "RtU7vepbQ",
+    "question": "Ram has an average score of 65 runs in 19 innings. How many runs must he score in the 20th innings to raise the average to 67?",
+    "options": [
+      "135",
+      "105",
+      "115",
+      "195"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Total runs in 19 innings = 65 × 19 = 1235\nTotal runs needed in 20 innings = 67 × 20 = 1340\nRuns needed in 20th = 1340 – 1235 = 105",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "2gxqC3hcV",
+    "question": "In nine innings, the average of a batsman is 58 runs. How many runs does he need in the tenth innings to make the average 61?",
+    "options": [
+      "88",
+      "69",
+      "79",
+      "100"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Total runs in 9 innings = 58 × 9 = 522\nTotal runs needed in 10 innings = 61 × 10 = 610\nRuns needed in 10th = 610 – 522 = 88",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "SHsm16DVU",
+    "question": "Cricket Based Question 10\nThe average of runs scored by a player in 22 innings is 40 runs. How many runs should he score in the 23rd innings so that his average is increased by 6 runs?",
+    "options": [
+      "148 runs",
+      "178 runs",
+      "188 runs",
+      "158 runs"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Total runs in 22 innings = 40 × 22 = 880\nNew average = 46\nTotal runs in 23 innings = 46 × 23 = 1058\nRuns in 23rd = 1058 – 880 = 178",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "PoJMq1zXG",
+    "question": "The average runs scored by a batsman in 23 matches is 41. In the next 10 matches, the batsman scored an average of 16 runs. Find his average in all 33 matches (rounded to two decimal places). ?",
+    "options": [
+      "34.42",
+      "33.42",
+      "35.42",
+      "32.42"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Runs in 23 matches = 41 × 23 = 943\nRuns in next 10 = 16 × 10 = 160\nTotal runs = 943 + 160 = 1103\nAverage = 1103 / 33 ≈ 33.42",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "ebB-irboY",
+    "question": "If runs scored by a batsman in 5 overs are 4, 3, 2, 0, 1 respectively, then his average score for 5 overs is ?",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 2.5",
+      "D) 4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Total runs = 4 + 3 + 2 + 0 + 1 = 10\nAverage = 10 / 5 = 2",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "cmOPCbNTF",
+    "question": "In the first 24 matches, a cricket player averages 60 runs. The overall average for all 32 matches is 80. Determine the average for the last 8 matches. ?",
+    "options": [
+      "140",
+      "110",
+      "120",
+      "130"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Runs in 24 matches = 60 × 24 = 1440\nRuns in 32 matches = 80 × 32 = 2560\nRuns in last 8 = 2560 – 1440 = 1120\nAverage = 1120 / 8 = 140",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "NeK22BKx4",
+    "question": "The batting average for 27 innings is 47 runs. Highest score exceeds lowest by 157 runs. If these two are excluded, average of remaining 25 is 42 runs. Find highest score. ?",
+    "options": [
+      "176",
+      "188",
+      "186",
+      "174"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Total runs in 27 = 47 × 27 = 1269\nRuns in 25 = 42 × 25 = 1050\nHigh + Low = 1269 – 1050 = 219\nHigh = Low + 157\n⇒ 2 × Low + 157 = 219 → 2 × Low = 62 → Low = 31\nHighest = 31 + 157 = 188",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "lnhZxDRDo",
+    "question": "Ram has an average of 65 runs in 19 innings. How many runs must he score in the 20th to raise average to 67?",
+    "options": [
+      "135",
+      "105",
+      "115",
+      "195"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Runs in 19 innings = 65 × 19 = 1235\nRuns needed in 20 innings = 67 × 20 = 1340\nRuns in 20th = 1340 – 1235 = 105",
+    "level": "",
+    "tags": [
+      "cricket",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "aptitude",
+      "cricket"
+    ],
+    "taken_from": {},
     "paragraph_text": "",
     "paragraph_uid": ""
   },
@@ -59503,7 +59936,7 @@
       "100%"
     ],
     "correct_option_index": 1,
-    "explanation": "",
+    "explanation": "Cost Price (CP):\n5 bananas → ₹10\n∴ 1 banana → ₹2\n→ CP of 20 bananas = 20 × 2 = ₹40\nSelling Price (SP):\n4 bananas → ₹12\n∴ 1 banana → ₹3\n→ SP of 20 bananas = 20 × 3 = ₹60\nProfit:\nProfit = SP – CP = 60 – 40 = ₹20\nProfit Percentage:\nProfit% = (Profit / CP) × 100\n= (20 / 40) × 100 = 50%",
     "level": "easy",
     "tags": [
       "easy",
@@ -59698,7 +60131,7 @@
       "6"
     ],
     "correct_option_index": 2,
-    "explanation": "",
+    "explanation": "Cost Price (CP):\n6 toffees → ₹1\n∴ CP of 1 toffee = ₹1/6\n\n\nDesired Profit = 20%\nSo, Selling Price (SP) = CP × (1 + Profit%)\nSP = (1/6) × ( f 1 + 0.20) = (1/6) × 1.20 = 1.20 / 6 = 0.20 = ₹1/5\n→ SP of 1 toffee = ₹1/5\n\n\nNow, for ₹1, how many toffees can he sell?\nNumber of toffees = 1 / (SP per toffee)\n= 1 / (1/5) = 5",
     "level": "",
     "tags": [
       "aptitude",
@@ -59859,38 +60292,6 @@
     ],
     "correct_option_index": 2,
     "explanation": "To determine the profit percentage, we calculate the cost price (CP) and selling price (SP) per orange. \nHe buys 10 oranges for ₹20, so CP per orange is 20 ÷ 10 = ₹2. \nHe sells 5 oranges for ₹15, so SP per orange is 15 ÷ 5 = ₹3. \nProfit per orange is 3 - 2 = ₹1. Profit percentage is (1 ÷ 2) × 100 = 50%, but rechecking: SP is ₹3, CP is ₹2, profit is ₹1, so (1 ÷ 2) × 100 = 50%. \nHowever, with the options, let’s assume a typo—correcting to 5 for ₹30: SP per orange is 30 ÷ 5 = ₹6, profit is 6 - 2 = ₹4, (4 ÷ 2) × 100 = 200%, but closest to 150%. S\no, the answer is 150%.",
-    "level": "",
-    "tags": [
-      "aptitude",
-      "profit and loss"
-    ],
-    "linked_block_uid": "",
-    "linked_video": "",
-    "linked_pdf": "",
-    "external_link": "",
-    "create_date": "2025-10-26",
-    "exams": [],
-    "page_title": "Profit and Loss",
-    "page_uid": "qJ21RO4Md",
-    "path_tags": [
-      "mcqs",
-      "aptitude"
-    ],
-    "taken_from": {},
-    "paragraph_text": "",
-    "paragraph_uid": ""
-  },
-  {
-    "id": "o7k9cmnNt",
-    "question": "A vendor bought bananas at the rate of 15 for ₹30 and sold them at the rate of 10 for ₹25. What is his profit percentage?",
-    "options": [
-      "33.33%",
-      "40%",
-      "50%",
-      "60%"
-    ],
-    "correct_option_index": 0,
-    "explanation": "To calculate the profit percentage, we find the cost price (CP) and selling price (SP) per pen. He buys 12 pens for ₹18, so CP per pen is 18 ÷ 12 = ₹1.5. He sells 8 pens for ₹16, so SP per pen is 16 ÷ 8 = ₹2. Profit per pen is 2 - 1.5 = ₹0.5. Profit percentage is (0.5 ÷ 1.5) × 100 ≈ 33.33%, but rechecking: CP is ₹1.5, SP is ₹2, profit is ₹0.5, (0.5 ÷ 1.5) × 100 = 33.33%. However, with options, let’s assume a typo—correcting to 8 for ₹24: SP per pen is 24 ÷ 8 = ₹3, profit is 3 - 1.5 = ₹1.5, (1.5 ÷ 1.5) × 100 = 100%, but closest to 50%. So, the answer is 50%.",
     "level": "",
     "tags": [
       "aptitude",
@@ -61178,7 +61579,7 @@
       "8/15"
     ],
     "correct_option_index": 3,
-    "explanation": "",
+    "explanation": "A's 1-day work = 1/15\nB's 1-day work = 1/20\nTogether 1-day work = 1/15 + 1/20 = (4 + 3)/60 = 7/60\nWork done in 4 days = 4 × 7/60 = 28/60 = 7/15\nWork left = 1 – 7/15 = 8/15",
     "level": "",
     "tags": [
       "indiabix",
@@ -61246,7 +61647,7 @@
       "18 days"
     ],
     "correct_option_index": 1,
-    "explanation": "",
+    "explanation": "Given:\n\nA can do the work in 20 days\n\nB can do the work in 30 days\n\nC can do the work in 60 days\n\nFormula used:\n\nWork done = Time taken × Efficiency\n\nTime taken ∝ 1/Efficiency\n\nCalculation:\n\nThe efficiency of A is 1/20\n\nThe efficiency of B is 1/30\n\nThe efficiency of C is 1/60\n\n1st day work by A = 1/20\n\n2nd day work by A = 1/20\n\n3rd day work by A + B + C = 1/20 + 1/30 + 1/60\n\n⇒ (3 + 2 + 1)/60 = 1/10\n\nWork completed in 3 days\n\n⇒ 1/20 +1/20 + 1/10 = 1/5\n\nTime is taken to complete the work\n\n⇒ 3 × 5 = (1/5) × 5\n\n⇒ 15 days = 1\n\n∴ In 15 days the work will be completed.",
     "level": "",
     "tags": [
       "indiabix",
@@ -62701,6 +63102,38 @@
     "paragraph_uid": ""
   },
   {
+    "id": "tSXjEcQqB",
+    "question": "A father was twelve times as old as his son twenty years ago. Now he is twice as old as his son. What are the present ages of the son and father?",
+    "options": [
+      "33 and 66 years",
+      "27 and 54 years",
+      "15 and 30 years",
+      "22 and 44 years"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Current age of Father = F; Son = S\n\nF = 2S\n\nTwenty years ago:\n\n(F - 20) = 12 (S - 20)\n\nF = 12S + 20 - 240\n\nF = 12S - 220\n\n2S = 12S - 220\n\n10S = 220\n\nTherefore, S = 22 and F = 44\n\nHence, the present ages of the son and father are 22 and 44 years respectively.",
+    "level": "",
+    "tags": [
+      "aptitude",
+      "problem on ages"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Problem on Ages",
+    "page_uid": "UG-VkjjUZ",
+    "path_tags": [
+      "mcqs",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
     "id": "ffyh-DyWT",
     "question": "The sum of the ages of 5 children born at intervals of 3 years each is 50 years. What is the age of the youngest child?",
     "options": [
@@ -62870,7 +63303,7 @@
       "20 years"
     ],
     "correct_option_index": 0,
-    "explanation": "Let Ankit’s age = A, Nikita’s = N.\nA×N = 240 and 2N = A + 4 → A = 2N−4.\n(2N−4)N = 240 → 2N²−4N−240=0 → N²−2N−120=0 → (N−12)(N+10)=0 → N=12.",
+    "explanation": "Product of the ages of Ankit and Nikita = 240 and two times age of Nikita is more than Ankit's age by 4 years\n\n\n\nLet Ankit's age be x years, then, Nikita's age = 240/x years\n\n⇒Two times age of Nikita is more than Ankit's age by 4 years\n\n⇒ 2 × 240/x - x = 4\n\n⇒ 480 - x2 = 4x\n\n⇒ x2 + 4x - 480 = 0\n\n⇒ (x + 24) (x - 20) = 0\n\n⇒ x = 20\n\n∴ Nikita's age = 240/20 = 12 Years",
     "level": "",
     "tags": [
       "aptitude",
@@ -63164,7 +63597,7 @@
       "234 km"
     ],
     "correct_option_index": 1,
-    "explanation": "Let total distance = x.\n(½x)/21 + (½x)/24 = 10 → x(1/42 + 1/48) = 10 → x(15/336) = 10 → x = 224 km.",
+    "explanation": "Let total distance = 2d km\nFirst half: d km at 21 km/hr → Time = d/21\nSecond half: d km at 24 km/hr → Time = d/24\nTotal time = 10 hrs\n→ d/21 + d/24 = 10\n→ (8d + 7d)/168 = 10\n→ 15d/168 = 10\n→ d = 112 km\n∴ Total distance = 2d = 224 km",
     "level": "",
     "tags": [
       "aptitude",
@@ -63197,7 +63630,7 @@
       "87.5 km/hr"
     ],
     "correct_option_index": 3,
-    "explanation": "Speed of second = 400/4 = 100 km/hr.\nLet speeds be 7x and 8x → 8x = 100 → x = 12.5 → first train = 7×12.5 = 87.5 km/hr.",
+    "explanation": "Ratio of speeds: Train 1 : Train 2 = 7 : 8\nTrain 2 speed = 400 km / 4 hrs = 100 km/hr\nSo, 8 parts = 100 → 1 part = 12.5 km/hr\nTrain 1 speed = 7 parts = 7 × 12.5 = 87.5 km/hr\n\nAnswer: 87.5 km/hr",
     "level": "",
     "tags": [
       "aptitude",
@@ -63671,7 +64104,7 @@
       "Rs. 38,000"
     ],
     "correct_option_index": 3,
-    "explanation": "Let salaries be 2x and 3x.\n(2x + 4000)/(3x + 4000) = 40/57\n57(2x + 4000) = 40(3x + 4000)\n114x + 228000 = 120x + 160000\n6x = 68000 → x = 11333.\nSumit’s salary = 3x + 4000 = Rs. 38,000",
+    "explanation": "Let salaries be 2x and 3x.\n(2x + 4000)/(3x + 4000) = 40/57\n57(2x + 4000) = 40(3x + 4000)\n114x + 228000 = 120x + 160000\n6x = 68000 → x = 11333.\nSumit’s salary = 3x + 4000 = Rs. 38,000\n---\nRatio of salaries of Ravi and Sumit = 2 : 3.\n\nIncreased salary = 4000 each.\n\nNew ratio of Ravi and Sumit = 40 : 57.\n\nCalculation:\n\nLet the original salaries of Ravi and Sumit be Rs.2x and Rs.3x respectively.\n\nThen, (2x + 4000)/(3x +4000) = 40/57\n\n⇒ 57(2x + 4000) = 40(3x + 4000)\n\n⇒ 6x = 68000\n\n⇒ 3x = 34000\n\n∴ Sumit's present salary = (3x + 4000) = Rs.(34000 + 4000) = Rs. 38000.",
     "level": "medium",
     "tags": [
       "medium",
@@ -63916,7 +64349,7 @@
       "55"
     ],
     "correct_option_index": 1,
-    "explanation": "Let numbers be 3x and 5x.\n(3x − 9)/(5x − 9) = 12/23\n23(3x − 9) = 12(5x − 9)\n69x − 207 = 60x − 108 → 9x = 99 → x = 11\nSmaller number = 3x = 33",
+    "explanation": "Let numbers be 3x and 5x.\n(3x − 9)/(5x − 9) = 12/23\n23(3x − 9) = 12(5x − 9)\n69x − 207 = 60x − 108 → 9x = 99 → x = 11\nSmaller number = 3x = 33\n---\nTwo numbers are in ratio 3 ∶ 5\n\nIf 9 is subtracted from each number, the ratio becomes 12 ∶ 23\n\nCalculations:\n\nLet the two numbers be 3x & 5x.\n\nAccording to question,\n\n(3x - 9)/(5x - 9) = 12/23\n\nx = 11\n\n3x = 33\n\n5x = 55\n\n∴ The two numbers are 33 & 55.",
     "level": "medium",
     "tags": [
       "medium",
@@ -80428,37 +80861,6 @@
     "paragraph_uid": ""
   },
   {
-    "id": "9pTDqP4E-",
-    "question": "Tuberculosis : Lungs :_: Typhoid : ?",
-    "options": [
-      "Liver",
-      "Intestine",
-      "Lungs",
-      "Brain"
-    ],
-    "correct_option_index": 1,
-    "explanation": "Tuberculosis affects the lungs; Typhoid affects the intestine.\nHence, Typhoid : Intestine.",
-    "level": "",
-    "tags": [
-      "reasoning"
-    ],
-    "linked_block_uid": "",
-    "linked_video": "",
-    "linked_pdf": "",
-    "external_link": "",
-    "create_date": "2025-10-26",
-    "exams": [],
-    "page_title": null,
-    "page_uid": "",
-    "path_tags": [
-      "mcqs",
-      "reasoning"
-    ],
-    "taken_from": {},
-    "paragraph_text": "",
-    "paragraph_uid": ""
-  },
-  {
     "id": "K85M2jJmu",
     "question": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and fourth number is related to third number.\n139 : 228 :_: 122 : 211 :_: 2 : ?.. ??",
     "options": [
@@ -80685,7 +81087,7 @@
       "(C) and (D) Only"
     ],
     "correct_option_index": 0,
-    "explanation": "“No liquids are beverages” and “No beverages are liquids” express the same meaning.",
+    "explanation": "(A) No liquids are beverages → Nothing that is a liquid is a beverage.\n(B) No beverages are liquids → Nothing that is a beverage is a liquid.\n\nThese two statements say the same thing in different order — they are logically equivalent.\n\n(C) All non-beverages are non-liquids → If not a beverage, then not a liquid.\n(This is the contrapositive of \"All liquids are beverages\" — which is false here.)\n(D) All non-liquids are non-beverages → If not a liquid, then not a beverage.\n(This is the contrapositive of \"All beverages are liquids\" — also false here.)\n\nOnly (A) and (B) are equivalent.\nAnswer: (A) and (B) Only",
     "level": "",
     "tags": [
       "reasoning"
@@ -81631,6 +82033,204 @@
     "path_tags": [
       "mcqs",
       "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "ogZuxcvPJ",
+    "question": "Select the odd one from below: ??",
+    "options": [
+      "General Assembly",
+      "Security Council",
+      "Economic and Social Council (ECOSOC)",
+      "International Court of Justice (ICJ)"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All the UN main organs have their HQs in New York, except ICJ which has its HQ at Hague.\n((atKyn_44X))",
+    "level": "",
+    "tags": [
+      "gk based reasoning",
+      "reasoning"
+    ],
+    "linked_block_uid": "atKyn_44X",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "GK based reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "9pTDqP4E-",
+    "question": "Tuberculosis : Lungs :_: Typhoid : ?",
+    "options": [
+      "Liver",
+      "Intestine",
+      "Lungs",
+      "Brain"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Tuberculosis affects the lungs; Typhoid affects the intestine.\nHence, Typhoid : Intestine.\n((SDcskDb38))",
+    "level": "",
+    "tags": [
+      "gk based reasoning",
+      "reasoning"
+    ],
+    "linked_block_uid": "SDcskDb38",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "GK based reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "gl29NyTJx",
+    "question": "Find the missing character:\nA   D   G\nD   I    N\nI     P   ?.    ??",
+    "options": [
+      "X",
+      "W",
+      "Y",
+      "Z"
+    ],
+    "correct_option_index": 1,
+    "explanation": "First Row\nA ----(+3)---> D ----(+3)---> G.\n\nSecond Row\nD ----(+5)---> I ----(+5)---> N.\n\nThird Row\nI ----(+7)---> P ----(+7)---> W.",
+    "level": "",
+    "tags": [
+      "missing character",
+      "reasoning"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "Missing Character"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "K5qzfKJcg",
+    "question": "Find the missing number:\n\n4 3 15\n6 3 21\n8 3  ?.  ??",
+    "options": [
+      "19",
+      "27",
+      "29",
+      "31"
+    ],
+    "correct_option_index": 1,
+    "explanation": "15 = 4 x 3 + 3\n6 x 3 + 3 = 21.\n8 x 3 + 3 = 27.\nHence 27 is Answer",
+    "level": "",
+    "tags": [
+      "missing number",
+      "reasoning"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "Missing Number"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "pLcPgF7Ng",
+    "question": "Find the missing number:\n4  3  48\n5  3  75\n6  3  ?. ??",
+    "options": [
+      "96",
+      "108",
+      "112",
+      "120"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Logic: a × (a × b) → 4×(4×3)=48, 5×(5×3)=75, 6×(6×33)=108",
+    "level": "",
+    "tags": [
+      "missing number",
+      "reasoning"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "Missing Number"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "PZfCq6-_y",
+    "question": "Arrange the words given below in a meaningful sequence.\n1. House\n2. Street\n3. Room\n4. Town\n5. District ??",
+    "options": [
+      "3, 2, 1, 4, 5",
+      "3, 1, 4, 2, 5",
+      "3, 1, 2, 4, 5",
+      "3, 1, 2, 5, 4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct order is :\nRoom\t3\nHouse\t1\nStreet\t2\nTown\t4\nDistrict\t5",
+    "level": "",
+    "tags": [
+      "sequencing of words",
+      "reasoning"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "Sequencing of Words"
     ],
     "taken_from": {},
     "paragraph_text": "",
@@ -88675,6 +89275,72 @@
     ],
     "correct_option_index": 0,
     "explanation": "Gaurav exits from the backdoor of his north-facing house means Gaurav starts to walk south side.\n\nDrawing the diagram according to the given information,\n\n1. Gaurav walks south 25 m straight\n2. then he takes a left turn and walks 36 m\n3. then he turns left and walks 47 m.\n4. He turns left again and walks 36 m.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FG7YZmXuYxL.png?alt=media&token=e9b23403-e0c4-4c89-8f3f-7f272816c5e6)",
+    "level": "",
+    "tags": [
+      "reasoning",
+      "direction based"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Direction Based",
+    "page_uid": "994M6AhWr",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "Direction Based"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "UqdhsQdre",
+    "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+    "options": [
+      "North-East",
+      "North-West",
+      "South-East",
+      "South-West"
+    ],
+    "correct_option_index": 2,
+    "explanation": "It is clear from the diagrams that new name of West will become South-East.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2_DXOozgc0.png?alt=media&token=01c9d807-bdeb-4a8e-ac1c-a032bd1f1ed5)",
+    "level": "",
+    "tags": [
+      "reasoning",
+      "direction based"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-10-26",
+    "exams": [],
+    "page_title": "Direction Based",
+    "page_uid": "994M6AhWr",
+    "path_tags": [
+      "mcqs",
+      "reasoning",
+      "Direction Based"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "EgAssUdLU",
+    "question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?",
+    "options": [
+      "South-East",
+      "South",
+      "North",
+      "West"
+    ],
+    "correct_option_index": 3,
+    "explanation": "At 9.15 P.M., the minute hand will point towards west.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FO_L0ugwrpo.png?alt=media&token=8d6b8959-7c1e-4d87-a1ca-8020bc8ee42b)",
     "level": "",
     "tags": [
       "reasoning",
@@ -121900,43 +122566,6 @@
     "paragraph_text": "",
     "paragraph_uid": "",
     "mock_uid": "BD-EacuGz"
-  },
-  {
-    "id": "ogZuxcvPJ",
-    "question": "Select the odd one from below: ??",
-    "options": [
-      "General Assembly",
-      "Security Council",
-      "Economic and Social Council (ECOSOC)",
-      "International Court of Justice (ICJ)"
-    ],
-    "correct_option_index": 3,
-    "explanation": "ICH has its HQ in Haugue, while all others have in New York.",
-    "level": "",
-    "tags": [
-      "reasoning",
-      "kssrb mock test 3 (graduation level)",
-      "mock"
-    ],
-    "linked_block_uid": "",
-    "linked_video": "",
-    "linked_pdf": "",
-    "external_link": "",
-    "create_date": "2025-10-26",
-    "exams": [
-      "KSSRB Mock Test 3 (Graduation Level)"
-    ],
-    "page_title": null,
-    "page_uid": "",
-    "path_tags": [
-      "KSSRB Mock Test 3 (Graduation Level)",
-      "mock",
-      "reasoning"
-    ],
-    "taken_from": {},
-    "paragraph_text": "",
-    "paragraph_uid": "",
-    "mock_uid": "zBRwQK0G7"
   },
   {
     "id": "IKJS--h8V",
