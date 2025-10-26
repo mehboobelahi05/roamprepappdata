@@ -64,7 +64,7 @@
           },
           {
             "order": 2,
-            "string": "**Nubra River**\n▪️ Originates from Siachen glacier, which is in Karakoram range.\n▪️ It passes through Nubra valley.\n▪️ It is a tributary of the Shyok River, which is itself a part of the Indus River system.  \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F8269ZIJkkK.png?alt=media&token=bc3f18d6-06e7-4880-8292-78f8cbf1c99b)\n\n\n**Siachen Glacier**\n▪️ The Siachen Glacier is located in the Eastern Karakoram range in the Himalayas, just northeast of Point NJ9842 where the Line of Control between India and Pakistan ends.\n▪️ It is the 2nd-Longest glacier in the World's Non-Polar areas.\n▪️ It is the source for the 50m long Nubra River, a tributary of the Shyok, which is part of the Indus River system.\n▪️ The Siachen Glacier is part of Ladakh which has now been converted into a Union Territory.\n▪️ The Siachen Glacier is the world's highest battlefield.​",
+            "string": "**Nubra River**\n▪️ Originates from Siachen glacier, which is in Karakoram range.\n▪️ It passes through Nubra valley.\n▪️ It is a tributary of the Shyok River, which is itself a part of the Indus River system.  \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F8269ZIJkkK.png?alt=media&token=bc3f18d6-06e7-4880-8292-78f8cbf1c99b)\n\n\n**Siachen Glacier**\n▪️ The Siachen Glacier is located in the Eastern Karakoram range.\n▪️ It is the 2nd-Longest glacier in the World outside the polar region.\n▪️ It is the source for the 50m long Nubra River, a tributary of the Shyok, which is part of the Indus River system.\n▪️ The Siachen Glacier is part of Ladakh which has now been converted into a Union Territory.\n▪️ The Siachen Glacier is the world's highest battlefield.​",
             "uid": "ljRvDid-D"
           }
         ],
@@ -74,18 +74,38 @@
       },
       {
         "order": 5,
+        "string": "**Ladakh**\n▪️ Lt. Governor of UT Ladakh: ^^Kavinder Gupta^^\n▪️ DC of Leh: ^^Shri Romil Singh Donk, IAS^^\n▪️ DC of Kargil: ^^Rakesh Kumar, IAS^^\n▪️ CEC of LAHDC Leh: ^^Advocate Tashi Gyalson^^\n▪️ CEC of LAHDC Kargil: ^^Dr. Mohd Jaffer Akhoon^^\n\n▪️ Vice Chancellor of Ladakh University Leh: ^^Prof. Saket Kushwaha^^\n▪️ Vice Chancellor of Ladakh University Kargil: Prof. Saket Kushwaha \n▪️ University of Ladakh has a unified VC for both Leh and Kargil campuses.",
+        "uid": "6NY2K1fIo"
+      },
+      {
+        "order": 6,
         "string": "**Official Languages of UT Ladakh**\n▪️ Ladakh has 5 official languages.\n▪️ These are: Purgi, Bhoti, Urdu, Hindi, and English.",
         "uid": "AiGr3c3fA"
       },
       {
-        "order": 6,
+        "order": 7,
         "string": "**Project Name: Nimoo Bazgo (on Indus River)**\nCapacity (MW): 45\nStatus: Operational (2011)\nKey Notes: Largest in Ladakh; developed by NHPC; supplies power to Leh region; compliant with Indus Waters Treaty.\n\n\n**Project Name: Chutak (on Suru River)**\nCapacity (MW): 44\nStatus: Operational (2013)\nKey Notes: Major NHPC project; dedicated to Kargil supply; 4x11 MW units; connected to Northern Grid.",
         "uid": "F-UcZPpHl"
       },
       {
-        "order": 7,
-        "string": "**Ladakh**\n▪️ Lt. Governor of UT Ladakh: ^^Kavinder Gupta^^\n▪️ DC of Leh: ^^Shri Romil Singh Donk, IAS^^\n▪️ DC of Kargil: ^^Rakesh Kumar, IAS^^\n▪️ CEC of LAHDC Leh: ^^Advocate Tashi Gyalson^^\n▪️ CEC of LAHDC Kargil: ^^Dr. Mohd Jaffer Akhoon^^\n\n▪️ Vice Chancellor of Ladakh University Leh: ^^Prof. Saket Kushwaha^^\n▪️ Vice Chancellor of Ladakh University Kargil: Prof. Saket Kushwaha ▪️ University of Ladakh has a unified VC for both Leh and Kargil campuses.",
-        "uid": "6NY2K1fIo"
+        "order": 8,
+        "string": "**About Pangong Lake**\n▪️ Pangong Lake is a high-altitude, endorheic salt lake in the Himalayas.\n▪️ It is  one of the highest brackish water lakes in the world\n▪️ It is spread both in India and China\n▪️ The lake is almost 5km wide and 134km long, with **one-third** of it lying in India and the other two-thirds in China.\n▪️ It is not a ramsar site. \n▪️ The most gripping fact about this lake is that it changes color appearing blue, grey-green, and red at varied points in time. \n▪️ During winter, the lake freezes completely despite being saline water.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FkkyUTufqdG.png?alt=media&token=e4452dc4-6631-42a7-8bfe-0075705120b4)",
+        "uid": "2NtJe83hf"
+      },
+      {
+        "order": 9,
+        "string": "**Shanti stupa**\n▪️ The Shanti stupa is located in Leh district of Ladakh.\n▪️ It was built in 1991 by Japanese Buddhist Bhikshu and Gyomyo Nakamura.\n▪️ The stupa consists of a photograph of the Dalai Lama with the relics of the Buddha at the base.\n▪️ The structure of the stupa is a \"two-level structure\".\nThe purpose of the construction of Stupa is to promote world peace and prosperity.\n▪️ It symbolizes the relationship between the people of Japan and Ladakh.\n▪️ A similar structure is built in New Delhi in Kale Khan \n▪️ It was inaugurated by current 14th Dalai Lama\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fz4VFLtGrTQ.png?alt=media&token=47b5b044-1309-466c-836e-4c4ecaa896fc)",
+        "uid": "gzTMcTxPV"
+      },
+      {
+        "order": 10,
+        "string": "**Passes in Ladakh**\n\n▪️ The ^^highest pass in Ladakh is Mig La Pass^^, which is also the world's highest motorable road at 19,400 feet. \n▪️ The Border Roads Organisation (BRO) constructed this road, which was completed in October 2025, surpassing the previous record held by Umling La Pass. \n\n**Top three passes of Ladakh:**\n1. Mig La pass (19400 ft)\n2. Umling La pass (19,024 ft)\n3. Khardung la pass (18,379 ft)\n\n▪️ Khardung la is the gateway to Shyok and Nubra valleys and it leads to endless scenic vistas.\n\n▪️ Mig La is situated in the Himalayan mountain range. \n▪️ Umling La is part of the Ladakh mountain ranges. \n▪️ Khardung La Pass is located in the Ladakh Range, a sub-range of the Himalayas. \n▪️ The Zojila Pass ( 11500 ft) is in the Zanskar Range of the Himalayas.",
+        "uid": "l1mUv520q"
+      },
+      {
+        "order": 11,
+        "string": "Other Important Facts:\n\n▪️ Lamayuru: it is also known as the Moonland of Ladakh.\n\n**Nubra Vallye**\n▪️ NubraValley is known as the orchard of Ladakh\n▪️ Khardungla pass connects Nubra valley with Leh.\n▪️ The 108ft tall Statue of Maitreya Buddha is in Nubra valley.\n▪️ Double-humped camels (Bactrian camels) are mainly found in the Nubra Valley region of Ladakh, particularly in the Hunder village.",
+        "uid": "0sPL9aH8e"
       }
     ]
   },
