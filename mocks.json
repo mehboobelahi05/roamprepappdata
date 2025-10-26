@@ -1,21 +1,54 @@
 [
   {
+    "id": "Dw34rTsdF",
+    "name": "Ladakh GK Mock-1",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "mTTCqIiur",
+      "bZbsYQdAI",
+      "zr1tkHpxB",
+      "Dmf7fUJKB",
+      "LROUqTd6u",
+      "uZVKBGjbt",
+      "u_cPHPJHc",
+      "k8urpaWTO",
+      "kndJnTGSd",
+      "W1u5x4Zt4",
+      "XfoPAgyyo",
+      "wXQowmSut",
+      "vnNYEptdU",
+      "ZXN0bII1r",
+      "HCSlsBWlt",
+      "c8yqnSssT",
+      "euBlLw7RK",
+      "6BXyN515S"
+    ],
+    "pdf_link": "",
+    "category": "general studies"
+  },
+  {
     "id": "-2DQukVa_",
-    "name": "Polity Mock | Important Articles - 1",
+    "name": "Polity | Articles - 1",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "SdQEHuXL5",
       "Gn6IfU8T2",
       "lUp_R9NbO",
       "GJrKL86aW",
-      "9a4LykmNA"
+      "fAvtokY6V",
+      "9a4LykmNA",
+      "lSZ9_ym9B",
+      "O4SQpnydN",
+      "A8grIZIQP",
+      "ObbSvkMmg",
+      "un7r9w0ui"
     ],
     "pdf_link": "",
     "category": "general studies"
   },
   {
     "id": "qrBug65mA",
-    "name": "Polity Mock -2",
+    "name": "Polity Mixed -1",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "22Wrd_czx",
@@ -42,6 +75,16 @@
       "mJfBHELrE",
       "BxwJ2AGZg",
       "ZaTATsVJ2",
+      "jmKcbFiyr"
+    ],
+    "pdf_link": "",
+    "category": "general studies"
+  },
+  {
+    "id": "mwCDCjke4",
+    "name": "Polity Mixed -2",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
       "EHa-cP-Lm",
       "a-xhqsNv1",
       "7kE23y0_t",
@@ -66,7 +109,6 @@
       "riWRcajCD",
       "n0bW0RZCB",
       "mHsVTA8aR",
-      "jmKcbFiyr",
       "sR190nP_W"
     ],
     "pdf_link": "",
@@ -105,6 +147,44 @@
     ],
     "pdf_link": "",
     "category": "aptitude"
+  },
+  {
+    "id": "cIvwejMgr",
+    "name": "English | Articles A An The - 1",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "noiy32a_D",
+      "-hASjUWGy",
+      "yLFrIHQfl",
+      "PjSvh-gND",
+      "Z3uwlQwmV",
+      "rYBjzRbiH",
+      "mFPTXPLGO",
+      "8wjW6MzlN",
+      "kwRXBmonC",
+      "5W6AZF5Jp",
+      "MviuCBeAR",
+      "5R1Lq4Eb8",
+      "caz8GWCcY",
+      "XM32ICzj1",
+      "k2nAQzY_6",
+      "xHBSjM2eJ",
+      "jVpFnXSPv",
+      "78Jc7Mk5H",
+      "z8edbIi6t",
+      "0RflCTWWd",
+      "0l_MTTPkt",
+      "PklO7SvTo",
+      "kMnWJKIXe",
+      "6tS8yqehD",
+      "RkS1s69q9",
+      "ySZcc3Jrv",
+      "gCX4KkKmr",
+      "jwMGpfU1a",
+      "rNazeA606"
+    ],
+    "pdf_link": "",
+    "category": "english"
   },
   {
     "id": "Oe4nWCZG0",
@@ -902,6 +982,20 @@
       "0D8DMnTMD",
       "jOdmdFAS4",
       "a4DqXokyR",
+      "nHN6Kcbml",
+      "QORLX1zQ1",
+      "_DhKJqK37",
+      "z8edbIi6t",
+      "jwMGpfU1a",
+      "jVpFnXSPv",
+      "xNJLxNw8m",
+      "m3r29RVjk",
+      "JEZySsc5M",
+      "Geg1cbmNC",
+      "pGleJFe63",
+      "hCyWDLvKZ",
+      "di0_qPHr-",
+      "zqrypCr3K",
       "qO6-GtIwl",
       "b_A1rAsZR",
       "myakm0Ycz",
@@ -924,7 +1018,9 @@
       "qNa9IhRFF",
       "8RjiVmm7y",
       "O8uLRZb6F",
-      "Dv6Z9AuO6"
+      "Dv6Z9AuO6",
+      "zrYc5a5FX",
+      "iTj9buIYK"
     ],
     "pdf_link": null
   },
