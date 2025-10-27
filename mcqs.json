@@ -1206,13 +1206,13 @@
     "id": "u_cPHPJHc",
     "question": "Which of the below is NOT correct ?",
     "options": [
-      "Ladakh has only 1 National Park",
-      "Ladakh has two National Park",
+      "Ladakh has only one National Park",
+      "Ladakh has two Ramsar sites",
       "Ladakh has three Wildlife Sanctuaries",
       "All the statements are correct"
     ],
     "correct_option_index": 2,
-    "explanation": "Ladakh has:\n1-National Park\n2-Wildlife Sanctuaries\n3-Ramsar sites",
+    "explanation": "Ladakh has:\n1-National Park\n2-Wildlife Sanctuaries\n2-Ramsar sites",
     "level": "",
     "tags": [
       "protected area",
