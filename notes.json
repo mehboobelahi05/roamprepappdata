@@ -1914,7 +1914,7 @@
       },
       {
         "order": 4,
-        "string": "**BORROWED FEATURES** \n▪️ The idea of preamble in the constitution was borrowed from USA constitution.\n▪️ The idea of \"JUSTICE\" in the preamble was borrowed from USSR constitution ( or Russian revolution).\n▪️ The idea of \"Republic, LIBERTY, EQUALITY, FRATERNITY\" in the preamble was borrowed from French constitution ( or French revolution).",
+        "string": "**Borrowed Features in Preamble** \n▪️ The idea of preamble in the constitution was borrowed from USA constitution.\n▪️ The idea of \"JUSTICE\" in the preamble was borrowed from USSR constitution ( or Russian revolution).\n▪️ The idea of \"Republic, LIBERTY, EQUALITY, FRATERNITY\" in the preamble was borrowed from French constitution ( or French revolution).",
         "uid": "t7r_ZiQFl"
       },
       {
@@ -2104,6 +2104,11 @@
     "blocks": [
       {
         "order": 0,
+        "string": "▪️ President is the head of the state of India.\n▪️ President is the first citizen of India.\n▪️ President in India is an elected member.\n▪️ In India a person can become president any number of times",
+        "uid": "WTeDcTWoR"
+      },
+      {
+        "order": 1,
         "string": "**President as Supreme Commander of Defence**\n\n▪️ Article 52 of the Indian Constitution states that there shall be a President of India. As the Supreme Commander, the President is the head of the Indian Army, Navy, and Air Force.\n▪️ The  President is the commander of the defence forces of India. \nPresident appoints: Chief of the Army, Chief of the Navy, Chief of the Air Force \n▪️ The Chief of the Army is a **General**, the Chief of the Navy is an **Admiral**, and the Chief of the Air Force is an **Air Chief Marshal**. \n▪️ These three positions are collectively known as the armed forces chiefs",
         "uid": "lsWr7s8MM"
       }
@@ -2471,7 +2476,7 @@
       },
       {
         "order": 2,
-        "string": "**Delhi Sultanate dynasties and their founders:**\n\n1. Slave (Mamluk) Dynasty (1206–1290) -- Qutubuddin Aibak\n2. Khalji Dynasty (1290–1320) -- Jalauddin Khilji\n3. Tughlaq Dynasty (1320–1414) -- Giyazuddin Tughlaq\n4. Sayyid Dynasty (1414–1451) -- Khizr Khan\n5. Lodi Dynasty (1451–1526) -- Bulul Lodi",
+        "string": "**Delhi Sultanate dynasties and their founders:**\n1. Slave (Mamluk) Dynasty (1206–1290) -- Qutubuddin Aibak\n2. Khalji Dynasty (1290–1320) -- Jalauddin Khilji\n3. Tughlaq Dynasty (1320–1414) -- Giyazuddin Tughlaq\n4. Sayyid Dynasty (1414–1451) -- Khizr Khan\n5. Lodi Dynasty (1451–1526) -- Bulul Lodi",
         "uid": "jTJ3X1rAN"
       },
       {
@@ -2632,7 +2637,7 @@
         "children": [
           {
             "order": 0,
-            "string": "**Indian National Congress**\n▪️ INC was founded in 1885.\n▪️ **Allan Octavian Hume (A.O. Hume)**, a retired British civil servant, played a key role in founding the INC.\n▪️ Then the governor-general of British India was Lord Dufferin",
+            "string": "**Indian National Congress**\n▪️ INC was founded in 1885.\n▪️ **Allan Octavian Hume (A.O. Hume)**, a retired British civil servant, played a key role in founding the INC.\n▪️ Then the governor-general of British India was Lord Dufferin \n▪️ First session was held in Bombay",
             "uid": "qpiZ51RQT"
           },
           {
@@ -2694,11 +2699,6 @@
         "order": 3,
         "string": "**Muslim Presidents of INC**\n▪️ 1887: Badruddin Tyabji\n▪️ 1896: Rahmatullah M. Sayani",
         "uid": "42T1HIMoC"
-      },
-      {
-        "order": 4,
-        "string": "Bombay, 1885\tW.C Banerjee\tThe first session of INC.\nMadras, 1887\tBadruddin Tayabji\tFirst Muslim President of INC.\nAllahabad, 1888\tGeorge Yule\tFirst English President of INC.\nCalcutta, 1896\tRahimtullah\nM. Sayani\tThe national song ‘Vande Mataram’ sung for the first time.\nVaranasi, 1905\tG.K. Gokhale\tIntroduce the term Swadesi.\nCalcutta, 1906\tDadabhai Naoroji\tIntroduce the term Swaraj.\nSurat, 1907\tRash Behari Ghosh\tParty splits into extremists and moderates.\nLahore, 1909\tMadan Mohan Malaviya\tIndian Councils Act, 1909\nCalcutta, 1911\tBishan Narayan Dar\tNational Anthem ‘Jana Gana Mana’ sung for the first time.\nLucknow, 1916\tAmbica Charan Mazumdar\tMerger/Reunion of Congress and Lucknow pact – joint session with the Muslim league.\nCalcutta, 1917\tAnnie Besant\tFirst Woman President of the INC.\nBelgaum, 1924\tM K Gandhi\tThe only session where Gandhi Ji was the President of INC.\nKanpur, 1925\tSarojini Naidu\tFirst Indian Woman President of INC.\nLahore, 1929\tJawaharlal Nehru\tThe resolution for Poorna Swaraj was passed.\nHaripura, 1938\tSubhas Chandra Bose\tSubhas Chandra Bose became president for the first time.\nMeerut, 1946\tJ.B.\nKripalani\tLast session before the independence of India.",
-        "uid": "wNdJIcIob"
       }
     ]
   },
@@ -3372,6 +3372,49 @@
     ]
   },
   {
+    "page_title": "Important GK Notes",
+    "page_uid": "r09y_hvzi",
+    "blocks": [
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "🔹  India's National Anthem, \"Jana Gana Mana,\" was composed by Rabindranath Tagore.\n🔹  India's National Song, \"Vande Mataram,\" was written by Bankim Chandra Chattopadhyay.",
+            "uid": "PHZOlE1nF"
+          },
+          {
+            "order": 1,
+            "string": "🔹  Highest peak in the world: Mount Everest, located in Nepal.\n🔹  Highest peak in India (disputed): K2 (Godwin Austen), in the Karakoram range, located in Pakistan Occupied Kashmir.\nSo when asked highest peal in India then it is \"K2\", as PoK is Indian part. \n🔹  Highest peak in Indian territory: Kanchenjunga.",
+            "uid": "k8-rbHgnF"
+          },
+          {
+            "order": 2,
+            "string": "🔹  National animal is \"Tiger\", and July 29 is tiger day.\n🔹  National bird is Peackok.\n🔹   National heritage animal is elephant.\n---\n🔹  State animal of Ladakh \"Snow Leopard\"\n🔹  State bird of Ladakh \"Black Necked Crane\"",
+            "uid": "mN0vAn6Hr"
+          },
+          {
+            "order": 3,
+            "string": "In INDIA: \nIn terms of area, Rajasthan is the largest state and Goa is the smallest. \nIn terms of population, Uttar Pradesh is the largest and Sikkim is the smallest.",
+            "uid": "z0igiCvNE"
+          },
+          {
+            "order": 4,
+            "string": "States and their capital: \n\n**North East States and their Capitals:**\n▪️ The eight North East states of India are Arunachal Pradesh (Itanagar), Assam (Dispur), Manipur (Imphal), Meghalaya (Shillong), Mizoram (Aizawl), Nagaland (Kohima), Sikkim (Gangtok), and Tripura (Agartala). \n▪️ These include the seven \"Sister States\" (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, and Tripura) plus Sikkim.\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FLz48tG86fK.png?alt=media&token=3a0841ae-8474-4e73-a353-ea84a85ba766)",
+            "uid": "DwyeC9CF9"
+          },
+          {
+            "order": 5,
+            "string": "",
+            "uid": "MC8dTTsnz"
+          }
+        ],
+        "order": 0,
+        "string": "Important GK Notes",
+        "uid": "royP7dY7B"
+      }
+    ]
+  },
+  {
     "page_title": "Diseases",
     "page_uid": "dorda9ogw",
     "blocks": [
@@ -3379,6 +3422,22 @@
         "order": 0,
         "string": "**Bacterial Diseases**\n▪️ Tuberculosis\n▪️ Cholera\n▪️ Pneumonia\n▪️ Typhoid\n▪️ Meningitis\n▪️ Malaria\n\n**Fungal Diseases**\n▪️ Candidiasis\n▪️ Aspergillosis\n▪️ Cryptococcosis\n▪️ Ringworm\n▪️ Histoplasmosis\n\n**Viral Diseases**\n\n▪️ Influenza\n▪️ HIV/AIDS\n▪️ Hepatitis\n▪️ Dengue\n▪️ COVID-19",
         "uid": "SDcskDb38"
+      },
+      {
+        "order": 1,
+        "string": "**Important Deficiency Diseases** \nImportant Deficiency Diseases\n\nScurvy: \ncaused due to deficiency of Vitamin C (Ascorbic acid)\n\nRickets (in children): \ncaused due to deficiency of Vitamin D\n\nOsteomalacia (in adults): \ncaused due to deficiency of Vitamin D\n\nBeriberi: \ncaused due to deficiency of Vitamin B1 (Thiamine)\n\nPellagra: \ncaused due to deficiency of Vitamin B3 (Niacin)\n\nXerophthalmia/Night Blindness: \ncaused due to deficiency of Vitamin A\n\nAriboflavinosis: \ncaused due to deficiency of Vitamin B2 (Riboflavin)\n\nIron Deficiency Anemia: \ncaused due to deficiency of Iron\n\nGoiter/Cretinism: \ncaused due to deficiency of Iodine\n\nTetany: \ncaused due to deficiency of Calcium (or Magnesium)\n\nKwashiorkor: \ncaused due to deficiency of Protein (with adequate calories)\n\nMarasmus: \ncaused due to deficiency of Protein and Calories\n\nFolate Deficiency Anemia: \ncaused due to deficiency of Folate (Vitamin B9)\n\nVitamin B12 Deficiency Anemia: \ncaused due to deficiency of Vitamin B12 (Cobalamin)\n\nVitamin K Deficiency (Hemorrhagic disease): \ncaused due to deficiency of Vitamin K",
+        "uid": "YUDoDMKqY"
+      }
+    ]
+  },
+  {
+    "page_title": "Unit Measurements",
+    "page_uid": "cQMfcdbb0",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "▪️ Noise is measured in Decibels (dB)\n▪️ Pressure is measured in Pascal (Pa)\n▪️ Temperature is measured in Degree Celsius (°C) / Kelvin (K) / Fahrenheit (°F)\n▪️ Electric Current is measured in Ampere (A)\n▪️ Luminous Intensity is measured in Candela (cd)\n▪️ Force is measured in Newton (N)\n▪️ Energy is measured in Joule (J)\n▪️ Power is measured in Watt (W)\n▪️ Electric Charge is measured in Coulomb (C)\n▪️ Resistance is measured in Ohm (Ω)\n▪️ Frequency is measured in Hertz (Hz)\n▪️ Magnetic Field is measured in Tesla (T)\n▪️ Work is measured in Joule (J)\n▪️ Torque is measured in Newton-metre (N·m)\n▪️ Data Storage is measured in Byte (B)\n▪️ Internet Speed is measured in Bits per second (bps) / Megabits per second (Mbps)",
+        "uid": "FMWJG2M8p"
       }
     ]
   },
