@@ -167,10 +167,18 @@
         "sub_chapters": []
       },
       {
+        "name": "[[Important GK Notes]]",
+        "sub_chapters": []
+      },
+      {
         "name": "Science",
         "sub_chapters": [
           {
             "name": "[[Diseases]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[Unit Measurements]]",
             "sub_chapters": []
           }
         ]
