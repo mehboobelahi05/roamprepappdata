@@ -32,6 +32,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
+    "level": "medium",
     "category": "general studies"
   },
   {
@@ -67,6 +68,7 @@
     ],
     "pdf_link": "",
     "visibility": "all",
+    "level": "medium",
     "category": "general studies"
   },
   {
@@ -102,6 +104,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
+    "level": "",
     "category": "general studies"
   },
   {
@@ -137,6 +140,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
+    "level": "",
     "category": "general studies"
   },
   {
@@ -177,6 +181,7 @@
     ],
     "pdf_link": "",
     "visibility": "all",
+    "level": "",
     "category": "general studies"
   },
   {
@@ -212,6 +217,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
+    "level": "",
     "category": "aptitude"
   },
   {
@@ -252,6 +258,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
+    "level": "",
     "category": "english"
   },
   {
@@ -361,7 +368,8 @@
       "PVkOCzXdm"
     ],
     "pdf_link": "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsilju_ssc%2FQ_E_hH_8m7.pdf?alt=media&token=b31819d6-dea3-489e-9d3e-e89f1adca4b9",
-    "visibility": ""
+    "visibility": "",
+    "level": "Easy"
   },
   {
     "id": "YO7_aOV5u",
@@ -470,7 +478,8 @@
       "RQrcsLJmC"
     ],
     "pdf_link": "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsilju_ssc%2FqIA6xrHmqE.pdf?alt=media&token=9c9f356f-9d35-4c3b-82b7-b69ad6cc17e0",
-    "visibility": ""
+    "visibility": "",
+    "level": "Medium"
   },
   {
     "id": "vf4BpKS_0",
@@ -579,7 +588,8 @@
       "PsGeeXOT1"
     ],
     "pdf_link": null,
-    "visibility": ""
+    "visibility": "",
+    "level": "Easy"
   },
   {
     "id": "1MSW1CgsL",
@@ -688,7 +698,8 @@
       "EyjNmbD9L"
     ],
     "pdf_link": "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fx-oB-Regry.pdf?alt=media&token=a5459a8d-f188-46cd-bd12-a0042d286d23",
-    "visibility": ""
+    "visibility": "",
+    "level": "Hard"
   },
   {
     "id": "FaZaysgVf",
@@ -797,7 +808,8 @@
       "Kb6V1TW5k"
     ],
     "pdf_link": "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fm8vw7g_ScT.pdf?alt=media&token=2b616c07-251b-43cd-a690-133b4e717ec7",
-    "visibility": ""
+    "visibility": "",
+    "level": "Easy"
   },
   {
     "id": "7EFNn30xS",
@@ -886,7 +898,8 @@
       "_9Bs4LdHB"
     ],
     "pdf_link": "https://drive.google.com/file/d/1IvJTgMZ-8L-Ld2mACTmxnk_uFAA109RI/view?usp=sharing",
-    "visibility": ""
+    "visibility": "",
+    "level": "Hard"
   },
   {
     "id": "BD-EacuGz",
@@ -995,7 +1008,8 @@
       "-sWvsBtPR"
     ],
     "pdf_link": null,
-    "visibility": ""
+    "visibility": "",
+    "level": "Easy"
   },
   {
     "id": "ylameAb7Y",
@@ -1104,7 +1118,8 @@
       "iTj9buIYK"
     ],
     "pdf_link": null,
-    "visibility": ""
+    "visibility": "",
+    "level": "Medium"
   },
   {
     "id": "zBRwQK0G7",
@@ -1213,7 +1228,8 @@
       "EgAssUdLU"
     ],
     "pdf_link": null,
-    "visibility": ""
+    "visibility": "",
+    "level": "Hard"
   },
   {
     "id": "AoqWbs83O",
@@ -1322,7 +1338,8 @@
       "BhZu5F30E"
     ],
     "pdf_link": null,
-    "visibility": ""
+    "visibility": "",
+    "level": "Easy"
   },
   {
     "id": "Q4fSnhV5F",
@@ -1431,7 +1448,8 @@
       "DuqmBiiPc"
     ],
     "pdf_link": null,
-    "visibility": ""
+    "visibility": "",
+    "level": "Hard"
   },
   {
     "id": "dEATpwWY4",
@@ -1559,7 +1577,8 @@
       "DZrc18afL"
     ],
     "pdf_link": "https://drive.google.com/file/d/1ez1IGZZ2cZWOcjW4LN-Fu-6Y_slzsons/view?usp=sharing",
-    "visibility": ""
+    "visibility": "",
+    "level": "Hard"
   },
   {
     "id": "Oe4nWCZG0_gs",
