@@ -7,6 +7,10 @@
         "sub_chapters": []
       },
       {
+        "name": "[[Ladakh Current Affairs]]",
+        "sub_chapters": []
+      },
+      {
         "name": "[[Jammu and Kashmir]]",
         "sub_chapters": []
       },
@@ -116,6 +120,14 @@
         "name": "Geography",
         "sub_chapters": [
           {
+            "name": "[[Indian Map Geography]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[Important Geography Facts]]",
+            "sub_chapters": []
+          },
+          {
             "name": "[[Solar System]]",
             "sub_chapters": []
           },
@@ -147,7 +159,12 @@
       },
       {
         "name": "[[Economy]]",
-        "sub_chapters": []
+        "sub_chapters": [
+          {
+            "name": "[[GST Notes]]",
+            "sub_chapters": []
+          }
+        ]
       },
       {
         "name": "[[International Groupings]]",
@@ -178,10 +195,18 @@
             "sub_chapters": []
           },
           {
+            "name": "[[Biology Notes]]",
+            "sub_chapters": []
+          },
+          {
             "name": "[[Unit Measurements]]",
             "sub_chapters": []
           }
         ]
+      },
+      {
+        "name": "[[Computer Notes]]",
+        "sub_chapters": []
       }
     ]
   },
