@@ -1,7 +1,7 @@
 [
   {
     "id": "Dw34rTsdF",
-    "name": "Ladakh GK Mock-1",
+    "name": "Ladakh GK Mock Test-1",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "mTTCqIiur",
@@ -29,6 +29,41 @@
       "nz4Zikspd",
       "o1yg89uxL",
       "4a1-qiVQY"
+    ],
+    "pdf_link": "",
+    "visibility": "all",
+    "category": "general studies"
+  },
+  {
+    "id": "9dlAyVlbV",
+    "name": "Ladakh GK Mock Test-2",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "z2dXrJc1-",
+      "scJZixUsF",
+      "68BrdbGo1",
+      "Hb1vxOVXT",
+      "km17Qd1af",
+      "NglsIvUKn",
+      "8NPlzasUk",
+      "ZQeIBFxxq",
+      "6CL8GWj1S",
+      "iXVc_hQ8Y",
+      "XKVYxBjaL",
+      "20WGMM-wv",
+      "qGPRkrOOe",
+      "akhnqHpvl",
+      "DDus8Aa71",
+      "CdLfCLLXS",
+      "fO2MqojEV",
+      "8qh20xlaY",
+      "HYSL2VSLS",
+      "Pgi4NmHxz",
+      "cMIAbKgYq",
+      "fWnojrA4p",
+      "GPIM4PIlZ",
+      "HGZqPuErp",
+      "vetWZdkUe"
     ],
     "pdf_link": "",
     "visibility": "all",
