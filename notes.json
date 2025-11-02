@@ -5,7 +5,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Ladakh as Union Territory**\n▪️On ^^October 31, 2019^^, when Jammu and Kashmir was formally reorganized into two Union Territories, the region was under President's Rule and had no chief minister. The Governor of Jammu and Kashmir at that time was ^^Satya Pal Malik^^.\n▪️ Ladakh is a ^^UT without legislature^^ i.e directly governed by Central Govt. via Lieutenant Governor (LG)\n▪️ ^^Both Leh and Kargil^^ are joint capitals of UT Ladakh.\n▪️ Ladakh UT is also known as \"The Land of High Passes\" & \"Cold Desert\"\n▪️ Note: Ladakh is known as Cold Desert, but the Cold Desert Biosphere Reserve is in Himachal.\n\n**Lieutenant Governors of UT Ladakh**\n▪️ First Lt. governor was  ^^Radha Krishna Mathur^^ (Oct 2019 to Feb 2023)\n▪️ Second Lt. governor was  ^^Brig. (Dr.) B.D. Mishra^^ (Feb 2023 to July 2025)\n▪️ Third and Current Lt. governor is  ^^Kavinder Gupta^^ (From July 2025 ...)",
+        "string": "**Ladakh as Union Territory**\n▪️On ^^October 31, 2019^^, when Jammu and Kashmir was formally reorganized into two Union Territories, the region was under President's Rule and had no chief minister. The Governor of Jammu and Kashmir at that time was ^^Satya Pal Malik^^.\n▪️ Ladakh is a ^^UT without legislature^^ i.e directly governed by Central Govt. via Lieutenant Governor (LG)\n▪️ ^^Both Leh and Kargil^^ are joint capitals of UT Ladakh.\n▪️ Ladakh UT is also known as = \"Little Tibet\"  \"The Land of High Passes\" & \"Cold Desert\"\n▪️ Note: Ladakh is known as Cold Desert, but the Cold Desert Biosphere Reserve is in Himachal.\n\n**Lieutenant Governors of UT Ladakh**\n▪️ First Lt. governor was  ^^Radha Krishna Mathur^^ (Oct 2019 to Feb 2023)\n▪️ Second Lt. governor was  ^^Brig. (Dr.) B.D. Mishra^^ (Feb 2023 to July 2025)\n▪️ Third and Current Lt. governor is  ^^Kavinder Gupta^^ (From July 2025 ...)",
         "uid": "v9RSQMU2X"
       },
       {
@@ -32,6 +32,11 @@
         "order": 5,
         "string": "**About Kargil:**\n▪️ Kargil became a separate district in the Ladakh region during the year 1979 when it was bifurcated from the earstwhile Leh ditrict.\n▪️ Ladakh Autonomous Hill Development Council Kargil was commissioned in July 2003 in the district.\n▪️ Islam came to Kargil in 15th century. Mir Shams-ud-Din Iraqi, a scholar of Shia school of central Asia visited Baltistan and Kargil with his missionaries to preach Islam.\n▪️ Kargil is called the ^^land of Agas^^ in the present day world.\n▪️ The book “Kargil Blunder” was written by Parvez Dewan. \n▪️ Hill Council was established for Kargil in 2003, by the then CM of erstwhile J&K state Mufti Mohammad Sayeed\nSource: [kargil.nic.in](https://kargil.nic.in/history/)",
         "uid": "eI8F5T8E2"
+      },
+      {
+        "order": 6,
+        "string": "▪️ Both Kargil and Leh districts have Rural Development Department blocks. \n▪️ Kargil has 15 blocks, \n▪️ Leh has 16 blocks",
+        "uid": "6GgGd1_BD"
       },
       {
         "children": [
@@ -61,7 +66,7 @@
             "uid": "rHdCrXI6F"
           }
         ],
-        "order": 6,
+        "order": 7,
         "string": "**Protected Areas in Ladakh:**\n▪️ Ladakh has ^^only one national park^^ i.e Hemis National Park.\n▪️ Ladakh has ^^two Wildlife Sanctuaries^^: Changthang Wildlife Sanctuary and Karakoram (Nubra Shyok) Wildlife Sanctuary\n▪️ Ladakh has ^^two ramsar sites^^: Tso Kar  and Tso Moriri",
         "uid": "zxZ8F7eer"
       },
@@ -88,62 +93,62 @@
             "uid": "ljRvDid-D"
           }
         ],
-        "order": 7,
+        "order": 8,
         "string": "**Important Rivers of Ladakh:**\n▪️ The Leh city is on the bank of Indus river.\n▪️ The Kargil city is on the bank of Suru river.",
         "uid": "0On4XhxHw"
       },
       {
-        "order": 8,
+        "order": 9,
         "string": "**Ladakh**\n▪️ Lt. Governor of UT Ladakh: ^^Kavinder Gupta^^\n▪️ DC of Leh: ^^Shri Romil Singh Donk, IAS^^\n▪️ DC of Kargil: ^^Rakesh Kumar, IAS^^\n▪️ CEC of LAHDC Leh: ^^Advocate Tashi Gyalson^^\n▪️ CEC of LAHDC Kargil: ^^Dr. Mohd Jaffer Akhoon^^\n\n▪️ Vice Chancellor of Ladakh University Leh: ^^Prof. Saket Kushwaha^^\n▪️ Vice Chancellor of Ladakh University Kargil: Prof. Saket Kushwaha \n▪️ University of Ladakh has a unified VC for both Leh and Kargil campuses.",
         "uid": "6NY2K1fIo"
       },
       {
-        "order": 9,
+        "order": 10,
         "string": "**Official Languages of UT Ladakh**\n▪️ Ladakh has 5 official languages.\n▪️ These are: Purgi, Bhoti, Urdu, Hindi, and English.\n▪️ English will continue to be used for most official purposes, while the other languages are now also officially recognized\n((sWmW83hRj))",
         "uid": "AiGr3c3fA"
       },
       {
-        "order": 10,
+        "order": 11,
         "string": "**Project Name: Nimoo Bazgo (on Indus River)**\nCapacity (MW): 45\nStatus: Operational (2011)\nKey Notes: Largest in Ladakh; developed by NHPC; supplies power to Leh region; compliant with Indus Waters Treaty.\n\n\n**Project Name: Chutak (on Suru River)**\nCapacity (MW): 44\nStatus: Operational (2013)\nKey Notes: Major NHPC project; dedicated to Kargil supply; 4x11 MW units; connected to Northern Grid.",
         "uid": "F-UcZPpHl"
       },
       {
-        "order": 11,
+        "order": 12,
         "string": "**About Pangong Lake**\n▪️ Pangong Lake is a high-altitude, endorheic salt lake in the Himalayas.\n▪️ It is  one of the highest brackish water lakes in the world\n▪️ It is spread both in India and China\n▪️ The lake is almost 5km wide and 134km long, with **one-third** of it lying in India and the other two-thirds in China.\n▪️ It is not a ramsar site. \n▪️ The most gripping fact about this lake is that it changes color appearing blue, grey-green, and red at varied points in time. \n▪️ During winter, the lake freezes completely despite being saline water.\n▪️ The ^^first frozen lake marathon^^ was the ^^Pangong Frozen Lake Marathon in Ladakh^^, India, held on February 20, 2023. It was registered in the ^^Guinness Book of World Records^^ as the world's highest frozen lake marathon, taking place on the frozen surface of Pangong Tso at an altitude of roughly 13,862 feet.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FkkyUTufqdG.png?alt=media&token=e4452dc4-6631-42a7-8bfe-0075705120b4)",
         "uid": "2NtJe83hf"
       },
       {
-        "order": 12,
+        "order": 13,
         "string": "**Shanti stupa**\n▪️ The Shanti stupa is located in Leh district of Ladakh.\n▪️ It was built in 1991 by Japanese Buddhist Bhikshu and Gyomyo Nakamura.\n▪️ The stupa consists of a photograph of the Dalai Lama with the relics of the Buddha at the base.\n▪️ The structure of the stupa is a \"two-level structure\".\nThe purpose of the construction of Stupa is to promote world peace and prosperity.\n▪️ It symbolizes the relationship between the people of Japan and Ladakh.\n▪️ A similar structure is built in New Delhi in Kale Khan \n▪️ It was inaugurated by current 14th Dalai Lama\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fz4VFLtGrTQ.png?alt=media&token=47b5b044-1309-466c-836e-4c4ecaa896fc)",
         "uid": "gzTMcTxPV"
       },
       {
-        "order": 13,
+        "order": 14,
         "string": "**Passes in Ladakh**\n▪️ Ladakh UT is also known as ^^\"The Land of High Passes\"^^\n▪️ The ^^highest pass in Ladakh is Mig La Pass^^, which is also the world's highest motorable road at 19,400 feet. \n▪️ The Border Roads Organisation (BRO) constructed this road, which was completed in October 2025, surpassing the previous record held by Umling La Pass. \n\n**Top three passes of Ladakh:**\n1. Mig La pass (19400 ft)\n2. Umling La pass (19,024 ft)\n3. Khardung la pass (18,379 ft)\n\n▪️ Khardung la is the gateway to Shyok and Nubra valleys and it leads to endless scenic vistas.\n\n▪️ Mig La is situated in the Himalayan mountain range. \n▪️ Umling La is part of the Ladakh mountain ranges. \n▪️ Khardung La Pass is located in the Ladakh Range, a sub-range of the Himalayas. \n▪️ The Zojila Pass ( 11500 ft) is in the Zanskar Range of the Himalayas. \n▪️ The approximate length of Zojila Tunnel is 14.15 Km.",
         "uid": "l1mUv520q"
       },
       {
-        "order": 14,
+        "order": 15,
         "string": "**Other Important Facts:**\n\n▪️ Lamayuru: it is also known as the Moonland of Ladakh.\n▪️ Magnetic hill that is believed to defy gravity is located at a distance of 30km(s) from Leh on the Leh-Kargil Highway\n\n**Nubra Vallye**\n▪️ NubraValley is known as the orchard of Ladakh\n▪️ Khardungla pass connects Nubra valley with Leh.\n▪️ The 108ft tall Statue of Maitreya Buddha is in Nubra valley.\n▪️ Double-humped camels (Bactrian camels) are mainly found in the Nubra Valley region of Ladakh, particularly in the Hunder village.",
         "uid": "0sPL9aH8e"
       },
       {
-        "order": 15,
+        "order": 16,
         "string": "**Schemes Mentioned in UT Ladakh Govt Website:**\n[link here](https://ladakh.gov.in/provider/central-government/)\n\n**Pradhan Mantri Awaas Yojana – Gramin (PMAY-G)**\n▪️ Provide pucca houses with basic amenities to rural poor/homeless and those living in kutcha houses.  \n\n**Pradhan Mantri Awaas Yojana (Urban)**  \n▪️ Ensure affordable housing for urban poor, slum dwellers, and EWS/LIG categories.  \n\n**Pradhan Mantri Gram Sadak Yojana (PMGSY)**  \n▪️ Provide all-weather road connectivity to unconnected rural habitations (250+ population in plains, 100+ in hilly areas).  \n\n**Pradhan Mantri Kaushal Vikas Yojana (PMKVY)**  \n▪️ Skill training of youth for employment/entrepreneurship through short-term courses and recognition of prior learning.  \n\n**Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)**  \n▪️ Provide ₹6,000 per year income support to small & marginal farmer families (in 3 equal installments).  \n\n**Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)**  \n▪️ Provide 100 days of guaranteed wage employment per year to rural households for unskilled manual work.",
         "uid": "yG51kj7w9"
       },
       {
-        "order": 16,
+        "order": 17,
         "string": "▪️ The Changpa community resides in the Changthang region of Ladakh.\n▪️ They are known for rearing Pashmina goats.\n▪️ Pashmina is a high-quality, luxurious fabric made from the fine wool of these goats.\n▪️ Pashmina received the Geographical Indication (GI) Tag in 2008.",
         "uid": "quFMuy7Yy"
       },
       {
-        "order": 17,
+        "order": 18,
         "string": "**GI Tags From UT Ladakh**\n▪️ As of late 2023, four products from the Union Territory of Ladakh have been granted a Geographical Indication (GI) tag. \n1. Raktsey Karpo (Ladakh Apricot : 2022\n2. Ladakh Wood Carving April 2023\n3. Ladakh Seabuckthorn: November 2023\n4. Ladakh Pashmina: October 2024\n\n\n**Raktsey Karpo (Ladakh Apricot):** \n▪️ This specific variety of apricot was the ^^first product from Ladakh^^ to receive a GI tag, in December 2022. \n▪️ It is known for its unique sweetness and white kernel stone.\n\n**Ladakh Pashmina:** \n▪️ Sourced from the Changthang region, this fine-quality wool comes from the undercoat of the Changthangi goat. \n▪️ It is globally recognized for its unparalleled softness and warmth.\n▪️ Ladakh Pashmina received its Geographical Indication (GI) tag on October 5, 2024.\n\n**Ladakh Wood Carving:** \n▪️ This art form is known for its intricate designs, often featuring motifs inspired by Tibetan Buddhism. \n▪️ A common item is the chokste, a low wooden table.\n▪️ Ladakh wood carving received its Geographical Indication (GI) tag in April 2023\n\n**Ladakh Seabuckthorn:** \n▪️ Nicknamed the \"wonder plant\" or \"Ladakh Gold,\" this orange-yellow berry is packed with vitamins. \n▪️ Ladakh produces 90% of India's sea buckthorn, a plant that helps prevent soil erosion and is a source of fodder.\n▪️ Ladakh's sea buckthorn was granted a Geographical Indication (GI) tag in November 2023\n▪️ Also known as \"wonder plant\" or \"golden bush\".",
         "uid": "BGb2E2TTW"
       },
       {
-        "order": 18,
+        "order": 19,
         "string": "**Festivals in Ladakh:**\n▪️ Hemis Festival – Celebrates birth anniversary of Guru Padmasambhava; famous for Cham (masked) dances at Hemis Monastery (June/July)\n▪️ Losar Festival – Ladakhi New Year; marked by family gatherings, feasts, dances, and prayers (December/January)\n▪️ Sindhu Darshan – Celebrates Indus River; held on full moon of June at Sindhu Ghat, Leh\n▪️ Ladakh Harvest Festival – Showcases local culture, archery, polo, music; held in September (Leh & villages)\n▪️ Phyang Tsedup – Festival at Phyang Monastery with oracle predictions and mask dances (July/August)\n▪️ Yuru Kabgyat – At Lamayuru Monastery; features sacred dances and rituals (June/July)\n▪️ Matho Nagrang – Unique oracle festival at Matho Monastery; monks in trance predict future (February/March)\n▪️ Thikse Gustor – Two-day festival with mask dances at Thikse Monastery (October/November)",
         "uid": "MKasaDkeD"
       }
@@ -2142,91 +2147,12 @@
         "uid": "kgjhSqcBm"
       },
       {
-        "children": [
-          {
-            "order": 0,
-            "string": "(1): No deprivation of property except by law.",
-            "uid": "xoaGdJphG"
-          },
-          {
-            "order": 1,
-            "string": "(2): Acquisition only for public purpose + compensation.",
-            "uid": "hKLADSpEc"
-          },
-          {
-            "order": 2,
-            "string": "Removed by 44th Amend. (1978) → Now Art. 300A.",
-            "uid": "jBNaH_Ra9"
-          }
-        ],
-        "heading": 3,
         "order": 8,
-        "string": "**Art. 31** (Original)",
-        "uid": "MTVHxL1_j"
-      },
-      {
-        "children": [
-          {
-            "order": 0,
-            "string": "Saves laws acquiring “estates”.",
-            "uid": "5KCQqER3U"
-          },
-          {
-            "order": 1,
-            "string": "Immune from Art. 14, 19, 31.",
-            "uid": "Bou7R8kBg"
-          },
-          {
-            "order": 2,
-            "string": "Public purpose + compensation (not just).",
-            "uid": "qnQlT66qI"
-          },
-          {
-            "order": 3,
-            "string": "President’s certificate → Ninth Schedule protection.",
-            "uid": "nZYbDZtzR"
-          },
-          {
-            "order": 4,
-            "string": "Covers agrarian reform, industry, etc.",
-            "uid": "XODB8R-yG"
-          }
-        ],
-        "heading": 3,
-        "order": 9,
-        "string": "**Art. 31A**",
-        "uid": "rAVkFTkBh"
-      },
-      {
-        "children": [
-          {
-            "order": 0,
-            "string": "Laws in **Ninth Schedule** immune from FR violation.",
-            "uid": "3UyQjYrwA"
-          },
-          {
-            "order": 1,
-            "string": "No judicial review on Part III grounds.",
-            "uid": "jZnqCmC9U"
-          },
-          {
-            "order": 2,
-            "string": "Added via 1st Amend. (1951).",
-            "uid": "alfdLx15o"
-          }
-        ],
-        "heading": 3,
-        "order": 10,
-        "string": "**Art. 31B**",
-        "uid": "oB3zxev_N"
-      },
-      {
-        "order": 11,
         "string": "**Right to Constitutional Remedies (Article 32)**\n▪️ Article 32 provides the right to move the Supreme Court for enforcement of Fundamental Rights.\n▪️ Dr. B. R. Ambedkar called it the \"Heart and Soul\" of the Constitution.\n▪️ It makes Fundamental Rights enforceable and justiciable.\n▪️ Both Supreme Court (Art. 32) and High Courts (Art. 226) can issue writs.\n▪️ This right acts as a guarantee against violation of Fundamental Rights.",
         "uid": "srf8G8i55"
       },
       {
-        "order": 12,
+        "order": 9,
         "string": "**Five Writs under Article 32**\n\n**Habeas Corpus** \n▪️ “Produce the body” \n▪️ Issued to release a person unlawfully detained.\n\n**Mandamus** \n▪️ Means “We Command”\n▪️ Issued to direct a public authority to perform its duty.\n\n**Prohibition** \n▪️ Issued by a higher court to a lower court to stop it from exceeding its jurisdiction.\n\n**Certiorari** \n▪️ Issued by a higher court to transfer or quash the order of a lower court.\n\n**Quo Warranto** \n▪️ Means  “By what authority” \n▪️ Issued to check the legality of a person holding a public office.",
         "uid": "ban1JuXVA"
       }
@@ -2319,6 +2245,17 @@
         "order": 0,
         "string": "**Advisory Jurisdiction (Article 143)**\n▪️ This constitutional provision empowers the President to consult the Supreme Court on any question of law or fact that has arisen or is likely to arise and is of public importance.\n▪️ The Supreme Court, after holding the necessary hearing, reports its opinion to the President.\n▪️ The advice given by the Supreme Court under this article is ^^not binding^^ on the President; it is consultative in nature.\n▪️ The President can seek advice on issues such as disputes arising from pre-constitutional treaties, agreements, and other similar instruments",
         "uid": "zjabb3lMU"
+      }
+    ]
+  },
+  {
+    "page_title": "Polity Static Notes",
+    "page_uid": "Zk5ifzhsx",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Important Acts Passed by the Indian Parliament**: \n▪️ **1955: Hindu Marriage Act** – Codified Hindu marriage laws, including divorce rights.\n▪️ **1956: States Reorganisation Act** – Redefined state boundaries on linguistic basis.\n▪️ **1975: 42nd Constitutional Amendment Act** – Expanded state powers during Emergency era.\n▪️ **1986: Environment (Protection) Act** – Framework for pollution control and environmental safeguards.\n▪️ **2002: Prevention of Money Laundering Act (PMLA)** – Targets money laundering and terror financing.\n▪️ **2005: Right to Information (RTI) Act** – Enables citizens to access public records for transparency.\n▪️ **2008: National Investigation Agency Act** – Creates NIA for investigating terror cases.\n▪️ **2009: Right of Children to Free and Compulsory Education (RTE) Act** – Mandates free education for ages 6-14.\n▪️ **2010: National Green Tribunal (NGT) Act** – Establishes tribunal for speedy environmental justice.\n▪️ **2013: Companies Act** – Reforms corporate governance, mergers, and investor protections.\n▪️ **2013: Sexual Harassment of Women at Workplace Act** – Mechanisms to prevent and redress workplace harassment.\n▪️ **2013: National Food Security Act** – Provides subsidized food to over 60% of population.\n▪️ **2016: Aadhaar Act** – Enables targeted delivery of subsidies via unique ID system.\n▪️ **2017: Goods and Services Tax (GST) Act** – Unified indirect tax system across India.\n▪️ **2019: Muslim Women (Protection of Rights on Marriage) Act** – Criminalizes instant triple talaq.\n▪️ **2019: Jammu and Kashmir Reorganisation Act** – Bifurcates J&K into two Union Territories.",
+        "uid": "agb12pC0G"
       }
     ]
   },
@@ -2679,7 +2616,7 @@
       },
       {
         "order": 1,
-        "string": "**🏰 Dynasties of the Delhi Sultanate (1206–1526)**\n\nThe Delhi Sultanate ruled from 1206 to 1526 and consisted of five major dynasties:\n1. Slave (Mamluk) Dynasty – 1206–1290\n2. Khalji Dynasty – 1290–1320\n3. Tughlaq Dynasty – 1320–1414\n4. Sayyid Dynasty – 1414–1451\n5. Lodi Dynasty – 1451–1526\n\n🔑 Key Point\n> The first four dynasties (Slave, Khalji, Tughlaq, Sayyid) were Turkish in origin.\n> The Lodi Dynasty was the only Afghan dynasty of the Delhi Sultanate.",
+        "string": "**🏰 Dynasties of the Delhi Sultanate (1206–1526)**\n\nThe Delhi Sultanate ruled from 1206 to 1526 and consisted of five major dynasties:\n1. Slave (Mamluk) Dynasty – 1206–1290\n2. Khalji Dynasty – 1290–1320\n3. Tughlaq Dynasty – 1320–1414\n4. Sayyid Dynasty – 1414–1451\n5. Lodi Dynasty – 1451–1526\n\nKey Point\n▪️ The first four dynasties (Slave, Khalji, Tughlaq, Sayyid) were Turkish in origin.\n▪️ The Lodi Dynasty was the only Afghan dynasty of the Delhi Sultanate.",
         "uid": "d9ok-KkWf"
       },
       {
@@ -2691,7 +2628,7 @@
         "children": [
           {
             "order": 0,
-            "string": "After the death of Muhammad Ghori in 1206, Qutbuddin Aibak declared independence and established Slave dynasty. He was Turkish in origin. \n🔸 He made Lahore his capital. Delhi was then his military center. \n🔸 This led to the foundation of the Slave Dynasty.\n🔸 Slave dynasty is also called as **Mamluk** Dynasty.\n🔸 It was the first Muslim dynasty of the Delhi Sultanate.\n\n➤ The Slave Dynasty consisted of three sub-dynasties:\n🔹 1. Qutbi Dynasty (1206–1211), founded by Qutbuddin Aibak.\n🔹 2. First Ilbari Dynasty (1211–1266), founded by Iltutmish.\n🔹 3. Second Ilbari Dynasty (1266–1290), founded by Balban.\n\nThus we can say that slave dynasty ruled between 1206 till 1290.",
+            "string": "▪️ After the death of Muhammad Ghori in 1206, Qutbuddin Aibak declared independence and established Slave dynasty. \n▪️ He was Turkish in origin. \n▪️ He made Lahore his capital. Delhi was then his military center. \n▪️ This led to the foundation of the Slave Dynasty.\n▪️ Slave dynasty is also called as **Mamluk** Dynasty.\n▪️ It was the first Muslim dynasty of the Delhi Sultanate.\n\n**The Slave Dynasty consisted of three sub-dynasties:**\n1. Qutbi Dynasty (1206–1211), founded by Qutbuddin Aibak.\n2. First Ilbari Dynasty (1211–1266), founded by Iltutmish.\n3. Second Ilbari Dynasty (1266–1290), founded by Balban.\n\nThus we can say that slave dynasty ruled between 1206 till 1290.",
             "uid": "mSqc7xBhZ"
           },
           {
@@ -2769,6 +2706,18 @@
         "order": 0,
         "string": "This is Mughals Data .. Will be added soon",
         "uid": "A2DYrzaub"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Mansabdari System**\n▪️ Introduced by Mughal Emperor Akbar.\n▪️ It was a unique administrative and military system that assigned ranks (mansabs) to officials based on their civil and military duties, status, and pay. \n▪️ This system integrated the nobility, armed forces, and bureaucracy by using a dual-ranking system of \"zat\" (personal rank and salary) and \"sawar\" (cavalry contingent to be maintained). \n▪️ Appointments, promotions, and dismissals were all made directly by the emperor, who also determined the rank and responsibilities of each mansabdar.",
+            "uid": "L-acxaze9"
+          }
+        ],
+        "order": 1,
+        "string": "**Akbar 1556 - 1605**\nWatch video: {video:NIasvMMh2kQ:1490} \n▪️ Regent (1556–1560): Bairam Khan, as regent ruled during the early period of the Akbars tenure. \n▪️ Capital: Initially Agra; later Fatehpur Sikri (1571–1585)\n\n**Major Conquests:**\n▪️ Rajasthan (Chittor 1568, Ranthambore 1569)\n▪️ Gujarat (1572–73):\n▪️ Bengal (1574–76)\n▪️ Bihar, Odisha, Kashmir, Sindh, Baluchistan\n\n\n**Administrative Reforms:**\n▪️ Mansabdari System: Rank-based military & civil hierarchy\n▪️ Zat & Sawar: Personal rank & cavalry maintenance\n▪️ Dahshala System: Land revenue based on 10-year average yield\n▪️ Suba System: Provinces governed by Subedars\n\n\n**Religious Policy:**\n▪️ Abolished Jizya tax on non-Muslims (1564)\n▪️ Sulh-i-Kul: Universal tolerance\n▪️ Founded Din-i-Ilahi (1582) – syncretic faith (few followers)\n▪️ Ibadat Khana (Fatehpur Sikri): House of Worship for interfaith debates\n\n\n**Cultural Contributions:**\n▪️ Patron of Tansen (musician), Birbal (advisor), Abul Fazl (historian)\n▪️ Ain-i-Akbari & Akbar Nama by Abul Fazl\n▪️ Persian as court language; promoted Hindi & Sanskrit translations\n▪️ Mughal miniature painting flourished\n\n\n**Architecture:**\n▪️ Fatehpur Sikri (UNESCO site): Buland Darwaza, Salim Chishti Tomb\n▪️ Agra Fort expansion\n▪️ Lahore Fort, Allahabad Fort\n\n\n▪️ Navratnas (9 Gems): \n▪️ Birbal, Tansen, Todar Mal, Abul Fazl, Faizi, Raja Man Singh, Mullah Do Piyaza, Hakim Humam, Abdul Rahim Khan-i-Khana",
+        "uid": "hOA_Scchx"
       }
     ]
   },
@@ -3155,6 +3104,11 @@
         "order": 1,
         "string": "▪️ Uttar Pradesh: Highest Milk producing state in India\n▪️ Uttar Pradesh: Highest Wheat producing state in India\n▪️ West Bengal: Highest Rice producing state in India\n▪️ Rajasthan: Highest Millet producing state in India\n▪️ Madhya Pradesh: Highest Pulses producing state in India\n▪️ Uttar Pradesh: Highest Sugarcane producing state in India\n▪️ Gujarat: Highest Cotton producing state in India\n▪️ Assam: Highest Tea producing state in India\n▪️ Karnataka: Highest Coffee producing state in India",
         "uid": "6UcZmndvp"
+      },
+      {
+        "order": 2,
+        "string": "**Coral Reefs:**\n\n**Definition:** \n▪️ Massive underwater structures built by colonies of tiny animals called coral polyps (phylum Cnidaria).\n\n**Types:**\n▪️ Fringing reefs: Grow close to shorelines.\n▪️ Barrier reefs: Separated from land by lagoons (e.g., Great Barrier Reef).\n▪️ Atolls: Ring-shaped around submerged volcanic islands.\n\n▪️ Largest reef system → ^^Great Barrier Reef^^, in Eastern Australia (2,300 km long, visible from spac![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FvUR8zNPmJK.png?alt=media&token=ada02dcd-5229-4530-b527-092c715603e8)e).\n\n**Location: **\n▪️ Tropical waters (30°N–30°S), clear, warm (20–30°C), shallow (<50 m), low nutrients.\n**Biodiversity: **\n▪️ \"Rainforests of the sea\"; ~25% of all marine species despite covering <0.1% of ocean floor.\n\n**Key Species:**\n▪️ Hard corals (reef builders, calcium carbonate skeletons).\n▪️ Soft corals, sea fans, sponges.\n▪️ Fish (parrotfish, clownfish), sharks, turtles, mollusks.\n\n**Symbiosis:** \n▪️ Polyps host zooxanthellae (photosynthetic algae) → provide 90% energy via sugars; give corals color.\n\n**Formation Process:**\n▪️ Polyps secrete CaCO₃ → form exoskeletons.\n▪️ Die → leave skeleton; new polyps grow on top.\n▪️ Over millennia → massive reef structures.\n\n\n**Ecological Roles:**\n▪️ Habitat & nursery for marine life.\n▪️ Coastal protection (wave energy dissipation).\n▪️ Carbon sink; support fisheries & tourism.\n\n\n**Major Threats:**\n▪️ Climate change: Warming → coral bleaching (zooxanthellae expulsion).\n▪️ Ocean acidification: CO₂ lowers pH → weakens CaCO₃ skeletons.\n▪️ Pollution, overfishing, destructive fishing (dynamite/cyanide).\n▪️ Physical damage (anchors, tourism).",
+        "uid": "lQYVdv_i3"
       }
     ]
   },
@@ -3455,6 +3409,11 @@
         "order": 0,
         "string": "Watch video: {video:IvAK3Ag2EWY:0} \nThe five main layers of the Earth's atmosphere, in order from the surface, are the troposphere, stratosphere, mesosphere, thermosphere, and exosphere.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F55z9PPas4g.png?alt=media&token=43ab9147-914c-4fb4-8d1b-96f3e99bbf0f)",
         "uid": "y3IBiyCp2"
+      },
+      {
+        "order": 1,
+        "string": "**Freshwater on Earth** \n▪️ The Earth is a watery place. About 71% of the Earth's surface is water-covered, while the other 29% consists of continents and islands. \n▪️ 96.5% of all the Earth's water is contained within the oceans as saltwater, while the remaining 3.5% is freshwater lakes and frozen water locked up in glaciers and the polar ice caps.\n▪️ Water also exists in the air as water vapor, in rivers and lakes, in icecaps and glaciers, in the ground as soil moisture and in aquifers. \n▪️ The vast majority of water on the Earth's surface is saline water in the oceans. \n\n▪️ Over 68% of the freshwater on Earth is found in icecaps and glaciers\n▪️ 30 percent is found in groundwater. \n▪️ Only about 0.3 percent of our freshwater is found in the surface water of lakes, rivers, and swamps. \n\n\n▪️ The Antarctic ice sheet holds about 90 percent of the fresh water that exists on the Earth’s surface.\n▪️ The ice sheet covers approximately 8.7 million square miles. \n▪️ The Greenland ice sheet also contains large volumes of fresh water. \nThese two ice sheets account for more than 99 percent of the freshwater ice on the planet.\n\n\n▪️ **22 March** is celebrated as the world water day every year.",
+        "uid": "zE1QrM54R"
       }
     ]
   },
@@ -3488,6 +3447,11 @@
         "order": 3,
         "string": "**Important International Conventions:**",
         "uid": "RuGhvNfn6"
+      },
+      {
+        "order": 4,
+        "string": "**About Oxygen Gas**\n▪️ Chemical Formula: O₂  \n▪️ Atomic Number: 8  \n▪️ Natural Abundance: 21% of Earth's atmosphere by volume; most abundant element in Earth's crust (~46% by mass)  \n▪️ Physical State: Colorless, odorless, tasteless gas at room temperature  \n▪️ Allotropes: O₂ (diatomic oxygen) and O₃ (ozone)  \n▪️ Role in Life: Essential for aerobic respiration in animals and plants  \n▪️ Ozone Layer: O₃ in stratosphere absorbs harmful UV radiation  \n▪️ First Aid: Used in hyperbaric oxygen therapy for decompression sickness  \n▪️ Toxicity: Pure O₂ at high pressure causes oxygen toxicity (seizures, lung damage)  \n▪️ Cycle: Produced by photosynthesis; consumed by respiration and decay\n▪️ Helps in combustion.",
+        "uid": "SzI0SurBI"
       }
     ]
   },
@@ -3589,6 +3553,11 @@
         "order": 3,
         "string": "**Economic Fullforms:**\n▪️ RBI: Reserve Bank of India\n▪️ SEBI: Security and Exchange Board of India\n▪️ UPI: Unified Payments Interface\n▪️ ATM: Automatic Teller Machine\n▪️ FDI: Foreign Direct Investment\n▪️ IBC: Insolvency and Bankruptcy Code\n▪️ IBBI: Insolvency and Bankruptcy Board of India\n▪️ GST: Goods & Services Tax\n▪️ WPI: Wholesale Price Index\n▪️ CPI: Consumers Price Index\n▪️ GDP: Gross Domestic Product\n▪️ IIP: Index of Industrial Production",
         "uid": "4px-fK97-"
+      },
+      {
+        "order": 4,
+        "string": "**Country: Currency** \n**The countries bordering India:**\n1. Pakistan (Pakistani Rupee), \n2. Nepal (Nepalese Rupee), \n3. Bangladesh (Bangladeshi Taka), \n4. Bhutan (Bhutanese Ngultrum), \n5. Myanmar (Burmese Kyat), \n6. China (Renminbi or Yuan) \n7. Afghanistan (Afghan Afghani).",
+        "uid": "7aLUCib2q"
       }
     ]
   },
@@ -3721,7 +3690,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "",
+        "string": "**Important Biology Facts:**\n▪️ Largest Bone: Femur  \n▪️ Smallest Bone: Stapes  \n▪️ Largest Organ: Skin  \n▪️ Smallest Organ: Pineal Gland  \n▪️ Largest Cell: Ovum  \n▪️ Longest Cell: Neuron  \n▪️ Smallest Cell: Sperm Cell",
         "uid": "hS37yRJUB"
       },
       {
@@ -3746,7 +3715,7 @@
       },
       {
         "order": 5,
-        "string": "**Important Deficiency Diseases** \nImportant Deficiency Diseases\n\nScurvy: \ncaused due to deficiency of Vitamin C (Ascorbic acid)\n\nRickets (in children): \ncaused due to deficiency of Vitamin D\n\nOsteomalacia (in adults): \ncaused due to deficiency of Vitamin D\n\nBeriberi: \ncaused due to deficiency of Vitamin B1 (Thiamine)\n\nPellagra: \ncaused due to deficiency of Vitamin B3 (Niacin)\n\nXerophthalmia/Night Blindness: \ncaused due to deficiency of Vitamin A\n\nAriboflavinosis: \ncaused due to deficiency of Vitamin B2 (Riboflavin)\n\nIron Deficiency Anemia: \ncaused due to deficiency of Iron\n\nGoiter/Cretinism: \ncaused due to deficiency of Iodine\n\nTetany: \ncaused due to deficiency of Calcium (or Magnesium)\n\nKwashiorkor: \ncaused due to deficiency of Protein (with adequate calories)\n\nMarasmus: \ncaused due to deficiency of Protein and Calories\n\nFolate Deficiency Anemia: \ncaused due to deficiency of Folate (Vitamin B9)\n\nVitamin B12 Deficiency Anemia: \ncaused due to deficiency of Vitamin B12 (Cobalamin)\n\nVitamin K Deficiency (Hemorrhagic disease): \ncaused due to deficiency of Vitamin K",
+        "string": "**Important Deficiency Diseases** \nImportant Deficiency Diseases\n\n**Scurvy: **\n▪️ caused due to deficiency of ^^Vitamin C (Ascorbic acid)^^\n\n**Rickets (in children): **\n▪️ caused due to deficiency of ^^Vitamin D^^\n\n**Osteomalacia (in adults): **\n▪️ caused due to deficiency of ^^Vitamin D^^\n\n**Beriberi: **\n▪️ caused due to deficiency of ^^Vitamin B1 (Thiamine)^^\n\n**Pellagra: **\n▪️ caused due to deficiency of ^^Vitamin B3 (Niacin)^^\n\n**Xerophthalmia/Night Blindness:** \n▪️ caused due to deficiency of ^^Vitamin A^^\n\n**Ariboflavinosis: **\n▪️ caused due to deficiency of ^^Vitamin B2 (Riboflavin)^^\n\n**Iron Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Iron^^\n\n**Goiter/Cretinism: **\n▪️ caused due to deficiency of ^^Iodine^^\n\n**Tetany: **\n▪️ caused due to deficiency of ^^Calcium (or Magnesium)^^\n\n**Kwashiorkor: **\n▪️ caused due to deficiency of ^^Protein^^ (with adequate calories)\n\n**Marasmus: **\n▪️ caused due to deficiency of ^^Protein and Calories^^\n\n**Folate Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Folate (Vitamin B9)^^\n\n**Vitamin B12 Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Vitamin B12 (Cobalamin)^^\n\n**Vitamin K Deficiency (Hemorrhagic disease): **\n▪️ caused due to deficiency of ^^Vitamin K^^",
         "uid": "YUDoDMKqY"
       },
       {
@@ -3764,6 +3733,17 @@
         "order": 0,
         "string": "▪️ Noise is measured in Decibels (dB)\n▪️ Pressure is measured in Pascal (Pa)\n▪️ Temperature is measured in Degree Celsius (°C) / Kelvin (K) / Fahrenheit (°F)\n▪️ Electric Current is measured in Ampere (A)\n▪️ Luminous Intensity is measured in Candela (cd)\n▪️ Force is measured in Newton (N)\n▪️ Energy is measured in Joule (J)\n▪️ Power is measured in Watt (W)\n▪️ Electric Charge is measured in Coulomb (C)\n▪️ Resistance is measured in Ohm (Ω)\n▪️ Frequency is measured in Hertz (Hz)\n▪️ Magnetic Field is measured in Tesla (T)\n▪️ Work is measured in Joule (J)\n▪️ Torque is measured in Newton-metre (N·m)\n▪️ Data Storage is measured in Byte (B)\n▪️ Internet Speed is measured in Bits per second (bps) / Megabits per second (Mbps)",
         "uid": "FMWJG2M8p"
+      }
+    ]
+  },
+  {
+    "page_title": "Physics Notes",
+    "page_uid": "6nspQ9bx1",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Nuclear Fission**\n▪️ Definition: Splitting of a heavy nucleus into two or more lighter nuclei.\n▪️ Example: Uranium-235 or Plutonium-239 fission.\n▪️ Process: Neutron hits the nucleus → nucleus splits → releases energy + more neutrons.\n▪️ Energy Output: Large amount, but less than fusion.\n▪️ Chain Reaction: Released neutrons can cause further fission reactions.\n▪️ Used in: Nuclear power plants, atomic bombs.\n▪️ By-products: Radioactive waste.\n▪️ Condition: Can occur at ordinary temperatures once initiated.\n\n**Nuclear Fusion**\n▪️ Definition: Joining (fusion) of two light nuclei to form a heavier nucleus.\n▪️ Example: Hydrogen isotopes (Deuterium + Tritium) → Helium.\n▪️ Process: Extremely high temperature and pressure needed (as in stars).\n▪️ Energy Output: Much greater than fission.\n▪️ Used in: ^^Hydrogen bombs^^, occurs ^^naturally in the Sun and stars^^.\n▪️ By-products: Less radioactive waste.\n▪️ Condition: Requires millions of degrees of temperature",
+        "uid": "qq-J7Md4p"
       }
     ]
   },
