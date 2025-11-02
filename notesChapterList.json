@@ -64,6 +64,10 @@
           {
             "name": "[[SC and HC Notes]]",
             "sub_chapters": []
+          },
+          {
+            "name": "[[Polity Static Notes]]",
+            "sub_chapters": []
           }
         ]
       },
@@ -204,6 +208,10 @@
           },
           {
             "name": "[[Unit Measurements]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[Physics Notes]]",
             "sub_chapters": []
           }
         ]
