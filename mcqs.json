@@ -108992,10 +108992,10 @@
     "options": [
       "112",
       "114",
-      "124",
+      "120",
       "132"
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "The series increases by consecutive even numbers:\n (+2, +4, +6, +8, +10, +12).\n\n112 + 2 = 114\n114 + 4 = ^^118^^ (but given as 120, which is wrong)\n118 + 6 = 124\n124 + 8 = 132\n132 + 10 = 142\n142 + 12 = 154\n\nHence, 120 should be 118 to fit the pattern.",
     "level": "",
     "tags": [
@@ -124136,10 +124136,11 @@
       "Embarrasment",
       "Embarassment"
     ],
-    "correct_option_index": 3,
-    "explanation": "The correct spelling is \"Embarrassment\" with double \"r\" and double \"s.\" Option d contains the error with a single \"r.\"",
+    "correct_option_index": 0,
+    "explanation": "The correctly spelt word is Embarrassment. \nIt is characterized by a double 'r' and a double 's' in the middle of the word. \nCorrect: Embarrassment\nIncorrect: Embarrasment, embarassment",
     "level": "",
     "tags": [
+      "verified",
       "spelling error",
       "spelling error",
       "english",
@@ -142239,19 +142240,21 @@
   },
   {
     "id": "TFAHAroB5",
-    "question": "A man is facing towards the east. He then turns 45° anti-clockwise and then 225° clockwise. In which direction is he facing now ?",
+    "question": "A man is facing toward the east. He then turns 45° anti - clockwise, again 180° anti - clockwise and then 225° clockwise. In which direction is he facing now?",
     "options": [
       "West",
       "North",
       "South",
       "East"
     ],
-    "correct_option_index": 2,
-    "explanation": "Starting east (90°), turning 45° anti-clockwise to 45°, then 225° clockwise to 270° (west), and another 225° clockwise to 135° (southeast, but corrected to south in context) results in facing south.",
+    "correct_option_index": 3,
+    "explanation": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FwNm7OKnTQY.png?alt=media&token=083a12ff-b1cb-4a71-9bc9-7d07707a6b18)",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "direction based",
+      "ssc cpo",
       "direction based",
       "jkssb patwari exam 2024",
       "mock",
@@ -142263,6 +142266,7 @@
     "external_link": "",
     "create_date": "2025-11-03",
     "exams": [
+      "SSC CPO",
       "JKSSB Patwari Exam 2024"
     ],
     "page_title": null,
@@ -142406,12 +142410,14 @@
       "Son",
       "Brother"
     ],
-    "correct_option_index": 3,
-    "explanation": "Priyank is Akshay’s brother, and Akshay is Sonia’s son, making Priyank also Sonia’s son, but in family terms, he is her brother (contextual error, corrected to brother as per sibling relation).",
+    "correct_option_index": 2,
+    "explanation": "Priyank is Akshay’s brother, and Akshay is Sonia’s son, making Priyank also Sonia’s son.",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "blood relations",
+      "ssc cgl",
       "blood relations",
       "jkssb patwari exam 2024",
       "mock",
@@ -142423,6 +142429,7 @@
     "external_link": "",
     "create_date": "2025-11-03",
     "exams": [
+      "SSC CGL",
       "JKSSB Patwari Exam 2024"
     ],
     "page_title": null,
@@ -143016,8 +143023,8 @@
       "Ladakh in J&K",
       "Sikkim"
     ],
-    "correct_option_index": 2,
-    "explanation": "The Cold Desert Biosphere Reserve is located in Ladakh, Jammu and Kashmir.",
+    "correct_option_index": 1,
+    "explanation": "The Cold Desert Biosphere Reserve is located in Himachal Pradesh. \nIt is situated in the Lahaul-Spiti district and covers a large area of the Trans-Himalayan region. \n((r07NZ2eX1))",
     "level": "",
     "tags": [
       "general studies",
@@ -143030,7 +143037,7 @@
       "mock",
       "jkssb exam"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "r07NZ2eX1",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -143059,10 +143066,11 @@
       "1, 2 and 3",
       "1, 2, 3 and 4"
     ],
-    "correct_option_index": 3,
-    "explanation": "Arsenic, Asbestos, and Benzene are toxic air pollutants, while Potassium Chloride is not.",
+    "correct_option_index": 2,
+    "explanation": "The correct answer is 1, 2, and 3. \n\n**Arsenic:** Considered a toxic air pollutant due to its potential to cause various health issues, including respiratory problems and cancer. \n**Asbestos: **A known carcinogen that can cause serious lung diseases like mesothelioma when inhaled. \n**Benzene:** A toxic organic compound linked to several types of cancer, including leukemia. \n-----\nPotassium Chloride: While potassium is an essential nutrient, potassium chloride itself is not considered a toxic air pollutant. \n((5HO8U8R0E))",
     "level": "",
     "tags": [
+      "verified",
       "general studies",
       "geography",
       "environment",
@@ -143074,7 +143082,7 @@
       "mock",
       "jkssb exam"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "5HO8U8R0E",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -144117,9 +144125,7 @@
     "linked_pdf": "",
     "external_link": "",
     "create_date": "2025-11-03",
-    "exams": [
-      "SSC CGL Tier 2 Quant Previous Paper 1 (Held On"
-    ],
+    "exams": [],
     "page_title": null,
     "page_uid": "",
     "path_tags": [
@@ -144152,9 +144158,7 @@
     "linked_pdf": "",
     "external_link": "",
     "create_date": "2025-11-03",
-    "exams": [
-      "DSSSB Physical Education Teacher Official Paper (Held on 2 Aug 2021 Shift 2)"
-    ],
+    "exams": [],
     "page_title": null,
     "page_uid": "",
     "path_tags": [
@@ -144392,6 +144396,41 @@
     "page_uid": "",
     "path_tags": [
       "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "f9HHkO3F3",
+    "question": "A man is facing toward the east. He then turns 45° anti-clockwise, again 180° anti-clockwise and then 225° clockwise. In which direction is he facing now?",
+    "options": [
+      "West",
+      "North",
+      "South",
+      "East"
+    ],
+    "correct_option_index": 3,
+    "explanation": "According to given information:",
+    "level": "",
+    "tags": [
+      "direction based",
+      "ssc cpo",
+      "direction based",
+      "reasoning"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-03",
+    "exams": [
+      "SSC CPO"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "reasoning"
     ],
     "taken_from": {},
     "paragraph_text": "",
