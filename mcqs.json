@@ -9,9 +9,10 @@
       "Both Kargil and Leh"
     ],
     "correct_option_index": 3,
-    "explanation": "both Leh and Kargil are the joint capitals of the Union Territory of Ladakh.",
+    "explanation": "Both Leh and Kargil are the ^^joint capitals^^ of the Union Territory of Ladakh.",
     "level": "",
     "tags": [
+      "capital",
       "general studies",
       "ladakh",
       "ladakh gk"
@@ -28783,13 +28784,14 @@
     "options": [
       "First Factory Act 1881",
       "Second Factory Act 1891",
-      "First Factory Act 1911",
-      "All are correct"
+      "Both are correct",
+      "Both are incorrect"
     ],
-    "correct_option_index": 3,
-    "explanation": "",
+    "correct_option_index": 2,
+    "explanation": "Both the First Factory Act of 1881 and the Second Factory Act of 1891 exist.\nSo the correct answer is \"Both are correct\".",
     "level": "",
     "tags": [
+      "verified",
       "general studies",
       "history",
       "british rule",
@@ -45450,9 +45452,10 @@
       "Black Hole"
     ],
     "correct_option_index": 2,
-    "explanation": "A collection of billions of stars is called a galaxy. Galaxies also contain gas, dust, and dark matter, which are all held together by gravity. Our own solar system is part of the Milky Way galaxy.",
+    "explanation": "A collection of billions of stars is called a galaxy. \nGalaxies also contain gas, dust, and dark matter, which are all held together by gravity. \nOur own solar system is part of the Milky Way galaxy.",
     "level": "",
     "tags": [
+      "verified",
       "general studies",
       "geography",
       "space",
@@ -63638,15 +63641,16 @@
     "id": "nw_m6yOdj",
     "question": "Which of the following numbers is divisible by 11?",
     "options": [
-      "8470",
-      "9361",
-      "5613",
-      "4725"
+      "5621",
+      "3273",
+      "4836",
+      "2987"
     ],
     "correct_option_index": 0,
-    "explanation": "Divisibility rule: \nA number is divisible by 11 if the difference between the sum of the digits at the odd places and the sum of the digits at the even places (counting from right to left) is 0 or a multiple of 11. \n8470: \nSum of odd place digits (0 + 4) = 4. \nSum of even place digits (7 + 8) = 15. \nThe difference is  15 - 4 = 11 \nSince 11 is a multiple of 11, Thus 8470 is divisible by 11.",
+    "explanation": "Divisibility rule: \nA number is divisible by 11 if the difference between the sum of the digits at the odd places and the sum of the digits at the even places (counting from right to left) is 0 or a multiple of 11. \n\nFor 5621:\nOdd position digits = 5, 2 and Even position digits = 6, 1\nSum of odd position digits = 5 + 2 = 7\nSum of even position digits = 6 + 1 = 7\nDifference = |7 - 7| = 0\nHence, 5621 is divisible by 11.",
     "level": "easy",
     "tags": [
+      "verified",
       "easy",
       "divisibility",
       "aptitude",
@@ -65333,11 +65337,13 @@
       "150"
     ],
     "correct_option_index": 2,
-    "explanation": "",
+    "explanation": "80% of A = 50% of B and B = x% of A\n\nCalculation:\n\n⇒ A × 80 / 100 = B × 50 / 100\n\n⇒ B = (A × 80) / 50 = 1.6A\n\n⇒ B = 160% of A\n\n∴ required value of x = 160",
     "level": "",
     "tags": [
-      "aptitude",
-      "percentage"
+      "verified",
+      "percentage",
+      "percentage",
+      "aptitude"
     ],
     "linked_block_uid": "",
     "linked_video": "",
@@ -66127,15 +66133,16 @@
     "id": "2ql38ghHP",
     "question": "An article is sold at $800 with a loss of 15%. At what price should it be sold to earn a profit of 25%?",
     "options": [
-      "1000",
-      "1050",
-      "1200",
-      "1250"
+      "1100",
+      "1176",
+      "1280",
+      "1345"
     ],
     "correct_option_index": 2,
-    "explanation": "",
+    "explanation": "The article is sold at $800 with a 15% loss. This means $800 is 85% of the cost price (CP), since 100% - 15% = 85%.\n\nTo find the CP:  \nCP = 800 / 0.85 = 800 × (100/85) = 800 × (20/17) ≈ 941.176 (exact value is 800 × 20 / 17 = 16000 / 17).\n\nFor a 25% profit, the selling price (SP) should be 125% of the CP (100% + 25% = 125%).\n\nSP = CP × 1.25 = (16000 / 17) × 1.25 = (16000 / 17) × (5/4) = (16000 × 5) / (17 × 4) = 80000 / 68.\n\nSimplify 80000 / 68:  \nDivide numerator and denominator by 4: 20000 / 17 ≈ 1176.4706.\n\nThus, to earn a 25% profit, the article should be sold at $1176.47 (rounded to two decimal places).",
     "level": "easy",
     "tags": [
+      "verified",
       "easy",
       "aptitude",
       "profit and loss"
@@ -66162,17 +66169,19 @@
     "question": "A product is sold at $250, resulting in a 30% loss. If the seller wants to earn a 20% profit, what should be the selling price?",
     "options": [
       "325",
-      "400",
-      "450",
-      "500"
+      "428",
+      "498",
+      "544"
     ],
     "correct_option_index": 1,
-    "explanation": "",
+    "explanation": "The article should be sold at approximately $428.57 to earn a 20% profit.\n\nStep 1: Find the Cost Price (CP)\nThe article is sold at $250 with a 30% loss.\nThis means $250 is 70% of the cost price (100% - 30% = 70%, or 0.70).\nTo find CP:\nCP = 250 ÷ 0.70\n= 250 × (10/7)\n= 2500 / 7\n≈ 357.14\nSo, the cost price is approximately $357.14.\n\nStep 2: Find the Selling Price for 20% Profit\nWe want a 20% profit, so the new selling price (NSP) should be 120% of the CP (100% + 20% = 120%, or 1.20).\nNSP = CP × 1.20\n= (250 / 0.70) × 1.20\n= (250 × 1.20) / 0.70\n= 300 / 0.70\n= 3000 / 7\n^^≈ 428.57^^\nAlternatively:\nNSP = 357.14 × 1.20 ≈ 428.57",
     "level": "easy",
     "tags": [
+      "verified",
+      "profit and loss",
+      "profit and loss",
       "easy",
-      "aptitude",
-      "profit and loss"
+      "aptitude"
     ],
     "linked_block_uid": "",
     "linked_video": "",
@@ -66362,16 +66371,18 @@
     "question": "If eggs are bought 12 for ₹10 and sold at 10 for ₹12, what is the gain or loss percentage?",
     "options": [
       "33% loss",
-      "33% profit",
-      "36% profit",
-      "36% loss"
+      "44% profit",
+      "40% profit",
+      "42% loss"
     ],
-    "correct_option_index": 2,
-    "explanation": "",
+    "correct_option_index": 1,
+    "explanation": "Cost price of 12 eggs = ₹10\nSo, CP per egg = 10 ÷ 12 = 5/6 ₹\nSelling price of 10 eggs = ₹12\nSo, SP per egg = 12 ÷ 10 = 6/5 ₹\n\nStep 2: Find gain per egg\nGain per egg = SP − CP\n= 6/5 − 5/6\n= (36 − 25) / 30\n= 11/30 ₹\n\nStep 3: Find gain percentage\nGain % = (Gain ÷ CP) × 100\n= ( (11/30) ÷ (5/6) ) × 100\n= (11/30 × 6/5) × 100\n= (11 × 6) / (30 × 5) × 100\n= 66 / 150 × 100\n= 11 / 25 × 100\n= 44%\nFinal Answer: The gain percentage is 44%.",
     "level": "",
     "tags": [
-      "aptitude",
-      "profit and loss"
+      "verified",
+      "profit and loss",
+      "profit and loss",
+      "aptitude"
     ],
     "linked_block_uid": "",
     "linked_video": "",
@@ -66618,14 +66629,15 @@
     "question": "A trader purchased oranges at the rate of 10 for ₹20 and sold them at the rate of 5 for ₹15. What is his profit percentage?",
     "options": [
       "100%",
-      "125%",
-      "150%",
-      "175%"
+      "60%",
+      "50%",
+      "75%"
     ],
     "correct_option_index": 2,
-    "explanation": "To determine the profit percentage, we calculate the cost price (CP) and selling price (SP) per orange. \nHe buys 10 oranges for ₹20, so CP per orange is 20 ÷ 10 = ₹2. \nHe sells 5 oranges for ₹15, so SP per orange is 15 ÷ 5 = ₹3. \nProfit per orange is 3 - 2 = ₹1. Profit percentage is (1 ÷ 2) × 100 = 50%, but rechecking: SP is ₹3, CP is ₹2, profit is ₹1, so (1 ÷ 2) × 100 = 50%. \nHowever, with the options, let’s assume a typo—correcting to 5 for ₹30: SP per orange is 30 ÷ 5 = ₹6, profit is 6 - 2 = ₹4, (4 ÷ 2) × 100 = 200%, but closest to 150%. S\no, the answer is 150%.",
+    "explanation": "To determine the profit percentage, we calculate the cost price (CP) and selling price (SP) per orange. \nHe buys 10 oranges for ₹20, \nSo CP per orange is 20 ÷ 10 = ₹2. \n\nHe sells 5 oranges for ₹15, \nSo SP per orange is 15 ÷ 5 = ₹3. \n\nProfit per orange is 3 - 2 = ₹1. \nProfit percentage is (1 ÷ 2) × 100 = 50%",
     "level": "",
     "tags": [
+      "verified",
       "aptitude",
       "profit and loss"
     ],
@@ -67241,17 +67253,18 @@
   },
   {
     "id": "tfuko1yf0",
-    "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. What is the gain percent?",
+    "question": "A person bought 6 articles of Rs. 5 and sold 5 articles for Rs. 6. The profit percentage is: ??",
     "options": [
+      "20%",
       "30%",
-      "33 1/3%",
-      "35%",
+      "40%",
       "44%"
     ],
     "correct_option_index": 3,
-    "explanation": "",
+    "explanation": "Profit% = (Profit × 100)/CP\n\nwhere, Profit = SP - CP\n\nCalculation:\n\nCP of 6 articles = Rs.5\n\n∴ CP of 1 article = Rs.5/6\n\nAlso, SP of 5 articles = Rs.6\n\n∴ SP of 1 article = Rs.6/5\n\n⇒ Profit = (6/5) - (5/6) = 11/30\n\nTherefore, Profit% = \n \n \n \n(11/30)/ (5/6) ×100 ^^⇒ 44%^^\n\nHence, the required percentage is 44%.",
     "level": "",
     "tags": [
+      "verified",
       "indiabix",
       "aptitude",
       "profit and loss"
@@ -67681,15 +67694,16 @@
     "id": "nAPS32NyG",
     "question": "A and B can finish a job in 10days, while B and C can do it in 18 days. A started the job and worked for 5 days and left the job, then b worked for 10 days and remaining job is finished by C in 15days. In how many days C alone have finished whole job?",
     "options": [
-      "103/11 days",
-      "105/11 days",
-      "110/11 days",
-      "109/11 days"
+      "30 days",
+      "15 days",
+      "45 days",
+      "24 days"
     ],
-    "correct_option_index": 0,
-    "explanation": "",
+    "correct_option_index": 2,
+    "explanation": "Let the rates of work for A, B, and C be a, b, and c respectively, representing the fraction of the job they complete per day.  \nBased on the given information:  \nA and B can finish the job in 10 days, so their combined rate is 1/10.  \na + b = 1/10     (1)  \nB and C can finish the job in 18 days, so their combined rate is 1/18.  \nb + c = 1/18     (2)  \n\nStep 2: Set up the equation for the total work done  \nThe total work done is the sum of the work done by each person. The total job is considered 1 unit of work.  \nA worked for 5 days: 5a  \nB worked for 10 days: 10b  \nC worked for 15 days: 15c  \nThe total work is:  \n5a + 10b + 15c = 1     (3)  \n\nStep 3: Simplify and solve the system of equations  \nWe can rearrange equation (3) to group the terms:  \n5a + 5b + 5b + 15c = 1  \nFactor out 5 from the first two terms:  \n5(a + b) + 5b + 15c = 1  \nSubstitute the value of (a + b) from equation (1):  \n5(1/10) + 5b + 15c = 1  \n1/2 + 5b + 15c = 1  \n5b + 15c = 1 - 1/2  \n5b + 15c = 1/2     (4)  \nNow, we have a system of two equations with two variables, b and c:  \nb + c = 1/18  \n5b + 15c = 1/2  \nMultiply the first equation by 5 to eliminate b:  \n5(b + c) = 5(1/18) implies 5b + 5c = 5/18  \nSubtract this new equation from equation (4):  \n(5b + 15c) - (5b + 5c) = 1/2 - 5/18  \n10c = 9/18 - 5/18  \n10c = 4/18 = 2/9  \n^^c = 2/(9 x 10) = 2/90 = 1/45^^  \nThe rate of work for C is 1/45 of the job per day.  \n\nAnswer:  \nC alone would take 45 days to finish the whole job.",
     "level": "",
     "tags": [
+      "verified",
       "aptitude",
       "time and work"
     ],
@@ -68931,11 +68945,13 @@
       "3 times"
     ],
     "correct_option_index": 0,
-    "explanation": "",
+    "explanation": "Father is aged three times more than the age of his son Rohit.\n\nLet the age of son be x\nAge of father is (3x + x = 4x). (three times more = x + 3x)\n\nAfter 8 years:\nFather's age is two and a half of Son's age.\n4x + 8 = 5/2(x + 8)   two and a half = 5/2\nOn solving x = 8 yrs.\n\nPresent age:\nSon age = 8: Father age = 32\n\nAfter 8 yr;\nSon age = 16; Father age = 40 \n\nAfter further 8 yr\nSon age = 24; Father age 48.\n\nFather's age is 2 times of Rohit's (son's) age.",
     "level": "",
     "tags": [
-      "aptitude",
-      "problem on ages"
+      "verified",
+      "problem on ages",
+      "problem on ages",
+      "aptitude"
     ],
     "linked_block_uid": "",
     "linked_video": "",
@@ -69756,7 +69772,7 @@
   },
   {
     "id": "pmz3APWQV",
-    "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hour, it must travel at a speed of?",
+    "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1Fr[2/3] hour, it must travel at a speed of?",
     "options": [
       "300 kmph",
       "360 kmph",
@@ -69764,7 +69780,7 @@
       "720 kmph"
     ],
     "correct_option_index": 3,
-    "explanation": "Distance = 240 × 5 = 1200 km.\nTo cover in 1⅔ hr (since 5/3 = 1⅔ hr), speed = 1200 ÷ (5/3) = 1200 × (3/5) = 720 km/hr.",
+    "explanation": "Formula used:\n\nSpeed = Distance/Time\n\nCalculation:\n\nGiven that, the airplane covers a certain distance at a speed of 240 kmph in 5 hours.\n\nWe know that, Speed = Distance/Time\n\n⇒ Distance = Speed × Time\n\n⇒ Distance = 240 × 5 = 1200 Km.\n\nAgain, consider the time taken \n \n1Fr[2/3] hr i.e. 5/3 hr.\n⇒ Speed = 1200/(5/3) = (1200 × 3)/5\n^^∴ Speed = 720 Km/hr^^",
     "level": "",
     "tags": [
       "aptitude",
@@ -86034,15 +86050,16 @@
     "id": "n809wB92F",
     "question": "\"Peter plans to read the book.\"\nWhat is the passive of the above sentence?",
     "options": [
-      "The book plans to be read by Peter.",
+      "The book is planned to be read by Peter.",
       "Peter plans to be read by the book.",
       "The book is planned to read by Peter.",
       "Peter is planned to be read by the book."
     ],
     "correct_option_index": 0,
-    "explanation": "",
+    "explanation": "The passive form of the sentence \"Peter plans to read the book\" is:\nThe book is planned to be read by Peter.",
     "level": "",
     "tags": [
+      "verified",
       "infintive sentences",
       "english",
       "active passive"
@@ -86477,11 +86494,12 @@
       "Both A and B are correct.",
       "Both A and B are incorrect"
     ],
-    "correct_option_index": 3,
-    "explanation": "Watch video by Rani Maam {video:Im9ZSahwKvw:129} \nIn this sentence (A) \"since\" introduces a point in time (Monday). \nThis usage of \"since\" makes it a preposition, as it connects the noun \"Monday\" to the rest of the sentence.\n\nIn sentence (B) \"since\" introduces a clause (I left), acting as a subordinating conjunction.",
+    "correct_option_index": 2,
+    "explanation": "Watch video by Rani Maam {video:Im9ZSahwKvw:129} \nYes, both sentences A and B are grammatically correct, as they use the present perfect tense with \"since\" to indicate a starting point of a continuous period of absence. Sentence A refers to a specific day, while sentence B refers to a specific event (I left) as the starting point for the absence. \n\nA. He has been absent since Monday. \nThis is correct and means his absence started on Monday and continues up to the present moment.\n\nB. He has been absent since I left. \nThis is also correct and means his absence started at the point in time when the speaker left, and continues up to the present moment.",
     "level": "hard",
     "tags": [
       "hard",
+      "verified",
       "english",
       "preposition"
     ],
@@ -93261,10 +93279,11 @@
       "64",
       "60"
     ],
-    "correct_option_index": 2,
-    "explanation": "Using the same summation logic, FACT → 64.",
+    "correct_option_index": 3,
+    "explanation": "BABE = 2+1+2+5 = 10 * 2 = 20\nEACH = 5+1+3+8 = 17 * 2 = 34\nFACT =  6+1+3+20 = 30 *2 = 60\n^^FACT = 60^^",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "coding decoding"
     ],
@@ -98186,10 +98205,11 @@
       "2",
       "4"
     ],
-    "correct_option_index": 3,
-    "explanation": "S(19) + M (13) = 19 + 13 = 32 \nSame logic follows in all except 4th option.",
+    "correct_option_index": 0,
+    "explanation": "S(19) + M (13) = 19 + 13 = 32 follows,\nFor others this logic is not follows.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FCjElnasenF.png?alt=media&token=0f0c898c-44e5-4cde-aaeb-f42928b11b01)",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "shape based reasoning"
     ],
@@ -99763,10 +99783,11 @@
       "Himachal Pradesh",
       "Uttarakhand"
     ],
-    "correct_option_index": 1,
+    "correct_option_index": 2,
     "explanation": "Cold Desert: Ladakh\nCold Desert Biosphere Reserve: In Himachal Pradesh\n((r07NZ2eX1))",
     "level": "",
     "tags": [
+      "verified",
       "general studies",
       "ladakh",
       "subject wise mock test",
@@ -103509,10 +103530,13 @@
       "4",
       "3"
     ],
-    "correct_option_index": 2,
-    "explanation": "",
+    "correct_option_index": 3,
+    "explanation": "Step 1: Set up the equation  \nLet x be the number that is added to each of the given numbers. \nThe new numbers are (6+x), (7+x), (15+x), and (17+x). \nFor these numbers to be proportional, the ratio of the first two must equal the ratio of the last two.  \n(6+x)/(7+x) = (15+x)/(17+x)\n\nStep 2: Solve for x  \nTo solve the equation, cross-multiply the terms:  \n(6+x)(17+x) = (15+x)(7+x)  \nExpand both sides of the equation:  \n102 + 6x + 17x + x^2 = 105 + 15x + 7x + x^2  \n102 + 23x + x^2 = 105 + 22x + x^2  \nSubtract x^2 from both sides:  \n102 + 23x = 105 + 22x  \nSubtract 22x from both sides:  \n102 + x = 105  \nSubtract 102 from both sides:  \n^^x = 3^^",
     "level": "",
     "tags": [
+      "verified",
+      "number system",
+      "number system",
       "aptitude",
       "subject wise mock test",
       "mock",
@@ -103882,17 +103906,18 @@
   },
   {
     "id": "Fsv2wANnY",
-    "question": "The progression are -9 and 11 respectively. What is the 15th term?",
+    "question": "The 3rd and 7th term of an arithmetic progression are -9 and 11 respectively. What is the 15th term?",
     "options": [
-      "18",
-      "24",
-      "20",
-      "25"
+      "28",
+      "87",
+      "51",
+      "17"
     ],
-    "correct_option_index": 1,
-    "explanation": "",
+    "correct_option_index": 2,
+    "explanation": "Let the first term be a and the difference be d\n\n⇒ a + (3 - 1)d = -9\n\n⇒ a + 2d = -9     ----(i)\n\nSimilarly, a + 6d = 11     ----(ii)\n\nSubtracting (i) from (ii)\n\n⇒ 4d = 11 - (-9) = 20\n\n⇒ d = 5\n\nPutting d = 5 in (i), we get\n\n⇒ a + 10 = -9\n\n⇒ a = -19\n\n∴ 15th term = a + 14d = -19 + 14 × 5 = 51",
     "level": "",
     "tags": [
+      "verified",
       "aptitude",
       "subject wise mock test",
       "mock",
@@ -107434,8 +107459,8 @@
       "the",
       "No article"
     ],
-    "correct_option_index": 1,
-    "explanation": "\"One-eyed\" starts with a vowel sound (\"wun\"), so we use \"an\" before it for smooth flow in English.\n{video:Sl9GGEhV0fw:1882} Use of \"A and An\" Article | Rani Maam",
+    "correct_option_index": 0,
+    "explanation": "Adjective: one-eyed → Starts with consonant sound (\"wun-eyed\").\nSo: Use a.\nCorrect: \"a one-eyed person\"\nWrong: \"an one-eyed person\" (because sound is not vowel).\n{video:Sl9GGEhV0fw:1882} Use of \"A and An\" Article | Rani Maam",
     "level": "",
     "tags": [
       "verified",
@@ -109103,7 +109128,7 @@
       "19"
     ],
     "correct_option_index": 1,
-    "explanation": "The series decreases by 1, 3, 5, 7, 9; \nnext decrease is 11, so 34 - 11 = 25\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUohRXQ3PNT.png?alt=media&token=a42f9bc4-392e-4a67-8d23-b88e958815c1)",
+    "explanation": "The series decreases by -1, -3, -5, -7, -9, -11; \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUohRXQ3PNT.png?alt=media&token=a42f9bc4-392e-4a67-8d23-b88e958815c1)",
     "level": "",
     "tags": [
       "verified",
@@ -110866,7 +110891,7 @@
       "2768 sq. cm"
     ],
     "correct_option_index": 1,
-    "explanation": "Identify the given values and the formula  \nThe given values are:  \nDiameter, d = 30 cm  \nHeight, h = 13 cm  \nThe formula for the total surface area of a cylinder is A = 2πr² + 2πrh, where r is the radius and h is the height.  \n\nStep 2: Calculate the radius  \nThe radius (r) is half of the diameter (d).  \nr = d/2 = 30/2 = 15 cm  \n\nStep 3: Substitute the values into the formula and solve  \nSubstitute the radius and height into the surface area formula.  \nA = 2π(15)² + 2π(15)(13)  \nA = 2π(225) + 2π(195)  \nA = 450π + 390π  \nA = 840π  \n\nAnswer: The total surface area of the cylinder is 840π cm².",
+    "explanation": "Identify the given values and the formula  \nThe given values are:  \nDiameter, d = 30 cm  \nHeight, h = 13 cm  \nThe formula for the total surface area of a cylinder is A = 2πr² + 2πrh, where r is the radius and h is the height.  \n\nStep 2: Calculate the radius  \nThe radius (r) is half of the diameter (d).  \nr = d/2 = 30/2 = 15 cm  \n\nStep 3: Substitute the values into the formula and solve  \nSubstitute the radius and height into the surface area formula.  \nA = 2π(15)² + 2π(15)(13)  \nA = 2π(225) + 2π(195)  \nA = 450π + 390π  \n^^A = 840π  = 840(22/7) = 2640^^",
     "level": "",
     "tags": [
       "verified",
@@ -112954,7 +112979,7 @@
       "Justice Rajnesh Oswal"
     ],
     "correct_option_index": 1,
-    "explanation": "Justice Tashi Rabstan is currently the Chief Justice of the Jammu & Kashmir and Ladakh High Court. He was appointed to this position in 2024, taking over the role to lead the judiciary in this region.\n((VfSfM4opV))",
+    "explanation": "This exam was conducted in 2024, at that time Justice Tashi Rabstan was the Chief Justice of the Jammu & Kashmir and Ladakh High Court. \nHe was appointed to this position in 2024, taking over the role to lead the judiciary in this region.\n((VfSfM4opV))",
     "level": "",
     "tags": [
       "verified",
@@ -113817,7 +113842,7 @@
       "30"
     ],
     "correct_option_index": 0,
-    "explanation": "Kargil District in Ladakh has 30 Rural Development Department Blocks. \nThese blocks are administrative units that help manage rural development programs and services in the district\n((6GgGd1_BD))",
+    "explanation": "Kargil District in Ladakh has ^^15^^ Rural Development Department Blocks. \nThese blocks are administrative units that help manage rural development programs and services in the district\n((6GgGd1_BD))",
     "level": "",
     "tags": [
       "verified",
@@ -116946,10 +116971,11 @@
       "24 cu m",
       "24 cu cm"
     ],
-    "correct_option_index": 0,
-    "explanation": "Volume of a cuboid = length × width × height = 4 cm × 3 cm × 2 cm = 24 cu cm.",
+    "correct_option_index": 3,
+    "explanation": "Volume of a cuboid = length × width × height \n= 4 cm × 3 cm × 2 cm \n^^= 24 cu cm.^^ \nNote: It is in \"cm\", and not in \"m\".",
     "level": "easy",
     "tags": [
+      "verified",
       "sides areas and volumes",
       "aptitude",
       "mock",
@@ -117384,15 +117410,18 @@
     "id": "Hi6eyiYKK",
     "question": "Solve this equation: 4 + 2 × 18/6 - 9 =  ?",
     "options": [
-      "A. 2",
-      "B. -1",
-      "C. 1",
-      "D. -2"
+      "2",
+      "-1",
+      "1",
+      "-2"
     ],
-    "correct_option_index": 3,
-    "explanation": "",
+    "correct_option_index": 2,
+    "explanation": "Apply BODMAS:\n= 4 + 2 × 18/6 - 9\n= 4 + 2 × 3 - 9\n= 4 + 6 - 9\n^^= 10 - 9 = 1^^",
     "level": "easy",
     "tags": [
+      "verified",
+      "bodmas",
+      "bodmas",
       "aptitude",
       "mock",
       "kssrb exam",
@@ -118272,7 +118301,7 @@
     "mock_uid": "vf4BpKS_0"
   },
   {
-    "id": "j9I-DQspR",
+    "id": "wVXr53gum",
     "question": "Eleven friends M, N, O, P, Q, R, S, T, U, V, W are sitting in the first row of the stadium watching a cricket match.\ni. T is to the immediate left of P and third to the right of U.\nii. V is the immediate neighbour of M and N and third to the left of S.\niii. M is the second to the right of Q, who is at one of the ends.\niv. R is sitting next to the right of P and P is second to the right of O.\nv. U is sitting to the immediate left of S.\n\nWho is sitting in the center of the row?",
     "options": [
       "N",
@@ -118285,6 +118314,8 @@
     "level": "easy",
     "tags": [
       "verified",
+      "sitting arrangement",
+      "sitting arrangement",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -118329,6 +118360,8 @@
     "level": "easy",
     "tags": [
       "verified",
+      "sitting arrangement",
+      "sitting arrangement",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -118373,6 +118406,8 @@
     "level": "easy",
     "tags": [
       "verified",
+      "sitting arrangement",
+      "sitting arrangement",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -118417,6 +118452,8 @@
     "level": "easy",
     "tags": [
       "verified",
+      "sitting arrangement",
+      "sitting arrangement",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -118461,6 +118498,8 @@
     "level": "easy",
     "tags": [
       "verified",
+      "sitting arrangement",
+      "sitting arrangement",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -118674,10 +118713,13 @@
       "3",
       "4"
     ],
-    "correct_option_index": 2,
-    "explanation": "Figure 3 includes the required pattern.",
+    "correct_option_index": 3,
+    "explanation": "^^Figure 4^^ includes the required pattern.",
     "level": "",
     "tags": [
+      "verified",
+      "shape based reasoning",
+      "shape based reasoning",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -118715,10 +118757,13 @@
       "12",
       "13"
     ],
-    "correct_option_index": 3,
-    "explanation": "Pattern alternates +3, -2 → next is 12+1=13.",
+    "correct_option_index": 1,
+    "explanation": "Pattern alternates +3, -2;\n7 + 3 = 10\n10 - 2 = 8\n8 + 3 = 11\n11 - 2 = 9\n9 + 3 = 12\n^^12 - 2 = 10^^",
     "level": "",
     "tags": [
+      "verified",
+      "number series",
+      "number series",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -119118,17 +119163,18 @@
   },
   {
     "id": "FI9KhDwrs",
-    "question": "In the following diagram rectangle represents men, Triangle represents educated, Circle represents urban and square represents government employees.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FKGHGuj3wns.png?alt=media&token=ce4f3565-1145-4654-8723-a7ad62af88dc)\nWhich represents educated men but not urban?",
+    "question": "In the following diagram:\nRectangle represents men,\nTriangle represents educated,\nCircle represents urban and\nSquare represents government employees.\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FKGHGuj3wns.png?alt=media&token=ce4f3565-1145-4654-8723-a7ad62af88dc)\nWhich represents educated men but not urban ?",
     "options": [
       "9",
       "5",
       "4",
       "11"
     ],
-    "correct_option_index": 0,
-    "explanation": "Area overlapping triangle and rectangle, excluding circle.)",
+    "correct_option_index": 3,
+    "explanation": "Area overlapping triangle and rectangle, excluding circle.)\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FHUUZb6qxar.png?alt=media&token=fa849db8-dbe6-41d4-8d42-c2fb8e45af47)",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "mock",
       "kssrb exam",
@@ -119617,10 +119663,13 @@
       "$562",
       "$675"
     ],
-    "correct_option_index": 3,
-    "explanation": "Cost Price = 540 / 1.2 = 450.\nFor 25% profit, Selling Price = 450 × 1.25 = 562.5.\nThe correct approximate option is $675 (closest).",
+    "correct_option_index": 2,
+    "explanation": "Profit% if SP is Rs. 540 = 20%\n\nProfit at which SP to be calculated = 25%\n\nFormula used:\n\nSP = CP × [(100 – Loss%)/100]\n\nSP = CP × [(100 + Gain%)/100]\n\nCalculation:\n\n⇒ Rs. 540 = CP × [(100 + 20)/100]\n\n⇒ CP = 540 × (100/120)\n\n⇒ CP = Rs. 450\n\n⇒ New SP= 450 × (125/100)\n\n^^⇒ Rs. 562.5^^",
     "level": "",
     "tags": [
+      "verified",
+      "profit and loss",
+      "profit and loss",
       "aptitude",
       "mock",
       "kssrb exam",
@@ -120061,7 +120110,7 @@
   },
   {
     "id": "Tbo4HXy4q",
-    "question": "If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be amount of royalty to be paid for these books?",
+    "question": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FN_3dYnF1D_.png?alt=media&token=2a3e8f31-4e33-44ff-b872-4805a4b7a3b3)\nIf for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be amount of royalty to be paid for these books?",
     "options": [
       "Rs. 19,450",
       "Rs. 21,200",
@@ -120069,9 +120118,12 @@
       "Rs. 26,150"
     ],
     "correct_option_index": 2,
-    "explanation": "Printing = 25% of total → 0.25T = 30600 → T = 122400.\nRoyalty = 0.15 × 122400 = 18360 (approx option c).",
+    "explanation": "Let total cost for publishing book is = Rs x\n\nHere, % of printing cost = 20% \n\nPublisher has to pay for printing cost = Rs 30600\n\n⇒ 20% of x = Rs 30600\n\nx = 30600 × 100/20 = Rs 153000\n\nAmount to be paid for royalty = 15% of x = 15/100 × 153000 \n\n^^⇒ Rs 22,950 ^^\n\n∴ Amount to be paid for royalty is Rs 22,950.",
     "level": "",
     "tags": [
+      "verified",
+      "chart based",
+      "chart based",
       "aptitude",
       "mock",
       "kssrb exam",
@@ -120348,17 +120400,18 @@
   },
   {
     "id": "nGEiqvT4r",
-    "question": "In the given series which letters appears next? VHZB, TKWB, RNTD, PQOD, ______ ??",
+    "question": "In the given series which letters appears next:\nVHZB, TKWB, RNTD, PQQD, NTNF ______ ??",
     "options": [
       "MUMG",
       "LUKG",
       "LWKF",
       "OWKG"
     ],
-    "correct_option_index": 0,
-    "explanation": "Following the alternating letter sequence, next pattern fits MUMG.",
+    "correct_option_index": 2,
+    "explanation": "Following the alternating letter sequence:\nCan also solved using last letter:\nBB-DD-FF Thus LWKF\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F4kz6QTDgyO.png?alt=media&token=c8c8ce3d-43c9-479a-bd91-056cf0be3e1f)",
     "level": "",
     "tags": [
+      "verified",
       "aptitude",
       "mock",
       "kssrb exam",
@@ -120396,10 +120449,13 @@
       "104 gm",
       "240 gm"
     ],
-    "correct_option_index": 1,
-    "explanation": "Ratio ghee:flour = 227:397.\nRequired ghee = 227/397 × 595 ≈ 340.\nAdded 227 → need 113 gm more.",
+    "correct_option_index": 0,
+    "explanation": "Required ratio:\nghee:flour = 227:397.\n\nAdded ratio:\nX:595\n\nTwo ratios should be same. \n227:397 == X:595\n227/397 == X/595\nX = (227/397) * 595\n^^X = 340^^",
     "level": "",
     "tags": [
+      "verified",
+      "ratio and proportion",
+      "ratio and proportion",
       "aptitude",
       "mock",
       "kssrb exam",
@@ -122149,9 +122205,13 @@
       "to whom I sold"
     ],
     "correct_option_index": 1,
-    "explanation": "Correct relative clause: “to whom I sold my house.”",
+    "explanation": "The man **to whom I sold** my house was a cheat.\n\n- \"Who\" → becomes **whom** when it is the **object** of the preposition \"to\".\n- Correct order: **to whom** (formal English rule).\n- Full fix:  \n  **The man to whom I sold my house was a cheat.**",
     "level": "",
     "tags": [
+      "verified",
+      "verb",
+      "sentence completion",
+      "sentence completion",
       "english",
       "mock",
       "kssrb exam",
@@ -123904,10 +123964,11 @@
       "The book will be read by me.",
       "The book is being read by me."
     ],
-    "correct_option_index": 2,
-    "explanation": "In active voice, the subject performs the action. Option b (\"I read the book\") has the subject \"I\" performing the action \"read,\" making it the correct choice.",
+    "correct_option_index": 1,
+    "explanation": "The sentence written in active voice is \"I read the book\". \nExplanation: In active voice, the subject of the sentence performs the action. In \"I read the book\", \"I\" is the subject and is performing the action of \"reading\".",
     "level": "",
     "tags": [
+      "verified",
       "active passive",
       "active passive",
       "english",
@@ -124326,7 +124387,7 @@
   },
   {
     "id": "7KV86OEMg",
-    "question": "My mother is angry with me. Here the adjective is ?",
+    "question": "\"My mother is angry with me.\"\nIn this sentence the adjective is ?",
     "options": [
       "angry",
       "my mother",
@@ -124334,9 +124395,10 @@
       "me"
     ],
     "correct_option_index": 3,
-    "explanation": "An adjective describes a noun. Here, \"me\" is the object receiving the action, and no adjective directly describes it, but contextually, \"me\" is part of the sentence structure where \"angry\" describes the state, making \"me\" the focus of the adjective's effect.",
+    "explanation": "In the sentence, the adjective is ^^angry^^ because it describes the state of the subject, \"My mother\". \nAn adjective is a word that modifies a noun or pronoun, and \"angry\" describes how the mother feels. \nangry: This word describes the mother's emotional state.\nmy mother: This is the subject of the sentence\nwith: This is a preposition.\nme: This is a pronoun.",
     "level": "",
     "tags": [
+      "verified",
       "adjective",
       "english",
       "kssrb exam",
@@ -124418,10 +124480,11 @@
       "Jump",
       "Happy"
     ],
-    "correct_option_index": 3,
-    "explanation": "A verb is an action word. \"Jump\" is a verb, indicating an action, while the others are adverbs or adjectives.",
+    "correct_option_index": 2,
+    "explanation": "The word \"Jump\" is the verb. \nA verb is an action word, and \"jump\" represents an action being performed. \n\nWhy other options are incorrect:\n**Quickly:** This is an adverb, describing how an action is done. It modifies a verb. For example, \"He ran quickly.\" \n**Slowly:** This is also an adverb, describing how an action is done. For example, \"She walked slowly.\" \n**Happy:** This is an adjective, describing a state of being. It describes a noun. For example, \"She was happy.\"",
     "level": "",
     "tags": [
+      "verified",
       "verb",
       "english",
       "kssrb exam",
@@ -124547,9 +124610,10 @@
       "Loudly"
     ],
     "correct_option_index": 1,
-    "explanation": "The subject is the noun or pronoun that performs the action. \"Dog\" is the subject performing the action \"barks.\"",
+    "explanation": "The subject is the noun or pronoun that performs the action. \n\"Dog\" is the subject performing the action \"barks.\"",
     "level": "",
     "tags": [
+      "verified",
       "noun",
       "noun",
       "english",
@@ -125084,10 +125148,15 @@
       "4.40% loss",
       "4.40% profit"
     ],
-    "correct_option_index": 1,
-    "explanation": "CP = 1092 ÷ 1.2 = 910 → Loss = 910 – 950 = 40 profit? Wait 950 – 910 = 40 → profit 40/910 × 100 = 4.40% profit → correct answer: 4.40% profit.",
+    "correct_option_index": 3,
+    "explanation": "Final Answer: Profit of approximately 4.40%.\n\n\nStep 1: Find the Cost Price (CP)\nRahim sold the crockery set for Rs 1,092 at a 20% profit.\nThis means the selling price is 120% of the cost price \n= (100% + 20% = 120%, or 1.20).\nTo find CP:\nCP = Selling Price ÷ 1.20\nCP = 1092 ÷ 1.20 = 910\nSo, the cost price is Rs 910.\n\nStep 2: Find Profit or Loss at New Selling Price (Rs 950)\nNew selling price = Rs 950\nCost price = Rs 910\nSince 950 > 910, there is a profit.\nProfit = 950 - 910 = 40\nSo, profit amount = Rs 40.\n\nStep 3: Calculate Profit Percentage\nFormula:\nProfit % = (Profit ÷ Cost Price) × 100\nProfit % = (40 ÷ 910) × 100\n= 4.3956...%\nRounded to two decimal places: ^^4.40%^^",
     "level": "",
     "tags": [
+      "verified",
+      "profit and loss",
+      "percentage",
+      "profit and loss",
+      "percentage",
       "aptitude",
       "kssrb exam",
       "mock",
@@ -125207,10 +125276,13 @@
       "57",
       "60"
     ],
-    "correct_option_index": 1,
-    "explanation": "Let CP = x. Profit1 = 69–x; Profit%1 = (69–x)/x ×100. \nProfit2 = (78–x)/x ×100 = 2×Profit1 \n→ solve → 78–x=2(69–x) → 78–x=138–2x → x=60. Wait check → CP=60.",
+    "correct_option_index": 3,
+    "explanation": "et the C.P. of the article be Rs. x.\n\nAccording to the question\n\n78 – x = 2 (69 - x)\n\n78 – x = 138 - 2x\n\n2x – x = 138 – 78\n\n^^X = 60^^",
     "level": "",
     "tags": [
+      "verified",
+      "profit and loss",
+      "profit and loss",
       "aptitude",
       "kssrb exam",
       "mock",
@@ -125945,10 +126017,11 @@
       "12",
       "8"
     ],
-    "correct_option_index": 0,
-    "explanation": "",
+    "correct_option_index": 2,
+    "explanation": "8 small + 4 large = 12 Ans",
     "level": "",
     "tags": [
+      "verified",
       "shape based reasoning",
       "shape based reasoning",
       "reasoning",
@@ -126118,9 +126191,10 @@
       "Son in law"
     ],
     "correct_option_index": 0,
-    "explanation": "",
+    "explanation": "Given statement: \nIntroducing a boy, a girl said, \n\"He is the son of the daughter (girl's mother) of the father (girl's grandfather) of my (girl's) uncle''.\nThus that boy is her brother.",
     "level": "",
     "tags": [
+      "verified",
       "blood relations",
       "blood relations",
       "reasoning",
@@ -133679,10 +133753,13 @@
       "3",
       "6"
     ],
-    "correct_option_index": 0,
-    "explanation": "Very common in 123 and 267, but 2 in both? Wait, standard coding.\n\n123=very hot day, 356=hot filtered coffee, 267=day very cold.\n\nVery=2 (in 123 and 267), hot=3 (123,356), day=1 (123,267? 1 in 123 only? Wait.\n\nActually: very=2, as common in \"very\" sentences but not others.\n\n123 has very(1?), but typical: find common words.\n\n\"very\" in 123 and 267, code 2 common.\n\n\"hot\" in 123,356: 3 common.\n\n\"day\" in 123,267: 1? 1 in 123, no 1 in 267. 267 has 2,6,7.\n\n123:1-very,2-hot,3-day? But 267:2-day,6-very,7-cold? Inconsistent.\n\nStandard example: let's use common SSC.",
+    "correct_option_index": 1,
+    "explanation": "very = 2 is the correct answer\n\n123 = very hot day, \n356 = hot filtered coffee, \n267 = day very cold.\n\n^^Very=2 (in 123 and 267), ^^\nhot=3 (123,356),",
     "level": "easy",
     "tags": [
+      "verified",
+      "coding decoding",
+      "coding decoding",
       "reasoning",
       "kssrb mock test 1 (10th level)",
       "mock",
@@ -133719,9 +133796,14 @@
       "EPPT"
     ],
     "correct_option_index": 1,
-    "explanation": "W+1 = X\nA+1 = B\nL+1 = M\nL+1 = M\n\nSame way:\nD+1 = E\nO+1 = P\nO+1 = P\nR+1 = S\n\nEPPS is the answer\n\n--",
+    "explanation": "W+1 = X\nA+1 = B\nL+1 = M\nL+1 = M\n\nSame way:\nD+1 = E\nO+1 = P\nO+1 = P\nR+1 = S\n\nEPPS is the answer",
     "level": "easy",
     "tags": [
+      "verified",
+      "coding decoding",
+      "word analogy",
+      "coding decoding",
+      "word analogy",
       "reasoning",
       "kssrb mock test 1 (10th level)",
       "mock",
@@ -133750,17 +133832,20 @@
   },
   {
     "id": "jUU7x6tb4",
-    "question": "If + means -, - means *, * means /, / means +.\nWhat is 10+5-2*4/3?",
+    "question": "If + means -, - means *, * means /, / means +.\nWhat is 10 + 5 - 2 * 4/3 ?",
     "options": [
-      "7",
-      "8",
-      "9",
-      "10"
+      "4.5",
+      "8.5",
+      "9.5",
+      "10.5"
     ],
-    "correct_option_index": 0,
-    "explanation": "Replace: 10-5*2/4+3. BODMAS: 5*2=10, 10/4=2.5, 10-2.5+3=10.5.\n\nWait, wrong. Let's calculate step.\n\nFirst / is +, * is /, - is *, + is -.\n\nSo 10 - 5 * 2 / 4 + 3.\n\nBut values: division first? BODMAS.\n\n / is +, so 2 / 4 =2+4? No, the symbols are replaced in expression.\n\nThe expression is 10+5-2*4/3, replace symbols.\n\nSo becomes 10 - 5 * 2 / 4 + 3.\n\nNow compute: * is /, so 2*4=2/4=0.5? No, the operators are replaced, so the expression after replacement is 10 - 5 * (2 / 4) + 3, but * is the operator between 2 and 4? The expression is 10+5-2*4/3\n\nSo operators: + between 10 and 5 becomes - \n\n- between 5 and 2 becomes *\n\n* between 2 and 4 becomes /\n\n/ between 4 and 3 becomes +\n\nSo 10 - 5 * 2 / 4 + 3\n\nBODMAS: first / : 2 / 4 =0.5\n\nThen * : 5 * 0.5 =2.5\n\nThen - : 10 - 2.5 =7.5\n\nThen + : 7.5 + 3 =10.5\n\nNot in options. Perhaps different.\n\nLet's make a simple one.\n\nStandard: if 8*4-2/1+3= ?\n\nReplace: 8/4 *2 +1 -3 or something. Let's change to fit integer.\n\nLet's make question: if + = / , - = * , * = - , / = + . But to fit.\n\nLet's choose a different coding for SSC level.",
+    "correct_option_index": 3,
+    "explanation": "The original expression 10+5-2*4/3 becomes:\n10 - 5 * 2 / 4 + 3 \n\nMultiplication and Division (left to right):\n10 - 5 * 2 / 4 + 3 \n10 - 5 * (1/2) + 3 \n10 - 2.5 + 3 \n10 + 0.5\n^^= 10.5 ^^",
     "level": "easy",
     "tags": [
+      "verified",
+      "bodmas",
+      "bodmas",
       "reasoning",
       "kssrb mock test 1 (10th level)",
       "mock",
@@ -138430,9 +138515,14 @@
       "58"
     ],
     "correct_option_index": 1,
-    "explanation": "BLISS = 2 + 12 + 9 + 19 + 19 = 61\nTENT = 20 + 5 + 14 + 20  = 55",
+    "explanation": "BLISS = 2 + 12 + 9 + 19 + 19 = 61 - 5 (letter) = 56\nTENT = 20 + 5 + 14 + 20  = 59 - 4 = 55\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F_7tMSfLgxa.png?alt=media&token=adf2f661-1732-41cf-8d1e-cc53ef20666d)",
     "level": "",
     "tags": [
+      "verified",
+      "coding decoding",
+      "word analogy",
+      "coding decoding",
+      "word analogy",
       "reasoning",
       "kssrb mock test 5 (graduation level)",
       "mock"
@@ -141948,17 +142038,18 @@
   },
   {
     "id": "RNy1j9E_t",
-    "question": "Select the combinations of letters that when sequentially placed in the gaps of the given letter series will complete the series. cb_db_cba_bc_bad_c ?",
+    "question": "Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series:\ncb_db_cba_bc_bad_c ??",
     "options": [
-      "acdc",
+      "acbcd",
       "cabdc",
-      "ccadb",
-      "abeda"
+      "acdcb",
+      "dcbcb"
     ],
-    "correct_option_index": 3,
-    "explanation": "The sequence cb_db_cba_bc_bad_c follows a pattern where \"abeda\" fits to complete the series by maintaining the alternating and repeating structure.",
+    "correct_option_index": 2,
+    "explanation": "Let’s consider each option:\n\n1) cbadbccbabbccbaddc → no pattern followed\n\n2) cbcdbacbabbcdbadcc → no pattern followed\n\n^^3) cbadbc cbadbc cbadbc → follows a pattern^^\n\n4) cbddbccbabbccbadbc → no pattern followed\n\nHence, ‘acdcb’ is the correct answer.",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "coding decoding",
       "coding decoding",
@@ -143829,6 +143920,105 @@
     "page_uid": "",
     "path_tags": [
       "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "amwCEYl7d",
+    "question": "By selling a piece of writing for Rs. 540, a person incurs a loss of 20%. At what price should he sell it so that he makes a profit of 40%?",
+    "options": [
+      "890",
+      "105",
+      "1256",
+      "945"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Loss% if SP is Rs. 540 = 20%\n\nProfit at which SP to be calculated = 40%\n\nFormula used:\n\nSP = CP × [(100 – Loss%)/100]\n\nSP = CP × [(100 + Gain%)/100]\n\nCalculation:\n\n⇒ Rs. 540 = CP × [(100 – 20)/100]\n\n⇒ CP = 540 × (100/80)\n\n⇒ CP = Rs. 675\n\n⇒ New SP= 675 × (140/100)\n\n⇒ Rs. 945\n\n∴ The Selling price is Rs. 945",
+    "level": "",
+    "tags": [
+      "verified",
+      "profit and loss",
+      "profit and loss",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-03",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "FEeM8GVix",
+    "question": "The cost price of an article is Rs. 250. A shopkeeper gains 20% by selling it at a discount of 36% on its marked price. What is the marked price (in Rs.) of the article?",
+    "options": [
+      "450",
+      "380.50",
+      "475",
+      "468.75"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The cost price of an article = Rs. 250\n\nGain = 20%\n\nDiscount = 36%\n\nFormula used:\n\nMP = [(100 + Gain%)/(100 – Discount%) × CP]\n\nCalculation:\n\nLet the ratio of CP and MP be (100 – D)% : (100 + Gain)%\n\n⇒ (100 – 36) : (100 + 20)\n\n⇒ 64 : 120\n\nNow,\n\nAccording to the question\n\n⇒ 64% = 250\n\nThen,\n\n⇒ 120% = (250/64 × 120)\n\n⇒ (30,000/64)\n\n⇒ 468.75\n\n∴ The MP of the article is Rs. 468.75",
+    "level": "",
+    "tags": [
+      "verified",
+      "profit and loss",
+      "profit and loss",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-03",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "cQrgOFK3A",
+    "question": "If the cost price of an article is Rs. 800 and if a 15% loss is incurred on selling the article, find the selling price ?",
+    "options": [
+      "Rs. 860",
+      "Rs. 760",
+      "Rs. 680",
+      "Rs. 780"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The cost price (CP) of the article is Rs. 800. A 15% loss means the selling price (SP) is 85% of the cost price (because 100% - 15% = 85%).\n\nFirst, calculate 15% of 800:  \n15% of 800 = (15/100) × 800 = 0.15 × 800 = 120.  \nSo, the loss amount is Rs. 120.\n\nNow, subtract this loss from the cost price to get the selling price:  \nSP = CP - loss = 800 - 120 = 680.\n\nAlternatively, directly calculate 85% of 800:  \n85% of 800 = (85/100) × 800 = 0.85 × 800 = 680.\n\nThus, the selling price is Rs. 680.",
+    "level": "",
+    "tags": [
+      "verified",
+      "profit and loss",
+      "profit and loss",
+      "aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-03",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "aptitude"
     ],
     "taken_from": {},
     "paragraph_text": "",
