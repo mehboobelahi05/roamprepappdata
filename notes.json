@@ -1930,7 +1930,7 @@
       },
       {
         "order": 20,
-        "string": "**86th Amendment Act, 2002**\n▪️ Made elementary education (6–14 years) a Fundamental Right (Article 21A).\n▪️ Modified Article 45 (DPSP).\n▪️ Added Fundamental Duty for parents to provide education to children aged 6–14 (Article 51A).",
+        "string": "**86th Amendment Act, 2002**\n▪️ Made elementary education (6–14 years) a Fundamental Right (Article 21A, Right to Education).\n▪️ Modified Article 45 (DPSP).\n▪️ Added Fundamental Duty for parents to provide education to children aged 6–14 (Article 51A).",
         "uid": "2one3UU2Y"
       },
       {
@@ -2123,7 +2123,7 @@
       },
       {
         "order": 3,
-        "string": "**Right to Freedom ( Article 19-22)**\n\n**Article 19 – Six Fundamental Freedoms**\n▪️ Every citizen has six freedoms:\n1. Freedom of speech & expression\n2. Freedom to assemble peacefully\n3. Freedom to form associations/unions\n4. Freedom to move freely throughout India\n5. Freedom to reside in any part of India\n6. Freedom to practice any profession or carry on any occupation, trade, or business\n▪️ Restrictions possible in interest of public order, morality, security, sovereignty of India, etc.\n\n**Article 20 – Protection in Criminal Cases**\n▪️ No ex-post facto law – No punishment for an act that was not an offence under law when committed.\n▪️ No double jeopardy – Cannot be punished twice for the same offence.\n▪️ No self-incrimination – No person can be forced to be a witness against himself.\n\n**Article 21 – Right to Life & Personal Liberty**\n▪️ No person shall be deprived of his life or personal liberty except according to procedure established by law.\n▪️ Expanded by SC to include: right to privacy, clean environment, livelihood, shelter, health, speedy trial, etc.\n\n**Article 21A – Right to Education**\n▪️ Free & compulsory education for children aged 6–14 years.\n▪️ Inserted by 86th Amendment Act, 2002.\n\n**Article 22 – Protection against Arrest & Detention**\n▪️ Provides rights to persons arrested.\n▪️ Preventive detention allowed but with limits:\n– Maximum 3 months, can be extended with approval of an advisory board.\n– Parliament can prescribe longer periods.",
+        "string": "**Right to Freedom ( Article 19-22)**\n\n**Article 19 – Six Fundamental Freedoms**\n▪️ Every citizen has six freedoms:\n1. Freedom of speech & expression\n2. Freedom to assemble peacefully\n3. Freedom to form associations/unions\n4. Freedom to move freely throughout India\n5. Freedom to reside in any part of India\n6. Freedom to practice any profession or carry on any occupation, trade, or business\n▪️ Restrictions possible in interest of public order, morality, security, sovereignty of India, etc.\n\n**Article 20 – Protection in Criminal Cases**\n▪️ No ex-post facto law – No punishment for an act that was not an offence under law when committed.\n▪️ No double jeopardy – Cannot be punished twice for the same offence.\n▪️ No self-incrimination – No person can be forced to be a witness against himself.\n\n**Article 21 – Right to Life & Personal Liberty**\n▪️ No person shall be deprived of his life or personal liberty except according to procedure established by law.\n▪️ Expanded by SC to include: right to privacy, clean environment, livelihood, shelter, health, speedy trial, etc.\n\n**Article 21A – Right to Education**\n▪️ Free & compulsory education for children aged 6–14 years.\n▪️ Inserted by 86th Amendment Act, 2002.\n\n**Article 22 – Protection against Arrest & Detention**\n▪️ Provides rights to persons arrested.\n▪️ Preventive detention allowed but with limits:\n– Maximum 3 months, can be extended with approval of an advisory board.\n– Parliament can prescribe longer periods.\n---\n((2one3UU2Y))",
         "uid": "AE0qjzDr_"
       },
       {
@@ -2243,6 +2243,11 @@
     "blocks": [
       {
         "order": 0,
+        "string": "**Strength of Judges in Supreme Court (SC):**\n▪️ Decide by the Parliament\n▪️ Maximum Sanctioned Strength: 34 (including Chief Justice of India – CJI).\n▪️ Current Status (as of Nov 2025): Full strength of 34 judges.\n▪️ Key Fact: Increased from 31 to 34 via Constitution (15th Amendment) Act, 2019.\n▪️ Article Reference: Article 124(1) of the Constitution.\n\n**Strength of Judges in High Court (HC):**\n▪️ Decide by the President\n▪️ Total Sanctioned Strength Varies court by court.\n▪️ Article Reference: Article 216 of the Constitution.\n\n**Retirement Age of SC Judge:**\n▪️ Age: 65 years.\n▪️ Tenure: 6 years\n▪️ Holds office until  for 6 years or until the age  of 62 years\n\n**Retirement Age of HC Judge:**\n▪️ Age: 62 years.\n▪️ Tenure: 6 years\n▪️ Holds office until  for 6 years or until the age  of 62 years",
+        "uid": "Z-1EHgvMU"
+      },
+      {
+        "order": 1,
         "string": "**Advisory Jurisdiction (Article 143)**\n▪️ This constitutional provision empowers the President to consult the Supreme Court on any question of law or fact that has arisen or is likely to arise and is of public importance.\n▪️ The Supreme Court, after holding the necessary hearing, reports its opinion to the President.\n▪️ The advice given by the Supreme Court under this article is ^^not binding^^ on the President; it is consultative in nature.\n▪️ The President can seek advice on issues such as disputes arising from pre-constitutional treaties, agreements, and other similar instruments",
         "uid": "zjabb3lMU"
       }
@@ -2277,7 +2282,7 @@
         "children": [
           {
             "order": 0,
-            "string": "**Sites in Pakistan:** 📌 \n▪️ Harappan (first discovered) -- Punjab\n▪️ Mohenjodaro (largest) -- Sind\n\n\n**Sites in India:** 📌 \n▪️ Banwali -- Haryana\n▪️ Rakhigarhi -- Haryana\n▪️ Kalibangan -- Rajasthan\n▪️ Lothal -- Gujarat\n▪️ Dholavira  (only WHS) -- Gujarat\n\nMap:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsilju_ssc%2FxRjmdLM0Da.png?alt=media&token=ce08da2c-2128-4bbb-88db-96adb1654545)",
+            "string": "**Sites in Pakistan:** 📌 \n▪️ Harappan (first discovered) -- Punjab\n▪️ Mohenjodaro (largest) -- Sind\n▪️ Meghrah: Baluchistan \n\n\n**Sites in India:** 📌 \n▪️ Banwali -- Haryana\n▪️ Rakhigarhi -- Haryana\n▪️ Kalibangan -- Rajasthan\n▪️ Lothal -- Gujarat\n▪️ Dholavira  (only WHS) -- Gujarat\n\nMap:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsilju_ssc%2FxRjmdLM0Da.png?alt=media&token=ce08da2c-2128-4bbb-88db-96adb1654545)",
             "uid": "Ooa2nTNpx"
           },
           {
@@ -3031,7 +3036,7 @@
           }
         ],
         "order": 7,
-        "string": "**Lord Dalhousie 1848-1856**\n▪️ Second Anglo-Sikh War (1848–49) and annexation of Punjab (1849).\n▪️ Annexation of Lower Burma or Pegu (1852).\n▪️ Introduction of the Doctrine of Lapse and annexation of Satara (1848), Jaitpur and Sambhalpur (1849), Udaipur (1852), Jhansi (1853), Nagpur (1854), and Awadh (1856).\n▪️ “Wood’s (Charles Wood, President of the Board of Control) Educational Despatch” of 1854 and opening of Anglo-vernacular schools and government colleges.\n▪️ Railway Minute of 1853; and laying down of first railway line connecting Bombay and Thane in 1853.\n▪️ Telegraph (4,000 miles of telegraph lines to connect Calcutta with Bombay, Madras, and Peshawar) and postal (Post Office Act, 1854) reforms.\n▪️ Ganges Canal declared open (1854); establishment of separate public works department in every province.\n▪️ Widow Remarriage Act (1856).",
+        "string": "**Lord Dalhousie 1848-1856**\n▪️ Second Anglo-Sikh War (1848–49) and annexation of Punjab (1849).\n▪️ Annexation of Lower Burma or Pegu (1852).\n▪️ Introduction of the Doctrine of Lapse and annexation of Satara (1848), Jaitpur and Sambhalpur (1849), Udaipur (1852), Jhansi (1853), Nagpur (1854), and Awadh (1856).\n▪️ “Wood’s (Charles Wood, President of the Board of Control) Educational Despatch” of 1854 and opening of Anglo-vernacular schools and government colleges.\n\n**First Train**\n▪️ On 16th April 1853, the first passenger train ran between Bori Bunder (Bombay) and Thane.\n▪️ The first railway steamed off in India from Mumbai to Thane in 1853 covering a total distance of 34 km.\n\n▪️ Telegraph (4,000 miles of telegraph lines to connect Calcutta with Bombay, Madras, and Peshawar) and postal (Post Office Act, 1854) reforms.\n▪️ Ganges Canal declared open (1854); establishment of separate public works department in every province.\n▪️ Widow Remarriage Act (1856).",
         "uid": "PTqwg0UCk"
       },
       {
@@ -3186,6 +3191,11 @@
         "order": 3,
         "string": "**In India (1930–1948)**\n1930–34:\n▪️ Launched the ^^Civil Disobedience Movement^^ with the ^^Dandi March^^ (Salt Satyagraha).\n▪️ First Phase: March 12, 1930 – March 5, 1931.\n▪️ Signed the ^^Gandhi–Irwin Pact^^ on March 5, 1931.\n▪️ ^^Attended the Second Round Table Conference^^ in London (September 7 – December 1, 1931).\n▪️ Second Phase: January 3, 1932 – April 17, 1934.\n▪️ In 1930, Time magazine named him “^^Man of the Year^^.”\n▪️  Mahatma Gandhi founded the ^^All India Anti-Untouchability League^^ in September 1932, which was later renamed the Harijan Sevak Sangh (Servants of Untouchables Society)\n1934–39:\n▪️ Retired again from active politics and established Sevagram (Wardha Ashram).\n\n1939:\n▪️ Resumed active politics.\n\n1940–41:\n▪️ Launched the ^^Individual Satyagraha Movement^^.\n\n1942:\n▪️ Started the ^^Quit India Movement^^ with the slogan “^^Do or Die^^” (August 9).\n▪️ Gandhi and other Congress leaders were arrested.\n\n1942–44:\n▪️ Detained at Aga Khan Palace, Pune (August 9, 1942 – May 1944).\n▪️ His wife Kasturba and secretary Mahadev Desai died during this period.\n▪️ This was his last imprisonment.\n\n1945:\n▪️ Gandhi’s influence in the Congress started to decline.\n\n1946:\n▪️ Tried to stop communal violence in Noakhali (East Bengal) and Calcutta after the Muslim League’s Direct Action call.\n\n1947:\n▪️ Distressed by the Partition Plan announced on June 3.\nStayed in Calcutta to stop communal riots and observed silence on India’s Independence Day (August 15).\n▪️ Returned to Delhi in September.\n\n1948:\n▪️ ^^Assassinated by Nathuram Godse^^ on January 30 at Birla House, New Delhi.\nHis last words were “Hey Ram.”",
         "uid": "HKvQfagRs"
+      },
+      {
+        "order": 4,
+        "string": "**Newspapers Published by Gandhi:**\n▪️ Indian Opinion\n▪️ Young India\n▪️ Harijan",
+        "uid": "zyHVXZsR1"
       }
     ]
   },
@@ -3419,7 +3429,7 @@
           },
           {
             "order": 2,
-            "string": "**Jhelum river:**\n▪️ The ancient name of Jhelum was \"Vitasta\".\n▪️ It originates from Verinag, in Pirpanjal range.\n▪️ It flows through the Srinagar city.\n▪️ Important lakes that falls on its course are: Dal lake, Wullar lake, Nigeen lake etc.\n\n((NIwFSRzGw))\n![ jhelum river image notes ](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMehboobElahi%2Fb-n48EsVMp.png?alt=media&token=9276a452-37bb-46e7-8a58-5014b461236e)",
+            "string": "**Jhelum river:**\n▪️ The ancient name of Jhelum was \"Vitasta\".\n▪️ It originates from Verinag Spring (in Anantnag district, Jammu & Kashmir), located at the foothills of the Pir Panjal range.\n▪️ It flows through the Srinagar city.\n▪️ Important lakes that falls on its course are: Dal lake, Wullar lake, Nigeen lake etc.\n--\n▪️ Wullar lake is the largest fresh water lake of India.\n▪️ Indias only \"Floating Post Office\" is in Dal lake. \n((NIwFSRzGw))\n![ jhelum river image notes ](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMehboobElahi%2Fb-n48EsVMp.png?alt=media&token=9276a452-37bb-46e7-8a58-5014b461236e)",
             "uid": "4MD9ewRjd"
           },
           {
@@ -3536,6 +3546,11 @@
       },
       {
         "order": 1,
+        "string": "**Ozone Layer**\n▪️ It is in Stratosphere layer of the atmosphere\n▪️ It absorbes Ozone \n▪️ Ground Ozone is a Greenhouse Gas. \n▪️ Sept 16 is Ozone Day",
+        "uid": "rF-H0lMei"
+      },
+      {
+        "order": 2,
         "string": "**Freshwater on Earth** \n▪️ The Earth is a watery place. About 71% of the Earth's surface is water-covered, while the other 29% consists of continents and islands. \n▪️ 96.5% of all the Earth's water is contained within the oceans as saltwater, while the remaining 3.5% is freshwater lakes and frozen water locked up in glaciers and the polar ice caps.\n▪️ Water also exists in the air as water vapor, in rivers and lakes, in icecaps and glaciers, in the ground as soil moisture and in aquifers. \n▪️ The vast majority of water on the Earth's surface is saline water in the oceans. \n\n▪️ Over 68% of the freshwater on Earth is found in icecaps and glaciers\n▪️ 30 percent is found in groundwater. \n▪️ Only about 0.3 percent of our freshwater is found in the surface water of lakes, rivers, and swamps. \n\n\n▪️ The Antarctic ice sheet holds about 90 percent of the fresh water that exists on the Earth’s surface.\n▪️ The ice sheet covers approximately 8.7 million square miles. \n▪️ The Greenland ice sheet also contains large volumes of fresh water. \nThese two ice sheets account for more than 99 percent of the freshwater ice on the planet.\n\n\n▪️ **22 March** is celebrated as the world water day every year.",
         "uid": "zE1QrM54R"
       }
@@ -3844,11 +3859,16 @@
       },
       {
         "order": 5,
+        "string": "**Water-Soluble Vitamins**\n(Dissolve in water, not stored in body, daily intake needed)\n\nVitamin C → Ascorbic Acid\nVitamin B1 → Thiamine\nVitamin B2 → Riboflavin\nVitamin B3 → Niacin\nVitamin B5 → Pantothenic Acid\nVitamin B6 → Pyridoxine\nVitamin B7 → Biotin\nVitamin B9 → Folic Acid\nVitamin B12 → Cobalamin\n\n\n**Fat-Soluble Vitamins: KEDA**\n(Dissolve in fat, stored in liver & fatty tissues)\n\nVitamin A → Retinol\nVitamin D → Calciferol\nVitamin E → Tocopherol\nVitamin K → Phylloquinone / Menaquinone",
+        "uid": "P-i7ubpf0"
+      },
+      {
+        "order": 6,
         "string": "**Important Deficiency Diseases** \nImportant Deficiency Diseases\n\n**Scurvy: **\n▪️ caused due to deficiency of ^^Vitamin C (Ascorbic acid)^^\n\n**Rickets (in children): **\n▪️ caused due to deficiency of ^^Vitamin D^^\n\n**Osteomalacia (in adults): **\n▪️ caused due to deficiency of ^^Vitamin D^^\n\n**Beriberi: **\n▪️ caused due to deficiency of ^^Vitamin B1 (Thiamine)^^\n\n**Pellagra: **\n▪️ caused due to deficiency of ^^Vitamin B3 (Niacin)^^\n\n**Xerophthalmia/Night Blindness:** \n▪️ caused due to deficiency of ^^Vitamin A^^\n\n**Ariboflavinosis: **\n▪️ caused due to deficiency of ^^Vitamin B2 (Riboflavin)^^\n\n**Iron Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Iron^^\n\n**Goiter/Cretinism: **\n▪️ caused due to deficiency of ^^Iodine^^\n\n**Tetany: **\n▪️ caused due to deficiency of ^^Calcium (or Magnesium)^^\n\n**Kwashiorkor: **\n▪️ caused due to deficiency of ^^Protein^^ (with adequate calories)\n\n**Marasmus: **\n▪️ caused due to deficiency of ^^Protein and Calories^^\n\n**Folate Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Folate (Vitamin B9)^^\n\n**Vitamin B12 Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Vitamin B12 (Cobalamin)^^\n\n**Vitamin K Deficiency (Hemorrhagic disease): **\n▪️ caused due to deficiency of ^^Vitamin K^^",
         "uid": "YUDoDMKqY"
       },
       {
-        "order": 6,
+        "order": 7,
         "string": "**COMMON SUGARS**\n▪️ Sucrose → table sugar = glucose + fructose\n▪️ Glucose → blood sugar, in fruit/honey\n▪️ Fructose → sweetest, in fruit & HFCS\n▪️ Lactose → milk sugar, many people can’t digest\n▪️ Maltose → from grains/starch\n▪️ HFCS → cheap soda sweetener (55 % fructose)\n\n**DISEASES CAUSED BY EXCESS SUGAR**\n▪️ Type 2 Diabetes → sugar spikes → insulin stops working\n▪️ Obesity → extra calories + fructose → belly fat\n▪️ Fatty Liver (NAFLD) → fructose turns straight into liver fat\n▪️ Heart Disease → sugar raises triglycerides & blood pressure\n▪️ Cavities → bacteria feast on sugar → acid eats teeth\n▪️ Gout → fructose raises uric acid → joint crystals\n▪️ Brain Fog & Mood Swings → sugar roller-coaster\n▪️ Cancer Risk ↑ → sugar feeds fast-growing cells\n▪️ Inflammation → chronic high sugar = body-wide swelling",
         "uid": "tjhayGkwM"
       }
@@ -3899,6 +3919,17 @@
         "order": 3,
         "string": "**Browsers Names:**\n▪️ Chrome – Developed by Google\n▪️ Safari – Developed by Apple\n▪️ Firefox – Developed by Mozilla\n▪️ Edge – Developed by Microsoft (Chromium-based)\n▪️ Opera – Developed by Opera Software (Chromium-based)\n▪️ Brave – Privacy-focused (Chromium-based)",
         "uid": "hlPG5kyAU"
+      }
+    ]
+  },
+  {
+    "page_title": "Sports GK",
+    "page_uid": "oqG3YZw0B",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Cups: Sports**\n**INTERNATIONAL**\n▪️ Davis Cup : Tennis  \n▪️ Fed Cup : Tennis (Women)  \n▪️ Thomas Cup : Badminton (Men)  \n▪️ World Cup : Cricket  \n▪️ Ashes Cup : Cricket (England vs Australia)  \n▪️ FIFA World Cup : Football  \n▪️ UEFA Champions League : Football  \n▪️ Aga Khan Cup : Hockey  \n\n**INDIAN**\n▪️ Ranji Trophy : Cricket (First-class)  \n▪️ Duleep Trophy : Cricket (Zonal)  \n▪️ Vijay Hazare Trophy : Cricket (List A)  \n▪️ Irani Trophy : Cricket (Ranji winners vs Rest of India)  \n▪️ Santosh Trophy : Football  \n▪️ Durand Cup : Football  \n▪️ Rovers Cup : Football  \n▪️ Nehru Cup : Hockey",
+        "uid": "CwhTOfy-U"
       }
     ]
   },
