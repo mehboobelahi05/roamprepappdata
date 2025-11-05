@@ -99,7 +99,7 @@
       },
       {
         "order": 9,
-        "string": "**Ladakh**\n▪️ Lt. Governor of UT Ladakh: ^^Kavinder Gupta^^\n▪️ DC of Leh: ^^Shri Romil Singh Donk, IAS^^\n▪️ DC of Kargil: ^^Rakesh Kumar, IAS^^\n▪️ CEC of LAHDC Leh: ^^Advocate Tashi Gyalson^^\n▪️ CEC of LAHDC Kargil: ^^Dr. Mohd Jaffer Akhoon^^\n\n▪️ Vice Chancellor of Ladakh University Leh: ^^Prof. Saket Kushwaha^^\n▪️ Vice Chancellor of Ladakh University Kargil: Prof. Saket Kushwaha \n▪️ University of Ladakh has a unified VC for both Leh and Kargil campuses.",
+        "string": "**Ladakh**\n▪️ Lt. Governor of UT Ladakh: ^^Kavinder Gupta^^\n▪️ Chief Secretary of Ladakh: ^^Dr. Pawan Kotwal^^\n▪️ DC of Leh: ^^Shri Romil Singh Donk, IAS^^\n▪️ DC of Kargil: ^^Rakesh Kumar, IAS^^\n▪️ CEC of LAHDC Leh: ^^Advocate Tashi Gyalson^^\n▪️ CEC of LAHDC Kargil: ^^Dr. Mohd Jaffer Akhoon^^\n\n▪️ Vice Chancellor of Ladakh University Leh: ^^Prof. Saket Kushwaha^^\n▪️ Vice Chancellor of Ladakh University Kargil: Prof. Saket Kushwaha \n▪️ University of Ladakh has a unified VC for both Leh and Kargil campuses.",
         "uid": "6NY2K1fIo"
       },
       {
@@ -2099,6 +2099,11 @@
         "order": 7,
         "string": "PREAMBLE AS PART OF THE CONSTITUTION",
         "uid": "2wtgZheGC"
+      },
+      {
+        "order": 8,
+        "string": "**Borrowed Features of Indian Constitution**\n**1. Australia**\n▪️ Concurrent list\n▪️ Freedom of trade, commerce and intercourse\n▪️ Joint-sitting of the two Houses of Parliament\n\n**2.Canada**\n▪️ Federation with a strong Centre\n▪️ Vesting of residuary powers in the Centre\n▪️ Appointment of state governors by the Centre\n▪️ Advisory jurisdiction of the Supreme Court\n\n**3. Ireland**\n▪️ Directive Principles of State Policy\n▪️ Nomination of members to Rajya Sabha\n▪️ Method of election of the president\n\n**4. Japan**\n▪️ Procedure Established by law\n\n**5. Soviet Union (USSR) (now, Russia)**\n▪️ Fundamental duties\n▪️ Ideals of JUSTICE (social, economic and political) in the Preamble\n\n**6.UK**\n▪️ Parliamentary government\n▪️ Rule of Law\n▪️ Legislative procedure\n▪️ Single Citizenship\n▪️ Cabinet system\n▪️ Prerogative writs\n▪️ Parliamentary privileges\n▪️ Bicameralism\n\n**7. USA**\n▪️ Fundamental rights\n▪️ Independence of judiciary\n▪️ Judicial review\n▪️ Impeachment of the president\n▪️ Removal of Supreme Court and High Court judges\n▪️ Post of vice-president\n\n**8.Germany (Weimar)**\n▪️ Suspension of Fundamental Rights during emergency\n\n**9.South Africa**\n▪️ Procedure for amendment in the Indian Constitution\n▪️ Election of members of Rajya Sabha\n\n**10.France**\n▪️ Idea of Republic\n▪️ Ideals of liberty, equality and fraternity in the Preamble",
+        "uid": "1mUbGPm6U"
       }
     ]
   },
@@ -2822,7 +2827,7 @@
       },
       {
         "order": 4,
-        "string": "**Lodi Dynasty (1452 - 1526)**\n▪️ Bhulul Lodi founded the Lodi dynasty in 1452.",
+        "string": "**Lodi Dynasty (1452 - 1526)**\n▪️ Bhulul Lodi founded the Lodi dynasty in 1452.\n▪️ Lodi dynasty was the only Afghani dynasty of Delhi Sultanate, rest all were Turkish in origin. \n\n**Bhulul Lodi**\n▪️ Bahlul Lodhi was the founder of the Lodhi dynasty.\n▪️ He ​was the chief of the Pashtun Lodhi Tribe.\n▪️ He became sultan in 1451.\n▪️ He was the first Afghani King of Delhi Sultanate \n▪️ He introduced new copper coins called Bahloli Coins.\n▪️ He conquered Gwalior, Santhal, Sakit, and Mewat.\n▪️ He ruled over Delhi till 1489.",
         "uid": "_tWWifkuQ"
       }
     ]
@@ -3165,6 +3170,11 @@
         "order": 24,
         "string": "Connected Blocks",
         "uid": "1poiom-Nq"
+      },
+      {
+        "order": 25,
+        "string": "**Revenue Systems During British Rule**\n▪️ The British introduced different land revenue systems to collect taxes from farmers and increase their income from Indian agriculture.\n\n**1. Permanent Settlement (Zamindari System) – 1793**\n▪️ Introduced by Lord Cornwallis in Bengal, Bihar, and Orissa.\n▪️ Zamindars were made owners of the land and collected rent from peasants.\n▪️ The revenue was fixed permanently.\n▪️ Led to exploitation of peasants and decline in agriculture.\n\n**2. Ryotwari System**\n▪️ Introduced by Thomas Munro in Madras and Bombay Presidencies.\n▪️ Revenue was collected directly from the peasants (ryots).\n▪️ The land ownership was given to the cultivator.\n▪️ Revenue rates were high and revised periodically, causing hardship to peasants.\n\n**3. Mahalwari System**\n▪️ Introduced by Holt Mackenzie (1822) and implemented by Lord William Bentinck in North-West Provinces, Punjab, and parts of Central India.\n▪️ Revenue was collected from the village (mahal) collectively.\n▪️ Village headmen or landlords represented the village.",
+        "uid": "fk6DPxLVY"
       }
     ]
   },
@@ -3702,6 +3712,16 @@
         "order": 5,
         "string": "**Important Full Forms In Economy:** \n**IBPS:** Institute of Banking Personnel Selection\t\nConducts recruitment exams for bank jobs (PO, Clerk, SO).\n\n**SBI:** State Bank of India\t\nLargest public sector bank; key player in Indian banking sector.\n\n**UPI:**\tUnified Payments Interface\t\nDigital payment system enabling instant money transfer.\n\n**RBI:**\tReserve Bank of India\t\nIndia's central banking institution; regulates monetary policy.\n\n**SEBI:** Security Exchange Board of India\nRegulates security market and stock exchanges in India\n\n**ATM:** Automated Teller Machine\t\nSelf-service banking for withdrawals and other services.\n\n**CRR:** Cash Reserve Ratio\t\nPercentage of deposits banks must keep with RBI for liquidity.\n\n**SLR:** Statutory Liquidity Ratio\nMinimum reserve banks maintain in liquid assets.\n\n**CIBIL:** Credit Information Bureau (India) Limited\tCollects/maintains credit records and assigns credit scores.",
         "uid": "S0MoywQIn"
+      },
+      {
+        "order": 6,
+        "string": "**NABARD**\n▪️ Fullform: National Bank for Agriculture and Rural Development\n▪️ Headquarters: Mumbai, India.\n▪️ Established on July 12, 1982.\n▪️ Established under the National Bank for Agriculture and Rural Development Act, 1981. Thus NABARD is a statutory body.\n▪️ Objective: to promote sustainable rural development and agricultural financing in India.\n▪️ Key Functions: Refinances loans to cooperatives, RRBs, and commercial banks; implements government schemes like PMFBY (crop insurance); regulates rural credit.\n▪️ Ownership: Wholly owned by Government of India",
+        "uid": "MSfjjVOvV"
+      },
+      {
+        "order": 7,
+        "string": "**Important Revolutions in Agriculture**\n▪️ Round revolution: Potato\n▪️ Green revolution: Food grains (rice and wheat)\n▪️ Grey revolution: Fertilizers/wool production\n▪️ Pink revolution: Prawn or onion production\n▪️ White Revolution (also called Operation Flood): Milk production\n▪️ Blue revolution: Fish production\n▪️ Red revolution: Meat or tomato production\n▪️ Yellow revolution: Oilseed production\n▪️ Brown revolution: Leather/cocoa production\n▪️ Golden fiber revolution: Jute production\n▪️ Golden revolution: Fruits/Honey/Horticulture production\n▪️ Silver revolution: Egg/Poultry production\n▪️ Silver fiber revolution: Cotton\n▪️ Protein revolution: Agriculture\n▪️ Evergreen revolution: Overall development of agriculture\n▪️ Black revolution: Petroleum production",
+        "uid": "CQRsb-rLX"
       }
     ]
   },
@@ -4274,6 +4294,115 @@
         "order": 43,
         "string": "Invent vs Discover\nInvent (Verb): To create something new.\nExample: He invented a new bat grip.\nDiscover (Verb): To find something existing.\nExample: He discovered a talent in bowling.",
         "uid": "8DwuJtIaU"
+      }
+    ]
+  },
+  {
+    "page_title": "Active Passive",
+    "page_uid": "MiQD97QKT",
+    "blocks": [
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Present Simple Tense:**\n\nActive: \nSub + V1 + Obj\n\nPassive:\nObj + is/am/are + V3 + by + Sub",
+            "uid": "KStxxgBWi"
+          },
+          {
+            "order": 1,
+            "string": "**Present Continuous Tense:**\n\nActive: \nSub + is/am/are + V-ing + Obj\n\nPassive:\nObj + is/am/are + being + V3 + by + Sub",
+            "uid": "x6sSILmVt"
+          },
+          {
+            "order": 2,
+            "string": "**Present Perfect Tense:**\n\nActive: \nSub + has/have + V3 + Obj\n\nPassive:\nObj + has/have + been + V3 + by + Sub",
+            "uid": "ApJXIhro9"
+          }
+        ],
+        "heading": 3,
+        "order": 0,
+        "string": "Present Tense",
+        "uid": "qcOMcJPc0"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Past Simple Tense:**\n\nActive: \nSub + V2 + Obj\n\nPassive:\nObj + was/were + V3 + by + Sub",
+            "uid": "7Do-OMrbJ"
+          },
+          {
+            "order": 1,
+            "string": "**Past Continuous Tense:**\n\nActive: \nSub + was/were + V-ing + Obj\n\nPassive:\nObj + was/were + being + V3 + by + Sub",
+            "uid": "WH-BveMJf"
+          },
+          {
+            "order": 2,
+            "string": "**Past Perfect Tense:**\n\nActive: \nSub + had + V3 + Obj\n\nPassive:\nObj + had + been + V3 + by + Sub",
+            "uid": "WcfdloXOn"
+          }
+        ],
+        "heading": 3,
+        "order": 1,
+        "string": "Past Tense",
+        "uid": "1zPSSHbr8"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Future Simple Tense:**\n\nActive: \nSub + will + V1+ Obj\n\nPassive:\nObj + will be + V3 + by + Sub",
+            "uid": "mlLZqI8Fm"
+          },
+          {
+            "order": 1,
+            "string": "**Future Perfect Tense:**\n\nActive: \nSub + will have  + V3 + Obj\n\nPassive:\nObj + will have + been + V3 + by + Sub",
+            "uid": "4BbK8CXV9"
+          }
+        ],
+        "heading": 3,
+        "order": 2,
+        "string": "Future Tense",
+        "uid": "18TmZonqZ"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "Imperative Sentence:\n\nRequested:\nVideo: {video:8UhSTP5bcVc:270} \nRule:\nReplace \"please, kindly etc\" with \"you are requested to\"",
+            "uid": "r59q-VgeT"
+          }
+        ],
+        "heading": 3,
+        "order": 3,
+        "string": "Imperative Sentence",
+        "uid": "AFhiC5guT"
+      },
+      {
+        "order": 4,
+        "string": "**Passive of Sentences starting with \"Let\"**\nWatch: {video:OXTMldnx7Y0:0}  \n\nRule 1: When one Object is there:\nLet + O1 + V1 \n\nPassive:\n(a) It is suggested that + Sub + V1\n(b) Let + O + \"be allowed to\" + V1\n\nRule 2: When there are 2 Objects\nLet + O1 + V1 + O2\n\nPassive:\nLet + O2 + be + V3 + by + O1",
+        "uid": "ZEXYB_qCQ"
+      },
+      {
+        "order": 5,
+        "string": "**Active Passive of Infinitive Sentences (to + V1)**\nWatch: {video:5aV30Lieh0A:0} \n\nActive: \nSub + Hv + to + V1 + Obj\n\nPassive:\nObj + Hv + to + be + V3 + by + Sub",
+        "uid": "B8tCOCtMC"
+      },
+      {
+        "order": 6,
+        "string": "**Rules for Active Passive**\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fy2MUNIooBw.png?alt=media&token=b0e90c82-9c08-4c05-99bf-cc2a63513342)",
+        "uid": "3Vhb6m3JX"
+      }
+    ]
+  },
+  {
+    "page_title": "Reasoning Concepts Videos",
+    "page_uid": "w1JEOsXgC",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "Dices based, \nCase 1: when there is a common number given:\nWatch: {video:2dKsz8KUaf4:0}",
+        "uid": "E3_HDjjYk"
       }
     ]
   }
