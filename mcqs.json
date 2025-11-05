@@ -41254,9 +41254,10 @@
       "92nd Amendment, 2003"
     ],
     "correct_option_index": 0,
-    "explanation": "",
+    "explanation": "The 42nd Amendment Act, 1976 added Fundamental Duties to the Indian Constitution under Article 51A.",
     "level": "",
     "tags": [
+      "verified",
       "amendment",
       "general studies",
       "polity",
@@ -51432,9 +51433,10 @@
       "Yarsung Padumpa"
     ],
     "correct_option_index": 2,
-    "explanation": "The Rango Tsangpo is a major right-bank tributary of the Brahmaputra River (known as the Yarlung Tsangpo in Tibet), joining it in the Tibetan region",
+    "explanation": "The Rango Tsangpo is a major right-bank tributary of the Brahmaputra River (known as the Yarlung Tsangpo in Tibet), joining it in the Tibetan region\nNote:\nYarlung Tsangpo: name of Brahmaputra in Tibet.\nRango Tsangpo: A tributary of Yarlung Tsangpo (Brahmaputra in Tibet)",
     "level": "",
     "tags": [
+      "verified",
       "brahmaputra",
       "general studies",
       "geography",
@@ -66077,17 +66079,19 @@
     "question": "A man sells a bicycle for $360, incurring a 20% loss. What should be the selling price to earn a 30% profit?",
     "options": [
       "450",
-      "520",
+      "585",
       "540",
       "600"
     ],
-    "correct_option_index": 3,
-    "explanation": "",
+    "correct_option_index": 1,
+    "explanation": "Determine the cost price (CP) of the bicycle.  \nThe man sold the bicycle for $360 at a 20% loss. This means the selling price (SP) was 80% of the cost price (100% - 20% = 80%).  \nThe formula to find the cost price is:  \nCP = SP × 100 / (100 - Loss%)  \nCP = 360 × 100 / (100 - 20)  \nCP = 360 × 100 / 80  \nCP = 36000 / 80  \nCP = $450  \nThe original cost price of the bicycle was $450.\n\nCalculate the new selling price (SP) to earn a 30% profit.  \nTo earn a 30% profit, the selling price should be 130% of the cost price (100% + 30% = 130%).  \nThe formula to find the selling price with a desired profit is:  \nSP = (100 + Profit%) / 100 × CP  \nSP = (100 + 30) / 100 × 450  \nSP = 130 / 100 × 450  \nSP = 1.3 × 450  \n^^SP = $585  ^^\nThe man should sell the bicycle for $585 to earn a 30% profit.",
     "level": "easy",
     "tags": [
+      "verified",
+      "profit and loss",
+      "profit and loss",
       "easy",
-      "aptitude",
-      "profit and loss"
+      "aptitude"
     ],
     "linked_block_uid": "",
     "linked_video": "",
@@ -92655,9 +92659,10 @@
       "Wednesday"
     ],
     "correct_option_index": 2,
-    "explanation": "On 31st December, 2005 it was Saturday.\n\nNumber of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.\n\n On 31st December 2009, it was Thursday.\n\nThus, on 1st Jan, 2010 it is Friday.",
+    "explanation": "On 31st December, 2005 it was Saturday.\n\nNumber of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.\n\nCode of the day  \nDay  \n0 : Sunday  \n1 : Monday  \n2 : Tuesday  \n3 : Wednesday  \n4 : Thursday  \n^^5 : Friday  ^^\n6 : Saturday\n\n On 31st December 2009, it was Thursday.\n\nThus, on 1st Jan, 2010 it is Friday.",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "calendar"
     ],
@@ -94276,6 +94281,7 @@
     "explanation": "LJNR is related to IGLP\nL = 12 - 3 = 9 = I\nJ = 10 - 3 = 7 = G\nN = 14 - 2 = 12 = L\nR = 18 - 2 = 16 = P\n\nFDHL is related to CAFJ\nF = 6 - 3 = 3 = C\nD = 4 - 3 = 1 = A\nH = 8 - 2 = 6 = F\nL = 12 - 2 = 10 = J\n\nSame way:\nHFJN is related to ECHL\nH= 8  - 3 = 5 =E\nF= 6  - 3 = 3 = C\nJ= 10  - 2 = 8 = H\nN= 14  - 2 = 12 = L",
     "level": "",
     "tags": [
+      "verified",
       "coding decoding",
       "ssc chsl",
       "coding decoding",
@@ -98312,13 +98318,14 @@
       "2"
     ],
     "correct_option_index": 3,
-    "explanation": "",
+    "explanation": "((E3_HDjjYk))",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "dices"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "E3_HDjjYk",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -98345,13 +98352,13 @@
       "4"
     ],
     "correct_option_index": 1,
-    "explanation": "Opposite faces are\n3 → 6\n5 → 2\n1 → 4",
+    "explanation": "Opposite faces are\n3 → 6\n5 → 2\n1 → 4\n((E3_HDjjYk))",
     "level": "",
     "tags": [
       "reasoning",
       "dices"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "E3_HDjjYk",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -98378,13 +98385,13 @@
       "4"
     ],
     "correct_option_index": 2,
-    "explanation": "Opposite faces are\n2--3\n1--5\n4--6",
+    "explanation": "Opposite faces are\n2--3\n1--5\n4--6\n((E3_HDjjYk))",
     "level": "",
     "tags": [
       "reasoning",
       "dices"
     ],
-    "linked_block_uid": "",
+    "linked_block_uid": "E3_HDjjYk",
     "linked_video": "",
     "linked_pdf": "",
     "external_link": "",
@@ -135287,7 +135294,7 @@
   },
   {
     "id": "TxZx92hTx",
-    "question": "What is the subject in the sentence \"The dog barks loudly\"?",
+    "question": "What is the subject in the sentence:\n\"The dog barks loudly.\" ??",
     "options": [
       "The",
       "Dog",
@@ -139159,6 +139166,3416 @@
     "mock_uid": "Q4fSnhV5F"
   },
   {
+    "id": "7EkbV4DeK",
+    "question": "The Moon appears bright at night because it... ?",
+    "options": [
+      "Produces its own light",
+      "Reflects sunlight",
+      "Absorbs starlight",
+      "Glows from heat"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The Moon appears bright at night because it reflects the light from the Sun. It does not generate its own light but acts as a giant, non-luminous mirror, reflecting the sun's rays, which makes it visible in our sky. \n((Vaj8Bf3FM))",
+    "level": "",
+    "tags": [
+      "verified",
+      "science",
+      "moon",
+      "solar system",
+      "science",
+      "solar system",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "Vaj8Bf3FM",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "bcUq4hP4S",
+    "question": "Which of the following Indian classical dances has originated from Andhra Pradesh?",
+    "options": [
+      "Kathakali",
+      "Kuchipudi",
+      "Odissi",
+      "Mohiniattam"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Kuchipudi is a classical Indian dance form that originated in Andhra Pradesh. This dance style is known for its graceful movements and strong narrative/dramatic character. It is named after the village of Kuchipudi in the Indian state of Andhra Pradesh where it developed.\n\n((6hAXY0gv6))",
+    "level": "",
+    "tags": [
+      "verified",
+      "dances",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "6hAXY0gv6",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "tIoVBUmI9",
+    "question": "NABARD (National Bank for Agriculture and Rural Development) was founded in which year?",
+    "options": [
+      "1975",
+      "1982",
+      "1985",
+      "1991"
+    ],
+    "correct_option_index": 1,
+    "explanation": "NABARD was established on July 12, 1982, under the National Bank for Agriculture and Rural Development Act, 1981.\n((MSfjjVOvV))",
+    "level": "",
+    "tags": [
+      "verified",
+      "year",
+      "economy",
+      "economy",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "MSfjjVOvV",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "nXTK59RWd",
+    "question": "Which revenue system was introduced by Lord Cornwallis in 1793?",
+    "options": [
+      "Permanent Settlement (Zamindari System)",
+      "Ryotwari System",
+      "Mahalwari System",
+      "Subsidiary Alliance"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Lord Cornwallis introduced the Permanent Settlement in 1793 in Bengal, Bihar, and Orissa, fixing the land revenue permanently.\n((fk6DPxLVY))",
+    "level": "",
+    "tags": [
+      "verified",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "fk6DPxLVY",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "NKrl4O6-d",
+    "question": "Navroz is a festival of which community?",
+    "options": [
+      "Parsi (Zoroastrian) community",
+      "Sikh community",
+      "Jain community",
+      "Buddhist community"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Navroz, also known as Nowruz, is the New Year festival celebrated by the Parsi (Zoroastrian) community, marking the beginning of the Iranian solar calendar.\n--\nGhiyasuddin Balban of the Delhi Sultanate introduced the Persian festival of Nauroz in his court to enhance its grandeur and project his authority.\n\nNavroz was added to the Representative List of the Intangible Cultural Heritage of \nHumanity by UNESCO in 2009, with its listing extended in 2016. \nThe United Nations also proclaimed March 21 as International Nowruz Day in 2010.",
+    "level": "",
+    "tags": [
+      "verified",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "2lsnaoy0H",
+    "question": "Which of the below Line is touched by District Kargil, in UT Ladakh?",
+    "options": [
+      "Durand Line",
+      "Line of Control",
+      "Line of Actual Control",
+      "MacMohan Line"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The district of Kargil in the Union Territory of Ladakh is touched by the ^^Line of Control (LoC). ^^\n\nLine of Control (LoC): This is the de facto border that divides the Indian-administered part of the disputed Kashmir region (including Kargil) from the Pakistani-administered territory of Gilgit–Baltistan to the north and west. The Kargil War in 1999 was fought along this line.\n\n\n**Durand Line:** This line is the international border between Pakistan and Afghanistan.\n\n**Line of Actual Control (LAC):** This is the demarcation that separates Indian-controlled territory from Chinese-controlled territory, primarily in the eastern sector (Arunachal Pradesh) and the western sector in Ladakh, but not directly bordering Kargil district with China. Kargil shares a boundary with Pakistan-administered areas, not the China border.\n\n**MacMahon Line:** This is the boundary between India and China in the eastern sector (Arunachal Pradesh). \n((05t5nFQqo))",
+    "level": "",
+    "tags": [
+      "verified",
+      "ladakh",
+      "ladakh",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "05t5nFQqo",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "MQNA5exAC",
+    "question": "Golden Fiber Revolution is associated with the production of?",
+    "options": [
+      "Jute",
+      "Cotton",
+      "Silk",
+      "Honey"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Golden Fiber Revolution refers to the increased production of jute in India.\n((CQRsb-rLX))",
+    "level": "",
+    "tags": [
+      "verified",
+      "economy",
+      "economy",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "CQRsb-rLX",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "pVsMK4-WE",
+    "question": "Who was the first woman President of the Indian National Congress (INC)?",
+    "options": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Vijayalakshmi Pandit",
+      "Indira Gandhi"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Annie Besant became the first woman President of the Indian National Congress in 1917 at the Calcutta Session.\n((CAkweDKFp))",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "CAkweDKFp",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "-x5_eLzul",
+    "question": "The Preamble of the Constitution describes India as: ??",
+    "options": [
+      "a unitary state",
+      "a federal state",
+      "a secular state",
+      "an atheist state"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The Preamble of the Constitution of India describes the country as a sovereign, socialist, secular, and democratic republic.\nThe term secular indicates that the state has no official religion and treats all religions equally.\nThis reflects the commitment of the Indian Constitution to maintain religious neutrality and ensure freedom of religion for all citizens.\nThe Preamble serves as an introduction to the Constitution and sets forth the guiding principles and philosophy of the document.\n((qKMLVpIIE))",
+    "level": "",
+    "tags": [
+      "verified",
+      "polity",
+      "preamble",
+      "ssc chsl",
+      "preamble",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "qKMLVpIIE",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "QmXTRCPFf",
+    "question": "Judicial Review, a salient feature of the Constitution of India, has been borrowed from which of the following countries?",
+    "options": [
+      "The US",
+      "Canada",
+      "Ireland",
+      "South Africa"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Judicial Review in India has been borrowed from the United States Constitution.\nIt is a process under which executive or legislative actions are subject to review by the judiciary.\nThis feature helps in ensuring the constitutionality of laws and acts as a check on the powers of the legislature and executive.\nThe concept of Judicial Review in India is enshrined in Article 13 of the Indian Constitution.\n\n\n((1mUbGPm6U))",
+    "level": "",
+    "tags": [
+      "verified",
+      "polity",
+      "constitution",
+      "ssc chsl",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "1mUbGPm6U",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "uNYhS8JCh",
+    "question": "The founder of the Gupta dynasty was ?",
+    "options": [
+      "Kumaragupta",
+      "Chandragupta I",
+      "Sri Gupta",
+      "Samudragupta"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Sri Gupta was the founder of the Gupta dynasty.\nChandragupta I is widely known as the founder of the Gupta era which starts with his accession in A.D. 320.\nSamudragupta is considered to be the greatest of the rulers of the Gupta dynasty.​\n((jt1TrQVCD))",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "gupta dynasty",
+      "gupta dynasty",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "jt1TrQVCD",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "JfQ4WkruI",
+    "question": "Which Constitutional Amendment is related to EWS reservation?",
+    "options": [
+      "102",
+      "103",
+      "101",
+      "104"
+    ],
+    "correct_option_index": 1,
+    "explanation": "103rd Amendment Act, 2019\nIt introduces a 10% reservation for Economically Weaker Sections (EWS) of society for admission to Central Government-run educational institutions and private educational institutions (except for minority educational institutions), and for employment in Central Government jobs.\n((5V48VvBcE))",
+    "level": "",
+    "tags": [
+      "verified",
+      "polity",
+      "constitution",
+      "amendment",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "5V48VvBcE",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "noDV_teaB",
+    "question": "Anganwadi scheme is implemented under which ministry?",
+    "options": [
+      "Ministry of Health and Family Welfare",
+      "Ministry of Education",
+      "Ministry of Women and Child Development",
+      "Ministry of Rural Development"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The Anganwadi scheme functions under the Ministry of Women and Child Development to improve child health, nutrition, and early education through the Integrated Child Development Services (ICDS) program.",
+    "level": "",
+    "tags": [
+      "verified",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "crW9yZ1mE",
+    "question": "Who is the current Chief Secretary of the Union Territory of Ladakh as of November 2025?",
+    "options": [
+      "K. Mehboob Ali Khan",
+      "Dr. Pawan Kotwal",
+      "S. S. Khandare",
+      "Rakesh Kumar"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Dr. Pawan Kotwal, an IAS officer, was re-designated as the Chief Secretary of Ladakh on February 18, 2025, by the Ministry of Home Affairs, succeeding his previous role as Advisor to the Lieutenant Governor. \nHe continues to hold this position, overseeing administrative functions in the UT.\n((6NY2K1fIo))",
+    "level": "",
+    "tags": [
+      "verified",
+      "ladakh",
+      "ladakh",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "6NY2K1fIo",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Sxsu4A63-",
+    "question": "Longest cell in the human body is: ??",
+    "options": [
+      "Blood cell",
+      "Bone cell",
+      "Nerve cell",
+      "Muscle cell"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The nerve cell (neuron) is the longest cell in the human body. Some neurons can be over a meter long, especially those extending from the spinal cord to the toes.\n((hS37yRJUB))",
+    "level": "",
+    "tags": [
+      "verified",
+      "science",
+      "biology",
+      "science",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "hS37yRJUB",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "WvPCh1la7",
+    "question": "The depletion of Ozone layer is mainly due to ??",
+    "options": [
+      "Chlorofluorocarbons",
+      "Volcanic eruptions",
+      "Aviation fuels",
+      "Radioactive rays"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The primary cause of ozone layer depletion is the release of chlorofluorocarbons (CFCs) and other halogenated compounds (like halons, carbon tetrachloride) used in refrigerants, aerosols, and foam-blowing agents. \nThese chemicals rise to the stratosphere, where UV radiation breaks them down, releasing chlorine atoms that catalytically destroy ozone (O₃) molecules.\n\n---\nOption (b) Volcanic eruptions: Contribute minor amounts of chlorine but not significant depletion.\nOption (c) Aviation fuels: Emit NOx, which can affect ozone, but mainly in the troposphere; minor stratospheric impact.\nOption (d) Radioactive rays: No role in ozone depletion.",
+    "level": "",
+    "tags": [
+      "verified",
+      "environment",
+      "geography",
+      "atmosphere",
+      "ssc chsl",
+      "environment",
+      "geography",
+      "atmosphere",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "fxkjQ8hyg",
+    "question": "Glucose is a type of: ??",
+    "options": [
+      "Pentose sugar",
+      "Hexose sugar",
+      "Tetrose sugar",
+      "Diose sugar"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Glucose is a hexose sugar because it contains six carbon atoms (C₆H₁₂O₆). It is a simple monosaccharide and the primary source of energy in living organisms.",
+    "level": "",
+    "tags": [
+      "verified",
+      "science",
+      "biology",
+      "ssc chsl",
+      "science",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "tfZ5qM0VJ",
+    "question": "By whom was the Lodi dynasty founded ?",
+    "options": [
+      "Ibrahim Lodi",
+      "Sikandar Lodi",
+      "Bahlol Lodi",
+      "Khizr Khan"
+    ],
+    "correct_option_index": 2,
+    "explanation": "((_tWWifkuQ))",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "delhi sultanate",
+      "delhi sultanate",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "_tWWifkuQ",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "H2gkSdLKL",
+    "question": "SC Bose became the president of Indian National Congress (INC) in which session?",
+    "options": [
+      "1924 session",
+      "1929 session",
+      "1938 session",
+      "1940 session"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Subhas Chandra Bose became the President of the Indian National Congress (INC) in the Haripura session in 1938. He was unanimously elected and presided over the 51st session of the Congress.",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "freedom movement",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "d-LDo-6IG",
+    "question": "Which of the below is correct?",
+    "options": [
+      "Jallianwala Bagh Massacre — 1919",
+      "Quit India Movement — 1941",
+      "Non-Cooperation Movement — 1930",
+      "Civil Disobedience Movement — 1920"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The correct answer is Jallianwala Bagh — 1919. \nThe Jallianwala Bagh Massacre, a pivotal event in the Indian independence movement, occurred in 1919, where British troops fired on a gathering of unarmed civilians at Jallianwala Bagh in Amritsar, Punjab. \n\nIncorrect options:\nQuit India Movement — 1941: This movement, launched by Mahatma Gandhi in 1942, called for the British to \"Quit India\" and leave the country. \nNon-Cooperation Movement — 1930: This movement, also led by Mahatma Gandhi, started in 1920, not 1930. \nCivil Disobedience Movement — 1920: This movement, while associated with Mahatma Gandhi, began in 1930, not 1920.",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "freedom movement",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "mYBoRxC0s",
+    "question": "Which women's cricket team won the 2025 ICC Women's Cricket World Cup?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "India",
+      "England"
+    ],
+    "correct_option_index": 2,
+    "explanation": "India won the 2025 ICC Women's Cricket World Cup, defeating South Africa by 52 runs in the final on November 2, 2025, at DY Patil Stadium in Navi Mumbai, India. \nThis marked India's first title in the tournament's 13th edition, which ran from September 30 to November 2 and featured eight teams. \nThe victory was celebrated nationwide, with tributes from President Droupadi Murmu and Prime Minister Narendra Modi, who hosted the team on November 5, 2025.",
+    "level": "",
+    "tags": [
+      "verified",
+      "current affairs",
+      "general studies",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "general studies"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "gligTK0r4",
+    "question": "Four years ago, Ravi was four times as old as Kavya. Seven years from now, Ravi will be three times as old as Kavya. Find the sum of their present ages ?",
+    "options": [
+      "117 years",
+      "115 years",
+      "118 years",
+      "122 years"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Four years ago, Ravi was four times as old as Kavya.\n\nSeven years from now, Ravi will be three times as old as Kavya.\n\nFormula used:\n\nLet Ravi's present age be R years and Kavya's present age be K years.\n\nFour years ago: R - 4 = 4(K - 4)\n\nSeven years from now: R + 7 = 3(K + 7)\n\nCalculations:\n\nR - 4 = 4(K - 4)\n\n⇒ R - 4 = 4K - 16\n\n⇒ R = 4K - 12\n\nR + 7 = 3(K + 7)\n\n⇒ R + 7 = 3K + 21\n\n⇒ R = 3K + 14\n\nEquating the two expressions for R:\n\n4K - 12 = 3K + 14\n\n⇒ 4K - 3K = 14 + 12\n\n⇒ K = 26\n\nSubstituting K in R = 4K - 12:\n\nR = 4 × 26 - 12\n\n⇒ R = 104 - 12\n\n⇒ R = 92\n\nSum of their present ages:\n\nR + K = 92 + 26\n\n^^⇒ R + K = 118^^\n\n∴ The correct answer is option 3.",
+    "level": "",
+    "tags": [
+      "verified",
+      "problem on ages",
+      "ssc chsl",
+      "problem on ages",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "IBeSXfI-i",
+    "question": "Ram spends 30% of his salary on food, 10% on house rent, 7% on entertainment, and 6% on conveyance. If at the end of a month his savings are ₹1,880, then his monthly salary is: ??",
+    "options": [
+      "Rs. 4,500",
+      "Rs. 5,500",
+      "Rs. 5,000",
+      "Rs. 4,000"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Ram spends 30% of his salary on food, 10% on house rent, 7% on entertainment, and 6% on conveyance.\n\nSavings at the end of the month = ₹1,880\n\nFormula used:\n\nTotal percentage spent = 30% + 10% + 7% + 6%\n\nTotal percentage spent + Savings percentage = 100%\n\nCalculation:\n\nTotal percentage spent = 30 + 10 + 7 + 6\n\n⇒ Total percentage spent = 53%\n\nSavings percentage = 100% - 53%\n\n⇒ Savings percentage = 47%\n\nLet the monthly salary be x.\n\nSavings = 47% of x\n\n⇒ 0.47x = 1880\n\n⇒ x = 1880 / 0.47\n\n^^⇒ x ≈ 4000^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "percentage",
+      "ssc chsl",
+      "percentage",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "MSvuJbbEK",
+    "question": "The sum of the digits of a 2 digit number is 9, When 27 is added to the number, the digits get interchanged. Find the number ?",
+    "options": [
+      "45",
+      "36",
+      "18",
+      "27"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Suppose, the one’s digit = y and ten’s digit = x\n⇒ The number = 10x + y\n\nAccording to the question,\nx + y = 9   ----(i)\n\nAlso,\n(10x + y) + 27 = 10y + x\n\n⇒ 9x – 9y = − 27\n⇒ x – y = − 3   ----(ii)\n\nFrom (i) and (ii) we get,\n2x = 6\n⇒ x = 3\n\nNow, put value of x in (i),\nx + y = 9\n⇒ 3 + y = 9\n⇒ y = 6\n^^∴ The number = 10x + y =  10 × 3 + 6 = 36^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "number system",
+      "number system",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "o1xnQsuja",
+    "question": "A person reaches his destination 30 minutes late, if his speed is 3 km/h, and reaches 30 minutes before time if his speed is 4 km/h. Find the distance of his destination from his starting point ?",
+    "options": [
+      "11 km",
+      "12 km",
+      "13 km",
+      "14 km"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The person is 30 minutes late when traveling at 3 km/h.\n\nThe person is 30 minutes early when traveling at 4 km/h.\n\nFormula used:\n\nTime taken at 3 km/h: T + 1/2 = D / 3\n\nTime taken at 4 km/h: T - 1/2 = D / 4\n\nCalculation:\n\nFrom equation (1): T = (D / 3) - 1/2\n\nFrom equation (2): T = (D / 4) + 1/2\n\nEquating both: (D / 3) - 1/2 = (D / 4) + 1/2\n\n⇒ (4D - 3D) / 12 = 1\n\n⇒ D / 12 = 1\n\n^^⇒ D = 12^^\n\n∴ The distance to the destination is 12 km.",
+    "level": "",
+    "tags": [
+      "verified",
+      "time speed and distance",
+      "time speed and distance",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "6kk0Ddei7",
+    "question": "To finish a work, P takes half of the number of days required by Q to finish it. If they together can finish the work in 36 days, then in how many days Q alone can finish the work?",
+    "options": [
+      "108",
+      "84",
+      "24",
+      "60"
+    ],
+    "correct_option_index": 0,
+    "explanation": "P takes half of the number of days required by Q to finish the work.\n\nP and Q together can finish the work in 36 days.\n\nFormula used:\n\nWork done together = 1/P + 1/Q\n\nCalculation:\n\nLet Q alone can finish the work in Q days.\n\n⇒ P alone can finish the work in Q/2 days.\n\n⇒ 1/(Q/2) + 1/Q = 1/36\n\n⇒ 2/Q + 1/Q = 1/36\n\n⇒ 3/Q = 1/36\n\n⇒ Q = 36×3\n\n^^⇒ Q = 108 days^^\n\n∴ The correct answer is option 1.",
+    "level": "",
+    "tags": [
+      "verified",
+      "time and work",
+      "time and work",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "VfZtpcifl",
+    "question": "Raju and Ramu have more land than Sonu by 15% and 25%, respectively. What is the ratio of land owned by Raju and Ramu?",
+    "options": [
+      "25 ∶ 23",
+      "15 ∶ 25",
+      "21 ∶ 23",
+      "23 ∶ 25"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Raju has 15% more land than Sonu.\nRamu has 25% more land than Sonu.\n\nFormula used:\nIf Sonu's land is S, then:\nRaju's land = S + 0.15S = 1.15S\nRamu's land = S + 0.25S = 1.25S\n\nCalculation:\nWe need the ratio of Raju's land to Ramu's land:\nRatio = 1.15S : 1.25S\n\n⇒ Ratio = 1.15 : 1.25 => ^^23:25^^\n\n∴ The correct answer is option (4).",
+    "level": "",
+    "tags": [
+      "verified",
+      "ratio and proportion",
+      "ratio and proportion",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "KbicYCUxt",
+    "question": "A sum of Rs. 2,430 gives a simple interest of Rs. 1,093.50 in 3 years. The rate of interest per annum is?",
+    "options": [
+      "25%",
+      "20%",
+      "10%",
+      "15%"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Principal (P) = ₹2,430\n\nSimple Interest (SI) = ₹1,093.50\n\nTime (t) = 3 years\n\nFormula used:\n\nSI = P × r × t / 100\n\nWhere, r = rate of interest per annum\n\nCalculations:\n\n1,093.50 = 2,430 × r × 3 / 100\n\n⇒ 1,093.50 = 7,290 × r / 100\n\n⇒ 1,093.50 = 72.90 × r\n\n⇒ r = 1,093.50 / 72.90\n\n^^⇒ r = 15%^^\n\n∴ The correct answer is option (4).",
+    "level": "",
+    "tags": [
+      "verified",
+      "simple interest",
+      "simple interest",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Iw6zO6nXP",
+    "question": "55 workers can finish a work in 16 days. For finishing the same work in 10 days, how many more workers are required ?",
+    "options": [
+      "88",
+      "68",
+      "31",
+      "33"
+    ],
+    "correct_option_index": 3,
+    "explanation": "55 workers can finish a work in 16 days.\n\nTime required to finish the same work = 10 days\n\nFormula used:\n\nWork = Number of Workers × Number of Days\n\nCalculation:\n\nLet the number of additional workers required be x.\n\nTotal work = 55 × 16\n\n⇒ Total work = 880\n\nNew number of workers required to finish the work in 10 days = 880 / 10\n\n⇒ New number of workers required = 88\n\nAdditional workers required = 88 - 55\n\n^^⇒ Additional workers required = 33^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "time and work",
+      "ssc chsl",
+      "time and work",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "43RHBw56v",
+    "question": "In a mixture of 60 litres, the ratio of milk and water is 2 : 1. What amount of water must be added to make the ratio of milk and water 1 : 2?",
+    "options": [
+      "42 Litres",
+      "56 Litres",
+      "60 Litres",
+      "77 Litres"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The total quantity of mixture = 60 litres\n\nThe ratio of milk to water = 2 : 1\n\nFormula:\n\nIf N is divided into a : b\n\nFirst part = N × a/(a + b)\n\nSecond part = N × b/(a + b)\n\nCalculation:\n\nQuantity of milk in the mixture = 60 × (2/3) = 40 litres\n\n⇒ Quantity of water in the mixture = 60 – 40 = 20 litres\n\nLet added quantity of water be x\n\nAccording to the question\n\n40/(x + 20) = 1/2\n\n⇒ 40 × 2 = (x + 20)\n\n⇒ 80 = x + 20\n\n⇒ x = 80 – 20\n\n^^⇒ x = 60^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "mixture and allegations",
+      "mixture and allegations",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Dksh6LuKd",
+    "question": "The average of 50 numbers is 23. If each number is multiplied by 13, then the new average is?",
+    "options": [
+      "219",
+      "299",
+      "650",
+      "88"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The average of 50 numbers = 23.\n\nEach number is multiplied by 13.\n\nFormula used:\n\nNew average = Old average × Multiplier\n\nCalculation:\n\nOld average = 23\n\nMultiplier = 13\n\n⇒ New average = 23 × 13\n\n⇒ New average = 299\n\n^^∴ The new average is 299.^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "number system",
+      "average",
+      "ssc chsl",
+      "number system",
+      "average",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "kCtgZLtFD",
+    "question": "What should be added to each term of the ratio 5 : 11 so that the ratio becomes 3 : 5?",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "2"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Initial ratio = 5 : 11\n\nFinal ratio = 3 : 5\n\nFormula used:\n\nIf each term of the ratio a : b is increased by x, the new ratio becomes (a + x) : (b + x)\n\nCalculations:\n\nLet the number to be added to each term be x.\n\n(5 + x)/(11 + x) = 3/5\n\n⇒ 5(5 + x) = 3(11 + x)\n\n⇒ 25 + 5x = 33 + 3x\n\n⇒ 5x - 3x = 33 - 25\n\n⇒ 2x = 8\n\n^^⇒ x = 4^^\n\n∴ The correct number to be added to each term is 4.",
+    "level": "",
+    "tags": [
+      "verified",
+      "ratio and proportion",
+      "ssc chsl",
+      "ratio and proportion",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "s2tTEZgXz",
+    "question": "How much simple interest will ₹5,000 earn in 14 months at a 12% interest rate per annum?",
+    "options": [
+      "₹600",
+      "₹500",
+      "₹800",
+      "₹700"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Given:\nPrincipal (P) = ₹5,000\n\nTime (T) = 14 months = 14/12 years = 7/6 years\n\nRate of interest (R) = 12% per annum\n\nFormula used:\n\nSimple Interest (SI) = (P × R × T) / 100\n\nCalculation:\n\nSI = (₹5,000 × 12 × 7/6) / 100\n\n⇒ SI = (₹5,000 × 12 × 7) / (6 × 100)\n\n⇒ SI = (₹5,000 × 2 × 7) / 100\n\n⇒ SI = (₹5,000 × 14) / 100\n\n⇒ SI = ₹70,000 / 100\n\n^^⇒ SI = ₹700^^\n\n∴ The simple interest earned is ₹700.",
+    "level": "",
+    "tags": [
+      "verified",
+      "simple interest",
+      "ssc chsl",
+      "simple interest",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Sk3kBQR0D",
+    "question": "If 10% of 24% of x is 240, then x = ?",
+    "options": [
+      "100000",
+      "100",
+      "10000",
+      "1000"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Given: 10% of 24% of x = 240\nCalculation:\n⇒ (10/100) × (24/100) × x = 240\n⇒ x = (240 × 100 × 100) / (10 × 24)\n^^∴ x = 10000^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "percentage",
+      "ssc chsl",
+      "percentage",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "5Vs3lkep4",
+    "question": "The salary of employees in a factory was reduced by 20% due to economic crisis. In order to have their salary back to original amount, it must be raised by ?",
+    "options": [
+      "25%",
+      "20%",
+      "12.5%",
+      "40%"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Salary reduction = 20%\n\nFormula Used:\n\nRequired increase percentage = (Reduction %)/(100 - Reduction %) × 100\n\nCalculation:\n\nReduction percentage = 20%\n\nRequired increase percentage = (20)/(100 - 20) × 100\n\n⇒ (20)/(80) × 100\n\n⇒ (1)/(4) × 100\n\n^^⇒ 25%^^\n\n∴ The salary must be raised by 25% to get back to the original amount.",
+    "level": "",
+    "tags": [
+      "verified",
+      "percentage",
+      "ssc chsl",
+      "percentage",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "-Q5eWTTWz",
+    "question": "My father is presently 25 years older than me. The sum of our ages 5 years ago was 39 years. Find my present age ?",
+    "options": [
+      "20 years",
+      "13 years",
+      "12 years",
+      "15 years"
+    ],
+    "correct_option_index": 2,
+    "explanation": "My father is presently 25 years older than me.  \nSum of our ages 5 years ago = 39 years.  \n\n**Calculation:**  \n\nLet my present age = x years  \nThen my father's present age = (x + 25) years  \n\nNow, 5 years ago,  \nMy age = (x - 5) years  \nMy father's age = (x + 25 - 5) years = (x + 20) years  \n\nAccording to the question,  \nEquating the obtained result with the given data, we get,  \n(x - 5) + (x + 20) = 39  \n2x + 15 = 39  \n2x = 39 - 15  \n2x = 24  \n^^x = 12 years ^^ \n\nHence, my present age is 12 years.",
+    "level": "",
+    "tags": [
+      "verified",
+      "problem on ages",
+      "ssc chsl",
+      "problem on ages",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "zOSRrO1Hz",
+    "question": "The number 611611611611 is: ??",
+    "options": [
+      "divisible by both 6 and 11",
+      "neither divisible by 6 nor by 11",
+      "divisible by 6 only",
+      "divisible by 11 only"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The number is 611611611611.\n\nFormula used:\n\nDivisibility Rules:\n1. A number is divisible by 6 if it is divisible by both 2 and 3.\n2. A number is divisible by 11 if the difference between the sum of the digits in the odd positions and the sum of the digits in the even positions is either 0 or a multiple of 11.\n\nCalculation:\n\nCheck for divisibility by 6:\n1. Divisibility by 2: The last digit is 1, which is not even. Hence, 611611611611 is not divisible by 2.\n2. Divisibility by 3: Sum of the digits = 6 + 1 + 1 + 6 + 1 + 1 + 6 + 1 + 1 + 6 + 1 + 1 = 32. Since 32 is not divisible by 3, 611611611611 is not divisible by 3.\nSince the number is not divisible by both 2 and 3, it is not divisible by 6.\n\n\nCheck for divisibility by 11:\nSum of digits in odd positions = 6 + 1 + 1 + 6 + 1 + 1 = 16\nSum of digits in even positions = 1 + 6 + 1 + 1 + 6 + 1 = 16\nDifference = 16 - 16 = 0\nSince the difference is 0, 611611611611 is divisible by 11.\n\n⇒ 611611611611 is ^^divisible by 11 only.^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "number system",
+      "divisibility",
+      "ssc chsl",
+      "number system",
+      "divisibility",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "UqsP5v7ZU",
+    "question": "In an equilateral triangle inradius is 4 cm. What is the circumradius?",
+    "options": [
+      "6 cm",
+      "8 cm",
+      "12 cm",
+      "2 cm"
+    ],
+    "correct_option_index": 1,
+    "explanation": "An equilateral triangle inradius is 4 cm.\n\nConcept used:\n\nIn equilateral triangle, \n\nCircumradius  = a/√ 3\n\nInradius of equilateral triangle = a/2√ 3\n\nCalculation:\n\nInradius of equilateral triangle = 4\n\n⇒ a/2√ 3 = 4\n\n⇒ a = 8√3\n\nCircumradius  = a/√ 3 = 8√3/√3\n\n^^⇒ 8^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "MeD7LquG6",
+    "question": "What is the value of 1440 − 200 ÷ 50 × 2 + 3?",
+    "options": [
+      "1420",
+      "1440",
+      "1435",
+      "1444"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Calculation: Apply BODMAS\n\n1440 − 200 ÷ 50 × 2 + 3\n\n⇒ 1440 − 4 × 2 + 3\n\n⇒ 1440 − 8 + 3\n\n⇒ 1440 − 5\n\n⇒ 1435\n\n∴ Option 3 is the correct answer.",
+    "level": "",
+    "tags": [
+      "verified",
+      "bodmas",
+      "bodmas",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "RUUaR0oRP",
+    "question": "The diagonal of rectangle is 15 cm and length is 12 cm. find the area of the rectangle ?",
+    "options": [
+      "114 cm2",
+      "108 cm2",
+      "116 cm2",
+      "112 cm2"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Diagonal of rectangle = 15 cm\n\nLength of the rectangle = 12 cm\n\nFormula:\n\nDiagonal^2 = Length^2 + Breadth^2\n\nArea of the rectangle = Length × Breadth \n\nCalculation:\n\n According to the formula\n\n15^2 = 12^2 + Breadth^2\n\n⇒ Breadth^2 = 225 – 144 \n\n⇒ Breadth = √81\n\n⇒ Breadth = 9\n\n^^∴ Area of the rectangle = 9 × 12 = 108 ^^cm2",
+    "level": "",
+    "tags": [
+      "verified",
+      "sides areas and volumes",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "GZAhdEaac",
+    "question": "Rs. 6,300 is divided between X, Y, Z, such that X : Y = 7 : 5 and Y : Z = 4 : 3. Find the share of Y ?",
+    "options": [
+      "Rs. 2,000",
+      "Rs. 1,800",
+      "Rs. 2,400",
+      "Rs. 2,200"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Total amount which is divided among A, B and C = Rs. 6,300\n\nX : Y = 7 : 5 and Y : Z = 4 : 3\n\nCalculation:\n\nX : Y = 7 : 5     ----(1)\n\nY : Z = 4 : 3     ----(2)\n\nMultiply by 4 in equation (1) and multiply by 5 in equation (2)\n\nX : Y : Z = 28 : 20 : 15\n\nRatio of X : Y : Z = 28x : 20x : 15x\n\nAccording to the question\n\n28x + 20x + 15x = 6,300\n\n⇒ 63x = 6,300\n\n⇒ x = 6,300/63\n\n⇒ x = 100\n\n^^∴ Share of Y = 20 × 100 = Rs. 2,000^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "ratio and proportion",
+      "ssc chsl",
+      "ratio and proportion",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "OV6Wx-l2b",
+    "question": "15 men can complete a task in 10 days. In how many days can 20 men complete the same task?",
+    "options": [
+      "5.5 days",
+      "7.5 days",
+      "6.5 days",
+      "8.5 days"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Given:\n\n15 men can complete a task in 10 days.\n\nFormula:\n\nM1 × D1 = M2 × D2\n\nCalculation:\n\nM1 = 15, D1 = 10 and M2 = 20 \n\nAccording to the formual\n\n15 × 10 = 20 × D2\n\n⇒ D2 = 150/20\n\n^^⇒ D2 = 7.5 days^^\n\n∴ 20 men can complete the same task in 7.5 days.",
+    "level": "",
+    "tags": [
+      "verified",
+      "time and work",
+      "time and work",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "4Og4UkKE6",
+    "question": "Richa travels from A to B at the speed of 15 km/h, from B to C at 20 km/h, and from C to D at 30 km/h If AB = BC = CD, then find the Richa's average speed ?",
+    "options": [
+      "17 km/h",
+      "19 km/h",
+      "20 km/h",
+      "18 km/h"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Richa travels from A to B at the speed = 15 km/hr\n\nRicha travels from B to C at the speed = 20 km/hr\n\nRicha travels from C to D at the speed = 30 km/hr\n\nAB = BC = CD\n\nFormula:\n\nAverage speed = Total distance/Total time\n\nCalculation:\n\nLet AB = BC = CD = 60 km (LCM of 15, 20 and 30)\n\nTotal distance = 3 × 60 = 180 km\n\nTime taken by Richa to travels from A to B = 60/15 = 4 hrs.\n\nTime taken by Richa to travels from B to C = 60/20 = 3 hrs.\n\nTime taken by Richa to travels from C to D = 60/30 = 2 hrs.\n\nTotal time taken by Richa to travels from A to D = 4 + 3 + 2 = 9 hrs.\n\n^^∴ Average speed = 180/9 = 20 km/hr.^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "time speed and distance",
+      "time speed and distance",
+      "aptitude",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "ORTv4vv-S",
+    "question": "After interchanging the given two signs (× and ÷), what will be the value of the given equation:\n47 + 13 ÷ 65 × 5 – 16 ??",
+    "options": [
+      "195",
+      "190",
+      "200",
+      "205"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Given equation\n⇒ 47 + 13 ÷ 65 × 5 – 16\n\nAfter interchanging × and ÷:\n⇒ 47 + 13 × 65 ÷ 5 – 16\nUse BODMAS: \n⇒ 47 + 13 × 65 ÷ 5 – 16\n⇒ 47 + 13 × 13 – 16\n⇒ 47 + 169  – 16\n^^⇒ 216  – 16 = 200 ^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "bodmas",
+      "ssc chsl",
+      "bodmas",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "8y-SRYxgX",
+    "question": "In a certain code language, ‘GIRL’ is coded as ‘HHTJ’. What is the code for ‘TENT’ in that code language?",
+    "options": [
+      "UPDR",
+      "PRDU",
+      "UDPR",
+      "RPDU"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Logic is: +1 -1 +2 -1; \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FvFWZM3acFe.png?alt=media&token=f927c53a-fde2-42bd-bb60-7df43c9b6f48)",
+    "level": "",
+    "tags": [
+      "verified",
+      "coding decoding",
+      "word analogy",
+      "coding decoding",
+      "word analogy",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "zL8n3rfnH",
+    "question": "How many Red cards are there:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FG2U0EzB8No.png?alt=media&token=6c8921c5-b48e-436f-829c-be95f6f39197) ??",
+    "options": [
+      "22",
+      "28",
+      "31",
+      "33"
+    ],
+    "correct_option_index": 3,
+    "explanation": "14 + 8 + 5 + 6 = 33",
+    "level": "",
+    "tags": [
+      "verified",
+      "shape based reasoning",
+      "ssc chsl",
+      "shape based reasoning",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "QuGmgZjJC",
+    "question": "Select the option that is related to the third number in the same way as the first number is related to the second number and fifth number is related to sixth number.\n\n14 : 210 :_: 13 : ? :_: 16 : 272 ??",
+    "options": [
+      "162",
+      "182",
+      "204",
+      "174"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The logic followed here is:\n\n1st number × (1st number + 1) = 2nd number.\n\nFor, for '14 : 210'\n⇒ 14 × (14 + 1)\n⇒ 14 × 15 = 210.\n\nFor, '16 : 272'\n⇒ 16 × (16 + 1)\n⇒ 16 × 17 = 272.\n\nSimilarly, for '13 : ?'\n⇒ 13 × (13 + 1)\n⇒ 13 × 14 = 182.\n\nHence, the correct answer is \"182\".",
+    "level": "",
+    "tags": [
+      "verified",
+      "number series",
+      "ssc chsl",
+      "number series",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "SSC CHSL",
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Gq-EDwGR3",
+    "question": "S is the sister of T. R is the brother of S. U is the wife of W. T is the father of U. How is T related to W?",
+    "options": [
+      "Father in law",
+      "Son",
+      "Father",
+      "Maternal Uncle"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Given: \n⇒ S is the sister of T. \n⇒ R is the brother of S. \n⇒ U is the wife of W. \n⇒ T is the father of U.\nSo, T is Father in law of W.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUvrD_Qx9qm.png?alt=media&token=c2b9839b-a125-4798-8ac3-488bd1a6480e)",
+    "level": "",
+    "tags": [
+      "verified",
+      "blood relations",
+      "blood relations",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "ogZLsFs8d",
+    "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Wage\n2. Waist\n3. Waste\n4. West\n5. Wave ??",
+    "options": [
+      "24351",
+      "12354",
+      "35241",
+      "42135"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct order according to the English dictionary is:\n1. Wage\n2. Waist\n3. Waste\n5. Wave\n4. West\n\nFrom the arrangement, the correct order is '12354'.",
+    "level": "",
+    "tags": [
+      "verified",
+      "sequencing of words",
+      "sequencing of words",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "B-dG0d5NX",
+    "question": "Select the option that is related to the fifth word in the same way as the second word is related to the first word and the fourth word is related to the third word.\n\nTruck : Vehicle :_: Burger : Food :_: Cup : ?",
+    "options": [
+      "Crockery",
+      "Furniture",
+      "Electronics",
+      "Grocery"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The logic followed here is:\n\nLogic: The first word is a type of the second word.\n\nHere,\n\nFor, Truck : Vehicle\n→ A truck is a type of vehicle.\n\nFor, Burger : Food\n→ A burger is a type of food.\n\nSimilarly, Cup : ?\n→ A cup is a type of Crockery.",
+    "level": "",
+    "tags": [
+      "verified",
+      "coding decoding",
+      "word analogy",
+      "coding decoding",
+      "word analogy",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "maphB930S",
+    "question": "How many glasses are both phone and pen:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FPmYof0ZWzI.png?alt=media&token=e120ab55-a9d1-404a-a6c1-779f58d35b90) ??",
+    "options": [
+      "24",
+      "13",
+      "11",
+      "15"
+    ],
+    "correct_option_index": 2,
+    "explanation": "11 glasses are both phone and pen.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FXyJdbKEJEl.png?alt=media&token=12b2292d-9820-4995-8eff-d795dd21ed72)",
+    "level": "",
+    "tags": [
+      "verified",
+      "shape based reasoning",
+      "shape based reasoning",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "79ORQkFoF",
+    "question": "In a certain code language, ‘BR-EW’ is coded as ‘8’, ‘CA-LF’ is coded as ‘14’. What is the code for ‘DA-WN’ in that code language?",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Logic: \nSum of the place value of 1st letter - Sum of the place value of 2nd letter = Number.\n\nNow,\n\n‘BR-EW’ is coded as ‘8’,\n[2(B) + 18(R)] - [5(E) + 23(W)]\n⇒ 20 - 28 = -8.\n\n‘CA-LF’ is coded as ‘14’\n[3(C) + 1(A)] - [12(L) + 6(F)]\n⇒ 4 - 18 = -14.\n\nSimilarly, for '\nSo, 'DA-WN' is coded as ‘8’.\n[4(D) + 1(A)] - [23(W) + 14(N)]\n⇒ 5 - 37 = -32.\n\nHence, the correct answer is \"32\".",
+    "level": "",
+    "tags": [
+      "verified",
+      "coding decoding",
+      "coding decoding",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Fxrnv3un2",
+    "question": "In the following question, select the odd letter from the given alternatives. ??",
+    "options": [
+      "ACEF",
+      "JLNP",
+      "GIKM",
+      "SUWY"
+    ],
+    "correct_option_index": 0,
+    "explanation": "These are alternate letters.\nACEF should be ACEG",
+    "level": "",
+    "tags": [
+      "verified",
+      "coding decoding",
+      "word analogy",
+      "coding decoding",
+      "word analogy",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "0cQmi98gB",
+    "question": "Find the alternative that will replace the question mark.\nChina: Beijing :_: Myanmar : ?",
+    "options": [
+      "Naypyidaw",
+      "Burma",
+      "Dhaka",
+      "Bangkok"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The analogy is structured as Country : Capital, \nSo the pair for Myanmar must follow the same pattern as China : Beijing.\n\nMyanmar's official capital is Naypyidaw.\n\nThe other options are incorrect:\nBurma is a former name for Myanmar (the country itself, not a city).\nDhaka is the capital of Bangladesh.\nBangkok is the capital of Thailand.\n\nThus, the answer is Naypyidaw.",
+    "level": "",
+    "tags": [
+      "verified",
+      "capital",
+      "coding decoding",
+      "coding decoding",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "E6uGqg4aT",
+    "question": "Select the missing word/word pair on the right side of ( :_: ) from the given alternatives based on the same Logic/Rule/Relation.\nTea: Cup :_: ?",
+    "options": [
+      "Paper : Pulp",
+      "Food : Plate",
+      "Milk : Drink",
+      "Glass : Water"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The pattern followed here is:\n\nTea : Cup → Tea is served in a cup.\n\nSimilarly,\nFood : Plate → Food is often served on a plate.\n\nHence, the correct answer is \"Option 2\".",
+    "level": "",
+    "tags": [
+      "verified",
+      "coding decoding",
+      "word analogy",
+      "coding decoding",
+      "word analogy",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Hdy3cIEXn",
+    "question": "Kailash remembers that his brother Deepak’s birthday falls after 20th May but before 28th May, while Geeta remembers that Deepak’s birthday falls before 22nd May but after 12th May. On what date Deepak’s birthday falls?",
+    "options": [
+      "20th May",
+      "21st May",
+      "22nd May",
+      "None of the above"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The birthday is on 21st May because Kailash thinks it’s after 20th May and Geeta thinks it’s before 22nd May.\n\nHence, Deepak’s birthday is on 21st May.",
+    "level": "",
+    "tags": [
+      "verified",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "RL4eGLdh-",
+    "question": "Find the missing term:\n4   3\n16  9\n64  ?.    ??",
+    "options": [
+      "12",
+      "8",
+      "32",
+      "27"
+    ],
+    "correct_option_index": 3,
+    "explanation": "4 * 16 = 64\n3 * 9 = 27",
+    "level": "",
+    "tags": [
+      "verified",
+      "missing number",
+      "missing number",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "oel0ILHbT",
+    "question": "Find the missing number:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FTMLPyBTvcC.png?alt=media&token=98a0d9a5-7635-42aa-8b3a-fb2878e4d5cf) ??",
+    "options": [
+      "64",
+      "54",
+      "66",
+      "40"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Logic is:\n7 * 8 = 56\n7 * 9 = 63\n\nSame way:\n^^8 * 8 = 64^^\n8 * 8 = 72 \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FtJIZUQ3d2U.png?alt=media&token=7d782c5c-2388-4ba4-b9da-e1ed01705112)",
+    "level": "",
+    "tags": [
+      "verified",
+      "missing number",
+      "missing number",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "uRqY_Xy2D",
+    "question": "Read the following information carefully and answer the question given below.\n\n‘K $ D’ means ‘K is the father of D’.\n\n‘K < D’ means ‘K is the wife of D’.\n\n‘K > D’ means ‘K is the daughter of D’.\n\n‘K @ D’ means ‘K is the son of D’.\n\nHow is H related to N in the expression:\nH > R $ S @ T > N ??",
+    "options": [
+      "Daughter",
+      "Grand-daughter",
+      "Niece",
+      "Daughter-in-law"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Now break the code of ‘H > R $ S @ T > N’\n\n1) H > R\n‘H > R’ means ‘H is the daughter of R’\n\n2) R $ S\n‘R $ S’ means ‘R is the father of S’.\n\n3) S @ T\n'S @ T’ means ‘S is the son of T’\n\n4) T > N\n‘T > N’ means ‘T is the daughter of N’\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FO1LryqI5uz.png?alt=media&token=a9c6f64c-3f0c-4145-851e-c779984118f7)\n\n^^Thus H is Daughter-In-Law of N^^",
+    "level": "",
+    "tags": [
+      "verified",
+      "blood relations",
+      "blood relations",
+      "reasoning",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "reasoning"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "fR0inAQEJ",
+    "question": "Select the most appropriate meaning of the given idiom:\nBlack and white ??",
+    "options": [
+      "In dispute",
+      "invention",
+      "In writing",
+      "Doubtful"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The most appropriate meaning of the idiom \"black and white\" is \"in writing\" signifying something that is officially documented, printed, or clearly stated in a formal manner. \n\nFor example, a contract being \"in black and white\" means it has been written down and is no longer just a spoken agreement. \n\nIn writing: The phrase implies a formal, documented version of something, contrasting with spoken words which can be easily forgotten or denied. \n\nExample: \n\"I want to see the terms of the agreement in black and white before I sign\".\nMeans the person wants the terms written down in a formal document.",
+    "level": "",
+    "tags": [
+      "verified",
+      "vocabulary",
+      "idioms",
+      "ssc chsl",
+      "vocabulary",
+      "idioms",
+      "ssc chsl",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "q6NrAQNhY",
+    "question": "Select the most appropriate meaning of the given idiom:\n\"sold plots like hot cakes\" ??",
+    "options": [
+      "Sold illegally",
+      "Sold innovatively",
+      "Sold with great difficulty",
+      "Sold quickly and in large numbers"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The phrase \"sold plots like hot cakes\" means the plots were sold very quickly and in large numbers. \n\n\"Hot cakes\": This part of the idiom refers to the speed and popularity of hot food items, like pancakes or cakes, being served.\n\"Sold like hot cakes\": This is used to describe anything that is selling exceptionally well.",
+    "level": "",
+    "tags": [
+      "verified",
+      "vocabulary",
+      "idioms",
+      "ssc chsl",
+      "vocabulary",
+      "idioms",
+      "ssc chsl",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "5Ozz68knn",
+    "question": "What is the SYNONYM of the word \"refute\" ?",
+    "options": [
+      "Confirm",
+      "Disprove",
+      "Accept",
+      "Support"
+    ],
+    "correct_option_index": 1,
+    "explanation": "\"Refute\" means to demonstrate that something is false or incorrect using evidence, which aligns closely with \"disprove.\"",
+    "level": "",
+    "tags": [
+      "verified",
+      "vocabulary",
+      "vocabulary",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "SIJ9GisoO",
+    "question": "What is the ANTONYM of the word \"zenith\" ?",
+    "options": [
+      "Crest",
+      "Nadir",
+      "Pinnacle",
+      "Horizon"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The antonym of **zenith**  is ^^nadir^^.\nzenith: means the highest point or peak, as in the sun's position or figurative success nadir: means the lowest point, directly opposite in direction or meaning.\n\nBreakdown of Options:\nCrest: \nmeans the top or peak of something (e.g., a wave, a mountain ridge, or a high point in a cycle.\n\nPinnacle: \nA synonym for zenith (another word for peak or summit).\n\nHorizon: \nRefers to the line where sky meets earth, not height extremes.",
+    "level": "",
+    "tags": [
+      "verified",
+      "vocabulary",
+      "vocabulary",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "t_yfndZGP",
+    "question": "Select the INCORRECTLY spelt word. ??",
+    "options": [
+      "Encraoch",
+      "Delegate",
+      "Illusion",
+      "Obtain"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Encraoch is incorrect spelling. \nThe correct spelling is \"Encroach\" (meaning to intrude or trespass gradually).\n\n2. Delegate → Correct (a person sent to represent others, or to assign tasks).\n3. Illusion → Correct (a false perception or deceptive appearance).\n4. Obtain → Correct (to acquire or gain possession).\n\n\nRemember: \n\"Encroach\" = E-N-C-R-O-A-C-H ✅\nNot Encraoch ❌",
+    "level": "",
+    "tags": [
+      "verified",
+      "vocabulary",
+      "spelling error",
+      "vocabulary",
+      "spelling error",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "8szoOTCeK",
+    "question": "Choose the correctly spelt word: ??",
+    "options": [
+      "Pasanger",
+      "Pessenger",
+      "Pasenger",
+      "Passenger"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The correctly spelt word is ^^Passenger^^. \nPassenger: A person traveling in a car, bus, train, or plane.",
+    "level": "",
+    "tags": [
+      "verified",
+      "vocabulary",
+      "spelling error",
+      "vocabulary",
+      "spelling error",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "0SyLTZFLJ",
+    "question": "Select the most appropriate option to fill in the blank.\nIn both countries we have leaders of ________ ability. ??",
+    "options": [
+      "Powerful",
+      "Almighty",
+      "Compelling",
+      "Exceptional"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Correct Answer: Exceptional\nCorrect Sentence:\nIn both countries we have leaders of **exceptional** ability.\n\n\n1. Powerful → Refers to strength or influence, not ability (e.g., powerful leaders, but not powerful ability).\n2. Almighty → Means all-powerful (usually refers to God); incorrect and overly dramatic for human leaders.\n3. Compelling → Describes something forceful or convincing (e.g., a compelling argument), not a type of ability.\n4. Exceptional → Means unusually excellent or outstanding → perfectly fits \"exceptional ability\" (correct option).  ✅",
+    "level": "",
+    "tags": [
+      "verified",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "_2xSZSyB5",
+    "question": "Select the most appropriate option that can substitute the (bracket segment) in the given sentence:\n(This is best book) for children to read. ??",
+    "options": [
+      "This is good book",
+      "This is very good book",
+      "This is the best book",
+      "This is very best book"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The phrase 'This is the best book' is the most appropriate option because 'the best' is the superlative form of 'good,' which is needed here to indicate that this book stands out as the best among all.\n\nThe other options are incorrect:\nOption 1: 'This is good book' has a missing article 'a' before 'good,' which makes it grammatically incorrect.\nOption 2: 'This is very good book' also lacks the article 'a' and doesn't convey the superlative degree needed to indicate this book is outstanding among others.\nOption 4: 'This is very best book' is incorrect because 'very' should not be used directly before a superlative adjective.",
+    "level": "",
+    "tags": [
+      "verified",
+      "articles a an and the",
+      "ssc chsl",
+      "articles a an and the",
+      "ssc chsl",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Ytjrd8_3N",
+    "question": "Identify the segment that contains a spelling error:\nI begged him / to reconcider / the decision but / he refused to yield. ??",
+    "options": [
+      "the decision but",
+      "I begged him",
+      "he refused to yield.",
+      "to reconcider"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The word 'reconCider' is incorrectly spelled. \nThe correct spelling is 'reconSider.'\n\nHere are the correct segments:\nOption 1: 'the decision but' — This segment is correct.\nOption 2: 'I begged him' — This segment is correct.\nOption 3: 'he refused to yield.' — This segment is correct.\n\nCorrect sentence: \nI begged him to reconsider the decision but he refused to yield.",
+    "level": "",
+    "tags": [
+      "verified",
+      "vocabulary",
+      "spelling error",
+      "vocabulary",
+      "spelling error",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "m4KmStrKt",
+    "question": "Select the option that contains an error.\nIf it \\ will rain tomorrow, I will stay at home. ??",
+    "options": [
+      "If it",
+      "will rain tomorrow",
+      "I will",
+      "stay at home"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Correct Answer: 3. will rain (→rains) )\n\nThe sentence is a first conditional (real future possibility):\nIf + present simple, will + base verb.\n\n❌ Incorrect: If it will rain tomorrow... \n→ \"will\" is not used in the if-clause when talking about future conditions.\n✅ Correct: If it ^^rains^^ tomorrow, I will stay at home.\n\n\"if it will rain ...\" = if + future simple ❌ \n\"If it rains ... \"  = if + present  simple ✅",
+    "level": "",
+    "tags": [
+      "tenses",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "kgryJLpaw",
+    "question": "Fill the blank with correct option:\nShe always likes to show ...... her wealth. ??",
+    "options": [
+      "on",
+      "off",
+      "of",
+      "all"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct option is off. \nThe sentence should be: \n\"She always likes to ^^show off^^ her wealth\". \nshow off: This phrasal verb means to display something or someone with pride, often in a way that is meant to impress others.",
+    "level": "",
+    "tags": [
+      "verified",
+      "preposition",
+      "preposition",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "rOiKivyU3",
+    "question": "Fill in the blank with the correct form of the verb given in bracket:\nThe road which ....... (connect) the two states is overcrowded. ??",
+    "options": [
+      "connected",
+      "connects",
+      "has connecting",
+      "have connected"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The (bracket) part is a relative clause describing \"the road.\"\nWe need a present participle or reduced relative clause, but the correct form is the present simple in a defining relative clause.\n✅ Correct Sentence: \nThe road which ^^connects^^ the two states...\n→ \"Which\" is the subject of the clause, so the verb must agree: connects (3rd person singular).\n\n\n❌ Incorrect options:\n1. connected → Past participle → passive, but no agent (wrong meaning: \"was connected by someone\").\n3. has connecting → Wrong tense and form (present perfect + gerund is ungrammatical here).\n4. have connected → Plural + past participle → doesn't agree with singular \"road.\"\n\nCorrected Sentence:\nThe road which connects the two states is overcrowded. ✅",
+    "level": "",
+    "tags": [
+      "verified",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Qyaynf6Uv",
+    "question": "Fill in the blank with the correct preposition,\nThe group of actors drove ______ the forest at high speed. ??",
+    "options": [
+      "through",
+      "in",
+      "over",
+      "at"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The preposition \"through\" is used to indicate movement within a space or area from one side or end to the other.\nIn this sentence, the group of actors drove inside the forest and moved across it, so \"through\" is the most appropriate preposition.\n\nOptions 2, 3, and 4 are grammatically incorrect in this context as they do not convey the meaning of moving across the forest.\nTherefore, the correct answer is Option 1.",
+    "level": "",
+    "tags": [
+      "verified",
+      "preposition",
+      "preposition",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "JWeohAcSp",
+    "question": "Select the most appropriate option to fill in the blank.\nHe studied all night, ______ he still felt unprepared for the exam. ??",
+    "options": [
+      "and",
+      "so",
+      "therefore",
+      "yet"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The conjunction \"yet\" is used to indicate a contrast or contradiction between two clauses.\nComplete Sentence: \n\"He studied all night, yet he still felt unprepared for the exam.\"\n\nIn this sentence, the subject studied all night, but the result is contrary to expectations (he still felt unprepared).\nOptions 1, 2, and 3 do not convey the intended contrast and are therefore incorrect.\nTherefore, the correct answer is Option 4.",
+    "level": "",
+    "tags": [
+      "verified",
+      "preposition",
+      "preposition",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "BKZTF5WS1",
+    "question": "Select the most appropriate option for the given blank.\nI didn’t speak to the sage again ______ many years. ??",
+    "options": [
+      "by",
+      "since",
+      "for",
+      "of"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The word \"for\" is used to indicate a period of time during which an action or state occurs.\nIn this context, \"for\" is appropriate because it specifies the duration (many years) of not speaking to the sage.\nComplete Sentence: \n\"I didn't speak to the sage again for many years.\"\n\nOptions 1, 2, and 4 are grammatically incorrect in this context.",
+    "level": "",
+    "tags": [
+      "verified",
+      "preposition",
+      "preposition",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "uEjigzWAV",
+    "question": "Fill in the blank with the most appropriate word.\nEggs are sold ______ the dozen. ??",
+    "options": [
+      "at",
+      "to",
+      "by",
+      "in"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The most appropriate word is ^^by^^. \nThe complete sentence is:\n \"Eggs are sold by the dozen\". \n\nThis prepositional phrase is used to indicate a unit of sale or measure. \nBy: This is used to denote the unit of sale or a specific quantity. \nFor example, \"milk is sold by the gallon,\" or \"tape is sold by the dozen\".\n\nIn: While less common, you might also see \"sold in dozens\" which is similar but emphasizes the grouping rather than the unit itself.\nAt, to: These prepositions are not used in this context.",
+    "level": "",
+    "tags": [
+      "verified",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "Plv5zgr0y",
+    "question": "Which of the following alternatives makes correct use of article?",
+    "options": [
+      "John sells milk twenty five rupees a litre.",
+      "John sells milk twenty five rupees the litre.",
+      "John sells milk twenty five rupees an litre.",
+      "John sells one litre of milk for twenty five."
+    ],
+    "correct_option_index": 0,
+    "explanation": "The correct answer is:\nJohn sells milk twenty five rupees a litre .\n\n\nThe question tests the correct use of the article with a unit of measurement.\nWhen expressing price, cost, or rate per unit, \nthe article ^^\"a\"^^ is used before the unit \nE.g \"a litre,\" \"a kilo,\" \"a dozen,\" etc.\nOption 1 correctly uses the article: \"twenty five rupees a litre.\"\nCorrect sentence: \nJohn sells milk twenty five rupees a litre.\n\n-----\nOption 2 (\"the litre\") is incorrect because \"the\" specifies one particular litre, not a general rate.\n\nOption 3 (\"an litre\") is incorrect because \"litre\" begins with a consonant sound, so \"an\" cannot be used.\n\nOption 4 is incomplete and awkwardly structured, as it leaves out \"rupees\" after \"twenty five.\"",
+    "level": "",
+    "tags": [
+      "verified",
+      "articles a an and the",
+      "articles a an and the",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "vucyx7Cpr",
+    "question": "Choose the correct article.\nThere is ______ university close to Kamla's house. ??",
+    "options": [
+      "the",
+      "an",
+      "a",
+      "No article"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct answer is 'a'.\nThe article \"a\" is used before singular, countable nouns that begin with consonant sounds.\nThe word \"university\" begins with a vowel letter but is pronounced with a consonant sound (/ju:/).\nTherefore, the correct answer is \"a\"\n Complete Sentence: \n\"There is a university close to Kamla's house.\"",
+    "level": "",
+    "tags": [
+      "verified",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "_w2SSHsea",
+    "question": "Change the given sentence from Active Voice to Passive Voice:\nThe batsman hit the ball for a six. ??",
+    "options": [
+      "The ball was hit for a six by the batsman.",
+      "The ball had been hit for a six by the batsman.",
+      "For a six the ball was hit by the batsman.",
+      "The ball was being hit for a six by the batsman."
+    ],
+    "correct_option_index": 0,
+    "explanation": "Passive voice structure: \nThe object of the active voice sentence becomes the subject of the passive voice sentence.\nIn the active voice, the sentence is: \n\"The batsman hit the ball for a six.\"\n\nTo convert to passive voice: \nPlace the object \"the ball\" at the beginning.\nChange the active verb form \"hit\" to \"was hit\" (simple past passive).\nAdd the preposition \"by\" followed by the original subject \"the batsman.\"\nEnsure clarity by maintaining the phrase \"for a six\" in its original position.\n\nCorrect Passive Sentence: \n\"The ball was hit for a six by the batsman.\"",
+    "level": "",
+    "tags": [
+      "verified",
+      "active passive",
+      "active passive",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "igQuO8xaP",
+    "question": "Change the voice of the  below sentence:\n\"Can you run a 100 metre race?\" ??",
+    "options": [
+      "If you can run a 100 metre race.",
+      "Can a 100 metre race be run.",
+      "Can a 100 metre race be run by you?",
+      "A 100 metre race can be run by you?"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Active: Can you run a 100 metre race?\nPassive: Can a 100 metre race be run by you?",
+    "level": "",
+    "tags": [
+      "verified",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "OVYew3BDy",
+    "question": "Select the correct indirect speech for the following sentence:\nI said to him, \"Why are you working so hard?\" ??",
+    "options": [
+      "I asked him why he was working so hard.",
+      "I asked him why was he working so hard.",
+      "I asked him why had he been working so hard.",
+      "I asked him why he had been working so hard."
+    ],
+    "correct_option_index": 0,
+    "explanation": "Original Sentence (Direct Speech):\nI said to him, \"Why are you working so hard?\"\n\nStep-by-step Conversion:\n1. This is a WH-question (starting with \"Why\"), so we keep the question word (\"why\") in indirect speech.\n2. “Said to” changes to “asked” because it’s a question.\n3. In indirect speech, question word order becomes statement order. So, “are you working” becomes “he was working”.\n4. The tense of the verb \"are working\" (present continuous) changes to past continuous → “was working”.\n5. The phrase “so hard” remains the same.\n\nCorrect Sentence:\nI asked him why he was working so hard.",
+    "level": "",
+    "tags": [
+      "verified",
+      "direct indirect",
+      "direct indirect",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "1yqvCzD3P",
+    "question": "Select the correct indirect speech for the following sentence:\nMy brother said, “The sun rises in the east.” ??",
+    "options": [
+      "My brother said that the sun rose in the east.",
+      "My brother says that the sun rises in the east.",
+      "My brother said that the sun rises in the east.",
+      "My brother ordered that the sun rises in the east."
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct indirect speech for \"My brother said, 'The sun rises in the east.'\" is: \n\"My brother said that the sun rises in the east\". \nWhen converting direct speech to indirect speech, you typically add \"that\" after the reporting verb (\"said\") and keep the original statement. \nSince \"The sun rises in the east\" is a universal truth, the tense remains unchanged in the indirect speech.",
+    "level": "",
+    "tags": [
+      "verified",
+      "direct indirect",
+      "direct indirect",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "MNbVxNJk1",
+    "question": "He was overwhelmed ___________ sorrow. ??",
+    "options": [
+      "of",
+      "on",
+      "by",
+      "with"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Correct Answer: D) with\nCompleted Sentence: \nHe was overwhelmed with sorrow.\n\n^^The preposition \"with\" is used with \"overwhelmed\" when expressing being filled or saturated by an emotion (e.g., overwhelmed with joy, grief, sorrow). ^^\n\"By\" can be used when indicating the cause (e.g., overwhelmed by work), but \"with\" is standard for the emotion itself.",
+    "level": "",
+    "tags": [
+      "verified",
+      "preposition",
+      "preposition",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "JYOj8R5Nn",
+    "question": "What is the subject in the sentence:\nThe cat chased the mouse. ??",
+    "options": [
+      "chased",
+      "The cat",
+      "the mouse",
+      "chased the mouse"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The subject of the sentence \"The cat chased the mouse\" is \"the cat\". \nThis is because \"the cat\" is the noun performing the action of the verb \"chased\". \nSubject: \"The cat\" (the doer of the action).\nVerb: \"chased\" (the action).\nObject: \"the mouse\" (the receiver of the action).",
+    "level": "",
+    "tags": [
+      "verified",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
+    "id": "YOiTDFYiz",
+    "question": "Fill in the blank with the correct form of the verb given in bracket.\n\"She ______ (sing) beautifully at the concert last night.\" ??",
+    "options": [
+      "sing",
+      "sings",
+      "sang",
+      "singing"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct word is ^^sang^^ because the phrase \"last night\" indicates a past event, so the simple past tense is required. \nThe sentence should be: \n\"She sang beautifully at the concert last night.\"",
+    "level": "",
+    "tags": [
+      "verified",
+      "verb",
+      "english",
+      "kssrb mock test 6 (10+2 level)",
+      "mock"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-05",
+    "exams": [
+      "KSSRB Mock Test 6 (10+2 Level)"
+    ],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "KSSRB Mock Test 6 (10+2 Level)",
+      "mock",
+      "english"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": "",
+    "mock_uid": "gauwDLOqS"
+  },
+  {
     "id": "IKJS--h8V",
     "question": "Arrange the following states in ascending order as per their coastline:\n1. Odisha\n2. Kerala\n3. Gujarat\n4. Andhra Pradesh\n5. Tamil Nadu ??",
     "options": [
@@ -142329,19 +145746,21 @@
   },
   {
     "id": "rs39pLim_",
-    "question": "Tina is to the 75 m south east of Veena. Rina is to the 75 m south west of Veena. Tina is to of Rina ?",
+    "question": "Tina is 75 m South-East of Veena. Reena is 75 m South-West of Veena. Tina is to the __________ of Reena. ??",
     "options": [
       "East",
       "West",
       "South",
       "North"
     ],
-    "correct_option_index": 3,
-    "explanation": "Tina is southeast of Veena, and Rina is southwest of Veena. Relative to Rina, Tina is to the north.",
+    "correct_option_index": 0,
+    "explanation": "Hence, Tina is to the east of Reena.\nSee the image below:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FcGbNWcsblA.png?alt=media&token=49d98c5c-ddee-438b-bb54-396213eee6f8)",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "direction based",
+      "ssc cpo",
       "direction based",
       "jkssb patwari exam 2024",
       "mock",
@@ -142353,6 +145772,7 @@
     "external_link": "",
     "create_date": "2025-11-05",
     "exams": [
+      "SSC CPO",
       "JKSSB Patwari Exam 2024"
     ],
     "page_title": null,
@@ -144080,6 +147500,7 @@
     "explanation": "A and B can complete a task together in 35 days.\n\nTotal time taken is 90 days.\n\nCalculation:\n\nLet the total amount of work be 35 units.\n\nIf A and B work together, they complete 35/35 = 1 unit of work every day.\n\nNow,\n\nLet the amount of work done by A by himself in one day be x units and the work done by B by himself in one day be y units.\n\nSo, x + y = 1\n\nIf A works alone and completes 5/7th of the task,\n\nwork done by A is (5/7) × 35 = 25 units.\n\n⇒ time taken by A to complete this 25 units of work = 25/x days.\n\nIf B works alone and completes 2/7th of the task,\n\nwork done by B is (2/7) × 35 = 10 units.\n\n⇒ Time taken by B to complete this 10 units of work = 10/y days.\n\nAccording to the question,\n\n25/x + 10/y = 90\n\n⇒ (25 + 10)/xy = 90\n\n⇒ 25y + 10x = 90xy\n\n⇒ 25(1 – x) + 10x = 90xy\n\n⇒ 25 – 25x + 10x = 90x(1 – x)\n\n⇒ 25 – 15x = 90x – 90x2\n\n⇒ 90x2 – 105x + 25 = 0\n\n⇒ 18x2 – 21x + 5 = 0\n\n⇒ 18x2 – 15x – 6x + 5 = 0\n\n⇒ 3x(6x – 5) – 1(6x – 5) = 0\n\n⇒ (6x – 5)(3x – 1) = 0\n\nSo, x = 5/6 (x cannot be 1/3 as A is more efficient among two)\n\nTime taken by A alone to complete work by herself = 35/(5/6)\n\n⇒ 42 days\n\n∴ The required answer is 42 days.",
     "level": "",
     "tags": [
+      "verified",
       "time and work",
       "rrb ncpt",
       "time and work",
@@ -144112,7 +147533,7 @@
       "10"
     ],
     "correct_option_index": 1,
-    "explanation": "The radii of circle 1, R1 = 4 cm \nThe radii of circle 2, R2 = 3 cm.\n\nThe area of new circle, A = Area of circle 1 + Area of circle 2\n\nFormula Used:\nDiameter = 2 × r\nArea of circle = πr²\nWhere, r = Radius of circle\n\nCalculation:\n\nArea of circle 1 = π(4)² = 16π \n\nArea of circle 2 = π(3)² = 9π \n\nAccording to the question,\n\nArea of new circle = 16π + 9π  = 25π \n\nLet, the radii of new circle = R\n\nNow,\n\n⇒ πR² = 4 × 25π \n⇒ R² = 100\n⇒ R = 10 cm\n\nSo, Diameter = 2 × R = 2 × 10 = 20 cm\n\n∴ The diameter of the circle is 20 cm.",
+    "explanation": "The radii of circle 1, R1 = 4 cm \nThe radii of circle 2, R2 = 3 cm.\n\nThe area of new circle, A = Area of circle 1 + Area of circle 2\n\nFormula Used:\nDiameter = 2 × r\nArea of circle = πr²\nWhere, r = Radius of circle\n\nCalculation:\n\nArea of circle 1 = π(4)² = 16π \n\nArea of circle 2 = π(3)² = 9π \n\nAccording to the question,\n\nArea of new circle = 16π + 9π  = 25π \n\nLet, the radii of new circle = R\n\nNow,\n\n⇒ πR² = 4 × 25π \n⇒ R² = 100\n⇒ R = 10 cm\n\nSo, Diameter = 2 × R = 2 × 10 = ^^20 cm^^\n\n∴ The diameter of the circle is 20 cm.",
     "level": "",
     "tags": [
       "sides areas and volumes",
@@ -144696,7 +148117,7 @@
       "11 : 10"
     ],
     "correct_option_index": 2,
-    "explanation": "The ages of Manu and Bharat are in the ratio = 6 : 5 \n\nTotal age = 44  years \n\nCalculation \n\nLet the ratio be x \n\n6x + 5x = 44\n\n⇒ x = 4 \n\nManu's age after 8 years = 6x + 8 =  32 \n\nBharat's age after 8 years = 5x + 8 = 28 \n\nRequired ratio = 8 : 7\n\n∴ The required answer is 8 : 7",
+    "explanation": "The ages of Manu and Bharat are in the ratio = 6 : 5 \n\nTotal age = 44  years \n\nCalculation \n\nLet the ratio be x \n\n6x + 5x = 44\n\n⇒ x = 4 \n\nManu's age after 8 years = 6x + 8 =  32 \n\nBharat's age after 8 years = 5x + 8 = 28 \n\n^^Required ratio = 8 : 7^^\n\n∴ The required answer is 8 : 7",
     "level": "",
     "tags": [
       "verified",
@@ -145469,7 +148890,7 @@
     "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nHow is D related to E?",
     "options": [
       "Nephew",
-      "Uncle",
+      "Father",
       "Daughter",
       "Niece"
     ],
@@ -145501,7 +148922,7 @@
   },
   {
     "id": "gMWYjU-oz",
-    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nHow is D related to E ?",
+    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nA has how many children?",
     "options": [
       "Four",
       "Three",
