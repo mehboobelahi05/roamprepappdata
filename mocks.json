@@ -104,7 +104,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
-    "level": "",
+    "level": "medium",
     "category": "general studies"
   },
   {
@@ -140,7 +140,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
-    "level": "",
+    "level": "medium",
     "category": "general studies"
   },
   {
@@ -181,7 +181,7 @@
     ],
     "pdf_link": "",
     "visibility": "all",
-    "level": "",
+    "level": "medium",
     "category": "general studies"
   },
   {
@@ -217,7 +217,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
-    "level": "",
+    "level": "hard",
     "category": "aptitude"
   },
   {
@@ -258,7 +258,7 @@
     ],
     "pdf_link": "",
     "visibility": "",
-    "level": "",
+    "level": "medium",
     "category": "english"
   },
   {
@@ -1805,6 +1805,7 @@
     "id": "Oe4nWCZG0_gs",
     "category": "general studies",
     "name": "KSSRB Exam (Graduate) 2024 - GS",
+    "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "OS1oFEz2F",
@@ -1837,6 +1838,7 @@
   {
     "id": "Oe4nWCZG0_english",
     "category": "english",
+    "level": "Easy",
     "name": "KSSRB Exam (Graduate) 2024 - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -1870,6 +1872,7 @@
   {
     "id": "Oe4nWCZG0_aptitude",
     "category": "aptitude",
+    "level": "Easy",
     "name": "KSSRB Exam (Graduate) 2024 - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -1903,6 +1906,7 @@
   {
     "id": "Oe4nWCZG0_reasoning",
     "category": "reasoning",
+    "level": "Easy",
     "name": "KSSRB Exam (Graduate) 2024 - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -1937,6 +1941,7 @@
     "id": "YO7_aOV5u_gs",
     "category": "general studies",
     "name": "KSSRB Exam (10+2 Level) 2024 - GS",
+    "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "RbR9xeA02",
@@ -1969,6 +1974,7 @@
   {
     "id": "YO7_aOV5u_english",
     "category": "english",
+    "level": "Medium",
     "name": "KSSRB Exam (10+2 Level) 2024 - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2002,6 +2008,7 @@
   {
     "id": "YO7_aOV5u_aptitude",
     "category": "aptitude",
+    "level": "Medium",
     "name": "KSSRB Exam (10+2 Level) 2024 - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2035,6 +2042,7 @@
   {
     "id": "YO7_aOV5u_reasoning",
     "category": "reasoning",
+    "level": "Medium",
     "name": "KSSRB Exam (10+2 Level) 2024 - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2069,6 +2077,7 @@
     "id": "vf4BpKS_0_gs",
     "category": "general studies",
     "name": "KSSRB Exam (10th Level) 2024 - GS",
+    "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "iyRTd45l5",
@@ -2101,6 +2110,7 @@
   {
     "id": "vf4BpKS_0_english",
     "category": "english",
+    "level": "Easy",
     "name": "KSSRB Exam (10th Level) 2024 - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2134,6 +2144,7 @@
   {
     "id": "vf4BpKS_0_aptitude",
     "category": "aptitude",
+    "level": "Easy",
     "name": "KSSRB Exam (10th Level) 2024 - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2167,6 +2178,7 @@
   {
     "id": "vf4BpKS_0_reasoning",
     "category": "reasoning",
+    "level": "Easy",
     "name": "KSSRB Exam (10th Level) 2024 - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2201,6 +2213,7 @@
     "id": "1MSW1CgsL_gs",
     "category": "general studies",
     "name": "KSSRB Exam (Graduate) 2023 - GS",
+    "level": "Hard",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "e7G1nKFuJ",
@@ -2233,6 +2246,7 @@
   {
     "id": "1MSW1CgsL_english",
     "category": "english",
+    "level": "Hard",
     "name": "KSSRB Exam (Graduate) 2023 - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2266,6 +2280,7 @@
   {
     "id": "1MSW1CgsL_aptitude",
     "category": "aptitude",
+    "level": "Hard",
     "name": "KSSRB Exam (Graduate) 2023 - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2299,6 +2314,7 @@
   {
     "id": "1MSW1CgsL_reasoning",
     "category": "reasoning",
+    "level": "Hard",
     "name": "KSSRB Exam (Graduate) 2023 - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2333,6 +2349,7 @@
     "id": "FaZaysgVf_gs",
     "category": "general studies",
     "name": "KSSRB Exam (10th Level) 2023 Session 1 - GS",
+    "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "f68E_m6om",
@@ -2365,6 +2382,7 @@
   {
     "id": "FaZaysgVf_english",
     "category": "english",
+    "level": "Easy",
     "name": "KSSRB Exam (10th Level) 2023 Session 1 - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2398,6 +2416,7 @@
   {
     "id": "FaZaysgVf_aptitude",
     "category": "aptitude",
+    "level": "Easy",
     "name": "KSSRB Exam (10th Level) 2023 Session 1 - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2431,6 +2450,7 @@
   {
     "id": "FaZaysgVf_reasoning",
     "category": "reasoning",
+    "level": "Easy",
     "name": "KSSRB Exam (10th Level) 2023 Session 1 - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2465,6 +2485,7 @@
     "id": "BD-EacuGz_gs",
     "category": "general studies",
     "name": "KSSRB Mock Test 1 (10th Level) - GS",
+    "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "KmhGnyafX",
@@ -2497,6 +2518,7 @@
   {
     "id": "BD-EacuGz_english",
     "category": "english",
+    "level": "Easy",
     "name": "KSSRB Mock Test 1 (10th Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2530,6 +2552,7 @@
   {
     "id": "BD-EacuGz_aptitude",
     "category": "aptitude",
+    "level": "Easy",
     "name": "KSSRB Mock Test 1 (10th Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2563,6 +2586,7 @@
   {
     "id": "BD-EacuGz_reasoning",
     "category": "reasoning",
+    "level": "Easy",
     "name": "KSSRB Mock Test 1 (10th Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2597,6 +2621,7 @@
     "id": "ylameAb7Y_gs",
     "category": "general studies",
     "name": "KSSRB Mock Test 2 (10+2 Level) - GS",
+    "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "YPqugVkC4",
@@ -2629,6 +2654,7 @@
   {
     "id": "ylameAb7Y_english",
     "category": "english",
+    "level": "Medium",
     "name": "KSSRB Mock Test 2 (10+2 Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2662,6 +2688,7 @@
   {
     "id": "ylameAb7Y_aptitude",
     "category": "aptitude",
+    "level": "Medium",
     "name": "KSSRB Mock Test 2 (10+2 Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2695,6 +2722,7 @@
   {
     "id": "ylameAb7Y_reasoning",
     "category": "reasoning",
+    "level": "Medium",
     "name": "KSSRB Mock Test 2 (10+2 Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2729,6 +2757,7 @@
     "id": "zBRwQK0G7_gs",
     "category": "general studies",
     "name": "KSSRB Mock Test 3 (Graduation Level) - GS",
+    "level": "Hard",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "32R7wgnSV",
@@ -2761,6 +2790,7 @@
   {
     "id": "zBRwQK0G7_english",
     "category": "english",
+    "level": "Hard",
     "name": "KSSRB Mock Test 3 (Graduation Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2794,6 +2824,7 @@
   {
     "id": "zBRwQK0G7_aptitude",
     "category": "aptitude",
+    "level": "Hard",
     "name": "KSSRB Mock Test 3 (Graduation Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2827,6 +2858,7 @@
   {
     "id": "zBRwQK0G7_reasoning",
     "category": "reasoning",
+    "level": "Hard",
     "name": "KSSRB Mock Test 3 (Graduation Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2861,6 +2893,7 @@
     "id": "AoqWbs83O_gs",
     "category": "general studies",
     "name": "KSSRB Mock Test 4 (10th Level) - GS",
+    "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "ilLN2Ojty",
@@ -2893,6 +2926,7 @@
   {
     "id": "AoqWbs83O_english",
     "category": "english",
+    "level": "Easy",
     "name": "KSSRB Mock Test 4 (10th Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2926,6 +2960,7 @@
   {
     "id": "AoqWbs83O_aptitude",
     "category": "aptitude",
+    "level": "Easy",
     "name": "KSSRB Mock Test 4 (10th Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2959,6 +2994,7 @@
   {
     "id": "AoqWbs83O_reasoning",
     "category": "reasoning",
+    "level": "Easy",
     "name": "KSSRB Mock Test 4 (10th Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -2993,6 +3029,7 @@
     "id": "Q4fSnhV5F_gs",
     "category": "general studies",
     "name": "KSSRB Mock Test 5 (Graduation Level) - GS",
+    "level": "Hard",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "cB-wx8TWp",
@@ -3025,6 +3062,7 @@
   {
     "id": "Q4fSnhV5F_english",
     "category": "english",
+    "level": "Hard",
     "name": "KSSRB Mock Test 5 (Graduation Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3058,6 +3096,7 @@
   {
     "id": "Q4fSnhV5F_aptitude",
     "category": "aptitude",
+    "level": "Hard",
     "name": "KSSRB Mock Test 5 (Graduation Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3091,6 +3130,7 @@
   {
     "id": "Q4fSnhV5F_reasoning",
     "category": "reasoning",
+    "level": "Hard",
     "name": "KSSRB Mock Test 5 (Graduation Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3125,6 +3165,7 @@
     "id": "gauwDLOqS_gs",
     "category": "general studies",
     "name": "KSSRB Mock Test 6 (10+2 Level) - GS",
+    "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "MJ-Dyvqnt",
@@ -3157,6 +3198,7 @@
   {
     "id": "gauwDLOqS_english",
     "category": "english",
+    "level": "Medium",
     "name": "KSSRB Mock Test 6 (10+2 Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3190,6 +3232,7 @@
   {
     "id": "gauwDLOqS_aptitude",
     "category": "aptitude",
+    "level": "Medium",
     "name": "KSSRB Mock Test 6 (10+2 Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3223,6 +3266,7 @@
   {
     "id": "gauwDLOqS_reasoning",
     "category": "reasoning",
+    "level": "Medium",
     "name": "KSSRB Mock Test 6 (10+2 Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3257,6 +3301,7 @@
     "id": "HlFJZr0QT_gs",
     "category": "general studies",
     "name": "KSSRB Mock Test 7 (10th Level) - GS",
+    "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "6WfjAmV2k",
@@ -3289,6 +3334,7 @@
   {
     "id": "HlFJZr0QT_english",
     "category": "english",
+    "level": "Easy",
     "name": "KSSRB Mock Test 7 (10th Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3322,6 +3368,7 @@
   {
     "id": "HlFJZr0QT_aptitude",
     "category": "aptitude",
+    "level": "Easy",
     "name": "KSSRB Mock Test 7 (10th Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3355,6 +3402,7 @@
   {
     "id": "HlFJZr0QT_reasoning",
     "category": "reasoning",
+    "level": "Easy",
     "name": "KSSRB Mock Test 7 (10th Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
