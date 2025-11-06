@@ -14398,17 +14398,18 @@
   },
   {
     "id": "poXp7LyaJ",
-    "question": "Chanakya was also known by which of the following names?",
+    "question": "Chanakya, the wazir of Mauryan king Chandragupta Maurya, was also known by which of the following names?",
     "options": [
       "Kautilya",
-      "Vishnugupta",
-      "Both of these",
-      "None of these"
+      "Samudragutpa",
+      "Vikramaditya",
+      "Chandraupta-II"
     ],
-    "correct_option_index": 1,
-    "explanation": "",
+    "correct_option_index": 0,
+    "explanation": "The correct option is Kautilya. \nChanakya is also known by the name Kautilya.\nHe is traditionally credited as the author of the ancient Indian treatise on statecraft, the Arthashastra, which is often attributed to \"Kautilya\".\nAnother name for Chanakya is Vishnugupta. \n\nWhy other options are incorrect\n**Samudragupta** was a ruler of the Gupta dynasty, which existed centuries after the Mauryan dynasty.\n**Vikramaditya** was a title used by several Indian monarchs, most famously by the Gupta emperor Chandragupta II.\n**Chandragupta-II** was a powerful ruler of the Gupta dynasty and the son of Samudragupta, not Chandragupta Maurya.",
     "level": "",
     "tags": [
+      "verified",
       "general studies",
       "history",
       "maurya empire"
@@ -37325,12 +37326,12 @@
     "question": "Which of the below statements is true ?",
     "options": [
       "74th Amendment Act gave constitutional status to Panchayati Raj Institutions",
-      "73rd Amendment Act gave constitutional status to Panchayati Raj Institutions",
+      "73rd Amendment Act gave constitutional status to Municipalities",
       "11th Schedule was added by 74th Amendment Act",
       "None of these is correct"
     ],
     "correct_option_index": 3,
-    "explanation": "",
+    "explanation": "((oJX5iLiUo))",
     "level": "hard",
     "tags": [
       "hard",
@@ -54236,15 +54237,19 @@
     "id": "wBQTpTiH4",
     "question": "Which is a famous festival celebrated in Jammu and Kashmir?",
     "options": [
-      "Hemis Festival",
+      "Navroz",
       "Lohri",
       "Baisakhi",
-      "Navroz"
+      "All of these"
     ],
-    "correct_option_index": 0,
-    "explanation": "The Hemis Festival is a major Buddhist festival celebrated in Ladakh to honor Guru Padmasambhava.",
+    "correct_option_index": 3,
+    "explanation": "Lohri: This harvest and spring festival is celebrated with great enthusiasm, particularly in the Jammu region by the Hindu and Sikh communities.\n\nBaisakhi: Also a harvest festival, Baisakhi is celebrated across North India, including with significant fervor in the Jammu region, and holds special religious importance for Sikhs.\n\nNavroz: The Persian New Year, Navroz is celebrated by Kashmiri Muslims, especially the Shia community, in the Kashmir valley",
     "level": "",
     "tags": [
+      "verified",
+      "festival",
+      "art and culture",
+      "art and culture",
       "general studies",
       "jammu and kashmir"
     ],
@@ -66923,10 +66928,11 @@
       "10",
       "11"
     ],
-    "correct_option_index": 2,
-    "explanation": "",
+    "correct_option_index": 1,
+    "explanation": "Let cost price of one chair = C, selling price = S.\n\nGiven: Cost of 12 chairs = Selling price of x chairs  \n⇒ 12C = xS  \n⇒ S/C = 12/x\n\nProfit = 33⅓% = 1/3  \n⇒ (S - C)/C = 1/3  \n⇒ S/C = 1 + 1/3 = 4/3\n\nSo:  \n12/x = 4/3  \nCross-multiply: 4x = 36  \nx = 9\n\nAnswer: x = 9",
     "level": "",
     "tags": [
+      "verified",
       "aptitude",
       "profit and loss"
     ],
@@ -79968,12 +79974,12 @@
     "id": "QRS57v8k8",
     "question": "\"They traveled to Paris last summer.\"\nWhat is the passive form of the sentence?",
     "options": [
-      "Paris was traveled to by them last summer.",
       "Paris was traveled by them last summer.",
       "Paris was traveled by they last summer.",
-      "Paris was traveled to by them last summer."
+      "Paris was traveled to by them last summer.",
+      "None of these"
     ],
-    "correct_option_index": 3,
+    "correct_option_index": 2,
     "explanation": "",
     "level": "",
     "tags": [
@@ -90759,17 +90765,18 @@
   },
   {
     "id": "gtzR9YTi7",
-    "question": "Which one is not a leap year?",
+    "question": "Which one is a leap year ?",
     "options": [
       "1618",
       "1700",
       "1800",
       "2000"
     ],
-    "correct_option_index": 0,
-    "explanation": "1618 is not divisible by 4 → not a leap year.",
+    "correct_option_index": 3,
+    "explanation": "Under the Gregorian calendar rules:\nYears divisible by 4 are generally leap years.\nHowever, years divisible by 100 are not leap years, unless they are also divisible by 400. \n\nApplying these rules to the given years:\n1618: Not divisible by 4, so it is not a leap year.\n1700: Divisible by 4 and 100, but not by 400 (1700 ÷ 400 = 4.25), so it is not a leap year.\n1800: Divisible by 4 and 100, but not by 400 (1800 ÷ 400 = 4.5), so it is not a leap year.\n2000: Divisible by 4, 100, and 400 (2000 ÷ 400 = 5), so it is a leap year.",
     "level": "",
     "tags": [
+      "verified",
       "reasoning"
     ],
     "linked_block_uid": "",
@@ -97064,10 +97071,11 @@
       "Z - I x Y + K",
       "K x Y + I - Z"
     ],
-    "correct_option_index": 0,
-    "explanation": "K + Y → K is the brother of Y\nY x I → Y is the father of I → K is the uncle of I\nI - Z → I is the sister of Z\nHence, I is the niece of K.",
+    "correct_option_index": 1,
+    "explanation": "The correct option is \"K + Y x I - Z\"\n\n\nExplanation\n\nTo determine the relationship, we need to break down the coded expression K + Y x I - Z.\n\nK + Y: means, K is the brother of Y.\n\nY x I: means, Y is the father of I.\n\nI - Z: means, I is the sister of Z.\n\nBased on these relationships:\n\nY is the father of I.\n\nK is the brother of Y.\n\nThis means K is I's paternal uncle.\n\nI is the daughter of K's brother, which makes I the niece of K.",
     "level": "",
     "tags": [
+      "verified",
       "reasoning",
       "blood relations"
     ],
@@ -112502,7 +112510,7 @@
     "id": "F-8aOSd07",
     "question": "The Average of 6 observations is 12. A new seventh observation is included, and the new average is decreased by 1. The seventh observation is?",
     "options": [
-      "5",
+      "7",
       "6",
       "3",
       "5"
@@ -135597,17 +135605,20 @@
   },
   {
     "id": "CCDP1Tnuw",
-    "question": "In a linear arrangement, there are five people A B C D and E facing north.\nE is second to left of A and is immediate right of B. Then who is in middle?",
+    "question": "In a linear arrangement, there are five people A B C D and E facing north.\nE is second to left of A and is immediate right of B.\nThen who is in middle?",
     "options": [
       "E",
       "B",
       "C",
-      "D"
+      "Data insufficient"
     ],
-    "correct_option_index": 0,
-    "explanation": "Facing north with the given data:\n_ B E _ A\nThus E is in the center.",
+    "correct_option_index": 3,
+    "explanation": "Facing north with the given data:\nWith the given information there can be two cases:\n(a) = _ B E _ A\n(b) = B E _ A_\nCorrect option is : \"Data insufficient\"",
     "level": "easy",
     "tags": [
+      "verified",
+      "sitting arrangement",
+      "sitting arrangement",
       "reasoning",
       "kssrb mock test 1 (10th level)",
       "mock",
