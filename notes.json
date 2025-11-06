@@ -15,7 +15,7 @@
       },
       {
         "order": 2,
-        "string": "**About Kargil War**\n▪️ Fought in 1999 between India & Pakistan.\n▪️ Cause: Pakistani infiltrators occupied Indian positions along the Line of Control (LoC).\n▪️  **Operation Vijay**: India’s military mission to expel intruders.\n▪️ **Kargil Vijay Diwas**: Celebrated on July 26, 1999 (victory day).\n▪️ **Operation Safed Sagar**: Conducted by Indian Air Force → supported ground troops with precision airstrikes.",
+        "string": "**About Kargil War**\n▪️ Fought in 1999 between India & Pakistan.\n▪️ Cause: Pakistani infiltrators occupied Indian positions along the Line of Control (LoC).\n▪️  **Operation Vijay**: India’s military mission to expel intruders.\n▪️ **Kargil Vijay Diwas**: Celebrated on July 26, 1999 (victory day).\n▪️ **Operation Safed Sagar**: Conducted by Indian Air Force → supported ground troops with precision airstrikes.\n----\n**Note**\n▪️ ^^Kargil Vijay Diwas^^ on July 26 commemorates India's victory in the 1999 Kargil War\n▪️ ^^Vijay Diwas^^ on December 16 marks the victory in the 1971 Indo-Pakistani War, which led to the creation of Bangladesh. ▪️ Both days are dedicated to the bravery of the Indian armed forces in their respective conflicts.",
         "uid": "lhc025XLB"
       },
       {
@@ -1830,151 +1830,156 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**1st Amendment Act, 1951**\n▪️ Saved laws for acquisition of estates, etc.\n▪️ Added Ninth Schedule to protect land reform laws from judicial review.\n▪️ Empowered states to make special provisions for socially and economically backward classes.\n▪️ Added three new grounds for restricting freedom of speech: public order, friendly relations with foreign states, incitement to offence. Made restrictions “reasonable” and justiciable.\n▪️ State trading/nationalisation not invalid on grounds of violating right to trade.\n▪️ Inserted Articles 31A and 31B.",
-        "uid": "vk_kNs9GI"
+        "string": "▪️ Only the Parliament can amend the constitution.\n▪️ Article 368 deals with the \"amendment to the constitution\". This article (feature) we borrowed from South Africa constitution. \n▪️ Most of the articles are amended by special majority in the parliament.",
+        "uid": "WzcR1tjr8"
       },
       {
         "order": 1,
+        "string": "**1st Amendment Act, 1951**\n▪️ Saved laws for acquisition of estates, etc.\n▪️ Added ^^Ninth Schedule^^ to protect land reform laws from judicial review.\n▪️ Empowered states to make special provisions for socially and economically backward classes.\n▪️ Added three new grounds for restricting freedom of speech: public order, friendly relations with foreign states, incitement to offence. Made restrictions “reasonable” and justiciable.\n▪️ State trading/nationalisation not invalid on grounds of violating right to trade.\n▪️ Inserted Articles 31A and 31B.",
+        "uid": "vk_kNs9GI"
+      },
+      {
+        "order": 2,
         "string": "**2nd Amendment Act, 1952**\n▪️ Adjusted Lok Sabha representation: one member could represent more than 7,50,000 persons.",
         "uid": "bbh-LNRYy"
       },
       {
-        "order": 2,
+        "order": 3,
         "string": "**7th Amendment Act, 1956**\n▪️ Abolished classification of states (Part A, B, C, D); reorganized into 14 states and 6 union territories.\n▪️ Extended High Court jurisdiction to union territories; allowed common High Court for multiple states.\n▪️ Provided for additional and acting judges in High Courts.\nAmended Second Schedule.\n▪️ Modified lists on acquisition/requisition of property in Seventh Schedule.",
         "uid": "-CrqxJ6yJ"
       },
       {
-        "order": 3,
+        "order": 4,
         "string": "**10th Amendment Act, 1961**\n▪️ Incorporated Dadra and Nagar Haveli into Indian Union.\n▪️ Enabled President to make regulations for peace, progress, and good governance of the territory.",
         "uid": "PuQ-_wy4b"
       },
       {
-        "order": 4,
+        "order": 5,
         "string": "**15th Amendment Act, 1963**\n▪️ Allowed High Courts to issue writs outside territorial jurisdiction if cause of action arises within limits.\n▪️ Raised retirement age of High Court judges from 60 to 62 years.\n▪️ Amended Articles 297, 311, 316.\n▪️ Allowed appointment of retired High Court judges as acting judges.\n▪️ Provided compensatory allowance for transferred judges.\n▪️ Enabled retired High Court judges to act as ad-hoc Supreme Court judges.",
         "uid": "_jT4uvxLd"
       },
       {
-        "order": 5,
+        "order": 6,
         "string": "**24th Amendment Act, 1971**\n▪️ Affirmed Parliament’s power to amend any part of Constitution, including Fundamental Rights.\n▪️ Made it compulsory for President to assent to Constitutional Amendment Bills.\n▪️ Amended Article 13 to exclude constitutional amendments from its scope under Article 368.",
         "uid": "a2SLfnf4d"
       },
       {
-        "order": 6,
+        "order": 7,
         "string": "**25th Amendment Act, 1971**\n▪️ Introduced Article 31C to give primacy to certain Directive Principles over Fundamental Rights.\n▪️ Limited right to property.",
         "uid": "LHYIygPxB"
       },
       {
-        "order": 7,
+        "order": 8,
         "string": "**34th Amendment Act, 1975**\n▪️ Added 20 more land reform acts of various states to the Ninth Schedule.",
         "uid": "T0G-kXoei"
       },
       {
-        "order": 8,
+        "order": 9,
         "string": "**38th Amendment Act, 1975**\n▪️ Made President’s satisfaction in declaring emergency non-justiciable.\n▪️ Made ordinances by President, Governors, and UT administrators non justiciable.\n▪️ Allowed President to declare different types of national emergency simultaneously.\n▪️ Amended Articles 123, 213, 239B, 352, 356, 359, 360.",
         "uid": "UBzNijLuS"
       },
       {
-        "order": 9,
+        "order": 10,
         "string": "**42nd Amendment Act, 1976 (Mini Constitution)**\n▪️ Added Socialist, Secular, Integrity to the Preamble.\n▪️ Added Fundamental Duties (Part IVA).\n▪️ President bound by Council of Ministers’ advice (Article 74).\n▪️ Added Part XIVA – Administrative and other tribunals.\n▪️ Froze Lok Sabha/state assembly seats based on 1971 census till 2001.\n▪️ Made constitutional amendments beyond judicial review.\n▪️ Increased tenure of Lok Sabha and assemblies from 5 to 6 years.\n▪️ Protected laws implementing Directive Principles from being void on grounds of violating certain FRs.\n▪️ Added 3 new Directive Principles: equal justice & free legal aid, worker participation in management, protection of environment/forests/wildlife.\n▪️ Allowed national emergency in part of India.\n▪️ Extended President’s Rule from 6 months to 1 year at a time.\n▪️ Shifted 5 subjects (education, forests, wildlife, weights & measures, administration of justice) from State to Concurrent List.\n▪️ Provided for All-India Judicial Service.",
         "uid": "KNZCFx4LA"
       },
       {
-        "order": 10,
+        "order": 11,
         "string": "**44th Amendment Act, 1978**\n▪️ Restored some powers of Supreme Court and High Courts.\n▪️ Replaced “internal disturbance” with “armed rebellion” for national emergency.\n▪️ President to declare emergency only on written Cabinet advice.\n▪️ Removed right to property from Fundamental Rights (made legal right).\n▪️ Ensured Articles 20 and 21 cannot be suspended during emergency.",
         "uid": "VeK0obvdI"
       },
       {
-        "order": 11,
+        "order": 12,
         "string": "**51st Amendment Act, 1984**\n▪️ Reserved seats for Scheduled Tribes in Lok Sabha from Meghalaya, Arunachal Pradesh, Nagaland, Mizoram; and in assemblies of Meghalaya and Nagaland.",
         "uid": "m264tIzOs"
       },
       {
-        "order": 12,
+        "order": 13,
         "string": "**52nd Amendment Act, 1985 (Anti-Defection Law)**\n▪️ Disqualified MPs/MLAs on grounds of defection.\nAdded Tenth Schedule.",
         "uid": "Im4I2UnW1"
       },
       {
-        "order": 13,
+        "order": 14,
         "string": "**61st Amendment Act, 1989**\n▪️ Reduced voting age from 21 to 18 years for Lok Sabha and Assembly elections.",
         "uid": "STqZ8n9Sw"
       },
       {
-        "order": 14,
+        "order": 15,
         "string": "**65th Amendment Act, 1990**\n▪️ Replaced Special Officer for SC/ST with National Commission for Scheduled Castes and Scheduled Tribes.",
         "uid": "H4GlgNAjq"
       },
       {
-        "order": 15,
+        "order": 16,
         "string": "**69th Amendment Act, 1991**\n▪️ Granted National Capital Territory status to Delhi with a 70-member assembly and 7-member Council of Ministers.",
         "uid": "6bwzXEzoZ"
       },
       {
-        "order": 16,
+        "order": 17,
         "string": "**73rd Amendment Act, 1992**\n▪️ Gave constitutional status to Panchayati Raj Institutions (Part IX).\n▪️ Added Eleventh Schedule (29 subjects).\n▪️ Three-tier system; reservation for SC/ST and 1/3rd for women.\n\n**74th Amendment Act, 1992**\n▪️ Gave constitutional status to urban local bodies (Part IX-A).\n▪️ Added Twelfth Schedule (18 functions of municipalities).",
         "uid": "oJX5iLiUo"
       },
       {
-        "order": 17,
+        "order": 18,
         "string": "**76th Amendment Act, 1994**\n▪️ Included Tamil Nadu’s 69% reservation law in Ninth Schedule to protect from judicial review (despite 50% cap).",
         "uid": "7xl6l1ZP5"
       },
       {
-        "order": 18,
+        "order": 19,
         "string": "**77th Amendment Act, 1995**\n▪️ Provided reservation in promotions for SC/ST in government jobs.",
         "uid": "Xu94gAAaH"
       },
       {
-        "order": 19,
+        "order": 20,
         "string": "**85th Amendment Act, 2001**\n▪️ Provided consequential seniority in promotions for SC/ST employees.",
         "uid": "qwrTZrPNT"
       },
       {
-        "order": 20,
+        "order": 21,
         "string": "**86th Amendment Act, 2002**\n▪️ Made elementary education (6–14 years) a Fundamental Right (Article 21A, Right to Education).\n▪️ Modified Article 45 (DPSP).\n▪️ Added Fundamental Duty for parents to provide education to children aged 6–14 (Article 51A).",
         "uid": "2one3UU2Y"
       },
       {
-        "order": 21,
+        "order": 22,
         "string": "**91st Amendment Act, 2003**\n▪️ Limited size of Council of Ministers (Centre & States).\n▪️ Strengthened anti-defection law; barred defectors from public office.",
         "uid": "6Vg424lZ1"
       },
       {
-        "order": 22,
+        "order": 23,
         "string": "**93rd Amendment Act, 2005**\n▪️ Provided reservation for OBCs in private unaided educational institutions (except minority institutions).",
         "uid": "Pcn_Zquc3"
       },
       {
-        "order": 23,
+        "order": 24,
         "string": "**97th Amendment Act, 2012**\n▪️ Gave constitutional status to co-operative societies.",
         "uid": "rXY4Ji701"
       },
       {
-        "order": 24,
+        "order": 25,
         "string": "**99th Amendment Act, 2014**\n▪️ Replaced collegium system with National Judicial Appointments Commission (NJAC) for appointing judges.\n▪️ Struck down by Supreme Court in 2015; collegium system restored.",
         "uid": "fht4X0Ki7"
       },
       {
-        "order": 25,
+        "order": 26,
         "string": "**100th Amendment Act, 2015**\n▪️ Gave effect to India-Bangladesh Land Boundary Agreement – exchange of enclaves.",
         "uid": "gI2zKpGbA"
       },
       {
-        "order": 26,
+        "order": 27,
         "string": "**101st Amendment Act, 2016**\n▪️ Introduced Goods and Services Tax (GST).",
         "uid": "N2TQo6eW1"
       },
       {
-        "order": 27,
+        "order": 28,
         "string": "**102nd Amendment Act, 2018**\n▪️ Gave constitutional status to National Commission for Backward Classes (NCBC).\n▪️ President to specify backward classes for each state/UT.",
         "uid": "a3MvONGAT"
       },
       {
-        "order": 28,
+        "order": 29,
         "string": "**103rd Amendment Act, 2019**\n▪️ Provided 10% reservation for Economically Weaker Sections (EWS) in education and government jobs (except minority institutions).",
         "uid": "5V48VvBcE"
       },
       {
-        "order": 29,
+        "order": 30,
         "string": "**104th Amendment Act, 2020**\n▪️ Extended reservation for SCs and STs in the Lok Sabha (Article 330) and State Legislative Assemblies (Article 332) from 70 years to 80 years.\n▪️ Removed reserved seats for the Anglo-Indian community in the Lok Sabha and State Assemblies (Article 334).\n--\nArticle 330: SC ST reservation in lok sabha\nArticle 332: SC ST reservation in State Legislative Assemblies\nArticle 334: reserved seats for the Anglo-Indian community (now repealed)",
         "uid": "KX3uw3ADS"
       }
@@ -2232,13 +2237,18 @@
     "blocks": [
       {
         "order": 0,
-        "string": "▪️ President is the head of the state of India.\n▪️ President is the first citizen of India.\n▪️ President in India is an elected member.\n▪️ In India a person can become president any number of times",
+        "string": "▪️ President is the head of the state of India.\n▪️ President is the first citizen of India.\n▪️ President in India is an elected member.\n▪️ In India a person can become president any number of times\n▪️ Current (Nov 2025) president \"Droupadi Murmu\", is the 15th and current President, having assumed office on July 25, 2022.",
         "uid": "WTeDcTWoR"
       },
       {
         "order": 1,
         "string": "**President as Supreme Commander of Defence**\n\n▪️ Article 52 of the Indian Constitution states that there shall be a President of India. As the Supreme Commander, the President is the head of the Indian Army, Navy, and Air Force.\n▪️ The  President is the commander of the defence forces of India. \nPresident appoints: Chief of the Army, Chief of the Navy, Chief of the Air Force \n▪️ The Chief of the Army is a **General**, the Chief of the Navy is an **Admiral**, and the Chief of the Air Force is an **Air Chief Marshal**. \n▪️ These three positions are collectively known as the armed forces chiefs",
         "uid": "lsWr7s8MM"
+      },
+      {
+        "order": 2,
+        "string": "**Important Women in Indian History:**\n\n▪️ **First Woman President of INC:** Annie Besant (1917)\n▪️ **First Indian Woman President of INC:** Sarojini Naidu (1925, Kanpur Session)\n▪️ **First Woman Governor of India:** Sarojini Naidu (Governor of Uttar Pradesh, 1947)\n▪️ **First Woman Chief Minister of India:** Sucheta Kriplani (Uttar Pradesh, 1963)\n▪️ **First Woman Prime Minister of India:** Indira Gandhi (1966)\n▪️ **First Woman President of India:** Pratibha Patil (2007–2012)",
+        "uid": "Gk87VaBxH"
       }
     ]
   },
@@ -2248,7 +2258,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Strength of Judges in Supreme Court (SC):**\n▪️ Decide by the Parliament\n▪️ Maximum Sanctioned Strength: 34 (including Chief Justice of India – CJI).\n▪️ Current Status (as of Nov 2025): Full strength of 34 judges.\n▪️ Key Fact: Increased from 31 to 34 via Constitution (15th Amendment) Act, 2019.\n▪️ Article Reference: Article 124(1) of the Constitution.\n\n**Strength of Judges in High Court (HC):**\n▪️ Decide by the President\n▪️ Total Sanctioned Strength Varies court by court.\n▪️ Article Reference: Article 216 of the Constitution.\n\n**Retirement Age of SC Judge:**\n▪️ Age: 65 years.\n▪️ Tenure: 6 years\n▪️ Holds office until  for 6 years or until the age  of 62 years\n\n**Retirement Age of HC Judge:**\n▪️ Age: 62 years.\n▪️ Tenure: 6 years\n▪️ Holds office until  for 6 years or until the age  of 62 years",
+        "string": "**Strength of Judges in Supreme Court (SC):**\n▪️ Decide by the Parliament\n▪️ Maximum Sanctioned Strength: 34 (including Chief Justice of India – CJI).\n▪️ Current Status (as of Nov 2025): Full strength of 34 judges.\n▪️ Key Fact: Increased from 31 to 34 via Constitution (15th Amendment) Act, 2019.\n▪️ Article Reference: Article 124(1) of the Constitution.\n\n**Strength of Judges in High Court (HC):**\n▪️ Decide by the President\n▪️ Total Sanctioned Strength Varies court by court.\n▪️ Article Reference: Article 216 of the Constitution.\n\n**Retirement Age of SC Judge:**\n▪️ Age: 65 years.\n▪️ Tenure: 6 years\n▪️ Holds office for 6 years or until the age  of 65 years, which ever is earlier\n\n**Retirement Age of HC Judge:**\n▪️ Age: 62 years.\n▪️ Tenure: 6 years\n▪️ Holds office for 6 years or until the age  of 62 years, which ever is earlier",
         "uid": "Z-1EHgvMU"
       },
       {
@@ -3206,6 +3216,11 @@
         "order": 4,
         "string": "**Newspapers Published by Gandhi:**\n▪️ Indian Opinion\n▪️ Young India\n▪️ Harijan",
         "uid": "zyHVXZsR1"
+      },
+      {
+        "order": 5,
+        "string": "**Titles and Honorifics of Indian Freedom Leaders**\n▪️ **Mahatma Gandhi** – The title **“Mahatma”** (Great Soul) was given to him by **Rabindranath Tagore**.\n\n▪️ **Khan Abdul Ghaffar Khan** – Also known as the **“Frontier Gandhi”** for his non-violent struggle in the North-West Frontier Province (now in Pakistan).\n\n▪️ The title **“Father of the Nation”** was given to **Mahatma Gandhi** by **Subhas Chandra Bose** in a 1944 radio address from Singapore.\n\n▪️ Gandhi gave the title **“Mahamana”** to **Pandit Madan Mohan Malaviya** (founder of Banaras Hindu University).\n\n▪️ **K. Kelappan** is known as the **“Kerala Gandhi”** for his leadership in social reform and the freedom movement in Kerala.\n---\n▪️ **Subhas Chandra Bose** was given the title **“Netaji”** by **Indian soldiers in Germany** (Azad Hind members) in 1942.\n-----\n▪️ **Vallabhbhai Patel** was given the title **“Sardar”** (Leader) by **the women of Bardoli** during the Bardoli Satyagraha of 1928.\n----\n▪️ Ishwar Chandra was given the title \"**Vidyasagar**\" by the Sanskrit College in Calcutta due to his excellent performance in Sanskrit studies and philosophy. The title means \"Ocean of Knowledge\".",
+        "uid": "hs5g9SaE5"
       }
     ]
   },
@@ -3220,12 +3235,12 @@
       },
       {
         "order": 1,
-        "string": "**India borders 7 countries:**\n1. Pakistan\n2. China\n3. Nepal\n4. Bhutan\n4. Bangladesh\n6. Myanmar\n7. Afghanistan (through Pakistan-occupied Kashmir)",
+        "string": "**India Neighbours:**\n▪️ India shares land border with 7 countries, there are:\n1. Pakistan\n2. China\n3. Nepal\n4. Bhutan\n4. Bangladesh\n6. Myanmar\n7. Afghanistan (through Pakistan-occupied Kashmir)\n---\n**Note: **\n▪️ Sri Lanka is also a neighbour country of India, but India does not share land border with Sri Lanka. \n▪️ The two is separated by Palk strait.",
         "uid": "5MYFkKJMD"
       },
       {
         "order": 2,
-        "string": "**North East States and their Capitals:**\n▪️ The eight North East states of India are Arunachal Pradesh (Itanagar), Assam (Dispur), Manipur (Imphal), Meghalaya (Shillong), Mizoram (Aizawl), Nagaland (Kohima), Sikkim (Gangtok), and Tripura (Agartala). \n▪️ These include the ^^seven \"Sister States\"^^ (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, and Tripura) plus Sikkim.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FSxeNz_CyZn.png?alt=media&token=609f294c-2bb3-4201-affa-f0e8b5f64c32)",
+        "string": "**North East States and their Capitals:**\n▪️ The eight North East states of India are \nArunachal Pradesh (Itanagar), \nAssam (Dispur), \nManipur (Imphal), \nMeghalaya (Shillong), \nMizoram (Aizawl), \nNagaland (Kohima), \nSikkim (Gangtok), and \nTripura (Agartala). \n▪️ These include the ^^seven \"Sister States\"^^ (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, and Tripura) plus Sikkim.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FSxeNz_CyZn.png?alt=media&token=609f294c-2bb3-4201-affa-f0e8b5f64c32)",
         "uid": "DwyeC9CF9"
       },
       {
@@ -3747,7 +3762,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**SAARC**\n▪️ South Asian Association for Regional Cooperation\n▪️ Established in 1985\n▪️ Total members 8: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka.\n▪️ Headquarter is at Katamandu, Nepal\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FwRS9PegrWu.png?alt=media&token=9c2ba236-a3b1-4b26-a0fb-919d5f93e14c)",
+        "string": "**SAARC**\n▪️ South Asian Association for Regional Cooperation\n▪️ Established in 1985\n▪️ Total members 8: MBBS PAIN i.e Maldives, Bangladesh, Bhutan, Sri Lanka., Pakistan, Afghanistan India,, Nepal.\n▪️ Headquarter is at Katamandu, Nepal\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FwRS9PegrWu.png?alt=media&token=9c2ba236-a3b1-4b26-a0fb-919d5f93e14c)",
         "uid": "uHgaX_8LH"
       },
       {
@@ -3818,7 +3833,7 @@
           },
           {
             "order": 1,
-            "string": "▪️  Highest peak in the world: Mount Everest, located in Nepal.\n▪️  Highest peak in India (disputed): K2 (Godwin Austen), in the Karakoram range, located in Pakistan Occupied Kashmir.\nSo when asked highest peal in India then it is \"K2\", as PoK is Indian part. \n▪️  Highest peak in Indian territory: Kanchenjunga.",
+            "string": "▪️  Highest peak in the world: **Mount Everest**, located in Nepal.\n▪️  Highest peak in India (disputed): **K2 (Godwin Austen)**, in the Karakoram range, located in Pakistan Occupied Kashmir.\n▪️  Highest peak in Indian territory: **Kanchenjunga**.\n▪️ ^^The highest peak in India is Kanchenjunga^^, with an elevation of 8,586 meters. It is located on the border of India (Sikkim) and Nepal in the Himalayas and is the third-highest mountain in the world\n▪️ Second highest peak in India is **Nanda Devi**, in Uttarakhand.",
             "uid": "k8-rbHgnF"
           },
           {
@@ -3913,6 +3928,11 @@
         "order": 0,
         "string": "**Nuclear Fission**\n▪️ Definition: Splitting of a heavy nucleus into two or more lighter nuclei.\n▪️ Example: Uranium-235 or Plutonium-239 fission.\n▪️ Process: Neutron hits the nucleus → nucleus splits → releases energy + more neutrons.\n▪️ Energy Output: Large amount, but less than fusion.\n▪️ Chain Reaction: Released neutrons can cause further fission reactions.\n▪️ Used in: Nuclear power plants, atomic bombs.\n▪️ By-products: Radioactive waste.\n▪️ Condition: Can occur at ordinary temperatures once initiated.\n\n**Nuclear Fusion**\n▪️ Definition: Joining (fusion) of two light nuclei to form a heavier nucleus.\n▪️ Example: Hydrogen isotopes (Deuterium + Tritium) → Helium.\n▪️ Process: Extremely high temperature and pressure needed (as in stars).\n▪️ Energy Output: Much greater than fission.\n▪️ Used in: ^^Hydrogen bombs^^, occurs ^^naturally in the Sun and stars^^.\n▪️ By-products: Less radioactive waste.\n▪️ Condition: Requires millions of degrees of temperature",
         "uid": "qq-J7Md4p"
+      },
+      {
+        "order": 1,
+        "string": "**⚛️ About Atom**\n\n▪️ An **atom** is the **smallest unit of matter** that retains the properties of an element.\n▪️ The concept of the atom was first proposed by **John Dalton (1808)** in his **Atomic Theory**.\n\n**Structure of Atom:**\n▪️ An atom consists of **three subatomic particles** — **Electrons, Protons, and Neutrons**.\n\n**Basic Composition:**\n▪️ **Nucleus:** Contains **protons** (positively charged) and **neutrons** (neutral).\n▪️ * **Shells/Orbits:** Contain **electrons** (negatively charged) revolving around the nucleus.\n\n**Subatomic Particles:**\n▪️ **Electron (e⁻):** Discovered by **J.J. Thomson** (1897).\n▪️ **Proton (p⁺):** Discovered by **Ernest Rutherford** (1919).\n▪️ **Neutron (n⁰):** Discovered by **James Chadwick** (1932).\n\n**Charges:**\n▪️Proton → **Positive (+1)**\n▪️ Electron → **Negative (−1)**\n▪️ Neutron → **Neutral (0)**\n\n**Mass Distribution:**\n▪️ Almost all atomic mass is concentrated in the **nucleus** (protons + neutrons).\n▪️ Electrons have negligible mass.\n\n▪️ **Atomic Number (Z):** Number of **protons** in an atom.\n▪️ **Mass Number (A):** Total number of **protons + neutrons** in an atom.\n\n**Examples:**\n▪️ Hydrogen → 1 proton, 0 neutron, 1 electron.\n▪️ Helium → 2 protons, 2 neutrons, 2 electrons.",
+        "uid": "nL0TqM2uH"
       }
     ]
   },
@@ -3950,6 +3970,28 @@
         "order": 0,
         "string": "**Cups: Sports**\n**INTERNATIONAL**\n▪️ Davis Cup : Tennis  \n▪️ Fed Cup : Tennis (Women)  \n▪️ Thomas Cup : Badminton (Men)  \n▪️ World Cup : Cricket  \n▪️ Ashes Cup : Cricket (England vs Australia)  \n▪️ FIFA World Cup : Football  \n▪️ UEFA Champions League : Football  \n▪️ Aga Khan Cup : Hockey  \n\n**INDIAN**\n▪️ Ranji Trophy : Cricket (First-class)  \n▪️ Duleep Trophy : Cricket (Zonal)  \n▪️ Vijay Hazare Trophy : Cricket (List A)  \n▪️ Irani Trophy : Cricket (Ranji winners vs Rest of India)  \n▪️ Santosh Trophy : Football  \n▪️ Durand Cup : Football  \n▪️ Rovers Cup : Football  \n▪️ Nehru Cup : Hockey",
         "uid": "CwhTOfy-U"
+      }
+    ]
+  },
+  {
+    "page_title": "Environment",
+    "page_uid": "sxK3q0Ttj",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**About National Parks in India:**\n▪️ First National Park: Jim Corbett National Park (established in 1936, Uttarakhand)\n▪️ Total National Parks in India: 106 (as of 2025)\n▪️ Punjab is the only Indian state without a national park\n▪️ State with the Largest Number of National Parks: Madhya Pradesh (12 National Parks)\n▪️ Largest National Park: Hemis National Park (Ladakh) – covers about 4,400 sq km\n▪️ Highest Altitude National Park: Hemis National Park (Ladakh) – located in the eastern Ladakh region, home to snow leopards and Himalayan wildlife",
+        "uid": "HCOmC27QE"
+      }
+    ]
+  },
+  {
+    "page_title": "Static GK",
+    "page_uid": "Z0mqI4Hup",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Important “Fathers” (of Various Fields):**\n▪️ Father of History: Herodotus\n▪️ Father of Biology: Aristotle\n▪️ Father of Economics: Adam Smith\n▪️ Father of Chemistry: Antoine Lavoisier\n▪️ Father of Modern Chemistry: Antoine Lavoisier\n▪️ Father of Physics: Isaac Newton\n▪️ Father of Modern Physics: Albert Einstein\n▪️ Father of Mathematics: Archimedes\n▪️ Father of Modern Mathematics: Rene Descartes\n▪️ Father of Geometry: Euclid\n▪️ Father of Trigonometry: Hipparchus\n▪️ Father of Botany: Theophrastus\n▪️ Father of Zoology: Aristotle\n▪️ Father of Modern Biology: Charles Darwin\n▪️ Father of Microbiology: Anton van Leeuwenhoek\n▪️ Father of Genetics: Gregor Mendel\n▪️ Father of Modern Genetics: Thomas Hunt Morgan\n▪️ Father of Medicine: Hippocrates\n▪️ Father of Modern Medicine: William Osler\n▪️ Father of Indian Constitution: Dr. B. R. Ambedkar\n▪️ Father of Indian Nation: Mahatma Gandhi\n▪️ Father of Green Revolution in India: M. S. Swaminathan\n▪️ Father of the Internet: Vint Cerf\n▪️ Father of Computer: Charles Babbage",
+        "uid": "0P0_V060G"
       }
     ]
   },
@@ -4305,17 +4347,17 @@
         "children": [
           {
             "order": 0,
-            "string": "**Present Simple Tense:**\n\nActive: \nSub + V1 + Obj\n\nPassive:\nObj + is/am/are + V3 + by + Sub",
+            "string": "**Simple Present Tense**\nActive Form:\nSubject + V¹(s/es) + Object\n\nPassive Form:\nObject + is/am/are + V³ (past participle) + by + Subject\n\nExample:\nActive: She writes a letter.\nPassive: A letter is written by her.",
             "uid": "KStxxgBWi"
           },
           {
             "order": 1,
-            "string": "**Present Continuous Tense:**\n\nActive: \nSub + is/am/are + V-ing + Obj\n\nPassive:\nObj + is/am/are + being + V3 + by + Sub",
+            "string": "**Present Continuous Tense**\n\nActive Form:\nSubject + is/am/are + V¹ + ing + Object\n\nPassive Form:\nObject + is/am/are + being + V³ + by + Subject\n\nExample:\nActive: He is painting the wall.\nPassive: The wall is being painted by him.",
             "uid": "x6sSILmVt"
           },
           {
             "order": 2,
-            "string": "**Present Perfect Tense:**\n\nActive: \nSub + has/have + V3 + Obj\n\nPassive:\nObj + has/have + been + V3 + by + Sub",
+            "string": "**Present Perfect Tense**\n\nActive Form:\nSubject + has/have + V³ + Object\n\nPassive Form:\nObject + has/have + been + V³ + by + Subject\n\nExample:\nActive: They have completed the work.\nPassive: The work has been completed by them.",
             "uid": "ApJXIhro9"
           }
         ],
@@ -4328,17 +4370,17 @@
         "children": [
           {
             "order": 0,
-            "string": "**Past Simple Tense:**\n\nActive: \nSub + V2 + Obj\n\nPassive:\nObj + was/were + V3 + by + Sub",
+            "string": "**Simple Past Tense**\n\nActive Form:\nSubject + V² + Object\n\nPassive Form:\nObject + was/were + V³ + by + Subject\n\nExample:\nActive: She wrote a letter.\nPassive: A letter was written by her.",
             "uid": "7Do-OMrbJ"
           },
           {
             "order": 1,
-            "string": "**Past Continuous Tense:**\n\nActive: \nSub + was/were + V-ing + Obj\n\nPassive:\nObj + was/were + being + V3 + by + Sub",
+            "string": "**Past Continuous Tense**\n\nActive Form:\nSubject + was/were + V¹ + ing + Object\n\nPassive Form:\nObject + was/were + being + V³ + by + Subject\n\nExample:\nActive: He was cleaning the room.\nPassive: The room was being cleaned by him.",
             "uid": "WH-BveMJf"
           },
           {
             "order": 2,
-            "string": "**Past Perfect Tense:**\n\nActive: \nSub + had + V3 + Obj\n\nPassive:\nObj + had + been + V3 + by + Sub",
+            "string": "**Past Perfect Tense**\n\nActive Form:\nSubject + had + V³ + Object\n\nPassive Form:\nObject + had + been + V³ + by + Subject\n\nExample:\nActive: They had finished the project.\nPassive: The project had been finished by them.",
             "uid": "WcfdloXOn"
           }
         ],
@@ -4351,12 +4393,12 @@
         "children": [
           {
             "order": 0,
-            "string": "**Future Simple Tense:**\n\nActive: \nSub + will + V1+ Obj\n\nPassive:\nObj + will be + V3 + by + Sub",
+            "string": "**Simple Future Tense**\n\nActive Form:\nSubject + will/shall + V¹ + Object\n\nPassive Form:\nObject + will/shall + be + V³ + by + Subject\n\nExample:\nActive: She will cook the food.\nPassive: The food will be cooked by her.",
             "uid": "mlLZqI8Fm"
           },
           {
             "order": 1,
-            "string": "**Future Perfect Tense:**\n\nActive: \nSub + will have  + V3 + Obj\n\nPassive:\nObj + will have + been + V3 + by + Sub",
+            "string": "**Future Perfect Tense**\n\nActive Form:\nSubject + will/shall + have + V³ + Object\n\nPassive Form:\nObject + will/shall + have been + V³ + by + Subject\n\nExample:\nActive: They will have built a bridge.\nPassive: A bridge will have been built by them.",
             "uid": "4BbK8CXV9"
           }
         ],
@@ -4390,8 +4432,65 @@
       },
       {
         "order": 6,
+        "string": "**Imperative Sentences (Commands / Requests)**\nRule:\nLet + Object + be + V³ (past participle)\n\nExamples:\nActive: Let him do the work.\nPassive: Let the work be done by him.\n\nActive: Let them finish the task.\nPassive: Let the task be finished by them.",
+        "uid": "h8-_za3tk"
+      },
+      {
+        "order": 7,
+        "string": "**If “Let” Expresses Permission or Suggestion**\nRule:\nLet + (person) + be + allowed / permitted + to + V¹\n\nExamples:\nActive: Let him go now.\nPassive: Let him be allowed to go now.\n\nActive: Let the students enter the hall.\nPassive: Let the students be permitted to enter the hall.",
+        "uid": "KcP6OF1XO"
+      },
+      {
+        "order": 8,
+        "string": "**For “Let Us” Sentences (Suggestions / Proposals)**\nRule:\nLet us + V¹ → It is suggested / proposed that + we should + V¹\n\nExamples:\nActive: Let us start our journey.\nPassive: It is suggested that our journey should be started.\n\nActive: Let us respect our elders.\nPassive: It is proposed that our elders should be respected.",
+        "uid": "ZJFA5mVpL"
+      },
+      {
+        "order": 9,
         "string": "**Rules for Active Passive**\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fy2MUNIooBw.png?alt=media&token=b0e90c82-9c08-4c05-99bf-cc2a63513342)",
         "uid": "3Vhb6m3JX"
+      }
+    ]
+  },
+  {
+    "page_title": "Articles A An and The",
+    "page_uid": "iTgQc--XD",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "Rani Maam Video On Use of Articles:\n{video:Sl9GGEhV0fw:0}",
+        "uid": "OLeacAu4V"
+      },
+      {
+        "order": 1,
+        "string": "Use of Articles: A, An, and The\n\n**A:**\n▪️ Used before singular countable nouns that begin with a consonant sound (e.g., a boy, a car, a teacher).\n▪️ Used when referring to something for the first time (e.g., I saw a dog).\n▪️ Used to show one of many (e.g., a student in the class).\n\n**AN:**\n▪️ Used before singular countable nouns that begin with a vowel sound (a, e, i, o, u) (e.g., an apple, an egg, an umbrella).\n▪️ Also used before silent 'h' words (e.g., an hour, an honest man).\n▪️ Used when referring to something for the first time and pronunciation starts with a vowel sound (e.g., an MLA, an MBA).The correct article to complete the sentence is an:\nHe is an honest man.\nExplanation of the Article \"An\"\nEven though the word \"honest\" begins with the consonant letter 'h', the rule for using \"a\" or \"an\" is based on the sound of the first letter. In \"honest,\" the 'h' is silent, and the word starts with a vowel sound (the 'o' sound). \nAn is used before words that start with a vowel sound.\nA is used before words that start with a consonant sound.\n\n**THE:**\n▪️ Used to refer to something specific or already known (e.g., the book on the table).\n▪️ Used before unique things (e.g., the sun, the moon, the Earth).\n▪️ Used before superlatives (e.g., the best, the tallest).\n▪️ Used before names of rivers, seas, oceans, and mountain ranges (e.g., the Ganga, the Pacific Ocean, the Himalayas).\n▪️ Used before well-known institutions or monuments (e.g., the Taj Mahal, the Parliament).\n▪️ Used before ordinal numbers (e.g., the first, the second).",
+        "uid": "Vlh9-oXUQ"
+      }
+    ]
+  },
+  {
+    "page_title": "Preposition",
+    "page_uid": "i42_yiY1X",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Since vs From vs For** \nWatch: Rani Maam Video {video:Im9ZSahwKvw:0}",
+        "uid": "l2P5ntLDC"
+      },
+      {
+        "order": 1,
+        "string": "**Common examples and usage**\n**Time:**\n▪️ For: shows duration (e.g., \"for two hours\"). \n▪️ Since: shows a starting point (e.g., \"since morning\"). \n▪️ At: is for specific points (e.g., \"at 3 PM\"). \n▪️ On: is for days and dates (e.g., \"on Monday,\" \"on December 25th\"). \n▪️ In: is for longer periods, like months, years, and seasons (e.g., \"in July,\" \"in 2025\"). \n\n**Place:**\n▪️ In: for larger places (e.g., \"in London\"). \n▪️ At: for specific points (e.g., \"at the station\"). \n▪️ On: for surfaces (e.g., \"on the table\"). \n▪️ Under, over, across, through: Indicate location relative to another object. \n\n**Direction:**\n▪️ Into: to show movement to the inside of something (e.g., \"jumped into the river\"). \n▪️ Towards: to show a particular direction (e.g., \"glanced towards the mirror\"). \n▪️ From: to show the source or origin (e.g., \"took my driving license from me\").",
+        "uid": "zznuUQBYd"
+      },
+      {
+        "order": 2,
+        "string": "**Important notes**\n▪️ Always has an object: A preposition is always followed by a noun or pronoun. \n▪️ Avoid extra prepositions: Don't use redundant prepositions. For example, say \"enter the room,\" not \"enter into the room\". \n▪️ Ending sentences: While ending a sentence with a preposition is acceptable in informal English, it is best to avoid in formal writing (e.g., informally, \"Who are you talking to?\"; formally, \"To whom are you talking?\").",
+        "uid": "YK6O1wSeq"
+      },
+      {
+        "order": 3,
+        "string": "**Prepositions: ON, IN, and AT**\n\n**ON:**\n▪️ Used for days and dates (e.g., on Monday, on 26th January).\n▪️ Used when something is touching a surface (e.g., on the table, on the wall).\n▪️ Used for devices and technology (e.g., on TV, on the phone, on the computer).\n▪️ Used for public transport (e.g., on the bus, on a plane).\n\n\n**IN:**\n▪️ Used for months, years, and centuries (e.g., in July, in 2020, in the 18th century).\n▪️ Used to show enclosed spaces or areas (e.g., in a room, in the box, in India).\n▪️ Used to express time periods (e.g., in the morning, in two hours).\n▪️ Used for fields of work or study (e.g., in medicine, in education).\n\n\n**AT:**\n▪️ Used for specific time (e.g., at 5 o’clock, at midnight).\n▪️ Used for specific places or points (e.g., at the door, at the bus stop, at home).\n▪️ Used for events or locations of activities (e.g., at the party, at school).\n▪️ Used for addresses (e.g., at 25 MG Road).",
+        "uid": "c6PfAOEnj"
       }
     ]
   },
