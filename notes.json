@@ -2013,7 +2013,7 @@
           },
           {
             "order": 2,
-            "string": "▪️The Preamble to the Indian Constitution is based on the Objectives Resolution. \n▪️ This resolution was drafted and introduced by Pandit Jawaharlal Nehru in the Constituent Assembly on December 13, 1946. \n▪️It was unanimously accepted by the Assembly on January 22, 1947.\n\n▪️ Later, on the last working day of the Constituent Assembly — which was January 24, 1950 — the Objectives Resolution, with a few changes, was adopted as the Preamble to the Indian Constitution.",
+            "string": "▪️The Preamble to the Indian Constitution is based on the Objectives Resolution. \n▪️ This resolution was drafted and introduced by Pandit Jawaharlal Nehru in the Constituent Assembly on December 13, 1946. \n▪️It was unanimously accepted by the Assembly on January 22, 1947.\n\n▪️ Later, on the ^^last working day^^ of the Constituent Assembly — which was ^^January 24, 1950^^ — the Objectives Resolution, with a few changes, was adopted as the Preamble to the Indian Constitution.",
             "uid": "1fOTIeZqS"
           }
         ],
@@ -2158,13 +2158,49 @@
       },
       {
         "order": 8,
-        "string": "**Right to Constitutional Remedies (Article 32)**\n▪️ Article 32 provides the right to move the Supreme Court for enforcement of Fundamental Rights.\n▪️ Dr. B. R. Ambedkar called it the \"Heart and Soul\" of the Constitution.\n▪️ It makes Fundamental Rights enforceable and justiciable.\n▪️ Both Supreme Court (Art. 32) and High Courts (Art. 226) can issue writs.\n▪️ This right acts as a guarantee against violation of Fundamental Rights.",
+        "string": "**Right to Constitutional Remedies (Article 32)**\n▪️ Article 32 provides the right to move the Supreme Court for enforcement of Fundamental Rights.\n▪️ Dr. B. R. Ambedkar called it the \"Heart and Soul\" of the Constitution.\n▪️ It makes Fundamental Rights enforceable and justiciable.\n▪️ Both Supreme Court (Art. 32) and High Courts (Art. 226) can issue writs.\n▪️ This right acts as a guarantee against violation of Fundamental Rights.\n\n**Five Writs under Article 32**\n\n**Habeas Corpus** \n▪️ “Produce the body” \n▪️ Issued to release a person unlawfully detained.\n\n**Mandamus** \n▪️ Means “We Command”\n▪️ Issued to direct a public authority to perform its duty.\n\n**Prohibition** \n▪️ Issued by a higher court to a lower court to stop it from exceeding its jurisdiction.\n\n**Certiorari** \n▪️ Issued by a higher court to transfer or quash the order of a lower court.\n\n**Quo Warranto** \n▪️ Means  “By what authority” \n▪️ Issued to check the legality of a person holding a public office.",
         "uid": "srf8G8i55"
+      }
+    ]
+  },
+  {
+    "page_title": "DPSP",
+    "page_uid": "M08J6WbG_",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Directive Principles of State Policy (DPSP)**\n▪️ Articles: 36 to 51\n▪️ Part: IV of the Indian Constitution\n▪️ Inspired by: Irish Constitution (based on the Directive Principles of Social Policy in Ireland)\n**Objective: **\n▪️ To establish a welfare state in India by guiding the government in law-making and administration.\n**Nature:**\n▪️ Non-Justiciable (not enforceable by any court)\n▪️ Acts as moral and political guidelines for governance",
+        "uid": "IiraODmr7"
       },
       {
-        "order": 9,
-        "string": "**Five Writs under Article 32**\n\n**Habeas Corpus** \n▪️ “Produce the body” \n▪️ Issued to release a person unlawfully detained.\n\n**Mandamus** \n▪️ Means “We Command”\n▪️ Issued to direct a public authority to perform its duty.\n\n**Prohibition** \n▪️ Issued by a higher court to a lower court to stop it from exceeding its jurisdiction.\n\n**Certiorari** \n▪️ Issued by a higher court to transfer or quash the order of a lower court.\n\n**Quo Warranto** \n▪️ Means  “By what authority” \n▪️ Issued to check the legality of a person holding a public office.",
-        "uid": "ban1JuXVA"
+        "order": 1,
+        "string": "**Article 37:** \n▪️ DPSPs are not enforceable by any court, but they are fundamental in the governance of the country.\n▪️ DPSPs help to achieve the Preamble’s ideals of justice, liberty, equality, and fraternity.\n▪️ Conflict Rule: When Fundamental Rights and DPSPs conflict, Fundamental Rights prevail, but Parliament can modify laws to give effect to DPSPs (as upheld in the 42nd Amendment).",
+        "uid": "ca1cQXZFF"
+      },
+      {
+        "order": 2,
+        "string": "**Classification of DPSPs**\n1. Socialist Principles\n2. Gandhian Principles\n3. Liberal-Intellectual (Liberal-Intellectual / Political) Principles",
+        "uid": "uhC7gkpOb"
+      },
+      {
+        "order": 3,
+        "string": "**Socialist Principles of DPSP**\n▪️ Aim to achieve economic and social equality.\n**Key Articles:**\n▪️ Article 38: State to promote welfare of the people by securing a social order based on justice.\n▪️ Article 39: Equal right to adequate means of livelihood, equal pay for equal work, distribution of wealth, and protection of workers.\n▪️ Article 39A: Free legal aid to ensure justice for all.\n▪️ Article 41: Right to work, education, and public assistance in certain cases.\n▪️ Article 42: Provision for just and humane conditions of work and maternity relief.\n▪️ Article 43: Living wage for workers.\n▪️ Article 43A: Participation of workers in management of industries.\n▪️ Article 47: Duty of the State to raise the level of nutrition and public health.",
+        "uid": "BNkU_hVS0"
+      },
+      {
+        "order": 4,
+        "string": "**Gandhian Principles**\n▪️ Based on Mahatma Gandhi’s ideals for rural and self-reliant India.\n**Key Articles:**\n▪️ Article 40: Organization of village panchayats.\n▪️ Article 43: Promote cottage industries in rural areas.\n▪️ Article 46: Promotion of educational and economic interests of SCs, STs, and other weaker sections.\n▪️ Article 47: Prohibition of intoxicating drinks and drugs injurious to health.\n▪️ Article 48: Organization of agriculture and animal husbandry on modern lines and prohibition of cow slaughter.",
+        "uid": "ViBllpHyL"
+      },
+      {
+        "order": 5,
+        "string": "**Liberal-Intellectual (Liberal-Intellectual / Political) Principles**\n▪️ Aim to promote liberty, peace, and international cooperation.\n**Key Articles:**\n▪️ Article 44: Uniform Civil Code for all citizens.\n▪️ Article 45: Early childhood care and education for children below 6 years.\n▪️ Article 48A: Protection and improvement of environment and forests.\n▪️ Article 49: Protection of monuments and places of national importance.\n▪️ Article 50: Separation of judiciary from executive in public services.\n▪️ Article 51: Promotion of international peace and security, respect for international law, and settlement of international disputes by arbitration.",
+        "uid": "MXJM9iKNx"
+      },
+      {
+        "order": 6,
+        "string": "",
+        "uid": "Hpkt9iWbp"
       }
     ]
   },
@@ -2280,6 +2316,32 @@
     ]
   },
   {
+    "page_title": "Emergency Provisions",
+    "page_uid": "YCe7qlRZ4",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Emergencies in the Indian Constitution**\n▪️ There are three types of emergencies mentioned in the Constitution of India:\n1️⃣ National Emergency (Article 352)\n2️⃣ State Emergency / President’s Rule/ Constitutional Emergency (Article 356)\n3️⃣ Financial Emergency (Article 360)",
+        "uid": "88QEAzWuX"
+      },
+      {
+        "order": 1,
+        "string": "**National Emergency (Article 352)**\n▪️ Grounds: Declared when there is a threat to the security of India or any part of it due to war, external aggression, or armed rebellion.\n▪️ Proclamation by: The President of India on the advice of the Union Cabinet.\n▪️ Approval: Must be approved by both Houses of Parliament within one month.\n▪️ Duration: Remains in force for six months at a time, can be extended with further approval.\n**Effect:**\n▪️ Central government gains extensive powers over states.\n▪️ Fundamental Rights under Article 19 are suspended automatically.\n▪️ The right to move courts for enforcement of Fundamental Rights (except Articles 20 & 21) can be suspended.\n\n**Examples:** Three times so far:\n▪️ First Emergency – 1962 (China war)\n▪️ Second Emergency – 1971 (Pakistan war)\n▪️ Third Emergency – 1975 (Internal disturbance declared by Indira Gandhi).",
+        "uid": "PFUhAzdjs"
+      },
+      {
+        "order": 2,
+        "string": "**State Emergency / President’s Rule (Article 356)**\n▪️ Grounds: Imposed when the state government cannot function according to the provisions of the Constitution.\n▪️ Proclamation by: The President, based on the report of the Governor or otherwise.\n▪️ Approval: Must be approved by Parliament within two months.\n▪️ Duration: Valid for six months at a time, can be extended up to three years with parliamentary approval.\n**Effect:**\n▪️ State legislative assembly may be suspended or dissolved.\n▪️ The President assumes functions of the state government.\n▪️ Parliament makes laws for that state during the period.\n▪️ Examples:\n▪️ Imposed many times in various states, e.g., Punjab (1987–1992), Jammu & Kashmir (2018–2019).",
+        "uid": "y7NRukO6i"
+      },
+      {
+        "order": 3,
+        "string": "**Financial Emergency (Article 360)**\n▪️ Grounds: Declared when the financial stability or credit of India or any part of its territory is threatened.\n▪️ Proclamation by: The President of India.\n▪️ Approval: Must be approved by Parliament within two months.\n**Effect:**\n▪️ The President can reduce salaries of government employees, including judges.\n▪️ The President can direct states to reserve all financial bills for his approval.\n▪️ Centre gets control over the financial matters of states.\n▪️ Example:\n▪️ No financial emergency has ever been declared in India till date.",
+        "uid": "DLxOjEePW"
+      }
+    ]
+  },
+  {
     "page_title": "Harappan Civilization",
     "page_uid": "0QSi1z0TJ",
     "blocks": [
@@ -2290,7 +2352,7 @@
       },
       {
         "order": 1,
-        "string": "▪️ Harappa was the first site of the Indus Valley Civilization to be discovered. 📌 \n▪️ Harappa is located in present-day Punjab, Pakistan, \n▪️ Due to this, the Indus Valley Civilization is also known as the Harappan Civilization.\n▪️ It was discovered in 1921 by Dayaram Sahni. At that time, Sir John Marshall was the Director of the Archaeological Survey of India.\n▪️ The excavations were carried out under the guidance of Sir John Marshall, the then Director of the Archaeological Survey of India.\n\n▪️ Mohenjodaro was the largest site of the Harappan Civilization.  📌",
+        "string": "▪️ **Harappa** was the first site of the Indus Valley Civilization to be discovered. 📌 \n▪️ Harappa is located in present-day Punjab, Pakistan, \n▪️ Due to this, the Indus Valley Civilization is also known as the Harappan Civilization.\n▪️ It was discovered in 1921 by Dayaram Sahni. At that time, Sir John Marshall was the Director of the Archaeological Survey of India.\n▪️ The excavations were carried out under the guidance of Sir John Marshall, the then Director of the Archaeological Survey of India.\n\n▪️ **Mohenjodaro** was the largest site of the Harappan Civilization.  📌",
         "uid": "XQPIsv_pD"
       },
       {
@@ -2304,7 +2366,7 @@
             "children": [
               {
                 "order": 0,
-                "string": "**About Dholavira site:**\n▪️ Dholavira is present in Gujarat, India.\n▪️ It is the only World Heritage Site (WHS) from the Harappan civilization. 📌 \n▪️ It is on the Khadir Beyt (island) in the Rann of Kutch in Gujarat where the famous Luni river flows. \n\n**Its Unique Feature**\n▪️ In other sites, the city is divided into two parts, and each is surrounded by brick walls. However, in Dholavira, the city is divided into **three parts**, each surrounded by stone walls.\n▪️ In other places, pictographic script was mainly found on seals, but in Dholavira, pictographic script was found written on **stones** and perhaps on wood.\n▪️ It also has **water reservoirs** 📌",
+                "string": "**About Dholavira site:**\n▪️ Dholavira is present in Gujarat, India.\n▪️ It is the ^^only World Heritage Site (WHS)^^ from the Harappan civilization. 📌 \n▪️ It is on the Khadir Beyt (island) in the Rann of Kutch in Gujarat where the famous Luni river flows. \n\n**Its Unique Feature**\n▪️ In other sites, the city is divided into two parts, and each is surrounded by brick walls. However, in Dholavira, the city is divided into **three parts**, each surrounded by stone walls.\n▪️ In other places, pictographic script was mainly found on seals, but in Dholavira, pictographic script was found written on **stones** and perhaps on wood.\n▪️ It also has **water reservoirs** 📌",
                 "uid": "GHAgKYC8N"
               }
             ],
@@ -2688,6 +2750,17 @@
     ]
   },
   {
+    "page_title": "Kushana dynasty",
+    "page_uid": "FvX65ofPv",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "Kanishka (Kushan Dynasty)\n▪️ Reign: Around 78 AD – 144 AD\n▪️ Founder of Era: Started the Shaka Era (78 AD), which is used in the Indian national calendar.\n▪️ Capital: Peshawar (Purushapura) — other important centers included Mathura and Taxila.\n▪️ Empire: Extended from Central Asia to Bihar, and from Afghanistan to parts of Uttar Pradesh.\n\n**Administration and Achievements**\n▪️ Known as the “Second Ashoka” for his patronage of Buddhism.\n▪️ His empire promoted trade and cultural exchange along the Silk Route.\n▪️ Held the Fourth Buddhist Council at Kundalvana (Kashmir) under the leadership of Vasumitra and Ashvaghosha.\n▪️ Patronized scholars like Ashvaghosha, Nagarjuna, Vasumitra, and Charaka (physician).\n▪️ Charaka Samhita, an important medical text, was revised during his reign.\n▪️ Built the famous Kanishka Stupa at Peshawar, one of the tallest Buddhist monuments of the time.\n\n**Religion and Culture**\n▪️ Initially followed Greek and Persian deities, later ^^adopted Mahayana Buddhism.^^\n▪️ Promoted Gandhara and Mathura art styles (a blend of Greek and Indian art).\n▪️ Coins issued by Kanishka depict Indian, Greek, and Persian gods — showing cultural fusion.\n\n**Legacy**\n▪️ Remembered as one of the greatest rulers of ancient India who expanded the Kushan Empire to its zenith.\n▪️ His rule marked the spread of Buddhism to Central Asia and China.\n▪️ The Shaka Era (78 AD) he started is still used in India today.",
+        "uid": "GEx4xrGqr"
+      }
+    ]
+  },
+  {
     "page_title": "Gupta dynasty",
     "page_uid": "cjbBK6p4z",
     "blocks": [
@@ -2713,31 +2786,36 @@
         "children": [
           {
             "order": 0,
+            "string": "**Rulers of Gupta Dynasty:**\n\n▪️ **Sri Gupta (240–280 CE):** Founder of the Gupta Empire.\n▪️ **Ghatotkacha (280–319 CE):** Son of Sri Gupta; ruled as a minor chief.\n▪️ **Chandragupta I (319–335 CE):** Considered the real founder of the Gupta Empire; started the Gupta Era (319 CE); married Kumaradevi, a Lichchhavi princess.\n▪️ **Samudragupta (335–375 CE):** Known as the “Napoleon of India” for his extensive conquests; issued gold coins; promoted art and culture.\n▪️ **Chandragupta II (Vikramaditya) (375–415 CE):** Son of Samudragupta; his reign marked the golden age of India; patronized Kalidasa and Aryabhata.\n▪️ **Kumaragupta I (415–455 CE):** Founded Nalanda University; maintained the empire’s prosperity.\n▪️ **Skandagupta (455–467 CE):** Last powerful Gupta ruler; repelled Hun invasions.\n▪️ **Later Gupta Rulers:** Weak successors like Purugupta, Narasimhagupta, and Vishnugupta led to the decline of the empire.",
+            "uid": "6r1BWHa5S"
+          },
+          {
+            "order": 1,
             "string": "**Sri Gupta**\n▪️ The founder of the Gupta dynasty was Sri Gupta.\n▪️ He was succeeded by Ghatotkacha.\n▪️ These two were called Maharajas.",
             "uid": "jt1TrQVCD"
           },
           {
-            "order": 1,
+            "order": 2,
             "string": "**Chandragupta I (320 – 330 A.D.)**\n▪️ Chandragupta I and was the first to be called Maharajadhiraja (the great king of kings).\n▪️ He strengthened his position by a matrimonial alliance with the Licchavis.\n▪️ He married Kumaradevi, a princess of that family.\n▪️ The Mehrauli Iron Pillar inscription mentions his extensive conquests.\n▪️ Chandragupta I is considered to be the first important ruler of the Gupta era which starts with his accession in A.D. 320.",
             "uid": "7kZmaKkA5"
           },
           {
-            "order": 2,
+            "order": 3,
             "string": "**Samudragupta (330-380 A.D.)**\n▪️ He was the greatest of the rulers of the Gupta dynasty.\n▪️ His court poet was Harisena.\n▪️ Harisena composed the  court Allahabad Pillar inscriptions\n▪️ The Allahabad Pillar inscriptions provide a detailed account of Samudragupta’s reign.\n▪️ He marched against the South Indian monarchs.\n▪️ He issued gold and silver coins with the legend ‘restorer of the asvamedha’.\n▪️ Because of his military achievements, Samudragupta was hailed as ‘**Indian Napoleon**’.",
             "uid": "oTq0GSTod"
           },
           {
-            "order": 3,
+            "order": 4,
             "string": "**Chandragupta II (380-415 A.D.)**\n▪️ He was son of Samudragupta\n▪️ He adopted the title  of \"Vikramaditya\".\n▪️ Through matrimonial alliances, he strengthened his political power.\n▪️ His fought war against the Saka satraps of western India.\n▪️ After his victory, he performed the horse sacrifice and assumed the title Sakari, meaning, ‘destroyer of Sakas’. \n▪️ He also called himself ‘Vikramaditya’.",
             "uid": "rkdTa8gXL"
           },
           {
-            "order": 4,
+            "order": 5,
             "string": "**Kumaragupta**\nKumaragupta was the son and successor of Chandragupta II.\nA number of coins were issued and his inscriptions are found all over the Gupta Empire.\nKumaragupta also performed an asvamedha sacrifice.\nKumaragupta laid the foundation of Nalanda University which emerged as an institution of international reputation.\nA powerful wealthy tribe called the ‘Pushyamitras’ defeated the Gupta army at the end of his reign.",
             "uid": "Y9ufbV3JH"
           },
           {
-            "order": 5,
+            "order": 6,
             "string": "**Skandagupta**\nA branch of the Huns from Central Asia made attempts to cross the Hindukush mountains and invade India.\nSkandagupta who really faced the Hun invasion.\nHe fought successfully against the Huns and saved the empire.",
             "uid": "VEs4aMm3h"
           }
@@ -2822,6 +2900,11 @@
                 "order": 2,
                 "string": "Iltutmish (1211-1236)",
                 "uid": "gzuYtl2AP"
+              },
+              {
+                "order": 3,
+                "string": "**Balban**",
+                "uid": "8pSy63cJz"
               }
             ],
             "heading": 3,
@@ -2963,7 +3046,7 @@
           },
           {
             "order": 5,
-            "string": "**1896 INC Session at Calcutta**\n▪️ The 1896 session of INC was held at Calcutta.\n▪️ It was presided by \"**Rahmatullah M. Sayani**\"\n▪️ Rahmatullah M. Sayani was the **second  Mulsim** to preside INC session.\n▪️ In this session \"Vande Mataram\" was sung by Rabindranath Tagore. \n((42T1HIMoC))\n((CkNFP08ws))",
+            "string": "**1896 INC Session at Calcutta**\n▪️ The 1896 session of INC was held at Calcutta.\n▪️ It was presided by \"^^Rahmatullah M. Sayani^^\"\n▪️ Rahmatullah M. Sayani was the ^^second  Muslim^^ to preside INC session.\n▪️ In this session \"^^Vande Mataram^^\" was sung by ^^Rabindranath Tagore^^. \n((42T1HIMoC))\n((CkNFP08ws))",
             "uid": "TW82ihKQ6"
           },
           {
@@ -2980,6 +3063,16 @@
             "order": 8,
             "string": "**1907 INC Session & Surat Split**\n1907 Surat Session, Surat Split  {video:ZpC9cnim1tg:2341} \n▪️ The 1907 INC session was held at Surat.\n▪️ It was presided by **Ras Behari Ghosh**, a moderate.\n▪️ In this session INC split into moderates and extremists, thus is also called as Surat split.",
             "uid": "WsJnFICiw"
+          },
+          {
+            "order": 9,
+            "string": "**1911 INC Session**\n▪️ It was held in Calcutta (now Kolkata) \n▪️ Bishan Narayan Dar as the President. \n▪️ The first public singing of the national anthem, Jana Gana Mana, on December 27, 1911",
+            "uid": "CUfoKJJdg"
+          },
+          {
+            "order": 10,
+            "string": "**1916 INC Session (Lucknow)**\n▪️ President: Ambica Charan Mazumdar\n▪️ Historic session where Moderates and Extremists reunited after the Surat Split of 1907.\n▪️ The Congress and the Muslim League came together — this unity is known as the ^^Lucknow Pact (1916).^^\n▪️ Bal Gangadhar Tilak and Annie Besant played a key role in bringing unity.\n▪️ The Lucknow Pact demanded greater self-government and expanded representation for Indians in legislative councils.",
+            "uid": "vSk9vDb5-"
           }
         ],
         "order": 0,
@@ -3009,7 +3102,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Warren Hastings 1773–85**\n▪️ Regulating Act of 1773.\n▪️ Act of 1781, under which the powers of jurisdiction between the governor-general-in-council and the Supreme Court at Calcutta, were clearly divided.\n▪️ Pitt’s India Act of 1784.\n▪️ The Rohilla War of 1774.\n▪️ The First Maratha War in 1775–82 and the Treaty of Salbai in 1782.\n▪️ Second Mysore War in 1780–84.\n▪️ Strained relationships with Chait Singh, the Maharaja of Benaras, which led to Hastings’ subsequent impeachment in England.\n▪️ Foundation of the Asiatic Society of Bengal (1784).\n\n((iTwwpVRDv))",
+        "string": "**Warren Hastings 1773–85**\n▪️ Regulating Act of 1773, which made him first governor-general of Bengal. \n▪️ Act of 1781, under which the powers of jurisdiction between the governor-general-in-council and the Supreme Court at Calcutta, were clearly divided.\n▪️ Pitt’s India Act of 1784.\n▪️ The Rohilla War of 1774.\n▪️ The First Maratha War in 1775–82 and the Treaty of Salbai in 1782.\n▪️ Second Mysore War in 1780–84.\n▪️ Strained relationships with Chait Singh, the Maharaja of Benaras, which led to Hastings’ subsequent impeachment in England.\n▪️ Foundation of the Asiatic Society of Bengal (1784).\n\n((iTwwpVRDv))",
         "uid": "wxRvxOBSC"
       },
       {
@@ -3550,7 +3643,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**⛰️ State-Wise Highest Peaks**\n▪️ Nanda Devi: Highest peak of Uttarakhand\n▪️ Kangchenjunga: Highest peak of Sikkim\n▪️ Girnar Peak (Gorakhnath Peak): Highest peak of Gujarat\n▪️ Anamudi Peak: Highest peak of Kerala\n▪️ Sandakphu Peak: Highest peak of West Bengal\n▪️ Mount Saramati: Highest peak of Nagaland\n\n**🏔️ Highest Peaks of Major Ranges**\n▪️ Guru Shikhar: Highest peak of the Aravalli Range (Located in Rajasthan).\n▪️ Dhupgarh (Dhoopgarh): Highest peak of the Satpura Range (Located in Madhya Pradesh).\n▪️ Anamudi: Highest peak of the Western Ghats (Also the highest peak in peninsular India).\n▪️ Jindhagada Peak (or sometimes Arma Konda): Highest peak of the Eastern Ghats (Located in Andhra Pradesh).\n▪️ Sad-Bhawna Shikhar (also known as Kalumar Peak): Highest peak of the Vindhya Range (Located in Madhya Pradesh).",
+        "string": "**⛰️ State-Wise Highest Peaks**\n▪️ **Nanda Devi**: Highest peak of Uttarakhand\n▪️ **Kangchenjunga**: Highest peak of Sikkim\n▪️ **Girnar Peak** (Gorakhnath Peak): Highest peak of Gujarat\n▪️ **Anamudi Peak**: Highest peak of Kerala\n▪️ **Sandakphu Peak**: Highest peak of West Bengal\n▪️ **Mount Saramati**: Highest peak of Nagaland.\n\n**🏔️ Highest Peaks of Major Ranges**\n▪️ **Guru Shikhar**: Highest peak of the Aravalli Range (Located in Rajasthan).\n▪️ **Dhupgarh** (Dhoopgarh): Highest peak of the Satpura Range (Located in Madhya Pradesh).\n▪️ **Anamudi**: Highest peak of the Western Ghats (Also the highest peak in peninsular India).\n▪️ **Jindhagada** Peak (or sometimes Arma Konda): Highest peak of the Eastern Ghats (Located in Andhra Pradesh).\n▪️ **Sad-Bhawna Shikhar** (also known as **Kalumar** Peak): Highest peak of the Vindhya Range (Located in Madhya Pradesh).",
         "uid": "zj1NpsTKY"
       },
       {
@@ -3662,7 +3755,7 @@
         "children": [
           {
             "order": 0,
-            "string": "**Congo River:**\nLocation: Central Africa.\nSignificance: Second-longest river in Africa; crosses the equator twice due to its U-shaped course.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUfVumTHK2L.png?alt=media&token=027bcb7f-3a81-4e8e-b7ff-529d73b1aca7)\n\n**Lake Victoria:**\nLocation: East Africa (Uganda, Kenya, Tanzania).\nSignificance: Africa’s largest lake by area; lies close to the equator but does not cross it directly.\nNote: No major sea crosses the equator; the equator passes through the Indian, Pacific, and Atlantic Oceans.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2nIbAU-BVb.png?alt=media&token=a178d2ca-8079-4b4c-800f-c4b610145fd6)\n\n\n\n\n**Largest River in the World:**\n▪️ By Length: ^^Nile River^^ (6,650 km / 4,135 miles).\n▪️ Location: Northeast Africa (Egypt, Sudan, Uganda, etc.).\n\n▪️ By Volume: ^^Amazon River^^ (209,000 m³/s).\n▪️ Location: South America (Brazil, Peru, Colombia).\n\n▪️ By Depth: ^^Congo River^^ (deepest point ~220 m / 720 ft).\n▪️ Location: Central Africa.\n\n\n**Mahi River:**\n▪️ Location: India (Madhya Pradesh, Rajasthan, Gujarat).\n▪️ Significance: Crosses the Tropic of Cancer twice due to its meandering path.",
+            "string": "**Congo River:**\nLocation: Central Africa.\nSignificance: Second-longest river in Africa; crosses the equator twice due to its U-shaped course.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUfVumTHK2L.png?alt=media&token=027bcb7f-3a81-4e8e-b7ff-529d73b1aca7)\n\n**Lake Victoria:**\nLocation: East Africa (Uganda, Kenya, Tanzania).\nSignificance: Africa’s largest lake by area; lies close to the equator but does not cross it directly.\nNote: No major sea crosses the equator; the equator passes through the Indian, Pacific, and Atlantic Oceans.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2nIbAU-BVb.png?alt=media&token=a178d2ca-8079-4b4c-800f-c4b610145fd6)\n**Largest River in the World:**\n▪️ By Length: ^^Nile River^^ (6,650 km / 4,135 miles).\n▪️ Location: Northeast Africa (Egypt, Sudan, Uganda, etc.).\n\n▪️ By Volume: ^^Amazon River^^ (209,000 m³/s).\n▪️ Location: South America (Brazil, Peru, Colombia).\n\n▪️ By Depth: ^^Congo River^^ (deepest point ~220 m / 720 ft).\n▪️ Location: Central Africa.\n\n\n**Mahi River:**\n▪️ Location: India (Madhya Pradesh, Rajasthan, Gujarat).\n▪️ Significance: Crosses the Tropic of Cancer twice due to its meandering path.",
             "uid": "5QfL7d4qy"
           }
         ],
@@ -3691,6 +3784,17 @@
         "order": 10,
         "string": "**Longest Lake**\n▪️ Name: Lake Tanganyika\n▪️ Location: Central Africa (Tanzania, DRC, Burundi, Zambia)\n▪️ Note: Second deepest and second oldest lake; home to 350+ fish species.\n\n\n**Deepest Lake**\n▪️ Name: Lake Baikal\n▪️ Location: Siberia, Russia\n▪️ Note: Contains ~20% of world’s unfrozen freshwater; oldest lake (~25–30 million years).\n\n**Largest Lake (by Surface Area)**\n▪️ Name: Caspian Sea\n▪️ Location: Eurasia (Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan)\n\n\n\n**Largest Freshwater Lake (by Area)**\n▪️ Lake Superior\n▪️ USA–Canada (Great Lakes)\n\n\n\n**Largest Lake by Volume**\n▪️ Name: Lake Baikal\n▪️ Volume: 23,615 km³\n▪️ Note: Holds ~20% of world’s liquid freshwater — more than all Great Lakes combined.\n\n\n**Highest Lake**\n▪️ Name: Lake Titicaca\n▪️ Location: Peru–Bolivia border (Andes)\n▪️ Note: Largest lake in South America by volume and area; sacred to Incas.\n\n\n**Largest Desert Lake**\n▪️ Name: Lake Turkana\n▪️ Location: Kenya–Ethiopia (Great Rift Valley)",
         "uid": "yxtn9wN-Y"
+      }
+    ]
+  },
+  {
+    "page_title": "Latitudes and Longitudes",
+    "page_uid": "kxx4jI0ho",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Tropic of Cancer (8 States):** \n1. Gujarat, \n2. Rajasthan, \n3. Madhya Pradesh, \n4. Chhattisgarh, \n5. Jharkhand, \n6. West Bengal, \n7. Tripura, and \n8. Mizoram.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUWb1GCy0qS.png?alt=media&token=e6971cb3-06a0-4bc2-875f-dbf5a2d9f630)\n\n**Indian Standard Time Meridian (5 States):** \n1. Uttar Pradesh, \n2. Madhya Pradesh, \n3. Chhattisgarh, \n4. Odisha\n5. Andhra Pradesh.\nStates shared by both (3 states): \n1. Madhya Pradesh, Chhattisgarh, and Odisa\n\nSee Maps:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FTaMUiz2-8e.png?alt=media&token=68e7a9ac-509e-485c-b184-50f871f3f6ad)ha.",
+        "uid": "JxgVCdaxU"
       }
     ]
   },
@@ -3735,7 +3839,7 @@
       },
       {
         "order": 7,
-        "string": "**Important Revolutions in Agriculture**\n▪️ Round revolution: Potato\n▪️ Green revolution: Food grains (rice and wheat)\n▪️ Grey revolution: Fertilizers/wool production\n▪️ Pink revolution: Prawn or onion production\n▪️ White Revolution (also called Operation Flood): Milk production\n▪️ Blue revolution: Fish production\n▪️ Red revolution: Meat or tomato production\n▪️ Yellow revolution: Oilseed production\n▪️ Brown revolution: Leather/cocoa production\n▪️ Golden fiber revolution: Jute production\n▪️ Golden revolution: Fruits/Honey/Horticulture production\n▪️ Silver revolution: Egg/Poultry production\n▪️ Silver fiber revolution: Cotton\n▪️ Protein revolution: Agriculture\n▪️ Evergreen revolution: Overall development of agriculture\n▪️ Black revolution: Petroleum production",
+        "string": "**Important Revolutions in Agriculture**\n▪️ **Round revolution**: Potato\n▪️ **Green revolution**: Food grains (rice and wheat)\n▪️ **Grey revolution**: Fertilizers/wool production\n▪️ **Pink revolution**: Prawn or onion production\n▪️ **White Revolution** (also called Operation Flood): Milk production\n▪️ **Blue revolution**: Fish production\n▪️ **Red revolution**: Meat or tomato production\n▪️ **Yellow revolution**: Oilseed production\n▪️ **Brown revolution**: Leather/cocoa production\n▪️ **Golden fiber revolution**: Jute production\n▪️ **Golden revolution**: Fruits/Honey/Horticulture production\n▪️ **Silver revolution**: Egg/Poultry production\n▪️ **Silver fiber revolution**: Cotton\n▪️ **Protein revolution**: Agriculture\n▪️ **Evergreen revolution**: Overall development of agriculture\n▪️ **Black revolution**: Petroleum production",
         "uid": "CQRsb-rLX"
       }
     ]
@@ -3981,6 +4085,21 @@
         "order": 0,
         "string": "**About National Parks in India:**\n▪️ First National Park: Jim Corbett National Park (established in 1936, Uttarakhand)\n▪️ Total National Parks in India: 106 (as of 2025)\n▪️ Punjab is the only Indian state without a national park\n▪️ State with the Largest Number of National Parks: Madhya Pradesh (12 National Parks)\n▪️ Largest National Park: Hemis National Park (Ladakh) – covers about 4,400 sq km\n▪️ Highest Altitude National Park: Hemis National Park (Ladakh) – located in the eastern Ladakh region, home to snow leopards and Himalayan wildlife",
         "uid": "HCOmC27QE"
+      },
+      {
+        "order": 1,
+        "string": "**National Animal of India: **\n▪️ Royal Bengal Tiger\n▪️ Declared as National Animal: 1973 (replacing the Lion)\n▪️ Reason: Symbol of strength, power, and grace. Represents India’s wildlife wealth.\n\n**Project Tiger:**\n▪️ Launched in 1973 to protect tigers and their habitats.\n▪️ Implemented by the Government of India and WWF (World Wildlife Fund).\n▪️ Monitored by the National Tiger Conservation Authority (NTCA).\n▪️ International Tiger Day: 29 July (to promote tiger conservation).",
+        "uid": "Jmhu916YP"
+      },
+      {
+        "order": 2,
+        "string": "**National Aquatic Animal:** \n▪️ Ganges River Dolphin\n▪️ Declared as National Aquatic Animal: 2009\n▪️ Habitat: Ganga and Brahmaputra river systems.\n▪️ Significance: Indicator of a healthy river ecosystem.\n▪️ Status: Endangered (as per IUCN).\n▪️ National Dolphin Day: 5 October (declared by the Ministry of Environment in 2022).",
+        "uid": "2oDUYgdeR"
+      },
+      {
+        "order": 3,
+        "string": "**National Heritage Animal: Indian Elephant**\n▪️ Declared as National Heritage Animal: 2010\n▪️ Significance: Symbolizes wisdom, strength, and cultural importance in India.\n\n**Project Elephant:**\n▪️ Launched in 1992 by the Government of India.\n▪️ Aims to protect elephants, their habitats, and migration corridors.\n▪️ Reduces human-elephant conflict and ensures welfare of domesticated elephants.\n\n▪️ World Elephant Day: 12 August (to raise awareness for elephant conservation).",
+        "uid": "VVSTIyT46"
       }
     ]
   },
@@ -3992,6 +4111,16 @@
         "order": 0,
         "string": "**Important “Fathers” (of Various Fields):**\n▪️ Father of History: Herodotus\n▪️ Father of Biology: Aristotle\n▪️ Father of Economics: Adam Smith\n▪️ Father of Chemistry: Antoine Lavoisier\n▪️ Father of Modern Chemistry: Antoine Lavoisier\n▪️ Father of Physics: Isaac Newton\n▪️ Father of Modern Physics: Albert Einstein\n▪️ Father of Mathematics: Archimedes\n▪️ Father of Modern Mathematics: Rene Descartes\n▪️ Father of Geometry: Euclid\n▪️ Father of Trigonometry: Hipparchus\n▪️ Father of Botany: Theophrastus\n▪️ Father of Zoology: Aristotle\n▪️ Father of Modern Biology: Charles Darwin\n▪️ Father of Microbiology: Anton van Leeuwenhoek\n▪️ Father of Genetics: Gregor Mendel\n▪️ Father of Modern Genetics: Thomas Hunt Morgan\n▪️ Father of Medicine: Hippocrates\n▪️ Father of Modern Medicine: William Osler\n▪️ Father of Indian Constitution: Dr. B. R. Ambedkar\n▪️ Father of Indian Nation: Mahatma Gandhi\n▪️ Father of Green Revolution in India: M. S. Swaminathan\n▪️ Father of the Internet: Vint Cerf\n▪️ Father of Computer: Charles Babbage",
         "uid": "0P0_V060G"
+      },
+      {
+        "order": 1,
+        "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day)",
+        "uid": "sdtDIGkrS"
+      },
+      {
+        "order": 2,
+        "string": "Frequently asked international days",
+        "uid": "pAWovD8ip"
       }
     ]
   },
