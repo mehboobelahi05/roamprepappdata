@@ -30,7 +30,7 @@
       },
       {
         "order": 5,
-        "string": "**About Kargil:**\n▪️ Kargil became a separate district in the Ladakh region during the year 1979 when it was bifurcated from the earstwhile Leh ditrict.\n▪️ Ladakh Autonomous Hill Development Council Kargil was commissioned in July 2003 in the district.\n▪️ Islam came to Kargil in 15th century. Mir Shams-ud-Din Iraqi, a scholar of Shia school of central Asia visited Baltistan and Kargil with his missionaries to preach Islam.\n▪️ Kargil is called the ^^land of Agas^^ in the present day world.\n▪️ The book “Kargil Blunder” was written by Parvez Dewan. \n▪️ Hill Council was established for Kargil in 2003, by the then CM of erstwhile J&K state Mufti Mohammad Sayeed\nSource: [kargil.nic.in](https://kargil.nic.in/history/)",
+        "string": "**About Kargil:**\n▪️ Kargil became a separate district in the Ladakh region during the year 1979 when it was bifurcated from the earstwhile Leh ditrict.\n▪️ Ladakh Autonomous Hill Development Council Kargil was commissioned in July 2003 in the district.\n▪️ Islam came to Kargil in 15th century. Mir Shams-ud-Din Iraqi, a scholar of Shia school of central Asia visited Baltistan and Kargil with his missionaries to preach Islam.\n▪️ The book “Kargil Blunder” was written by Parvez Dewan. \n▪️ Hill Council was established for Kargil in 2003, by the then CM of erstwhile J&K state Mufti Mohammad Sayeed\nSource: [kargil.nic.in](https://kargil.nic.in/history/)",
         "uid": "eI8F5T8E2"
       },
       {
@@ -79,7 +79,7 @@
           },
           {
             "order": 1,
-            "string": "**Zanskar River**\n▪️ Zanskar river originates from a glacier near Panzella pass, which comes on the way NH-301 that connects Kargil-Zanskar\n▪️ From there it flows south direction\n▪️ It is a left bank minor tributary of Indus",
+            "string": "**Zanskar River**\n▪️ Zanskar river originates from a glacier near Pensi La pass, which comes on the way NH-301 that connects Kargil-Zanskar\n▪️ From there it flows south direction\n▪️ It is a left bank minor tributary of Indus",
             "uid": "gbvQeXLFd"
           },
           {
@@ -151,6 +151,11 @@
         "order": 19,
         "string": "**Festivals in Ladakh:**\n▪️ Hemis Festival – Celebrates birth anniversary of Guru Padmasambhava; famous for Cham (masked) dances at Hemis Monastery (June/July)\n▪️ Losar Festival – Ladakhi New Year; marked by family gatherings, feasts, dances, and prayers (December/January)\n▪️ Sindhu Darshan – Celebrates Indus River; held on full moon of June at Sindhu Ghat, Leh\n▪️ Ladakh Harvest Festival – Showcases local culture, archery, polo, music; held in September (Leh & villages)\n▪️ Phyang Tsedup – Festival at Phyang Monastery with oracle predictions and mask dances (July/August)\n▪️ Yuru Kabgyat – At Lamayuru Monastery; features sacred dances and rituals (June/July)\n▪️ Matho Nagrang – Unique oracle festival at Matho Monastery; monks in trance predict future (February/March)\n▪️ Thikse Gustor – Two-day festival with mask dances at Thikse Monastery (October/November)",
         "uid": "MKasaDkeD"
+      },
+      {
+        "order": 20,
+        "string": "**Padma Awardees from Ladakh (2021–2025)**\n▪️ **2025** – Lama Lobzang (Posthumous) received the *Padma Shri* for his contributions in *Spiritualism (Others)*.\n▪️ **2024** – Togdan Rinpoche (Posthumous) was honored with the *Padma Bhushan* for his work in *Spiritualism (Others)*.\n▪️ **2022** – Akhon Asgar Ali Basharat received the *Padma Shri* in the field of *Literature and Education*.\n▪️ **2021** – Tsultrim Chonjor was awarded the *Padma Shri* for his contribution to *Social Work*.",
+        "uid": "UFhV1LEKt"
       }
     ]
   },
@@ -1765,6 +1770,18 @@
         "order": 0,
         "string": "Constitutional Bodies",
         "uid": "U2jELCjjk"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Important Statutory Bodies**\n▪️ RBI: established under RBI Act 1934\n▪️ SEBI: established under SEBI Act 1992\n▪️ IRDAI: established under IRDA Act 1999\n▪️ NHRC: established under Protection of Human Rights Act 1993\n▪️ NGT: established under National Green Tribunal Act 2010\n▪️ CPCB: established under Water (Prevention and Control of Pollution) Act 1974\n▪️ UGC: established under UGC Act 1956\n▪️ TRAI: established under TRAI Act 1997\n▪️ FSSAI: established under Food Safety and Standards Act 2006\n▪️ CCI: established under Competition Act 2002\n▪️ PFRDA: established under PFRDA Act 2013\n▪️ NCM: established under National Commission for Minorities Act 1992\n▪️ AFT: established under Armed Forces Tribunal Act 2007\n▪️ NCDRC: established under Consumer Protection Act 1986",
+            "uid": "HYQLris4D"
+          }
+        ],
+        "order": 1,
+        "string": "Statutory Bodies",
+        "uid": "bj2tpQYWM"
       }
     ]
   },
@@ -2109,6 +2126,17 @@
         "order": 8,
         "string": "**Borrowed Features of Indian Constitution**\n**1. Australia**\n▪️ Concurrent list\n▪️ Freedom of trade, commerce and intercourse\n▪️ Joint-sitting of the two Houses of Parliament\n\n**2.Canada**\n▪️ Federation with a strong Centre\n▪️ Vesting of residuary powers in the Centre\n▪️ Appointment of state governors by the Centre\n▪️ Advisory jurisdiction of the Supreme Court\n\n**3. Ireland**\n▪️ Directive Principles of State Policy\n▪️ Nomination of members to Rajya Sabha\n▪️ Method of election of the president\n\n**4. Japan**\n▪️ Procedure Established by law\n\n**5. Soviet Union (USSR) (now, Russia)**\n▪️ Fundamental duties\n▪️ Ideals of JUSTICE (social, economic and political) in the Preamble\n\n**6.UK**\n▪️ Parliamentary government\n▪️ Rule of Law\n▪️ Legislative procedure\n▪️ Single Citizenship\n▪️ Cabinet system\n▪️ Prerogative writs\n▪️ Parliamentary privileges\n▪️ Bicameralism\n\n**7. USA**\n▪️ Fundamental rights\n▪️ Independence of judiciary\n▪️ Judicial review\n▪️ Impeachment of the president\n▪️ Removal of Supreme Court and High Court judges\n▪️ Post of vice-president\n\n**8.Germany (Weimar)**\n▪️ Suspension of Fundamental Rights during emergency\n\n**9.South Africa**\n▪️ Procedure for amendment in the Indian Constitution\n▪️ Election of members of Rajya Sabha\n\n**10.France**\n▪️ Idea of Republic\n▪️ Ideals of liberty, equality and fraternity in the Preamble",
         "uid": "1mUbGPm6U"
+      }
+    ]
+  },
+  {
+    "page_title": "Citizenship",
+    "page_uid": "PeDPxXenL",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "Citizenship of India\n\n▪️ Articles Covered: Article 5 to 11 (Part II of the Constitution)\n▪️ Citizenship Act: Citizenship Act, 1955 — governs acquisition and termination of citizenship in India.\n▪️ **Single Citizenship: Article 9** – Voluntary acquisition of citizenship of another country.  If an Indian citizen voluntarily acquires citizenship of another country, he/she ceases to be an Indian citizen.\n\n**Under the Citizenship Act, 1955:**\n**Modes of Acquisition of Citizenship**\n▪️ By Birth – Born in India (conditions depend on date of birth).\n▪️ By Descent – If born outside India to Indian parents.\n▪️ By Registration – For persons of Indian origin or married to Indian citizens.\n▪️ By Naturalization – If a foreigner lives in India for a specified period (usually 12 years).\n▪️ By Incorporation of Territory – If any new territory becomes part of India, people of that territory become Indian citizens.\n\n**Modes of Loss of Citizenship:**\n▪️ By Renunciation – Voluntary giving up of citizenship.\n▪️ By Termination – Automatically ends when acquiring foreign citizenship.\n▪️ By Deprivation – Government can cancel citizenship for fraud, disloyalty, etc.",
+        "uid": "UkLDw5z-K"
       }
     ]
   },
@@ -2824,6 +2852,11 @@
         "order": 1,
         "string": "Rulers of Gupta Dynasty",
         "uid": "ko5i0mreh"
+      },
+      {
+        "order": 2,
+        "string": "**Rulers and Their Court Poets**\n\n**Harshavardhana (606–647 CE)**\n▪️ Court Poet: Banabhatta\n▪️ Famous Works: Harshacharita, Kadambari\n▪️ Language: Sanskrit\n\n**Samudragupta (Gupta Dynasty)**\n▪️ Court Poet: Harisena\n▪️ Famous Work: Allahabad Pillar Inscription (also called Prayag Prashasti)\n▪️ Language: Sanskrit\n▪️ Note: Praises Samudragupta’s conquests and achievements; an important historical record of Gupta rule.\n\n**Pulakeshin II (Chalukya Dynasty)**\n▪️ Court Poet: Ravikirti\n▪️ Famous Work: Aihole Inscription (Aihole Prashasti)\n▪️ Language: Sanskrit\n▪️ Note: Describes Pulakeshin II’s victories, including over King Harshavardhana.\n\n**Vikramaditya (Chandragupta II – Gupta Period)**\n▪️ Court Scholars: Navaratnas (Nine Gems)\n▪️ Kalidasa – Poet & dramatist (Meghaduta, Abhijnanasakuntalam)\n▪️ Varahamihira – Astronomer\n▪️ Amarasimha – Lexicographer (Amarakosha)\n\n**Krishnadevaraya (Vijayanagar Empire)**\n▪️ Court Scholars: Ashta Diggajas (Eight Poets)\n▪️ Allasani Peddana – “Andhra Kavita Pitamaha”\n▪️ Tenali Ramakrishna – Poet and wit\n▪️ Language: Telugu\n▪️ Note: Patron of literature; wrote Amuktamalyada himself.\n\n**Chandragupta Maurya (Mauryan Dynasty)**\n▪️ Advisor / Minister: Chanakya (Kautilya)\n▪️ Famous Work: Arthashastra\n▪️ Note: Treatise on statecraft, economics, and governance.\n\n**Akbar (Mughal Empire)**\n▪️ Court Scholars: Navaratnas (Nine Gems)\n▪️ Abul Fazl – Author of Ain-i-Akbari and Akbarnama\n▪️ Tansen – Great musician\n▪️ Birbal – Court advisor and wit\n((hOA_Scchx))",
+        "uid": "QHM6jFb-1"
       }
     ]
   },
@@ -2903,8 +2936,8 @@
               },
               {
                 "order": 3,
-                "string": "**Balban**",
-                "uid": "8pSy63cJz"
+                "string": "**About Amir Khusru**\n▪️ Full Name: Abul Hasan Yamin-ud-Din Khusrau\n▪️ Born: 1253 CE in Patiyali, Uttar Pradesh (then part of the Delhi Sultanate)\n▪️ Died: 1325 CE, Delhi\n▪️ Also known as “Tuti-e-Hind” (Parrot of India)\n▪️ A famous Sufi poet, scholar, and musician\n▪️ Disciple of Nizamuddin Auliya (a great Sufi saint of the Chishti Order)\n▪️ Served in the courts of several rulers: Balban - Jalaluddin Khilji- Alauddin Khilji - Ghiyasuddin Tughlaq \n\n**Literary Works**\n▪️ Wrote in Persian and Hindavi (early form of Hindi-Urdu)\n▪️ Tughlaq Nama (on Giyaz uddin Tughlaq)\n▪️ Khazain-ul-Futuh (The Treasures of Victories, on Alauddin Khilji)\n\n▪️ Considered the father of Qawwali (a devotional form of Sufi music).\n▪️ Credited with introducing the Sitar and Tabla (though debated).\n▪️ Blended Persian and Indian cultural traditions.\n▪️ Pioneer in creating Hindustani classical music styles.\n▪️ Deeply associated with Nizamuddin Auliya’s Dargah in Delhi — where he is buried beside his master.",
+                "uid": "s5JCKBTzw"
               }
             ],
             "heading": 3,
@@ -2945,6 +2978,11 @@
         "order": 1,
         "string": "**Akbar 1556 - 1605**\nWatch video: {video:NIasvMMh2kQ:1490} \n▪️ Regent (1556–1560): Bairam Khan, as regent ruled during the early period of the Akbars tenure. \n▪️ Capital: Initially Agra; later Fatehpur Sikri (1571–1585)\n\n**Major Conquests:**\n▪️ Rajasthan (Chittor 1568, Ranthambore 1569)\n▪️ Gujarat (1572–73):\n▪️ Bengal (1574–76)\n▪️ Bihar, Odisha, Kashmir, Sindh, Baluchistan\n\n\n**Administrative Reforms:**\n▪️ Mansabdari System: Rank-based military & civil hierarchy\n▪️ Zat & Sawar: Personal rank & cavalry maintenance\n▪️ Dahshala System: Land revenue based on 10-year average yield\n▪️ Suba System: Provinces governed by Subedars\n\n\n**Religious Policy:**\n▪️ Abolished Jizya tax on non-Muslims (1564)\n▪️ Sulh-i-Kul: Universal tolerance\n▪️ Founded Din-i-Ilahi (1582) – syncretic faith (few followers)\n▪️ Ibadat Khana (Fatehpur Sikri): House of Worship for interfaith debates\n\n\n**Cultural Contributions:**\n▪️ Patron of Tansen (musician), Birbal (advisor), Abul Fazl (historian)\n▪️ Ain-i-Akbari & Akbar Nama by Abul Fazl\n▪️ Persian as court language; promoted Hindi & Sanskrit translations\n▪️ Mughal miniature painting flourished\n\n\n**Architecture:**\n▪️ Fatehpur Sikri (UNESCO site): Buland Darwaza, Salim Chishti Tomb\n▪️ Agra Fort expansion\n▪️ Lahore Fort, Allahabad Fort\n\n\n▪️ Navratnas (9 Gems): \n▪️ Birbal, Tansen, Todar Mal, Abul Fazl, Faizi, Raja Man Singh, Mullah Do Piyaza, Hakim Humam, Abdul Rahim Khan-i-Khana",
         "uid": "hOA_Scchx"
+      },
+      {
+        "order": 2,
+        "string": "Jahangir",
+        "uid": "ubVctw7pH"
       }
     ]
   },
@@ -2992,6 +3030,11 @@
       },
       {
         "order": 1,
+        "string": "**Newspapers by Various Freedom Fighters**\n\n**Mahatma Gandhi**\n▪️ Young India – Weekly journal in English (1920–1931)\n▪️ Harijan – Weekly newspaper (1933), focused on social reforms and upliftment of Harijans\n▪️ Indian Opinion – Published in South Africa (1903) to support Indian community rights\n\n**Jawaharlal Nehru**\n▪️ National Herald – Founded in 1938; aimed at promoting freedom and nationalism\n\n**Subhas Chandra Bose**\n▪️ Forward – Associated with his political ideology and the Forward Bloc movement\n▪️ Swaraj – Promoted ideas of complete independence\n\n**Dadabhai Naoroji**\n▪️ **Voice of India** – Used to express nationalist thoughts and economic criticism of British rule\n▪️ Indian Spectator \n\n**Annie Besant**\n▪️ New India – English daily promoting Home Rule Movement\n▪️ Commonweal – Weekly paper supporting Indian self-government\n\n**Bal Gangadhar Tilak**\n▪️ Kesari – Marathi newspaper (1881); awakened national spirit among Indians\n▪️ Mahratta – English newspaper (1882); voiced nationalist ideas and criticized British policies",
+        "uid": "k4WNUPxJv"
+      },
+      {
+        "order": 2,
         "string": "Image Hand Notes:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FIvSy1lUf87.png?alt=media&token=7121ed8e-d367-4103-90b3-a36047591799)",
         "uid": "ey_Tj_lI_"
       }
@@ -3127,7 +3170,7 @@
       },
       {
         "order": 5,
-        "string": "**Lord William Bentinck 1828–35**\n▪️ Abolition of sati and other cruel rites (1829).\n▪️ Suppression of thugi (1830).\n▪️ Charter Act of 1833.\n▪️ Resolution of 1835, and educational reforms and introduction of English as the official language.\n▪️ Annexation of Mysore (1831), Coorg (1834), and Central Cachar (1834).\n▪️ Treaty of ‘perpetual friendship’ with Ranjeet Singh.\n▪️ Abolition of the provincial courts of appeal and circuit set up by Cornwallis, appointment of commissioners of revenue and circuit.",
+        "string": "**Lord William Bentinck 1828–35**\n▪️ Abolition of sati (Regulation XVII) and other cruel rites (1829).\n▪️ Suppression of thugi (1830).\n▪️ Charter Act of 1833.\n▪️ Resolution of 1835, and educational reforms and introduction of English as the official language.\n▪️ Annexation of Mysore (1831), Coorg (1834), and Central Cachar (1834).\n▪️ Treaty of ‘perpetual friendship’ with Ranjeet Singh.\n▪️ Abolition of the provincial courts of appeal and circuit set up by Cornwallis, appointment of commissioners of revenue and circuit.",
         "uid": "gr0QlasuV"
       },
       {
@@ -3340,6 +3383,11 @@
         "order": 3,
         "string": "**Landlocked states:**\nStates without a coastline and not sharing an international border (completely surrounded by land):\n1. Haryana\n2. Jharkhand\n3. Madhya Pradesh\n4. Chhattisgarh\n5. Telangana",
         "uid": "0erN8WLth"
+      },
+      {
+        "order": 4,
+        "string": "**Loktak Lake** \n▪️ Location: Bishnupur district, Manipur, India\n▪️ Type: Freshwater lake\n▪️ Significance: Largest freshwater lake in Northeast India\n▪️ Unique Feature: Famous for its “Phumdis” — floating masses of soil, vegetation, and organic matter\n▪️ National Park: Home to ^^Keibul Lamjao National Park^^ — the only floating national park in the world\n▪️ Endangered Species: Sanctuary for the rare ^^Sangai deer^^ (brow-antlered deer), the state animal of Manipur\n▪️ Economic Importance: Source of fishing, irrigation, and hydropower (Loktak Hydroelectric Project)\n▪️ Environmental Concern: Pollution, shrinkage, and displacement of phumdis due to human activities",
+        "uid": "LLWU_8s_Y"
       }
     ]
   },
@@ -3537,7 +3585,7 @@
         "children": [
           {
             "order": 0,
-            "string": "**About Indus River:**\n▪️ The ancient name of Jhelum was \"Sindhu\".\n▪️ It originates from Bokharchu glacier, near Mansarovar lake, in Kailash range, in Karakoram range, Tibet.\n▪️ Leh city is situated on the bank of Indus. \n▪️ From Mansarovar lake, Indus rivers runs southwards, but near the Mt. Naga Parbat, it takes southward direction. \n▪️ Indus has fiver major tributries i.e Jhelum, Chenab, Rabi, Beas and Satluj.\n▪️ All the **fiver major tributries** i.e Jhelum, Chenab, Rabi, Beas and Satluj, joins and forms Panjnad, which then merges with Indus at Mithankot. \n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Ff-spvR_SaB.png?alt=media&token=b0265180-06d1-4101-9a63-284077719bd6)",
+            "string": "**About Indus River:**\n▪️ The ancient name of Indus was \"Sindhu\".\n▪️ It originates from Bokharchu glacier, near Mansarovar lake, in Kailash range, in Karakoram range, Tibet.\n▪️ It is also known as the \"Lion's Mouth\" (Singi Khamban) in Tibet\n▪️ Leh city is situated on the bank of Indus. \n▪️ From Mansarovar lake, Indus rivers runs southwards, but near the Mt. Naga Parbat, it takes southward direction. \n▪️ Indus has fiver major tributries i.e Jhelum, Chenab, Rabi, Beas and Satluj.\n▪️ All the **fiver major tributries** i.e Jhelum, Chenab, Rabi, Beas and Satluj, joins and forms Panjnad, which then merges with Indus at Mithankot. \n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Ff-spvR_SaB.png?alt=media&token=b0265180-06d1-4101-9a63-284077719bd6)",
             "uid": "dprLakNDG"
           },
           {
@@ -3552,31 +3600,36 @@
           },
           {
             "order": 3,
+            "string": "**Wular Lake**\n▪️ Location: Bandipora district, Jammu and Kashmir, India\n▪️ Type: Freshwater lake\n▪️ Formed by: Tectonic activity (earth movement)\n▪️ River Source: Fed by the Jhelum River\n▪️ Largest freshwater lakes in Asia\n▪️ Ecological Importance: Acts as a natural flood reservoir for the Jhelum River\n▪️ Conservation Effort: Included under the National Lake Conservation Plan (NLCP)",
+            "uid": "et5hsa1Hl"
+          },
+          {
+            "order": 4,
             "string": "**Chenab river:**\n▪️ The ancient name of Chenab was \"Askini\".\n▪️ It originates from Baralacha pass.",
             "uid": "UKmm61zf1"
           },
           {
-            "order": 4,
+            "order": 5,
             "string": "**Ravi river:**\n▪️ The ancient name of Ravi was \"Purushni or Iravati\".\n▪️ It originates from Rhotang pass. (also Beas river)\n---\n▪️ The \"Harappa\" site was situated on the bank of Ravi river.",
             "uid": "iB5Mz_Iqr"
           },
           {
-            "order": 5,
+            "order": 6,
             "string": "**Beas river:**\n▪️ The ancient name of Beas was \"Bipasa\".\n▪️ It originates from Rhotang pass. (also Ravi river)\n▪️ It merges with Satluj river at Harike, in Punjab, India.\n▪️ It is the only major tributary of Indus that originates as well as ends within India.",
             "uid": "eCF8vt8_S"
           },
           {
-            "order": 6,
+            "order": 7,
             "string": "**Satluj river:**\n▪️ The ancient name of Satluj was \"Shutudri\".\n▪️ It originates from Mansarovar lake, in Kailash range in Tibet.\n▪️ It enters India, Himachal Pradesh, through Shipkla pass. \n▪️ It is the only major tributary of Indus, that does not originates from India.",
             "uid": "bBgmPX7c0"
           },
           {
-            "order": 7,
+            "order": 8,
             "string": "**Shoyk river:**\n▪️ Shyok river is a minor tributary of Indus. \n▪️ It originates from Siachen glacier.\n▪️ It flows through the Nubra valley, Ladakh and finally joins Indus in Gilgit Baldistan. \n----\n▪️ Other minor tributries of Indus river are Shingo, Suru, Zanskar etc.",
             "uid": "jbiLcTf-x"
           },
           {
-            "order": 8,
+            "order": 9,
             "string": "**Indus Water Treaty**\n▪️ It was signed in 1960, between India and Pakistan\n▪️ It was brokered by World Bank\n▪️ It divided Indus and its tributries into two groups.\n▪️ Water of Indus, Jhelum and Chenab were given to Pakistan\n▪️ Water of Ravi, Beas and Satluj were given to India",
             "uid": "N5CLQZ0fk"
           }
@@ -3809,7 +3862,7 @@
       },
       {
         "order": 1,
-        "string": "**RBI (Reserve Bank of India)**\n▪️ Founded April 1, 1935, under RBI Act 1934; \n▪️ HQ in Mumbai (shifted from Kolkata in 1937); \n▪️ Nationalized in 1949.\n▪️ Current Governor: Sanjay Malhotra (appointed Dec 2024; oversees monetary policy & banking regs).\n\n**Core Functions:**\n▪️ Issue & manage currency (regulates money supply).\n▪️ Formulate & implement monetary policy (e.g., repo rate, CRR, SLR to control inflation & growth).\n▪️ Banker to govt (manages public debt, accounts).\n▪️ Regulator of banks & NBFCs\n▪️ Forex management\n▪️ Promotes financial inclusion \n▪️ Bank of last resort for bankers",
+        "string": "**RBI (Reserve Bank of India)**\n▪️ Founded April 1, 1935, under RBI Act 1934; \n▪️ RBI is a statutory body i.e established under an act of parliament\n▪️ HQ in Mumbai (shifted from Kolkata in 1937); \n▪️ Nationalized in 1949.\n▪️ Current Governor: Sanjay Malhotra (appointed Dec 2024; oversees monetary policy & banking regs).\n\n**Core Functions:**\n▪️ Issue & manage currency (regulates money supply).\n▪️ Formulate & implement monetary policy (e.g., repo rate, CRR, SLR to control inflation & growth).\n▪️ Banker to govt (manages public debt, accounts).\n▪️ Regulator of banks & NBFCs\n▪️ Forex management\n▪️ Promotes financial inclusion \n▪️ Bank of last resort for bankers",
         "uid": "GFTa5LjWS"
       },
       {
@@ -3881,6 +3934,11 @@
       },
       {
         "order": 3,
+        "string": "**BRICS**\n▪️ BRICS was founded in 2009, by four countries i.e BRIC - Brazil, Russia, India, China\n▪️ In 2010, South Africa also joined, and BRIC became BRICS. \n\n**Members (10): **\n▪️ As of Nov 2025 BRICS consists of 10 members which are:\n Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, the United Arab Emirates, and Indonesia. \n▪️ The original members were Brazil, Russia, India, and China, with South Africa joining in 2010. \n▪️ Egypt, Ethiopia, Iran, and the United Arab Emirates joined in 2024, \n▪️ Indonesia joined in 2025.",
+        "uid": "LpqzQOXF6"
+      },
+      {
+        "order": 4,
         "string": "**NATO**\n▪️ North Atlantic Treaty Organization\n▪️ It is an intergovernmental military alliance.\n▪️ Founded in the aftermath of World War II, NATO was established with the signing of the North Atlantic Treaty in 1949\n▪️ If was founded in 1949, by 12 founding members. \n▪️ As of Aug 2025, NATO has **32 members**. The latest member is Sweden.\n▪️ NATO's main administrative headquarter is in Brussels, Belgium.\n▪️ Its military headquarters is in Mons, Belgium\n\n**Collective Defence**\n▪️ The principle of collective defence – Article 5 of the NATO treaty states:\n👉 “An attack on one member is considered an attack on all members.”\n\n**Operation Enduring Freedom (2001):**\n▪️ Launched after the 9/11 attacks.\n▪️ NATO invoked Article 5 for the first time.\n▪️ Military operations in Afghanistan to dismantle Al-Qaeda and remove the Taliban.\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FGQbfMt3ey_.png?alt=media&token=edc0066d-6f81-46c9-b12f-bf89802bfc0f)",
         "uid": "7BsYy3VT0"
       }
@@ -4037,6 +4095,11 @@
         "order": 1,
         "string": "**⚛️ About Atom**\n\n▪️ An **atom** is the **smallest unit of matter** that retains the properties of an element.\n▪️ The concept of the atom was first proposed by **John Dalton (1808)** in his **Atomic Theory**.\n\n**Structure of Atom:**\n▪️ An atom consists of **three subatomic particles** — **Electrons, Protons, and Neutrons**.\n\n**Basic Composition:**\n▪️ **Nucleus:** Contains **protons** (positively charged) and **neutrons** (neutral).\n▪️ * **Shells/Orbits:** Contain **electrons** (negatively charged) revolving around the nucleus.\n\n**Subatomic Particles:**\n▪️ **Electron (e⁻):** Discovered by **J.J. Thomson** (1897).\n▪️ **Proton (p⁺):** Discovered by **Ernest Rutherford** (1919).\n▪️ **Neutron (n⁰):** Discovered by **James Chadwick** (1932).\n\n**Charges:**\n▪️Proton → **Positive (+1)**\n▪️ Electron → **Negative (−1)**\n▪️ Neutron → **Neutral (0)**\n\n**Mass Distribution:**\n▪️ Almost all atomic mass is concentrated in the **nucleus** (protons + neutrons).\n▪️ Electrons have negligible mass.\n\n▪️ **Atomic Number (Z):** Number of **protons** in an atom.\n▪️ **Mass Number (A):** Total number of **protons + neutrons** in an atom.\n\n**Examples:**\n▪️ Hydrogen → 1 proton, 0 neutron, 1 electron.\n▪️ Helium → 2 protons, 2 neutrons, 2 electrons.",
         "uid": "nL0TqM2uH"
+      },
+      {
+        "order": 2,
+        "string": "**Important Physics Laws**\n▪️ **Ohm’s Law** – It states that the current through a conductor is directly proportional to the voltage across it, provided the temperature remains constant.\n▪️ **Newton’s First Law** – A body remains at rest or in uniform motion unless acted upon by an external force.\n▪️ **Newton’s Second Law** – The rate of change of momentum of a body is directly proportional to the applied force.\n▪️ **Newton’s Third Law** – For every action, there is an equal and opposite reaction.\n▪️ **Law of Conservation of Energy** – Energy can neither be created nor destroyed; it can only change from one form to another.\n\n**Other Important Laws**\n▪️ **Hooke’s Law** – The extension of a spring is directly proportional to the force applied within the elastic limit.\n▪️ **Boyle’s Law** – The pressure of a gas is inversely proportional to its volume at constant temperature.\n▪️ **Charles’s Law** – The volume of a gas is directly proportional to its absolute temperature at constant pressure.\n▪️ **Faraday’s Law** – It states that a changing magnetic field induces an electromotive force (emf) in a conductor.\n▪️ **Archimedes’ Principle** – A body immersed in a fluid experiences an upward thrust equal to the weight of the fluid displaced.",
+        "uid": "bmLhNjpKU"
       }
     ]
   },
@@ -4114,13 +4177,34 @@
       },
       {
         "order": 1,
-        "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day)",
+        "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 23: International Snow Leopard Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day)",
         "uid": "sdtDIGkrS"
       },
       {
         "order": 2,
         "string": "Frequently asked international days",
         "uid": "pAWovD8ip"
+      }
+    ]
+  },
+  {
+    "page_title": "Vocabulary",
+    "page_uid": "_854FURzh",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Common English idioms and their meanings**\n▪️ **A piece of cake**: Something very easy. \n▪️ **Under the weather**: Feeling sick or unwell. \n▪️ **Break the ice**: To initiate a conversation in a tense or awkward situation. \n▪️ **Spill the beans**: To reveal a secret. \n▪️ **Bite the bullet**: To face a difficult or unpleasant situation with courage. \n▪️ **Hit the nail on the head**: To describe exactly what is causing a problem. \n▪️ **Once in a blue moon**: Very rarely. \n▪️ **The ball is in your court**: It is your turn to make a decision or take action. \n▪️ **All bark and no bite**: Full of talk, but low on action\n▪️ **Cost an arm and a leg**: Something is very expensive. \n▪️ **Cut corners**: To do something in a way that saves time or money but lacks quality. \n▪️ **Pull someone's leg**: To joke with someone. \n▪️ **Blessing in disguise**: Something that seems bad at first but turns out to be good. \n▪️ **Hit the books**: To study hard. \n▪️ **Kill two birds with one stone**: To accomplish two things at once. \n▪️ **Let the cat out of the bag**: To accidentally reveal a secret. \n▪️ **On cloud nine**: To be extremely happy. \n▪️ **Burn the midnight oil**: To work late into the night. \n▪️ **To burn the midnight oil**: To stay up late to work or study\n▪️ **A blessing in disguise**: A misfortune that later results in something good. \n▪️ **Call it a day**: To stop working on something for the day. \n▪️ **Get two things done with a single action**: To accomplish two things at once.",
+        "uid": "CpehOkiVh"
+      },
+      {
+        "order": 1,
+        "string": "**One Word Substitutions: Religion Context**\n▪️ **Atheist:** A person who does not believe in the existence of God.\n▪️ **Agnostic:** A person who believes that nothing can be known about the existence of God.\n▪️ **Theist:** A person who believes in the existence of God.\n▪️ **Monotheist:** A person who believes in one single God.\n▪️ **Polytheist: **A person who believes in many gods.\n▪️ **Pantheist: **A person who believes that God is everything and everything is God.\n▪️ **Heretic:** A person who holds beliefs contrary to the established religious teachings.\n▪️ **Apostle:** A disciple sent to spread religious teachings (especially of Jesus).\n▪️ **Ascetic:**  A person who gives up worldly pleasures for religious reasons.\n▪️ **Cleric:** A member of the clergy (priest, minister, etc.).\n▪️ **Martyr:** A person who dies for their religious beliefs.\n▪️ **Saint:** A person officially recognized for holiness by a religion.\n▪️ **Prophet:** A person who speaks for God or delivers divine messages.\n▪️ **Pagan: **A person who follows a polytheistic or nature-based religion (non-Abrahamic).\n▪️ **Infidel: **A person who does not believe in a particular religion (especially from the view of believers).\n▪️ **Devotee:** A person deeply committed to religious worship.\n▪️ **Iconoclast:** A person who attacks or destroys religious images or traditional beliefs.\n▪️ **Zealot: **A person who is fanatical and uncompromising in religious beliefs.\n▪️ **Missionary: **A person sent to promote or spread a religion in another region.",
+        "uid": "V_lqGu-iA"
+      },
+      {
+        "order": 2,
+        "string": "https://www.scribd.com/document/459458243/500-Important-Vocabulary-PDF-For-SSC-CGL-Copy-pdf",
+        "uid": "OxAL4_1kK"
       }
     ]
   },
