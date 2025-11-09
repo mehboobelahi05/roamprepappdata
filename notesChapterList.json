@@ -42,6 +42,10 @@
             "sub_chapters": []
           },
           {
+            "name": "[[Citizenship]]",
+            "sub_chapters": []
+          },
+          {
             "name": "[[Fundamental Rights]]",
             "sub_chapters": []
           },
@@ -257,6 +261,10 @@
   {
     "name": "Grammer",
     "sub_chapters": [
+      {
+        "name": "[[Vocabulary]]",
+        "sub_chapters": []
+      },
       {
         "name": "[[60 Important Rules of Grammar | By Rani Maam]]",
         "sub_chapters": []
