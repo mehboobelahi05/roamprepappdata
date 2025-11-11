@@ -139,7 +139,7 @@
       },
       {
         "order": 17,
-        "string": "**Zojila Tunnel**\n▪️ The Zojila Pass ( 11500 ft) is in the Zanskar Range of the Himalayas. \n▪️ The approximate length of Zojila Tunnel is 14.15 Km.\n▪️ Connect Srinagar with Kargil-Leh, in National Highway NH-01\n▪️ Zojila tunnel is ^^Asias Longest Tunnel^^\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fu95cLFAoQz.png?alt=media&token=57c3b20f-529a-4ed3-8d8d-6c000c760de7)",
+        "string": "**Zojila Tunnel**\n▪️ The Zojila Pass ( 11500 ft) is in the Zanskar Range of the Himalayas. \n▪️ The approximate length of Zojila Tunnel is 14.15 Km.\n▪️ Connect Srinagar with Kargil-Leh, in ^^National Highway NH-01^^\n▪️ Zojila tunnel is ^^Asias Longest Tunnel^^\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fu95cLFAoQz.png?alt=media&token=57c3b20f-529a-4ed3-8d8d-6c000c760de7)",
         "uid": "VIHRlWBXl"
       },
       {
@@ -1882,7 +1882,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "▪️ Only the Parliament can amend the constitution.\n▪️ Article 368 deals with the \"amendment to the constitution\". This article (feature) we borrowed from South Africa constitution. \n▪️ Most of the articles are amended by special majority in the parliament.",
+        "string": "▪️ Only the ^^Parliament^^ can amend the constitution.\n▪️ ^^Article 368^^ deals with the \"amendment to the constitution\". This article (feature) we borrowed from ^^South Africa^^ constitution. \n▪️ Most of the articles are amended by special majority in the parliament.",
         "uid": "WzcR1tjr8"
       },
       {
@@ -2320,12 +2320,12 @@
       },
       {
         "order": 1,
-        "string": "**Lok Sabha**\n▪️ The lok sabha is the lower house of the parliament\n▪️ Its strength is 550 i.e maximum 550 members.\n▪️ Out of total 550 members, 530 members representing the States and 20 representing the Union Territories.\n▪️ The tenure of lok sabha members is 5 years.\n\n**Lok Sabha Speaker**\n▪️ The head of the lok sabha is called as speaker.\n▪️ Speaker is elected by the members of the house, from among them selves.\n▪️ The tenure of the speaker is same as the members i.e 5 years.",
+        "string": "**Lok Sabha**\n▪️ The lok sabha is the lower house of the parliament\n▪️ Its strength is 550 i.e maximum 550 members.\n▪️ Out of total 550 members, 530 members representing the States and 20 representing the Union Territories.\n▪️ The minimum age require to became a member of Lok Sabha is 25 years.\n▪️ The tenure of lok sabha members is 5 years.\n\n**Lok Sabha Speaker**\n▪️ The head of the lok sabha is called as speaker.\n▪️ Speaker is elected by the members of the house, from among them selves.\n▪️ The tenure of the speaker is same as the members i.e 5 years.",
         "uid": "4Bo0lVdvW"
       },
       {
         "order": 2,
-        "string": "**Rajya Sabha**\n▪️ The lok sabha is the upper house of the parliament\n▪️ Its strength is 250 i.e maximum 550 members\n▪️ Out of 250, 238 are indirectly elected, and 12 are nominated by the president. \n▪️ The tenure of rajya sabha members is 6 years. \n\n**Rajya Sabha Chairman**\n▪️ The head of the rajye sabha is called as chairman.\n▪️ The  Vice President of India, acts as the chairman of the rajya sabha.\n▪️ The tenure of the rajya sabha chairman is thus same as the vice president i.e 5 years.",
+        "string": "**Rajya Sabha**\n▪️ The lok sabha is the upper house of the parliament\n▪️ Its strength is 250 i.e maximum 550 members\n▪️ Out of 250, 238 are indirectly elected, and 12 are nominated by the president. \n▪️ The tenure of rajya sabha members is 6 years.\n▪️ The minimum age require to became a member of Rajya Sabha is 30 years.\n\n**Rajya Sabha Chairman**\n▪️ The head of the rajye sabha is called as chairman.\n▪️ The  Vice President of India, acts as the chairman of the rajya sabha.\n▪️ The tenure of the rajya sabha chairman is thus same as the vice president i.e 5 years.",
         "uid": "S0k7ysuhi"
       }
     ]
@@ -3006,16 +3006,33 @@
         "children": [
           {
             "order": 0,
+            "string": "**Taj Mahal**\n▪️ Located in Agra, Uttar Pradesh, India, on the southern bank of the Yamuna River.\n▪️ Commissioned in 1631 by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal; completed in 1653.\n▪️ UNESCO World Heritage Site since 1983; \n▪️ One of the New Seven Wonders of the World (2007).\n▪️ Built primarily of white marble with intricate pietra dura (inlay work) featuring semi-precious stones.",
+            "uid": "8mRCsljWT"
+          },
+          {
+            "order": 1,
+            "string": "**Red Fort**\n▪️ Located in Old Delhi, India; built on the western bank of the Yamuna River.\n▪️ Constructed by Mughal Emperor Shah Jahan starting in 1638; completed in 1648 when the capital shifted from Agra to Delhi (Shahjahanabad).\n▪️ UNESCO World Heritage Site since 2007; \n▪️ Originally known as Qila-i-Mubarak (Blessed Fort).\n▪️ Made of red sandstone with marble elements\n▪️ Site of the Indian Prime Minister's annual Independence Day address from its ramparts.\n▪️ Suffered damage during the 1857 Indian Rebellion; later used as a British military cantonment until 1947.\n▪️ Houses museums like the Indian War Memorial Museum; attracts millions of visitors yearly.",
+            "uid": "tYcYXa4_y"
+          }
+        ],
+        "order": 1,
+        "string": "**Monuments Build by Shah Jahan**",
+        "uid": "Wm-LPpKps"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
             "string": "**Mansabdari System**\n▪️ Introduced by Mughal Emperor Akbar.\n▪️ It was a unique administrative and military system that assigned ranks (mansabs) to officials based on their civil and military duties, status, and pay. \n▪️ This system integrated the nobility, armed forces, and bureaucracy by using a dual-ranking system of \"zat\" (personal rank and salary) and \"sawar\" (cavalry contingent to be maintained). \n▪️ Appointments, promotions, and dismissals were all made directly by the emperor, who also determined the rank and responsibilities of each mansabdar.",
             "uid": "L-acxaze9"
           }
         ],
-        "order": 1,
+        "order": 2,
         "string": "**Akbar 1556 - 1605**\nWatch video: {video:NIasvMMh2kQ:1490} \n▪️ Regent (1556–1560): Bairam Khan, as regent ruled during the early period of the Akbars tenure. \n▪️ Capital: Initially Agra; later Fatehpur Sikri (1571–1585)\n\n**Major Conquests:**\n▪️ Rajasthan (Chittor 1568, Ranthambore 1569)\n▪️ Gujarat (1572–73):\n▪️ Bengal (1574–76)\n▪️ Bihar, Odisha, Kashmir, Sindh, Baluchistan\n\n\n**Administrative Reforms:**\n▪️ Mansabdari System: Rank-based military & civil hierarchy\n▪️ Zat & Sawar: Personal rank & cavalry maintenance\n▪️ Dahshala System: Land revenue based on 10-year average yield\n▪️ Suba System: Provinces governed by Subedars\n\n\n**Religious Policy:**\n▪️ Abolished Jizya tax on non-Muslims (1564)\n▪️ Sulh-i-Kul: Universal tolerance\n▪️ Founded Din-i-Ilahi (1582) – syncretic faith (few followers)\n▪️ Ibadat Khana (Fatehpur Sikri): House of Worship for interfaith debates\n\n\n**Cultural Contributions:**\n▪️ Patron of Tansen (musician), Birbal (advisor), Abul Fazl (historian)\n▪️ Ain-i-Akbari & Akbar Nama by Abul Fazl\n▪️ Persian as court language; promoted Hindi & Sanskrit translations\n▪️ Mughal miniature painting flourished\n\n\n**Architecture:**\n▪️ Fatehpur Sikri (UNESCO site): Buland Darwaza, Salim Chishti Tomb\n▪️ Agra Fort expansion\n▪️ Lahore Fort, Allahabad Fort\n\n\n▪️ Navratnas (9 Gems): \n▪️ Birbal, Tansen, Todar Mal, Abul Fazl, Faizi, Raja Man Singh, Mullah Do Piyaza, Hakim Humam, Abdul Rahim Khan-i-Khana",
         "uid": "hOA_Scchx"
       },
       {
-        "order": 2,
+        "order": 3,
         "string": "Jahangir",
         "uid": "ubVctw7pH"
       }
@@ -3044,7 +3061,7 @@
           },
           {
             "order": 3,
-            "string": "**Ramakrishna Mission**\n▪️ It was founded in 1897 by Swami Vivekananda.\n▪️ It was founded yo spread the teachings of Ramakrishna Paramhansa, guru of Swami Vivekananda. \n▪️ The phrase \"service to man is service to God\" was coined by Swami Vivekananda\n\n**Teachings and Beliefs**\n▪️ All religions lead to the same truth.\n▪️ Service to man is service to God.\n▪️ Promoted universal brotherhood and tolerance.\n▪️ Condemned caste system and untouchability.",
+            "string": "**Ramakrishna Mission**\n▪️ It was founded in 1897 by Swami Vivekananda.\n▪️ Swami Vivekananda's real name was **Narendranath Datta**\n▪️ It was founded yo spread the teachings of Ramakrishna Paramhansa, guru of Swami Vivekananda. \n▪️ The phrase \"service to man is service to God\" was coined by Swami Vivekananda\n\n**Teachings and Beliefs**\n▪️ All religions lead to the same truth.\n▪️ Service to man is service to God.\n▪️ Promoted universal brotherhood and tolerance.\n▪️ Condemned caste system and untouchability.",
             "uid": "taeMYqXMh"
           }
         ],
@@ -3356,6 +3373,27 @@
         "order": 25,
         "string": "**Revenue Systems During British Rule**\n▪️ The British introduced different land revenue systems to collect taxes from farmers and increase their income from Indian agriculture.\n\n**1. Permanent Settlement (Zamindari System) – 1793**\n▪️ Introduced by Lord Cornwallis in Bengal, Bihar, and Orissa.\n▪️ Zamindars were made owners of the land and collected rent from peasants.\n▪️ The revenue was fixed permanently.\n▪️ Led to exploitation of peasants and decline in agriculture.\n\n**2. Ryotwari System**\n▪️ Introduced by Thomas Munro in Madras and Bombay Presidencies.\n▪️ Revenue was collected directly from the peasants (ryots).\n▪️ The land ownership was given to the cultivator.\n▪️ Revenue rates were high and revised periodically, causing hardship to peasants.\n\n**3. Mahalwari System**\n▪️ Introduced by Holt Mackenzie (1822) and implemented by Lord William Bentinck in North-West Provinces, Punjab, and parts of Central India.\n▪️ Revenue was collected from the village (mahal) collectively.\n▪️ Village headmen or landlords represented the village.",
         "uid": "fk6DPxLVY"
+      }
+    ]
+  },
+  {
+    "page_title": "Timeline Notes",
+    "page_uid": "bPD9HMujZ",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Important Events Modern History Timeline:**\n▪️1857: First War of Indian Independence (Sepoy Mutiny)\n▪️1885: Formation of Indian National Congress\n▪️1905: Partition of Bengal\n▪️1905: Swadeshi & Boycott Movement\n▪️1906: Formation of Muslim League\n▪️1915: Return of Mahatma Gandhi to India\n▪️ 1917: Champaran Satyagrah\n▪️ 1917: Allahabad Mill Strike\n▪️1919: Jallianwala Bagh Massacre\n▪️1919: Rowlatt Act\n▪️1920: Non-Cooperation Movement launched\n▪️1922: Chauri Chaura incident; Non-Cooperation withdrawn\n▪️1928: Simon Commission arrives in India\n▪️1929: Lahore Session; Purna Swaraj declaration\n▪️1930: Civil Disobedience Movement; Dandi Salt March\n▪️1931: Gandhi-Irwin Pact\n▪️1932: Poona Pact\n▪️1935: Government of India Act\n▪️1940: Lahore Resolution (Pakistan demand)\n▪️1942: Quit India Movement\n▪️1942: Cripps Mission fails\n▪️1946: Cabinet Mission Plan\n▪️1947: Indian Independence Act\n▪️1947: Partition of India; Independence (15 August)\n▪️1950: India becomes a Republic; Constitution adopted (26 January)",
+        "uid": "rVlK0Zoul"
+      },
+      {
+        "order": 1,
+        "string": "**Important Battles Notes:**\n▪️1526: First Battle of Panipat (Babur defeats Ibrahim Lodi; Mughal Empire founded)\n▪️1556: Second Battle of Panipat (Akbar defeats Hemu; Mughal control restored)\n▪️1565: Battle of Talikota (Deccan Sultanates defeat Vijayanagara Empire)\n▪️1576: Battle of Haldighati (Akbar defeats Maharana Pratap; Mewar resists)\n▪️1615: Mewar submits to Mughals (Treaty after prolonged resistance)\n▪️1659: Battle of Khajwa (Aurangzeb defeats Shah Shuja; consolidates power)\n▪️1664: Shivaji defeats Mughals at Battle of Surat (loots city)\n▪️1680: Battle of Sangamner (Shivaji’s last major victory)\n▪️1707: Battle of Jajau (Bahadur Shah I defeats Azam Shah; succession war)\n▪️1737: Battle of Bhopal (Bajirao I defeats Mughals; Maratha dominance rises)\n▪️1739: Battle of Karnal (Nadir Shah defeats Mughals; Delhi sacked)\n▪️1741: Battle of Colachel (Travancore defeats Dutch East India Company)\n▪️1757: Battle of Plassey (British defeat Siraj-ud-Daulah; East India Company gains Bengal)\n▪️1761: Third Battle of Panipat (Ahmad Shah Abdali defeats Marathas)\n▪️1764: Battle of Buxar (British defeat combined Indian forces; gains Diwani rights)\n▪️1775: First Anglo-Maratha War begins (ends 1782 with Treaty of Salbai)\n▪️1799: Fourth Anglo-Mysore War; Battle of Seringapatam (Tipu Sultan killed)\n▪️1803: Second Anglo-Maratha War; Battle of Assaye (Wellesley defeats Scindia & Bhonsle)\n▪️1817: Third Anglo-Maratha War (Maratha Confederacy dissolved)\n▪️1826: Siege of Bharatpur (British capture last major Indian stronghold)\n▪️1857: Siege of Delhi (British recapture Delhi from rebels)\n▪️1857: Siege of Lucknow (British relieve Residency during Revolt)\n▪️1858: Battle of Jhansi (British defeat Rani Lakshmibai’s forces)\n▪️1897: Battle of Saragarhi (36 Sikhs vs 10,000 Afghans; heroic last stand)\n▪️1914: Battle of Tanga (WW1; Indian troops under British vs Germans in East Africa)\n▪️1915: Battle of Neuve Chapelle (WW1; Indian troops in France)\n▪️1942: Fall of Singapore (WW2; largest British surrender; Indian troops involved)\n▪️1944: Battle of Imphal-Kohima (WW2; Allied victory halts Japanese advance)\n▪️1962: Battle of Rezang La (Sino-Indian War; 114 Indian soldiers vs 3000 Chinese)\n▪️1965: Battle of Phillora (Indo-Pak; largest tank battle since WW2)\n▪️1971: Battle of Longewala (Indo-Pak; 120 Indian troops vs 2000+ Pakistani)\n▪️1971: Battle of Basantar (Indo-Pak; major tank engagements)\n▪️1999: Kargil War – Battle of Tololing (Indian Army recaptures key peak)\n▪️1999: Kargil War – Tiger Hill captured (decisive high-altitude victory)",
+        "uid": "9LW9SIyhj"
+      },
+      {
+        "order": 2,
+        "string": "**Subhas Chandra Bose and INA**\n▪️1921: Resigns from Indian Civil Service (ICS) to join Non-Cooperation Movement\n▪️1938: Elected President of Indian National Congress (Haripura Session)\n▪️1939: Re-elected President (Tripuri Session); resigns due to differences with Gandhi\n▪️1939: Founds Forward Bloc within Congress\n▪️1940: Arrested by British; begins fast-unto-death\n▪️1941: Escapes house arrest in Calcutta; reaches Germany via Afghanistan\n▪️1941: Meets Hitler; forms Free India Centre in Berlin\n▪️1942: Launches Free India Radio from Germany\n▪️1943: Travels by German U-boat to Japan; reaches Tokyo via Madagascar\n▪️1943: Takes leadership of Indian Independence League in East Asia\n▪️1943: Revives Indian National Army (INA) in Singapore (originally formed by ^^Mohan Singh^^ in 1942)\n▪️1943: Proclaims Provisional Government of Free India (Arzi Hukumat-e-Azad Hind) in Singapore. INA motto: \"Ittehad, Itmad, Qurbani\" (Unity, Faith, Sacrifice). INA forms Rani of Jhansi Regiment (first women’s military unit in Asia)\n▪️1944: INA launches Imphal-Kohima Offensive with Japanese support\n▪️1944: Battle of Moirang – INA hoists Indian Tricolor on Indian soil for the first time\n▪️1944: INA captures Moirang (Manipur); establishes provisional administration\n▪️1945: INA retreats after Japanese defeat in Burma\n▪️1945: Bose reportedly dies in plane crash in Taipei (18 August)\n▪️1945: Red Fort Trials of INA officers (Prem Sahgal, Shah Nawaz, Gurbaksh Dhillon) begin in Delhi\n▪️1946: INA Trials spark widespread protests and naval mutiny (RIN Mutiny)\n▪️1946: INA veterans inspire post-war nationalist surge\n▪️1956: Shah Nawaz Committee formed to inquire into Bose’s death\n▪️1970s: Mukherjee Commission investigates Bose’s disappearance\n▪️1990s: Justice Manoj Mukherjee Commission concludes no plane crash occurred\n▪️2021: INA Memorial Complex inaugurated at Moirang by PM Modi\n▪️2023: Netaji Subhas Chandra Bose declared \"Rashtrapita\" by some political groups (symbolic)",
+        "uid": "bZh6BqFX8"
       }
     ]
   },
@@ -3678,7 +3716,7 @@
         "children": [
           {
             "order": 0,
-            "string": "**About Ganga river:**",
+            "string": "**About Ganga river:**\n**Origin & Source**\n▪️ Source: ^^Bhagirathi^^ River from Gangotri Glacier (Gaumukh, Uttarakhand) at ~7,010 m.\n▪️ Joins Alaknanda at Devprayag to form Ganga.\n▪️ Total Length: ~2,525 km (longest river in India).\n▪️ Enters Bangladesh as Padma, joins Meghna, forms Sundarbans Delta (world's largest).\n\n▪️ Ganges Dolphin, India's aquatic animal, founds in Ganga\n\n**Tributaries**\n▪️ Left Bank: Ramganga, Gomti, Ghaghara, Gandak, Kosi\n▪️ Right Bank: Yamuna, Tamsa, Son, Punpun\n▪️ Yamuna: Longest tributary (joins at Prayagraj – Triveni Sangam).\n▪️ Ghaghara: Largest by volume.\n\n**Major Cities on Banks**\n▪️ Uttarakhand: Rishikesh, Haridwar\n▪️ Uttar Pradesh: Kannauj, Kanpur, Prayagraj, Varanasi, Ghazipur\n▪️ Bihar: Patna, Bhagalpur\n▪️ West Bengal: Kolkata (via Hooghly)\n\n**Dams & Projects**\n▪️ Tehri Dam (on Bhagirathi)\n▪️ Farakka Barrage (W.B.) – diverts water to Hooghly.\n▪️ National Waterway-1: Haldia to Prayagraj (1,620 km).\n\n**Religious & Cultural Importance**\n▪️ Holiest river in Hinduism.\n▪️ Festivals: Ganga Dussehra, Kumbh Mela (every 12 yrs at Haridwar, Prayagraj, etc.).\n▪️ Ganga Aarti: Daily at Varanasi, Haridwar.\n\n**Pollution & Conservation**\n▪️ Sources: Industrial waste, sewage, religious offerings.\n▪️ Initiatives: Namami Gange (2014) – cleaning, sewage treatment, biodiversity.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FJWBx6JemBe.png?alt=media&token=87bce555-7d6c-4062-9f4f-d05ecb33d489)",
             "uid": "vHbu0s_H2"
           }
         ],
@@ -3731,11 +3769,21 @@
     "blocks": [
       {
         "order": 0,
+        "string": "**About Himalayas**\n\n**Formation**\n▪️ Formed by collision of Indian Plate with Eurasian Plate (~50 million years ago).\n▪️ Young fold mountains (Tertiary period); still rising ~5 mm/year.\n▪️ Youngest fold mountains in India. \n\n**Extent**\n▪️ Length: ~2,400 km (arc-shaped).\n▪️ Width: 150–400 km.\n▪️ From Indus (west) to Brahmaputra (east).\n▪️ Covers: India, Nepal, Bhutan, China, Pakistan.",
+        "uid": "aqv7AOH5y"
+      },
+      {
+        "order": 1,
+        "string": "**Division of Hiamalayas**\n**Himalayas: Regional Divisions (East to West)**\n▪️ Punjab Himalaya: Between Indus and Satluj rivers (J&K, Himachal Pradesh).\n▪️ Kumaon Himalaya: Between Satluj and Kali rivers (Uttarakhand).\n▪️ Nepal Himalaya: Between Kali and Tista rivers (Nepal region).\n▪️ Sikkim Himalaya: Between Tista and Brahmanutra rivers (Sikkim, parts of Bhutan).\n▪️ Assam Himalaya: East of Brahmanutra (Arunachal Pradesh, Bhutan).\n▪️ Also known as: Western Himalayas (Punjab + Kumaon), Central (Nepal), Eastern (Sikkim + Assam). \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FQi7KsHv2vM.png?alt=media&token=7d85f05d-d959-498f-8c61-631d28c851e1)\n\n**Transverse Divisions (North to South)**\n▪️ Trans Himalayas: North of Great Himalayas; dry, cold desert (e.g., Karakoram, Ladakh Range).\n▪️ Greater Himalayas (Himadri): Highest; perennial snow; peaks above 6,000 m (e.g., Everest, Kanchenjunga).\n▪️ Middle Himalayas (Himachal): 3,700–4,500 m; valleys, hill stations (e.g., Shimla, Mussoorie).\n▪️ Shiwalik (Outer Himalayas): Lowest; 900–1,200 m; foothills, forests, duns (e.g., Dehradun).![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FMoEo6ffCvU.png?alt=media&token=b76a593d-17c8-40b6-901a-71918dc6159d)",
+        "uid": "tOxOiU2uj"
+      },
+      {
+        "order": 2,
         "string": "**⛰️ State-Wise Highest Peaks**\n▪️ **Nanda Devi**: Highest peak of Uttarakhand\n▪️ **Kangchenjunga**: Highest peak of Sikkim\n▪️ **Girnar Peak** (Gorakhnath Peak): Highest peak of Gujarat\n▪️ **Anamudi Peak**: Highest peak of Kerala\n▪️ **Sandakphu Peak**: Highest peak of West Bengal\n▪️ **Mount Saramati**: Highest peak of Nagaland.\n\n**🏔️ Highest Peaks of Major Ranges**\n▪️ **Guru Shikhar**: Highest peak of the Aravalli Range (Located in Rajasthan).\n▪️ **Dhupgarh** (Dhoopgarh): Highest peak of the Satpura Range (Located in Madhya Pradesh).\n▪️ **Anamudi**: Highest peak of the Western Ghats (Also the highest peak in peninsular India).\n▪️ **Jindhagada** Peak (or sometimes Arma Konda): Highest peak of the Eastern Ghats (Located in Andhra Pradesh).\n▪️ **Sad-Bhawna Shikhar** (also known as **Kalumar** Peak): Highest peak of the Vindhya Range (Located in Madhya Pradesh).",
         "uid": "zj1NpsTKY"
       },
       {
-        "order": 1,
+        "order": 3,
         "string": "**Mountain Ranges in India**\n\n**Aravali range**\n▪️ Highest peak is ^^Guru Shikhar^^\n▪️ Located in Rajasthan. \n▪️ Elevation of approximately 1,722 meters (5,650 feet)\n\n**Vindhaya Range**\n▪️ Highest peak is Sad-Bhawna Shikhar (= Goodwill Peak or ^^Kalumar Peak^^ )\n▪️ Elevation: 752 meters (2,467 feet) above sea level\n▪️ Located in Madhya Pradesh. \n\n**Satpura range:**\n▪️ The highest peak is ^^Dhupgarh^^, \n▪️ Located in Madhya Pradesh. \n▪️ Elevation of approximately 1,352 meters (4,436 ft) feet)\n\n**Eastern Ghats:**\n▪️ Highest Peak: ^^Jindhagada Peak^^ (or Arma Konda)\n▪️ Elevation: 1,690 meters (5,540 feet)\n▪️ Location: Araku Valley, Andhra Pradesh\n\n**Western Ghats:**\n▪️ Highest Peak: ^^Anamudi^^\n▪️ Elevation: 2,695 meters or 8,842 feet\n▪️ Located in the state of Kerala\n▪️ It is the highest peak in South India \n▪️ It is also the highest point in India outside the Himalayan range\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fbh1ARV11CM.png?alt=media&token=c40d1548-2b61-4f43-afbf-c0e90af3b380)",
         "uid": "2fld_mpzC"
       }
@@ -3907,7 +3955,7 @@
       },
       {
         "order": 3,
-        "string": "**Economic Fullforms:**\n▪️ RBI: Reserve Bank of India\n▪️ SEBI: Security and Exchange Board of India\n▪️ UPI: Unified Payments Interface\n▪️ ATM: Automatic Teller Machine\n▪️ FDI: Foreign Direct Investment\n▪️ IBC: Insolvency and Bankruptcy Code\n▪️ IBBI: Insolvency and Bankruptcy Board of India\n▪️ GST: Goods & Services Tax\n▪️ WPI: Wholesale Price Index\n▪️ CPI: Consumers Price Index\n▪️ GDP: Gross Domestic Product\n▪️ IIP: Index of Industrial Production",
+        "string": "**Economic Fullforms:**\n▪️ RBI: Reserve Bank of India\n▪️ SEBI: Security and Exchange Board of India\n▪️ UPI: Unified Payments Interface\n▪️ ATM: Automated Teller Machine\n▪️ FDI: Foreign Direct Investment\n▪️ IBC: Insolvency and Bankruptcy Code\n▪️ IBBI: Insolvency and Bankruptcy Board of India\n▪️ GST: Goods & Services Tax\n▪️ WPI: Wholesale Price Index\n▪️ CPI: Consumers Price Index\n▪️ GDP: Gross Domestic Product\n▪️ IIP: Index of Industrial Production",
         "uid": "4px-fK97-"
       },
       {
@@ -3929,6 +3977,16 @@
         "order": 7,
         "string": "**Important Revolutions in Agriculture**\n▪️ **Round revolution**: Potato\n▪️ **Green revolution**: Food grains (rice and wheat)\n▪️ **Grey revolution**: Fertilizers/wool production\n▪️ **Pink revolution**: Prawn or onion production\n▪️ **White Revolution** (also called Operation Flood): Milk production\n▪️ **Blue revolution**: Fish production\n▪️ **Red revolution**: Meat or tomato production\n▪️ **Yellow revolution**: Oilseed production\n▪️ **Brown revolution**: Leather/cocoa production\n▪️ **Golden fiber revolution**: Jute production\n▪️ **Golden revolution**: Fruits/Honey/Horticulture production\n▪️ **Silver revolution**: Egg/Poultry production\n▪️ **Silver fiber revolution**: Cotton\n▪️ **Protein revolution**: Agriculture\n▪️ **Evergreen revolution**: Overall development of agriculture\n▪️ **Black revolution**: Petroleum production",
         "uid": "CQRsb-rLX"
+      },
+      {
+        "order": 8,
+        "string": "**Types of Crops based on Cropping Season**\n\n**Kharif**\n▪️ Sowing Period: June – July  \n▪️ Harvesting Period: September – October   (during Monsoon)\n▪️ Major Crops: Rice, Maize, Cotton, Sugarcane, Soybean, Tur (Arhar)\n\n**Rabi**\n▪️ Sowing Period: October – November   (During winters)\n▪️ Harvesting Period: March – April  \n▪️ Major Crops: Wheat, Barley, Mustard, Gram, Peas\n\n**Zaid**  \n▪️ Sowing Period: March – April  \n▪️ Harvesting Period: June – July  \n▪️ Major Crops: Watermelon, Muskmelon, Cucumber, Fodder crops, Summer pulses",
+        "uid": "pEvYveLLi"
+      },
+      {
+        "order": 9,
+        "string": "**India is Top Producer of:**  \n▪️ Milk (world's largest)  \n▪️ Pulses  \n▪️ Jute  \n▪️ Spices (e.g., chili pepper, ginger)  \n▪️ Banana  \n▪️ Mango (national fruit)\n\n**India is 2nd Top Producer of Crops:**  \n▪️ Rice (1st China)  \n▪️ Wheat (1st China)  \n▪️ Sugarcane (1st Brazil)  \n▪️ Cotton (1st China)  \n▪️ Groundnut (1st China)  \n▪️ Vegetables (1st China)  \n▪️ Fruits (1st China)",
+        "uid": "jkMO83gd1"
       }
     ]
   },
@@ -3976,6 +4034,11 @@
         "order": 4,
         "string": "**NATO**\n▪️ North Atlantic Treaty Organization\n▪️ It is an intergovernmental military alliance.\n▪️ Founded in the aftermath of World War II, NATO was established with the signing of the North Atlantic Treaty in 1949\n▪️ If was founded in 1949, by 12 founding members. \n▪️ As of Aug 2025, NATO has **32 members**. The latest member is Sweden.\n▪️ NATO's main administrative headquarter is in Brussels, Belgium.\n▪️ Its military headquarters is in Mons, Belgium\n\n**Collective Defence**\n▪️ The principle of collective defence – Article 5 of the NATO treaty states:\n👉 “An attack on one member is considered an attack on all members.”\n\n**Operation Enduring Freedom (2001):**\n▪️ Launched after the 9/11 attacks.\n▪️ NATO invoked Article 5 for the first time.\n▪️ Military operations in Afghanistan to dismantle Al-Qaeda and remove the Taliban.\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FGQbfMt3ey_.png?alt=media&token=edc0066d-6f81-46c9-b12f-bf89802bfc0f)",
         "uid": "7BsYy3VT0"
+      },
+      {
+        "order": 5,
+        "string": "**Shanghai Cooperation Organisation (SCO)**\n▪️ Full Form: Shanghai Cooperation Organisation\n▪️ Intergovernmental organization founded on 15 June 2001 in Shanghai, China.\n▪️ Successor to ^^Shanghai Five^^ (formed 1996: China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan). Uzbekistan joined in 2001, leading to renaming as SCO.\n▪️ Focus: Political, economic, security, counter-terrorism cooperation.\n▪️ Headquarters: Beijing, China.\n▪️ Official languages: Chinese, Russian.\n**Objectives**\n▪️ Strengthen mutual trust and good-neighborly relations.\n▪️ Combat terrorism, separatism, extremism, drug trafficking.\n▪️ Principles: Non-interference, equality, consensus-based decisions.\n\n▪️25th SCO Summit in Tianjin, China (September 01, 2025)\n\n**Member States (As of 2025): (10 members)**\n▪️ Founding: China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan.\n▪️ 2017: India, Pakistan.\n▪️ 2023: Iran.\n▪️ 2024: Belarus.\n▪️ Total: 10 full members.\n\n**Observer States**\n▪️ Afghanistan, Mongolia.\n\nDialogue Partners\n- Armenia, Azerbaijan, Cambodia, Nepal, Sri Lanka, Turkey.\n\nStructure\n▪️ Council of Heads of State (CHS): Supreme body; annual summits.\n▪️ **Regional Anti-Terrorist Structure (RATS)**: Based in Tashkent, Uzbekistan; handles security.\n▪️ Secretariat: Beijing (administrative hub).\n▪️ Decisions: By consensus.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2AhuWClmnV.png?alt=media&token=67d27be8-5600-4b95-b190-c415f770b4d0)",
+        "uid": "9wXZNjFni"
       }
     ]
   },
@@ -4112,7 +4175,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "▪️ Noise is measured in Decibels (dB)\n▪️ Pressure is measured in Pascal (Pa)\n▪️ Temperature is measured in Degree Celsius (°C) / Kelvin (K) / Fahrenheit (°F)\n▪️ Electric Current is measured in Ampere (A)\n▪️ Luminous Intensity is measured in Candela (cd)\n▪️ Force is measured in Newton (N)\n▪️ Energy is measured in Joule (J)\n▪️ Power is measured in Watt (W)\n▪️ Electric Charge is measured in Coulomb (C)\n▪️ Resistance is measured in Ohm (Ω)\n▪️ Frequency is measured in Hertz (Hz)\n▪️ Magnetic Field is measured in Tesla (T)\n▪️ Work is measured in Joule (J)\n▪️ Torque is measured in Newton-metre (N·m)\n▪️ Data Storage is measured in Byte (B)\n▪️ Internet Speed is measured in Bits per second (bps) / Megabits per second (Mbps)",
+        "string": "**Important SI Units**\n▪️ Noise is measured in Decibels (dB)\n▪️ Pressure is measured in Pascal (Pa)\n▪️ Temperature is measured in Degree Celsius (°C) / Kelvin (K) / Fahrenheit (°F)\n▪️ Electric Current is measured in Ampere (A)\n▪️ Luminous Intensity is measured in Candela (cd)\n▪️ Force is measured in Newton (N)\n▪️ Energy is measured in Joule (J)\n▪️ Power is measured in Watt (W)\n▪️ Electric Charge is measured in Coulomb (C)\n▪️ Resistance is measured in Ohm (Ω)\n▪️ Frequency is measured in Hertz (Hz)\n▪️ Magnetic Field is measured in Tesla (T)\n▪️ Work is measured in Joule (J)\n▪️ Torque is measured in Newton-metre (N·m)\n▪️ Data Storage is measured in Byte (B)\n▪️ Internet Speed is measured in Bits per second (bps) / Megabits per second (Mbps)",
         "uid": "FMWJG2M8p"
       }
     ]
@@ -4212,7 +4275,7 @@
       },
       {
         "order": 1,
-        "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 23: International Snow Leopard Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day)",
+        "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 17: International Day for the Eradication of Poverty\n▪️ October 23: International Snow Leopard Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day)",
         "uid": "sdtDIGkrS"
       },
       {
@@ -4228,7 +4291,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Common English idioms and their meanings**\n▪️ **A piece of cake**: Something very easy. \n▪️ **Under the weather**: Feeling sick or unwell. \n▪️ **Break the ice**: To initiate a conversation in a tense or awkward situation. \n▪️ **Spill the beans**: To reveal a secret. \n▪️ **Bite the bullet**: To face a difficult or unpleasant situation with courage. \n▪️ **Hit the nail on the head**: To describe exactly what is causing a problem. \n▪️ **Once in a blue moon**: Very rarely. \n▪️ **The ball is in your court**: It is your turn to make a decision or take action. \n▪️ **All bark and no bite**: Full of talk, but low on action\n▪️ **Cost an arm and a leg**: Something is very expensive. \n▪️ **Cut corners**: To do something in a way that saves time or money but lacks quality. \n▪️ **Pull someone's leg**: To joke with someone. \n▪️ **Blessing in disguise**: Something that seems bad at first but turns out to be good. \n▪️ **Hit the books**: To study hard. \n▪️ **Kill two birds with one stone**: To accomplish two things at once. \n▪️ **Let the cat out of the bag**: To accidentally reveal a secret. \n▪️ **On cloud nine**: To be extremely happy. \n▪️ **Burn the midnight oil**: To work late into the night. \n▪️ **To burn the midnight oil**: To stay up late to work or study\n▪️ **A blessing in disguise**: A misfortune that later results in something good. \n▪️ **Call it a day**: To stop working on something for the day. \n▪️ **Get two things done with a single action**: To accomplish two things at once.",
+        "string": "**Common English idioms and their meanings**\n▪️ **A piece of cake**: Something very easy. \n▪️ **Under the weather**: Feeling sick or unwell. \n▪️ **Break the ice**: To initiate a conversation in a tense or awkward situation. \n▪️ **Spill the beans**: To reveal a secret. \n▪️ **Bite the bullet**: To face a difficult or unpleasant situation with courage. \n▪️ **Hit the nail on the head**: To describe exactly what is causing a problem. \n▪️ **Once in a blue moon**: Very rarely.\n▪️ **Kick the Bucket**: say that someone has died.\n▪️ **The ball is in your court**: It is your turn to make a decision or take action. \n▪️ **All bark and no bite**: Full of talk, but low on action\n▪️ **Cost an arm and a leg**: Something is very expensive. \n▪️ **Cut corners**: To do something in a way that saves time or money but lacks quality. \n▪️ **Pull someone's leg**: To joke with someone. \n▪️ **Blessing in disguise**: Something that seems bad at first but turns out to be good. \n▪️ **Hit the books**: To study hard. \n▪️ **Kill two birds with one stone**: To accomplish two things at once. \n▪️ **Let the cat out of the bag**: To accidentally reveal a secret. \n▪️ **On cloud nine**: To be extremely happy. \n▪️ **Burn the midnight oil**: To work late into the night. \n▪️ **To burn the midnight oil**: To stay up late to work or study\n▪️ **A blessing in disguise**: A misfortune that later results in something good. \n▪️ **Call it a day**: To stop working on something for the day. \n▪️ **Get two things done with a single action**: To accomplish two things at once.",
         "uid": "CpehOkiVh"
       },
       {
@@ -4713,6 +4776,11 @@
         "order": 1,
         "string": "Use of Articles: A, An, and The\n\n**A:**\n▪️ Used before singular countable nouns that begin with a consonant sound (e.g., a boy, a car, a teacher).\n▪️ Used when referring to something for the first time (e.g., I saw a dog).\n▪️ Used to show one of many (e.g., a student in the class).\n\n**AN:**\n▪️ Used before singular countable nouns that begin with a vowel sound (a, e, i, o, u) (e.g., an apple, an egg, an umbrella).\n▪️ Also used before silent 'h' words (e.g., an hour, an honest man).\n▪️ Used when referring to something for the first time and pronunciation starts with a vowel sound (e.g., an MLA, an MBA).The correct article to complete the sentence is an:\nHe is an honest man.\nExplanation of the Article \"An\"\nEven though the word \"honest\" begins with the consonant letter 'h', the rule for using \"a\" or \"an\" is based on the sound of the first letter. In \"honest,\" the 'h' is silent, and the word starts with a vowel sound (the 'o' sound). \nAn is used before words that start with a vowel sound.\nA is used before words that start with a consonant sound.\n\n**THE:**\n▪️ Used to refer to something specific or already known (e.g., the book on the table).\n▪️ Used before unique things (e.g., the sun, the moon, the Earth).\n▪️ Used before superlatives (e.g., the best, the tallest).\n▪️ Used before names of rivers, seas, oceans, and mountain ranges (e.g., the Ganga, the Pacific Ocean, the Himalayas).\n▪️ Used before well-known institutions or monuments (e.g., the Taj Mahal, the Parliament).\n▪️ Used before ordinal numbers (e.g., the first, the second).",
         "uid": "Vlh9-oXUQ"
+      },
+      {
+        "order": 2,
+        "string": "**Words that start with a consonant letter but begin with a vowel sound**  \n▪️ (Use \"an\" before them, not \"a\")\n\n**hour (our)  **\n▪️ First Sound: /aʊ/ (vowel) (p: our)\n▪️ Article: an  \n▪️ Example: An hour passed quickly.\n\n**honest (o-nest)**\n▪️ First Sound: /ɒ/ or /ɑː/ (vowel)  \n▪️ Article: an  \n▪️ Example: He is an honest man.\n\nWord: heir  \nPronunciation: /eə(r)/  \nFirst Sound: /eə/ (vowel)  \nArticle: an  \nExample: She is an heir to the throne.\n\nWord: herb (American English)  \nPronunciation: /ɜːrb/  \nFirst Sound: /ɜː/ (vowel)  \nArticle: an  \nExample: An herb garden is beautiful. (British English: a herb)\n\nWord: honor (American spelling)  \nPronunciation: /ˈɑːnər/  \nFirst Sound: /ɑː/ (vowel)  \nArticle: an  \nExample: It was an honor to meet you.\n\nWord: umbrella  \nPronunciation: /ʌmˈbrelə/  \nFirst Sound: /ʌ/ (vowel)  \nArticle: an  \nExample: Take an umbrella; it’s raining.\n\nRule: Use \"an\" before words that begin with a vowel sound, even if they start with a consonant letter (especially silent 'h' or 'u' sounding like /ʌ/).\n\nCommon Mistakes:  \nWrong: a hour → Correct: an hour ('h' is silent)  \nWrong: a honest → Correct: an honest ('h' is silent)  \nWrong: a umbrella → Correct: an umbrella (starts with /ʌ/)\n\nBonus Tip:  \n\"a university\" is correct (/juː/ = consonant sound /j/)  \n\"an umbrella\" is correct (/ʌ/ = vowel sound)\n\nRemember: Sound matters, not the letter!",
+        "uid": "yXMwb5ohR"
       }
     ]
   },
