@@ -410,7 +410,7 @@
         "sub_chapters": []
       },
       {
-        "name": "Dices",
+        "name": "Dices and Cubes",
         "sub_chapters": []
       },
       {
@@ -419,6 +419,10 @@
       },
       {
         "name": "Missing Number",
+        "sub_chapters": []
+      },
+      {
+        "name": "Mirror Images",
         "sub_chapters": []
       }
     ]
