@@ -2203,36 +2203,110 @@
       },
       {
         "order": 2,
+        "string": "**Judicial Review**\n▪️ The idea of Judicial Review was borrowed from USA constitution.\n▪️ Article 13 talks about judicial review.\n▪️ Judicial review is part of basic structure.",
+        "uid": "Pi6lteIv9"
+      },
+      {
+        "order": 3,
         "string": "**Right to Equality (Articles 14–18)**\n\n**Article 14 – Equality before Law**\n▪️ All persons are equal before the law.\n▪️ No one is above the law (including govt. officials).\n\n**Article 15 – No Discrimination**\n▪️ No discrimination by the State on the grounds of religion, race, caste, sex, or place of birth.\n▪️ However, special provisions allowed for women, children, SCs, STs, and OBCs.\n\n**Article 16 – Equal Opportunity in Public Jobs**\n▪️ Equal chance for all citizens in public employment.\n▪️ Reservations allowed for backward classes, SCs, STs, and economically weaker sections (EWS).\n\n**Article 17 – Abolition of Untouchability**\n▪️ Practice of untouchability is prohibited in any form.\n▪️ Punishable offence under law.\n\n**Article 18 – Abolition of Titles**\n▪️ No titles (like Raja, Maharaja, Rai Bahadur) can be given.\n▪️ Exception → Military & Academic titles (e.g., Doctor, Major, Professor).",
         "uid": "OOhv5eQUD"
       },
       {
-        "order": 3,
-        "string": "**Right to Freedom ( Article 19-22)**\n\n**Article 19 – Six Fundamental Freedoms**\n▪️ Every citizen has six freedoms:\n1. Freedom of speech & expression\n2. Freedom to assemble peacefully\n3. Freedom to form associations/unions\n4. Freedom to move freely throughout India\n5. Freedom to reside in any part of India\n6. Freedom to practice any profession or carry on any occupation, trade, or business\n▪️ Restrictions possible in interest of public order, morality, security, sovereignty of India, etc.\n\n**Article 20 – Protection in Criminal Cases**\n▪️ No ex-post facto law – No punishment for an act that was not an offence under law when committed.\n▪️ No double jeopardy – Cannot be punished twice for the same offence.\n▪️ No self-incrimination – No person can be forced to be a witness against himself.\n\n**Article 21 – Right to Life & Personal Liberty**\n▪️ No person shall be deprived of his life or personal liberty except according to procedure established by law.\n▪️ Expanded by SC to include: right to privacy, clean environment, livelihood, shelter, health, speedy trial, etc.\n\n**Article 21A – Right to Education**\n▪️ Free & compulsory education for children aged 6–14 years.\n▪️ Inserted by 86th Amendment Act, 2002.\n\n**Article 22 – Protection against Arrest & Detention**\n▪️ Provides rights to persons arrested.\n▪️ Preventive detention allowed but with limits:\n– Maximum 3 months, can be extended with approval of an advisory board.\n– Parliament can prescribe longer periods.\n---\n((2one3UU2Y))",
+        "children": [
+          {
+            "order": 0,
+            "string": "**Article 19 – Six Fundamental Freedoms**\n▪️ Every citizen has six freedoms:\n1. Freedom of speech & expression\n2. Freedom to assemble peacefully\n3. Freedom to form associations/unions\n4. Freedom to move freely throughout India\n5. Freedom to reside in any part of India\n6. Freedom to practice any profession or carry on any occupation, trade, or business\n\n▪️ Restrictions possible in interest of public order, morality, security, sovereignty of India, etc.",
+            "uid": "afVX05y5Y"
+          },
+          {
+            "order": 1,
+            "string": "**Article 20 – Protection in Criminal Cases**\n▪️ No ex-post facto law – No punishment for an act that was not an offence under law when committed.\n▪️ No double jeopardy – Cannot be punished twice for the same offence.\n▪️ No self-incrimination – No person can be forced to be a witness against himself.",
+            "uid": "4ax7CNkk7"
+          },
+          {
+            "order": 2,
+            "string": "**Article 21 – Right to Life & Personal Liberty**\n▪️ Protects life and personal liberty  \n▪️ No one can be deprived except by procedure established by law  \n▪️ Procedure must be fair, just and reasonable (Maneka Gandhi case)  \n▪️ Includes right to privacy, dignity, clean environment, etc.\n▪️ Right to Privacy is a part of the Right to Life and Personal Liberty under Article 21, as declared by the Supreme Court in the Puttaswamy judgment (2017).",
+            "uid": "iebGgR6ht"
+          },
+          {
+            "order": 3,
+            "string": "**Article 21A – Right to Education**\n▪️ Free & compulsory education for children aged 6–14 years.\n▪️ Inserted by 86th Amendment Act, 2002.\n((2one3UU2Y))",
+            "uid": "A5pT_uOZh"
+          },
+          {
+            "order": 4,
+            "string": "**Article 22: Protection Against Arrest and Detention**\n▪️ Applies to persons arrested or detained under any law  \n▪️ Provides safeguards against arbitrary arrest and detention  \n▪️ Covers both citizens and non-citizens (except enemy aliens)\n\n**Rights of Arrested Person**  \n▪️ Right to be informed of grounds of arrest as soon as possible  \n▪️ Right to consult and be defended by a legal practitioner of choice  \n▪️ Right to be produced before nearest magistrate within 24 hours (excluding journey time)  \n▪️ No detention beyond 24 hours without magistrate's authority\n\n**Preventive Detention**  \n▪️ Certain rights under Article 22 are not available for enemy aliens   or persons under preventive detention laws  \n**Parliament can prescribe: **\n▪️ Maximum period of detention  \n▪️ Procedure for Advisory Board review  \n▪️ Minimum safeguards\n\n**Safeguards in Preventive Detention**  \n▪️ Case must be referred to Advisory Board within 3 months  \n▪️ Board (High Court judges/qualified persons) reviews detention  \n▪️ Detention beyond 3 months only if Board reports sufficient cause  \n▪️ Detenu must be communicated grounds and given earliest opportunity to represent\n\n**Key Judicial Interpretations**  \n▪️ A.K. Gopalan (1950): Article 22 exhaustive; no due process beyond it  \n▪️ Maneka Gandhi (1978): Procedure must be fair, just, reasonable  \n▪️ Preventive detention not punitive; for security of state/public order  \n▪️ Communication of grounds mandatory (except facts against public interest)",
+            "uid": "IggQeWDWO"
+          }
+        ],
+        "heading": 3,
+        "order": 4,
+        "string": "Right To Freedom (19-22)",
+        "uid": "F9yeK2g7m"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Article 23 – Ban on Human Exploitation**\n▪️ Prohibits traffic in human beings (slavery, bonded labor, begar/forced labor).\n▪️ Both the State and private individuals are prohibited from exploiting others.\n▪️ The State can impose compulsory service for public purposes (e.g., military service, social service), but without discrimination.",
+            "uid": "LgjmuoXCc"
+          },
+          {
+            "order": 1,
+            "string": "**Article 24 – Ban on Child Labour**\n▪️ Prohibits employment of children below 14 years in:\n– factories\n– mines\n– hazardous occupations\n▪️ Aim: To protect the health, safety, and dignity of children.",
+            "uid": "k9WDPlM43"
+          }
+        ],
+        "heading": 3,
+        "order": 5,
+        "string": "Right Against Exploitation (23–24)",
+        "uid": "i2OeJyMdx"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Article 25 – Freedom of Religion for Individuals**\n▪️ Every person has freedom of conscience.\n▪️ Right to profess, practice, and propagate any religion.\n▪️ Subject to: public order, morality, health, and other fundamental rights.",
+            "uid": "Y4MgSMUbx"
+          },
+          {
+            "order": 1,
+            "string": "**Article 26 – Freedom for Religious Communities**\n▪️ Religious groups/denominations can:\n- Establish and maintain religious institutions.\n- Manage their own religious affairs.\n- Own and acquire property.\n- Administer property according to law.",
+            "uid": "rNjuOIJ_4"
+          },
+          {
+            "order": 2,
+            "string": "**Article 27 – No Religious Taxes**\n▪️ No person can be forced to pay taxes for the promotion or maintenance of any religion.",
+            "uid": "OLr5CHhPF"
+          },
+          {
+            "order": 3,
+            "string": "**Article 28 – Religious Instruction in Educational Institutions**\n▪️ No religious instruction can be given in institutions wholly funded by the State.\n▪️ In institutions managed by the State but established under an endowment or trust, religious instruction is allowed.\n▪️ Students cannot be forced to attend religious instruction or worship",
+            "uid": "iiwZDmT0u"
+          }
+        ],
+        "heading": 3,
+        "order": 6,
+        "string": "Right to Freedom of Religion (25-28)",
         "uid": "AE0qjzDr_"
       },
       {
-        "order": 4,
-        "string": "**Right Against Exploitation (Articles 23–24)**\n\n**Article 23 – Ban on Human Exploitation**\n▪️ Prohibits traffic in human beings (slavery, bonded labor, begar/forced labor).\n▪️ Both the State and private individuals are prohibited from exploiting others.\n▪️ The State can impose compulsory service for public purposes (e.g., military service, social service), but without discrimination.\n\n**Article 24 – Ban on Child Labour**\n▪️ Prohibits employment of children below 14 years in:\n– factories\n– mines\n– hazardous occupations\n▪️ Aim: To protect the health, safety, and dignity of children.",
-        "uid": "iYTcsl60P"
-      },
-      {
-        "order": 5,
-        "string": "**Right to Freedom of Religion (Articles 25–28)**\n\n**Article 25 – Freedom of Religion for Individuals**\n▪️ Every person has freedom of conscience.\n▪️ Right to profess, practice, and propagate any religion.\n▪️ Subject to: public order, morality, health, and other fundamental rights.\n\n**Article 26 – Freedom for Religious Communities**\n▪️ Religious groups/denominations can:\n- Establish and maintain religious institutions.\n- Manage their own religious affairs.\n- Own and acquire property.\n- Administer property according to law.\n\n**Article 27 – No Religious Taxes**\n▪️ No person can be forced to pay taxes for the promotion or maintenance of any religion.\n\n**Article 28 – Religious Instruction in Educational Institutions**\n▪️ No religious instruction can be given in institutions wholly funded by the State.\n▪️ In institutions managed by the State but established under an endowment or trust, religious instruction is allowed.\n▪️ Students cannot be forced to attend religious instruction or worship",
+        "order": 7,
+        "string": "",
         "uid": "J_8GGYnNM"
       },
       {
-        "order": 6,
+        "order": 8,
         "string": "**Cultural and Educational Rights (Articles 29–30)**\n\n**Article 29 – Protection of Interests of Minorities**\n▪️ Any section of citizens having a distinct language, script, or culture has the right to conserve it.\n▪️ No citizen can be denied admission into any state-run or state-aided educational institution on grounds of religion, race, caste, language, or any of them.\n\n**Article 30 – Right of Minorities to Establish and Administer Institutions**\n▪️ All religious and linguistic minorities have the right to establish and administer educational institutions of their choice.\n▪️ State cannot discriminate in granting aid to minority educational institutions.\n▪️ This ensures minorities can preserve their culture and identity through education.",
         "uid": "Qrfo_tTeu"
       },
       {
-        "order": 7,
+        "order": 9,
         "string": "▪️ **Article 31**, which was the original right to property in the Indian Constitution, was ^^replaced by Article 300A through the 44th Constitutional Amendment Act of 1978^^. This today right to property is a constitutional right under Article 300A and not a fundamental right.\n\n▪️ Article 31A was added to the Constitution of India by the Constitution (^^First Amendment^^) Act, 1951. It was introduced by the Jawaharlal Nehru government to protect agrarian reform laws from being challenged in court for violating fundamental rights.\n\n▪️ Article 31B was added to the Indian Constitution by the Constitution (^^First Amendment^^) Act, 1951. The amendment was introduced by the government of Prime Minister Jawaharlal Nehru. \n▪️ The article, along with the newly created ^^Ninth Schedule^^, was added to protect specific laws, primarily those related to land reform, from being challenged in court for violating fundamental rights",
         "uid": "kgjhSqcBm"
       },
       {
-        "order": 8,
+        "order": 10,
         "string": "**Right to Constitutional Remedies (Article 32)**\n▪️ Article 32 provides the right to move the Supreme Court for enforcement of Fundamental Rights.\n▪️ Dr. B. R. Ambedkar called it the \"Heart and Soul\" of the Constitution.\n▪️ It makes Fundamental Rights enforceable and justiciable.\n▪️ Both Supreme Court (Art. 32) and High Courts (Art. 226) can issue writs.\n▪️ This right acts as a guarantee against violation of Fundamental Rights.\n\n**Five Writs under Article 32**\n\n**Habeas Corpus** \n▪️ “Produce the body” \n▪️ Issued to release a person unlawfully detained.\n\n**Mandamus** \n▪️ Means “We Command”\n▪️ Issued to direct a public authority to perform its duty.\n\n**Prohibition** \n▪️ Issued by a higher court to a lower court to stop it from exceeding its jurisdiction.\n\n**Certiorari** \n▪️ Issued by a higher court to transfer or quash the order of a lower court.\n\n**Quo Warranto** \n▪️ Means  “By what authority” \n▪️ Issued to check the legality of a person holding a public office.",
         "uid": "srf8G8i55"
       }
@@ -2285,7 +2359,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "** Fundamental Duties (FDs)**\n▪️ Fundamental duties were ^^added in 1976^^ via ^^42nd Amendment, 1976^^\n▪️ ^^Part-IVA (Article 51A)^^ deals with fundamental duties.\n▪️ ^^Part-IVA (Article 51A)^^ was added in the constitution by ^^42nd Amendment, 1976^^.\n▪️ They were on the recommendation of ^^Swaran Singh Committee^^\n▪️ Fundamental Duties were ^^borrowed from USSR/Russia constitution^^\n▪️ There are ^^11 fundamental duties^^.\n▪️ In 1976, only 10 fundamental duties were added.\n▪️ In 2002, the ^^11th fundamental duty^^ i.e “to provide opportunities for education to children (6–14 years)”  was added  by the ^^86th Amendment Act 2002^^\n\nWatch Video: {video:jeT6uNaZ6Ds:0}",
+        "string": "** Fundamental Duties (FDs)**\nWatch Video: {video:jeT6uNaZ6Ds:0}\n▪️ Fundamental duties were ^^added in 1976^^ via ^^42nd Amendment, 1976^^\n▪️ ^^Part-IVA (Article 51A)^^ deals with fundamental duties.\n▪️ ^^Part-IVA (Article 51A)^^ was added in the constitution by ^^42nd Amendment, 1976^^.\n▪️ They were on the recommendation of ^^Swaran Singh Committee^^\n▪️ Fundamental Duties were ^^borrowed from USSR/Russia constitution^^\n▪️ There are ^^11 fundamental duties^^.\n▪️ In 1976, only 10 fundamental duties were added.\n▪️ In 2002, the ^^11th fundamental duty^^ i.e “to provide opportunities for education to children (6–14 years)”  was added  by the ^^86th Amendment Act 2002^^",
         "uid": "8wmGpcJJA"
       },
       {
@@ -2353,13 +2427,23 @@
       },
       {
         "order": 1,
-        "string": "**President as Supreme Commander of Defence**\n\n▪️ Article 52 of the Indian Constitution states that there shall be a President of India. As the Supreme Commander, the President is the head of the Indian Army, Navy, and Air Force.\n▪️ The  President is the commander of the defence forces of India. \nPresident appoints: Chief of the Army, Chief of the Navy, Chief of the Air Force \n▪️ The Chief of the Army is a **General**, the Chief of the Navy is an **Admiral**, and the Chief of the Air Force is an **Air Chief Marshal**. \n▪️ These three positions are collectively known as the armed forces chiefs",
+        "string": "**President as Supreme Commander of Defence**\n▪️ Article 52 of the Indian Constitution states that there shall be a President of India. As the Supreme Commander, the President is the head of the Indian Army, Navy, and Air Force.\n▪️ The  President is the commander of the defence forces of India. \nPresident appoints: Chief of the Army, Chief of the Navy, Chief of the Air Force \n▪️ The Chief of the Army is a **General**, the Chief of the Navy is an **Admiral**, and the Chief of the Air Force is an **Air Chief Marshal**. \n▪️ These three positions are collectively known as the armed forces chiefs",
         "uid": "lsWr7s8MM"
       },
       {
         "order": 2,
         "string": "**Important Women in Indian History:**\n\n▪️ **First Woman President of INC:** Annie Besant (1917)\n▪️ **First Indian Woman President of INC:** Sarojini Naidu (1925, Kanpur Session)\n▪️ **First Woman Governor of India:** Sarojini Naidu (Governor of Uttar Pradesh, 1947)\n▪️ **First Woman Chief Minister of India:** Sucheta Kriplani (Uttar Pradesh, 1963)\n▪️ **First Woman Prime Minister of India:** Indira Gandhi (1966)\n▪️ **First Woman President of India:** Pratibha Patil (2007–2012)",
         "uid": "Gk87VaBxH"
+      },
+      {
+        "order": 3,
+        "string": "**Pardon Powers of President**\n▪️ Given under Article 72 of the Constitution\n▪️ President can pardon, reprieve, respite, remit, or commute sentences\n▪️ Applies to punishments given by: Court Martial (military courts), Union laws (central government), Death sentence (any case)\n\n**Types of Pardon**\n▪️ Pardon – Fully removes crime and punishment\n▪️ Reprieve – Temporary delay in punishment (e.g., for pregnant woman)\n▪️ Respite – Reduces punishment due to special reasons (illness, etc.)\n▪️ Remit – Reduces the punishment without changing type\n▪️ Commute – Changes punishment to lighter one (e.g., death to life imprisonment)\n**Key Points**\n▪️ President acts on advice of Council of Ministers\n▪️ No pardon in cases under state laws (only Governor under Article 161)\n▪️ Can be used in death penalty cases (e.g., mercy petition)\n▪️ Judicial review possible if decision is arbitrary (not absolute power)",
+        "uid": "2GNHFX3TS"
+      },
+      {
+        "order": 4,
+        "string": "**Ordinance Making Power of President**  \n▪️ Given under **Article 123** of the Constitution  \n▪️ President can issue ordinance when **Parliament is not in session**  \n▪️ Must be approved by **Council of Ministers**  \n▪️ Applies only to **Union or Concurrent List** subjects  \n\n**Conditions**  \n▪️ Only when **immediate action** is needed  \n▪️ Both Houses of Parliament must **not be in session**  \n▪️ President must be satisfied that circumstances exist for it  \n\n**Duration & Validity**  \n▪️ Ordinance has **same force as an Act of Parliament**  \n▪️ Effective from the date of issue  \n▪️ **Expires after 6 weeks** from reassembly of Parliament  \n▪️ Can be **withdrawn** by President anytime  \n▪️ Parliament can **pass, reject, or modify** it  \n\n**Limitations**  \n▪️ **Cannot violate Fundamental Rights** or basic structure  \n▪️ **No money bill** or constitutional amendment via ordinance  \n▪️ **Re-promulgation** (re-issuing same ordinance) is misuse of power (D.C. Wadhwa case, 1987)  \n▪️ **Judicial review** allowed if mala fide or unconstitutional",
+        "uid": "cU2BSVoVk"
       }
     ]
   },
@@ -2396,7 +2480,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Emergencies in the Indian Constitution**\n▪️ There are three types of emergencies mentioned in the Constitution of India:\n1️⃣ National Emergency (Article 352)\n2️⃣ State Emergency / President’s Rule/ Constitutional Emergency (Article 356)\n3️⃣ Financial Emergency (Article 360)",
+        "string": "**Emergencies in the Indian Constitution**\n▪️ There are three types of emergencies mentioned in the Constitution of India:\n1. National Emergency (Article 352)\n2. State Emergency / President’s Rule/ Constitutional Emergency (Article 356)\n3. Financial Emergency (Article 360)",
         "uid": "88QEAzWuX"
       },
       {
