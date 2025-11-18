@@ -2002,7 +2002,7 @@
       },
       {
         "order": 6,
-        "string": "**24th Amendment Act, 1971**\n▪️ Affirmed Parliament’s power to amend any part of Constitution, including Fundamental Rights.\n▪️ Made it compulsory for President to assent to Constitutional Amendment Bills.\n▪️ Amended Article 13 to exclude constitutional amendments from its scope under Article 368.",
+        "string": "**24th Amendment Act, 1971**\n▪️ Affirmed Parliament’s power to amend any part of Constitution, including Fundamental Rights.\n▪️ Made it compulsory for President to assent to Constitutional Amendment Bills. Thus 24th amendment took away the veto powers of the president with respect to constitutional amendment bills. \n▪️ Amended Article 13 to exclude constitutional amendments from its scope under Article 368.",
         "uid": "a2SLfnf4d"
       },
       {
@@ -2017,113 +2017,128 @@
       },
       {
         "order": 9,
+        "string": "**36th Amendment Act, 1975**\n▪️ It made Sikkim the 22nd state of India, abolishing the monarchy and integrating it fully into the Indian Union",
+        "uid": "ztvzOA-Ar"
+      },
+      {
+        "order": 10,
         "string": "**38th Amendment Act, 1975**\n▪️ Made President’s satisfaction in declaring emergency non-justiciable.\n▪️ Made ordinances by President, Governors, and UT administrators non justiciable.\n▪️ Allowed President to declare different types of national emergency simultaneously.\n▪️ Amended Articles 123, 213, 239B, 352, 356, 359, 360.",
         "uid": "UBzNijLuS"
       },
       {
-        "order": 10,
+        "order": 11,
         "string": "**42nd Amendment Act, 1976 (Mini Constitution)**\n▪️ Added Socialist, Secular, Integrity to the Preamble.\n▪️ Added Fundamental Duties (Part IVA).\n▪️ President bound by Council of Ministers’ advice (Article 74).\n▪️ Added Part XIVA – Administrative and other tribunals.\n▪️ Froze Lok Sabha/state assembly seats based on 1971 census till 2001.\n▪️ Made constitutional amendments beyond judicial review.\n▪️ Increased tenure of Lok Sabha and assemblies from 5 to 6 years.\n▪️ Protected laws implementing Directive Principles from being void on grounds of violating certain FRs.\n▪️ Added 3 new Directive Principles: equal justice & free legal aid, worker participation in management, protection of environment/forests/wildlife.\n▪️ Allowed national emergency in part of India.\n▪️ Extended President’s Rule from 6 months to 1 year at a time.\n▪️ Shifted 5 subjects (education, forests, wildlife, weights & measures, administration of justice) from State to Concurrent List.\n▪️ Provided for All-India Judicial Service.",
         "uid": "KNZCFx4LA"
       },
       {
-        "order": 11,
+        "order": 12,
         "string": "**44th Amendment Act, 1978**\n▪️ Restored some powers of Supreme Court and High Courts.\n▪️ Replaced “internal disturbance” with “armed rebellion” for national emergency.\n▪️ President to declare emergency only on written Cabinet advice.\n▪️ Removed right to property from Fundamental Rights (made legal right).\n▪️ Ensured Articles 20 and 21 cannot be suspended during emergency.",
         "uid": "VeK0obvdI"
       },
       {
-        "order": 12,
+        "order": 13,
         "string": "**51st Amendment Act, 1984**\n▪️ Reserved seats for Scheduled Tribes in Lok Sabha from Meghalaya, Arunachal Pradesh, Nagaland, Mizoram; and in assemblies of Meghalaya and Nagaland.",
         "uid": "m264tIzOs"
       },
       {
-        "order": 13,
-        "string": "**52nd Amendment Act, 1985 (Anti-Defection Law)**\n▪️ Disqualified MPs/MLAs on grounds of defection.\nAdded Tenth Schedule.",
+        "order": 14,
+        "string": "**52nd Amendment Act, 1985 (Anti-Defection Law)**\n▪️ Disqualified MPs/MLAs on grounds of defection.\n▪️ Added Tenth Schedule.",
         "uid": "Im4I2UnW1"
       },
       {
-        "order": 14,
+        "order": 15,
         "string": "**61st Amendment Act, 1989**\n▪️ Reduced voting age from 21 to 18 years for Lok Sabha and Assembly elections.",
         "uid": "STqZ8n9Sw"
       },
       {
-        "order": 15,
+        "order": 16,
         "string": "**65th Amendment Act, 1990**\n▪️ Replaced Special Officer for SC/ST with National Commission for Scheduled Castes and Scheduled Tribes.",
         "uid": "H4GlgNAjq"
       },
       {
-        "order": 16,
+        "order": 17,
         "string": "**69th Amendment Act, 1991**\n▪️ Granted National Capital Territory status to Delhi with a 70-member assembly and 7-member Council of Ministers.",
         "uid": "6bwzXEzoZ"
       },
       {
-        "order": 17,
+        "order": 18,
         "string": "**73rd Amendment Act, 1992**\n▪️ Gave constitutional status to Panchayati Raj Institutions (Part IX).\n▪️ Added Eleventh Schedule (29 subjects).\n▪️ Three-tier system; reservation for SC/ST and 1/3rd for women.\n\n**74th Amendment Act, 1992**\n▪️ Gave constitutional status to urban local bodies (Part IX-A).\n▪️ Added Twelfth Schedule (18 functions of municipalities).",
         "uid": "oJX5iLiUo"
       },
       {
-        "order": 18,
+        "order": 19,
         "string": "**76th Amendment Act, 1994**\n▪️ Included Tamil Nadu’s 69% reservation law in Ninth Schedule to protect from judicial review (despite 50% cap).",
         "uid": "7xl6l1ZP5"
       },
       {
-        "order": 19,
+        "order": 20,
         "string": "**77th Amendment Act, 1995**\n▪️ Provided reservation in promotions for SC/ST in government jobs.",
         "uid": "Xu94gAAaH"
       },
       {
-        "order": 20,
+        "order": 21,
         "string": "**85th Amendment Act, 2001**\n▪️ Provided consequential seniority in promotions for SC/ST employees.",
         "uid": "qwrTZrPNT"
       },
       {
-        "order": 21,
-        "string": "**86th Amendment Act, 2002**\n▪️ Made elementary education (6–14 years) a Fundamental Right (Article 21A, Right to Education).\n▪️ Modified Article 45 (DPSP).\n▪️ Added Fundamental Duty for parents to provide education to children aged 6–14 (Article 51A).",
+        "order": 22,
+        "string": "**86th Amendment Act, 2002**\n▪️ The 86th Amendment Act of 2002 amended Fundamental Rights, Directive Principles, and Fundamental Duties. \n▪️ It added Article 21A, making the right to education a fundamental right for children aged 6 to 14. \n▪️ It also amended Article 45, changing the Directive Principle to focus on early childhood care for those under six. (Article 45)\n▪️ It added 11th Fundamental Duty to provide educational opportunities for children aged 6 to 14. (Article 51A)",
         "uid": "2one3UU2Y"
       },
       {
-        "order": 22,
+        "order": 23,
+        "string": "**89th Amendment Act, 2003**\n▪️ It separated the National Commission for Scheduled Castes and Scheduled Tribes into two distinct constitutional bodies: the National Commission for Scheduled Castes (NCSC) and the National Commission for Scheduled Tribes (NCST).\n▪️ Added Article  338A for NCST\n((am-xCJJaL))",
+        "uid": "gPfySqHfp"
+      },
+      {
+        "order": 24,
         "string": "**91st Amendment Act, 2003**\n▪️ Limited size of Council of Ministers (Centre & States).\n▪️ Strengthened anti-defection law; barred defectors from public office.",
         "uid": "6Vg424lZ1"
       },
       {
-        "order": 23,
+        "order": 25,
         "string": "**93rd Amendment Act, 2005**\n▪️ Provided reservation for OBCs in private unaided educational institutions (except minority institutions).",
         "uid": "Pcn_Zquc3"
       },
       {
-        "order": 24,
-        "string": "**97th Amendment Act, 2012**\n▪️ Gave constitutional status to co-operative societies.",
+        "order": 26,
+        "string": "**97th Amendment Act, 2012**\n▪️ Gave constitutional status to Co-operative societies.\n▪️ Added Part-IXB, Article 43B.\n▪️ It made the right to form cooperative societies a fundamental right under Article 19(1)(c)",
         "uid": "rXY4Ji701"
       },
       {
-        "order": 25,
+        "order": 27,
         "string": "**99th Amendment Act, 2014**\n▪️ Replaced collegium system with National Judicial Appointments Commission (NJAC) for appointing judges.\n▪️ Struck down by Supreme Court in 2015; collegium system restored.",
         "uid": "fht4X0Ki7"
       },
       {
-        "order": 26,
+        "order": 28,
         "string": "**100th Amendment Act, 2015**\n▪️ Gave effect to India-Bangladesh Land Boundary Agreement – exchange of enclaves.",
         "uid": "gI2zKpGbA"
       },
       {
-        "order": 27,
-        "string": "**101st Amendment Act, 2016**\n▪️ Introduced Goods and Services Tax (GST).",
+        "order": 29,
+        "string": "**101st Amendment Act, 2016**\n▪️ Introduced Goods and Services Tax (GST).\n▪️ Added GST Council in Article 279A.",
         "uid": "N2TQo6eW1"
       },
       {
-        "order": 28,
+        "order": 30,
         "string": "**102nd Amendment Act, 2018**\n▪️ Gave constitutional status to National Commission for Backward Classes (NCBC).\n▪️ President to specify backward classes for each state/UT.",
         "uid": "a3MvONGAT"
       },
       {
-        "order": 29,
+        "order": 31,
         "string": "**103rd Amendment Act, 2019**\n▪️ Provided 10% reservation for Economically Weaker Sections (EWS) in education and government jobs (except minority institutions).",
         "uid": "5V48VvBcE"
       },
       {
-        "order": 30,
+        "order": 32,
         "string": "**104th Amendment Act, 2020**\n▪️ Extended reservation for SCs and STs in the Lok Sabha (Article 330) and State Legislative Assemblies (Article 332) from 70 years to 80 years.\n▪️ Removed reserved seats for the Anglo-Indian community in the Lok Sabha and State Assemblies (Article 334).\n--\nArticle 330: SC ST reservation in lok sabha\nArticle 332: SC ST reservation in State Legislative Assemblies\nArticle 334: reserved seats for the Anglo-Indian community (now repealed)",
         "uid": "KX3uw3ADS"
+      },
+      {
+        "order": 33,
+        "string": "**106th Amendment Act, 2020**\n▪️ Reserves one-third of seats for women in the Lok Sabha, State Legislative Assemblies, and the Delhi Legislative Assembly.\n((2zMjcdnOp))",
+        "uid": "quVaqvoHb"
       }
     ]
   },
