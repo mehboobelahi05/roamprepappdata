@@ -3751,26 +3751,31 @@
     "blocks": [
       {
         "order": 0,
+        "string": "**India Latitudes and Logitudes**\n\n▪️ The lowest latitude point in India is Indira Point, located at approximately 6°45' in the Andaman and Nicobar Islands. \n▪️ For mainland India, the lowest latitude point is near Kanyakumari (also known as Cape Comorin).",
+        "uid": "4b35YQ6c2"
+      },
+      {
+        "order": 1,
         "string": "**States and Capitals of India**\n\n▪️ India has **28 States** and **8 Union Territories (UTs)**.\n▪️ Largest state by area: Rajasthan\n▪️ Largest state by population: Uttar Pradesh\n▪️ Smallest state by area: Goa\n▪️ Smallest state by population: Sikkim\n▪️ Largest Union Territory by area: Ladakh\n▪️ Smallest Union Territory by area: Lakshadweep \n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FLz48tG86fK.png?alt=media&token=3a0841ae-8474-4e73-a353-ea84a85ba766)",
         "uid": "DcLYQxspX"
       },
       {
-        "order": 1,
+        "order": 2,
         "string": "**India Neighbours:**\n▪️ India shares land border with 7 countries, there are:\n1. Pakistan\n2. China\n3. Nepal\n4. Bhutan\n4. Bangladesh\n6. Myanmar\n7. Afghanistan (through Pakistan-occupied Kashmir)\n---\n**Note: **\n▪️ Sri Lanka is also a neighbour country of India, but India does not share land border with Sri Lanka. \n▪️ The two is separated by Palk strait.",
         "uid": "5MYFkKJMD"
       },
       {
-        "order": 2,
+        "order": 3,
         "string": "**North East States and their Capitals:**\n▪️ The eight North East states of India are \nArunachal Pradesh (Itanagar), \nAssam (Dispur), \nManipur (Imphal), \nMeghalaya (Shillong), \nMizoram (Aizawl), \nNagaland (Kohima), \nSikkim (Gangtok), and \nTripura (Agartala). \n▪️ These include the ^^seven \"Sister States\"^^ (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, and Tripura) plus Sikkim.\n▪️ Four states of North East shares border with Myanmar i.e Arunachal, Nagaland, Manipur and Mizoram.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FSxeNz_CyZn.png?alt=media&token=609f294c-2bb3-4201-affa-f0e8b5f64c32)",
         "uid": "DwyeC9CF9"
       },
       {
-        "order": 3,
+        "order": 4,
         "string": "**Landlocked states:**\nStates without a coastline and not sharing an international border (completely surrounded by land):\n1. Haryana\n2. Jharkhand\n3. Madhya Pradesh\n4. Chhattisgarh\n5. Telangana",
         "uid": "0erN8WLth"
       },
       {
-        "order": 4,
+        "order": 5,
         "string": "**Loktak Lake** \n▪️ Location: Bishnupur district, Manipur, India\n▪️ Type: Freshwater lake\n▪️ Significance: Largest freshwater lake in Northeast India\n▪️ Unique Feature: Famous for its “Phumdis” — floating masses of soil, vegetation, and organic matter\n▪️ National Park: Home to ^^Keibul Lamjao National Park^^ — the only floating national park in the world\n▪️ Endangered Species: Sanctuary for the rare ^^Sangai deer^^ (brow-antlered deer), the state animal of Manipur\n▪️ Economic Importance: Source of fishing, irrigation, and hydropower (Loktak Hydroelectric Project)\n▪️ Environmental Concern: Pollution, shrinkage, and displacement of phumdis due to human activities",
         "uid": "LLWU_8s_Y"
       }
@@ -5118,42 +5123,60 @@
         "children": [
           {
             "order": 0,
-            "string": "Imperative Sentence:\n\nRequested:\nVideo: {video:8UhSTP5bcVc:270} \nRule:\nReplace \"please, kindly etc\" with \"you are requested to\"",
-            "uid": "r59q-VgeT"
+            "string": "For interrogative sentences starting with \n**\"Who\":**\nBy whom + was/were + object + V3?\n(or modern English: Who + was/were + object + V3 + by?)\n\n**For yes/no questions** \n(was/were/is etc.) + object + V3 (+ by + agent optional)\nActive: Did she eat dinner?\nPassive: Was dinner eaten by her?",
+            "uid": "RD4s3z8N7"
           }
         ],
         "heading": 3,
         "order": 3,
+        "string": "Interrogative Sentence",
+        "uid": "qrvGLdK3Z"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Imperative Sentence:**\nRequested:\nVideo: {video:8UhSTP5bcVc:270} \n\nReplace \"please, kindly etc\" keywords with \"you are requested to\"\n**Rule:**\n(You are) + requested/asked/advised + (not) + to + verb\n\n**Negative imperative requests **\n(You are) kindly/politely requested + (not) to + verb.\n\nStandard Rule for Imperative Commands (like \"Respect your brother.\"):\n→ Let + object + be + V3\nLet your brother be respected (by you). \nWhen the imperative is a direct order/command (no \"please\", \"kindly\", etc.), we do not change it to \"You are advised/requested...\".\nThat form (\"You are advised...\") is only for polite requests.",
+            "uid": "r59q-VgeT"
+          }
+        ],
+        "heading": 3,
+        "order": 4,
         "string": "Imperative Sentence",
         "uid": "AFhiC5guT"
       },
       {
-        "order": 4,
-        "string": "**Passive of Sentences starting with \"Let\"**\nWatch: {video:OXTMldnx7Y0:0}  \n\nRule 1: When one Object is there:\nLet + O1 + V1 \n\nPassive:\n(a) It is suggested that + Sub + V1\n(b) Let + O + \"be allowed to\" + V1\n\nRule 2: When there are 2 Objects\nLet + O1 + V1 + O2\n\nPassive:\nLet + O2 + be + V3 + by + O1",
-        "uid": "ZEXYB_qCQ"
-      },
-      {
         "order": 5,
-        "string": "**Active Passive of Infinitive Sentences (to + V1)**\nWatch: {video:5aV30Lieh0A:0} \n\nActive: \nSub + Hv + to + V1 + Obj\n\nPassive:\nObj + Hv + to + be + V3 + by + Sub",
-        "uid": "B8tCOCtMC"
+        "string": "**Sentence with Auxillary verb:**\nActive:\nS + Av + Mv + O\nPassive:\nO + Av + be + Mv3 + by + S\nExample:\nActive: He should teach me\nPassive: I should be taught by him",
+        "uid": "I9HAJC-ej"
       },
       {
         "order": 6,
+        "string": "**Passive of Sentences starting with \"Let\"**\nWatch: {video:OXTMldnx7Y0:0}  \n\nRule 1: When one Object is there:\nLet + O1 + V1 \n\nPassive:\n(a) It is suggested that + Sub + V1\n(b) Let + O + \"be allowed to\" + V1\n(c) Let + O + be + V3 + by + \n\nRule 2: When there are 2 Objects\nLet + O1 + V1 + O2\n\nPassive:\nLet + O2 + be + V3 + by + O1",
+        "uid": "ZEXYB_qCQ"
+      },
+      {
+        "order": 7,
+        "string": "**Active Passive of Infinitive Sentences (to + V1)**\nWatch: {video:5aV30Lieh0A:0} \n\nActive: \nSub + Hv + to + Mv1 + Obj\n\nPassive:\nObj + is/am/are + Hv3 + to + be + Mv3 + by + Sub",
+        "uid": "B8tCOCtMC"
+      },
+      {
+        "order": 8,
         "string": "**Imperative Sentences (Commands / Requests)**\nRule:\nLet + Object + be + V³ (past participle)\n\nExamples:\nActive: Let him do the work.\nPassive: Let the work be done by him.\n\nActive: Let them finish the task.\nPassive: Let the task be finished by them.",
         "uid": "h8-_za3tk"
       },
       {
-        "order": 7,
+        "order": 9,
         "string": "**If “Let” Expresses Permission or Suggestion**\nRule:\nLet + (person) + be + allowed / permitted + to + V¹\n\nExamples:\nActive: Let him go now.\nPassive: Let him be allowed to go now.\n\nActive: Let the students enter the hall.\nPassive: Let the students be permitted to enter the hall.",
         "uid": "KcP6OF1XO"
       },
       {
-        "order": 8,
+        "order": 10,
         "string": "**For “Let Us” Sentences (Suggestions / Proposals)**\nRule:\nLet us + V¹ → It is suggested / proposed that + we should + V¹\n\nExamples:\nActive: Let us start our journey.\nPassive: It is suggested that our journey should be started.\n\nActive: Let us respect our elders.\nPassive: It is proposed that our elders should be respected.",
         "uid": "ZJFA5mVpL"
       },
       {
-        "order": 9,
+        "order": 11,
         "string": "**Rules for Active Passive**\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fy2MUNIooBw.png?alt=media&token=b0e90c82-9c08-4c05-99bf-cc2a63513342)",
         "uid": "3Vhb6m3JX"
       }
