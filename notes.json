@@ -2233,7 +2233,7 @@
           },
           {
             "order": 1,
-            "string": "▪️NA Palkhivala called the Preamble as the ‘identity card of the Constitution",
+            "string": "▪️Nani Palkhivala called the Preamble as the ‘identity card of the Constitution\n▪️Nani Palkhivala was also the author of the book \"We the People\"\n--\n((-_pFR2Ql2))",
             "uid": "3NFhtHYgI"
           },
           {
@@ -3290,6 +3290,11 @@
       },
       {
         "order": 4,
+        "string": "**Timur Invasion of Delhi**\n▪️ Timur invaded and sacked Delhi in 1398, taking advantage of the weakness and internal conflicts within the Delhi Sultanate. \n▪️ After defeating the Sultan's forces, which included a notable encounter with war elephants, Timur's army ravaged the city, massacring an estimated 100,000 to 200,000 people and taking immense loot and captives. \n▪️ Timur did not stay to rule but instead returned to Samarkand with the spoils, leaving Delhi in a state of chaos and anarchy.",
+        "uid": "gYDoDhTdx"
+      },
+      {
+        "order": 5,
         "string": "**Lodi Dynasty (1452 - 1526)**\n▪️ Bhulul Lodi founded the Lodi dynasty in 1452.\n▪️ Lodi dynasty was the only Afghani dynasty of Delhi Sultanate, rest all were Turkish in origin. \n\n**Bhulul Lodi**\n▪️ Bahlul Lodhi was the founder of the Lodhi dynasty.\n▪️ He ​was the chief of the Pashtun Lodhi Tribe.\n▪️ He became sultan in 1451.\n▪️ He was the first Afghani King of Delhi Sultanate \n▪️ He introduced new copper coins called Bahloli Coins.\n▪️ He conquered Gwalior, Santhal, Sakit, and Mewat.\n▪️ He ruled over Delhi till 1489.",
         "uid": "_tWWifkuQ"
       }
@@ -4232,6 +4237,19 @@
         "order": 11,
         "string": "**City ----- River**\nLondon ----- Thames\nParis ----- Seine\nNew York City ----- Hudson\nRome ----- Tiber\nCairo ----- Nile\nVienna ----- Danube\nBerlin ----- Spree\nBaghdad ----- Tigris\nShanghai ----- Yangtze (Chang Jiang)\nNew Delhi ----- Yamuna\nKolkata ----- Hooghly (Ganges tributary)\nWashington D.C.  ----- Potomac",
         "uid": "WsUYEtw-n"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Palk Strait:**\n▪️ It separates Bay of Bengal form Laccadive sea.\n▪️ It separates India and Sri Lanka",
+            "uid": "-_pFR2Ql2"
+          }
+        ],
+        "heading": 2,
+        "order": 12,
+        "string": "Important Straits",
+        "uid": "yw1te9n5d"
       }
     ]
   },
