@@ -314,8 +314,39 @@
     "category": "general studies"
   },
   {
+    "id": "PrKLh6Cyy",
+    "name": "History Mock - Important Battles",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "UIxMVFUMF",
+      "RRE8Ompb0",
+      "LYXibUBAt",
+      "9G3adef2d",
+      "hGYUzTcX5",
+      "FkVvQ2huN",
+      "D7G6v0Ml6",
+      "1PxWwvGP_",
+      "Hw5Ba0L84",
+      "gvuITfBXR",
+      "9YDXOXMwo",
+      "ud7uEqCFf",
+      "8TzW2k19z",
+      "E7towojf7",
+      "f-wDn7Oof",
+      "oYaJ5z-JK",
+      "93ZJ-sTRW",
+      "giqgSB8gK",
+      "eWBbSmKH5",
+      "pHdvQ9BnG"
+    ],
+    "pdf_link": "",
+    "visibility": "",
+    "level": "medium",
+    "category": "general studies"
+  },
+  {
     "id": "ZHzwdSfi6",
-    "name": "History | Mahatma Gandhi Events - 1",
+    "name": "History Mock - Mahatma Gandhi Events",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "DEh8S4jVG",
