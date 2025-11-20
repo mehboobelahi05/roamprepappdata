@@ -4555,16 +4555,11 @@
       },
       {
         "order": 5,
-        "string": "**Water-Soluble Vitamins**\n(Dissolve in water, not stored in body, daily intake needed)\n\nVitamin C → Ascorbic Acid\nVitamin B1 → Thiamine\nVitamin B2 → Riboflavin\nVitamin B3 → Niacin\nVitamin B5 → Pantothenic Acid\nVitamin B6 → Pyridoxine\nVitamin B7 → Biotin\nVitamin B9 → Folic Acid\nVitamin B12 → Cobalamin\n\n\n**Fat-Soluble Vitamins: KEDA**\n(Dissolve in fat, stored in liver & fatty tissues)\n\nVitamin A → Retinol\nVitamin D → Calciferol\nVitamin E → Tocopherol\nVitamin K → Phylloquinone / Menaquinone",
-        "uid": "P-i7ubpf0"
-      },
-      {
-        "order": 6,
         "string": "**Important Deficiency Diseases** \nImportant Deficiency Diseases\n\n**Scurvy: **\n▪️ caused due to deficiency of ^^Vitamin C (Ascorbic acid)^^\n\n**Rickets (in children): **\n▪️ caused due to deficiency of ^^Vitamin D^^\n\n**Osteomalacia (in adults): **\n▪️ caused due to deficiency of ^^Vitamin D^^\n\n**Beriberi: **\n▪️ caused due to deficiency of ^^Vitamin B1 (Thiamine)^^\n\n**Pellagra: **\n▪️ caused due to deficiency of ^^Vitamin B3 (Niacin)^^\n\n**Xerophthalmia/Night Blindness:** \n▪️ caused due to deficiency of ^^Vitamin A^^\n\n**Ariboflavinosis: **\n▪️ caused due to deficiency of ^^Vitamin B2 (Riboflavin)^^\n\n**Iron Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Iron^^\n\n**Goiter/Cretinism: **\n▪️ caused due to deficiency of ^^Iodine^^\n\n**Tetany: **\n▪️ caused due to deficiency of ^^Calcium (or Magnesium)^^\n\n**Kwashiorkor: **\n▪️ caused due to deficiency of ^^Protein^^ (with adequate calories)\n\n**Marasmus: **\n▪️ caused due to deficiency of ^^Protein and Calories^^\n\n**Folate Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Folate (Vitamin B9)^^\n\n**Vitamin B12 Deficiency Anemia: **\n▪️ caused due to deficiency of ^^Vitamin B12 (Cobalamin)^^\n\n**Vitamin K Deficiency (Hemorrhagic disease): **\n▪️ caused due to deficiency of ^^Vitamin K^^",
         "uid": "YUDoDMKqY"
       },
       {
-        "order": 7,
+        "order": 6,
         "string": "**COMMON SUGARS**\n▪️ Sucrose → table sugar = glucose + fructose\n▪️ Glucose → blood sugar, in fruit/honey\n▪️ Fructose → sweetest, in fruit & HFCS\n▪️ Lactose → milk sugar, many people can’t digest\n▪️ Maltose → from grains/starch\n▪️ HFCS → cheap soda sweetener (55 % fructose)\n\n**DISEASES CAUSED BY EXCESS SUGAR**\n▪️ Type 2 Diabetes → sugar spikes → insulin stops working\n▪️ Obesity → extra calories + fructose → belly fat\n▪️ Fatty Liver (NAFLD) → fructose turns straight into liver fat\n▪️ Heart Disease → sugar raises triglycerides & blood pressure\n▪️ Cavities → bacteria feast on sugar → acid eats teeth\n▪️ Gout → fructose raises uric acid → joint crystals\n▪️ Brain Fog & Mood Swings → sugar roller-coaster\n▪️ Cancer Risk ↑ → sugar feeds fast-growing cells\n▪️ Inflammation → chronic high sugar = body-wide swelling",
         "uid": "tjhayGkwM"
       }
@@ -4599,6 +4594,27 @@
         "order": 2,
         "string": "**Important Physics Laws**\n▪️ **Ohm’s Law** – It states that the current through a conductor is directly proportional to the voltage across it, provided the temperature remains constant.\n▪️ **Newton’s First Law** – A body remains at rest or in uniform motion unless acted upon by an external force.\n▪️ **Newton’s Second Law** – The rate of change of momentum of a body is directly proportional to the applied force.\n▪️ **Newton’s Third Law** – For every action, there is an equal and opposite reaction.\n▪️ **Law of Conservation of Energy** – Energy can neither be created nor destroyed; it can only change from one form to another.\n\n**Other Important Laws**\n▪️ **Hooke’s Law** – The extension of a spring is directly proportional to the force applied within the elastic limit.\n▪️ **Boyle’s Law** – The pressure of a gas is inversely proportional to its volume at constant temperature.\n▪️ **Charles’s Law** – The volume of a gas is directly proportional to its absolute temperature at constant pressure.\n▪️ **Faraday’s Law** – It states that a changing magnetic field induces an electromotive force (emf) in a conductor.\n▪️ **Archimedes’ Principle** – A body immersed in a fluid experiences an upward thrust equal to the weight of the fluid displaced.",
         "uid": "bmLhNjpKU"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "order": 0,
+                "string": "Sunlight contains seven colors: \n▪️ Seven colours: red, orange, yellow, green, blue, indigo, and violet (VIBGYOR). \n▪️ These colors are the components of the visible spectrum, and when combined, they form white light. \n▪️ **Violet:** The color with the shortest wavelength in the visible spectrum.\n▪️ **Red:** The color with the longest wavelength in the visible spectrum.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FDKdfao33Xc.png?alt=media&token=2c4f7a2b-5447-45a6-85fd-d15ed9b63432)",
+                "uid": "oza9xZ2rj"
+              }
+            ],
+            "heading": 3,
+            "order": 0,
+            "string": "Sunlight",
+            "uid": "WUyRJln-7"
+          }
+        ],
+        "heading": 3,
+        "order": 3,
+        "string": "Spectrum",
+        "uid": "yJheDzFx9"
       }
     ]
   },
