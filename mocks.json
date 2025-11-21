@@ -165,8 +165,44 @@
     "category": "general studies"
   },
   {
+    "id": "4917PI2rz",
+    "name": "Polity Mock - Parts and Schedules",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "wHTIgX5Ge",
+      "f9t8VXQ4H",
+      "L7IL05RrA",
+      "jj7XpUn6R",
+      "pUm-gFdLq",
+      "KmvTI_qSo",
+      "iH6Pxf54E",
+      "1m7BrWh90",
+      "ObxjWUQgh",
+      "wMtM_L2P9",
+      "O68zOwODM",
+      "oQKRrQN5D",
+      "-VTKET-Zu",
+      "wgv5Niz34",
+      "VZYptyg3D",
+      "9r40tcQ-e",
+      "eW59v_c2m",
+      "X_qyFR8gA",
+      "eEi5yp3-z",
+      "jKealPjpa",
+      "zRmJdFxZG",
+      "wUznqX_nm",
+      "ttVKejkfp",
+      "prFpM_4gD",
+      "6uu8SAwCL"
+    ],
+    "pdf_link": "",
+    "visibility": "",
+    "level": "medium",
+    "category": "general studies"
+  },
+  {
     "id": "OpwuAdWfO",
-    "name": "Polity Mock | Important Articles",
+    "name": "Polity Mock - Important Articles",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "HOqSs5667",
@@ -207,7 +243,7 @@
   },
   {
     "id": "csCq-e4KV",
-    "name": "Polity Mock | Important Amendments",
+    "name": "Polity Mock - Important Amendments",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "IIMReomaY",
