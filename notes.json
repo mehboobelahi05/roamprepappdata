@@ -1824,7 +1824,7 @@
       },
       {
         "order": 1,
-        "string": "**Nobel Prize 2025 Winners List** \n\n**Physiology or Medicine**\nNames: Mary E. Brunkow, Fred Ramsdell, Shimon Sakaguchi\nDiscovery: Discoveries concerning peripheral immune tolerance\n\n**Physics**\nNames: John Clarke, Michel H. Devoret, John M. Martinis\nDiscovery: Discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit\n\n**Chemistry**\nNames: Susumu Kitagawa, Richard Robson, Omar M. Yaghi\nDiscovery: For the development of metal-organic frameworks\n\n**Literature**\nNames: László Krasznahorkai\nDiscovery: For his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art\n\n**Peace**\nNames: María Corina Machado\nDiscovery: For her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy\n\n**Economic Sciences**\nNames: Joel Mokyr, Philippe Aghion, Peter Howitt\nDiscovery: For having explained innovation-driven economic growth; Joel Mokyr for identifying the prerequisites for sustained growth through technological progress, and Philippe Aghion and Peter Howitt for the theory of sustained growth through creative destruction",
+        "string": "**Nobel Prize 2025 Winners List** \n\n**Physiology or Medicine**\nNames: Mary E. Brunkow, Fred Ramsdell, Shimon Sakaguchi\nDiscovery: Discoveries concerning peripheral immune tolerance\n\n**Physics**\nNames: John Clarke, Michel H. Devoret, John M. Martinis\nDiscovery: Discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit\n\n**Chemistry**\nNames: Susumu Kitagawa, Richard Robson, Omar M. Yaghi\nDiscovery: For the development of metal-organic frameworks\n\n**Literature**\nNames: László Krasznahorkai\nDiscovery: For his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art\n\n**Peace**\nNames: ^^María Corina Machado^^\nDiscovery: For her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy\n---\nNote: First Female PM of Japan in 2025: Sanae Takaichi\n\n**Economic Sciences**\nNames: Joel Mokyr, Philippe Aghion, Peter Howitt\nDiscovery: For having explained innovation-driven economic growth; Joel Mokyr for identifying the prerequisites for sustained growth through technological progress, and Philippe Aghion and Peter Howitt for the theory of sustained growth through creative destruction",
         "uid": "Q76ca_QVU"
       }
     ]
@@ -1897,6 +1897,21 @@
         "uid": "U2jELCjjk"
       },
       {
+        "order": 1,
+        "string": "**First Backward Classes Commission**\n▪️ Officially: Socially and Educationally Backward Classes Commission\n▪️ Appointed: 29 January 1953\n▪️ Chairman: Kaka Kalelkar (Adibhatla Narayana Kalelkar)\n▪️ Popularly known as: Kaka Kalelkar Commission\n▪️ Submitted report: 30 March 1955\n▪️ Identified 2,399 castes/communities as socially and educationally backward\n▪️ Listed backward classes state-wise (first all-India list)\n▪️ Recommended 25–40% reservation in government jobs and educational institutions\n▪️ Suggested caste as primary criterion along with other social/educational indicators\n▪️ Report rejected by Central Government in 1961\n▪️ Reason for rejection: Caste-based identification would perpetuate caste system\n▪️ No reservations implemented based on this commission\n\n**Second Backward Classes Commission**\n▪️ Officially: Backward Classes Commission (for OBCs)\n▪️ Appointed: 1 January 1979 (announced by Morarji Desai government)\n▪️ Chairman: Bindheshwari Prasad Mandal (B.P. Mandal)\n▪️ Popularly known as: Mandal Commission\n▪️ Submitted report: December 1980\n▪️ Identified 3,743 castes/communities as Other Backward Classes (OBCs)\n▪️ Estimated OBC population at 52% of India’s total population\n▪️ Recommended 27% reservation for OBCs in central government jobs and education\n▪️ Implemented in 1990 by V.P. Singh government (National Front)\n▪️ Led to nationwide protests and anti-reservation agitation\n▪️ Supreme Court upheld 27% OBC reservation in Indra Sawhney case (1992) with conditions\n▪️ Introduced “creamy layer” exclusion and 50% reservation ceiling",
+        "uid": "V6mfDkfaL"
+      },
+      {
+        "order": 2,
+        "string": "**NITI Aayog**\n▪️ Full Form: NITI = National Institution for Transforming India\n▪️ Established: 1st January 2015 (via Cabinet resolution)\n▪️ Replaced: Planning Commission (1950–2014)\n▪️ Type: Non-constitutional, non-statutory advisory think tank\n▪️ Nature: Policy-making body of Government of India\n▪️ Works under the chairmanship of the Prime Minister of India\n\n**Leadership Structure**\n▪️ Chairperson: Prime Minister of India (ex-officio)\n▪️ Vice-Chairperson: Appointed by the Prime Minister\n▪️ CEO: Senior IAS officer (rank of Secretary to GoI)\n▪️ Full-time Members: Usually 2–4 experts\n▪️ Part-time Members: Rotating from relevant fields\n▪️ Ex-officio Members: Selected Union Ministers\n▪️ Special Invitees: Union Ministers as required\n▪️ Governing Council: Chief Ministers of all States + Lt. Governors of UTs + Administrators\n\n**Vision and Objectives**\n▪️ Foster cooperative federalism (Team India approach)\n▪️ Promote competitive federalism among states\n▪️ Act as a think tank for long-term vision and strategy\n▪️ Provide directional and policy inputs to Centre & States\n▪️ Design strategic and long-term policies and programmes\n▪️ Promote innovation, knowledge, and entrepreneurial ecosystem\n▪️ Monitor and evaluate implementation of programmes\n\n**Key Functions**\n▪️ Evolve a shared vision of national development priorities\n▪️ Develop strategic and long-term policy frameworks\n▪️ Innovation of new initiatives and best practices\n▪️ Provide platform for resolution of inter-sectoral and inter-departmental issues\n▪️ Maintain a state-of-the-art Resource Centre\n▪️ Focus on technology upgradation and capacity building\n▪️ Advise government on policy matters through evidence-based research",
+        "uid": "I2YUH8uVb"
+      },
+      {
+        "order": 3,
+        "string": "",
+        "uid": "40hlGvWXb"
+      },
+      {
         "children": [
           {
             "order": 0,
@@ -1904,7 +1919,7 @@
             "uid": "HYQLris4D"
           }
         ],
-        "order": 1,
+        "order": 4,
         "string": "Statutory Bodies",
         "uid": "bj2tpQYWM"
       }
@@ -2190,6 +2205,13 @@
             "uid": "MfRAySnEa"
           },
           {
+            "children": [
+              {
+                "order": 0,
+                "string": "Classical Languages (11):\n▪️ The 11 Classical Languages of India are: Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia, Marathi, Pali, Prakrit, Assamese, and Bengali. \n▪️ The first six were recognized between 2004 and 2014, while the government added the last five in October 2024\n**Original six classical languages**\nTamil (2004)\nSanskrit (2005)\nTelugu (2008)\nKannada (2008)\nMalayalam (2013)\nOdia (2014) \n**Recently added classical languages **\nMarathi (2024)\nPali (2024)\nPrakrit (2024)\nAssamese (2024)\nBengali (2024) \n----\n▪️ India has no (0) NATIONAL languages. \n▪️ India has two OFFICIAL languages: Hindi and English\n▪️ India as 22 SCHEDULED languages. \n---\n▪️ SCO Official Languages (2): Russian and Chinese \n▪️ UNSC Official Languages(6): French, Arabic, Chinese, English, Russian and Spanish",
+                "uid": "iwJ164zWK"
+              }
+            ],
             "order": 6,
             "string": "**Eighth Schedule: **\n▪️ Lists the Scheduled Languages recognized by the Constitution. \n▪️ Originally 14 languages; Currently contains 22 languages.\n((AiGr3c3fA))",
             "uid": "WbEjN9fdI"
@@ -4003,7 +4025,7 @@
       },
       {
         "order": 20,
-        "string": "**Lord Willingdon 1931–36**\n▪️ Second Round Table Conference (1931) and failure of the conference, resumption of Civil Disobedience Movement. \n▪️ Announcement of Communal Award (1932) under which separate communal electorates were set up.\n▪️ ‘Fast unto death’ by Gandhi in Yeravada prison, broken after the Poona Pact (1932).\n▪️ Third Round Table Conference (1932).\n▪️ Launch of Individual Civil Disobedience (1933).\n▪️ The Government of India Act of 1935.\n▪️ Establishment of All India Kisan Sabha (1936) and Congress Socialist Party by Acharya Narendra Dev and Jayaprakash Narayan (1934).\n▪️ Burma separated from India (1935).",
+        "string": "**Lord Willingdon 1931–36**\n▪️ ^^Second Round Table Conference^^ (1931) and failure of the conference, resumption of Civil Disobedience Movement. \n▪️ Announcement of ^^Communal Award ^^(1932) under which separate communal electorates were set up.\n▪️ ‘Fast unto death’ by Gandhi in Yeravada prison, broken after the ^^Poona Pact^^ (1932).\n▪️ Third Round Table Conference (1932).\n▪️ Launch of Individual Civil Disobedience (1933).\n▪️ The Government of India Act of 1935.\n▪️ Establishment of All India Kisan Sabha (1936) and Congress Socialist Party by Acharya Narendra Dev and Jayaprakash Narayan (1934).\n▪️ Burma separated from India (1935).",
         "uid": "i-RxgbaV2"
       },
       {
@@ -4052,7 +4074,7 @@
       },
       {
         "order": 1,
-        "string": "**Important Battles Notes:**\n▪️1526: First Battle of Panipat (Babur defeats Ibrahim Lodi; Mughal Empire founded)\n▪️1556: Second Battle of Panipat (Akbar defeats Hemu; Mughal control restored)\n▪️1565: Battle of Talikota (Deccan Sultanates defeat Vijayanagara Empire)\n▪️1576: Battle of Haldighati (Akbar defeats Maharana Pratap; Mewar resists)\n▪️1615: Mewar submits to Mughals (Treaty after prolonged resistance)\n▪️1659: Battle of Khajwa (Aurangzeb defeats Shah Shuja; consolidates power)\n▪️1664: Shivaji defeats Mughals at Battle of Surat (loots city)\n▪️1680: Battle of Sangamner (Shivaji’s last major victory)\n▪️1707: Battle of Jajau (Bahadur Shah I defeats Azam Shah; succession war)\n▪️1737: Battle of Bhopal (Bajirao I defeats Mughals; Maratha dominance rises)\n▪️1739: Battle of Karnal (Nadir Shah defeats Mughals; Delhi sacked)\n▪️1741: Battle of Colachel (Travancore defeats Dutch East India Company)\n▪️1757: Battle of Plassey (British defeat Siraj-ud-Daulah; East India Company gains Bengal)\n▪️1761: Third Battle of Panipat (Ahmad Shah Abdali defeats Marathas)\n▪️1764: Battle of Buxar (British defeat combined Indian forces; gains Diwani rights)\n▪️1775: First Anglo-Maratha War begins (ends 1782 with Treaty of Salbai)\n▪️1799: Fourth Anglo-Mysore War; Battle of Seringapatam (Tipu Sultan killed)\n▪️1803: Second Anglo-Maratha War; Battle of Assaye (Wellesley defeats Scindia & Bhonsle)\n▪️1817: Third Anglo-Maratha War (Maratha Confederacy dissolved)\n▪️1826: Siege of Bharatpur (British capture last major Indian stronghold)\n▪️1857: Siege of Delhi (British recapture Delhi from rebels)\n▪️1857: Siege of Lucknow (British relieve Residency during Revolt)\n▪️1858: Battle of Jhansi (British defeat Rani Lakshmibai’s forces)\n▪️1897: Battle of Saragarhi (36 Sikhs vs 10,000 Afghans; heroic last stand)\n▪️1914: Battle of Tanga (WW1; Indian troops under British vs Germans in East Africa)\n▪️1915: Battle of Neuve Chapelle (WW1; Indian troops in France)\n▪️1942: Fall of Singapore (WW2; largest British surrender; Indian troops involved)\n▪️1944: Battle of Imphal-Kohima (WW2; Allied victory halts Japanese advance)\n▪️1962: Battle of Rezang La (Sino-Indian War; 114 Indian soldiers vs 3000 Chinese)\n▪️1965: Battle of Phillora (Indo-Pak; largest tank battle since WW2)\n▪️1971: Battle of Longewala (Indo-Pak; 120 Indian troops vs 2000+ Pakistani)\n▪️1971: Battle of Basantar (Indo-Pak; major tank engagements)\n▪️1999: Kargil War – Battle of Tololing (Indian Army recaptures key peak)\n▪️1999: Kargil War – Tiger Hill captured (decisive high-altitude victory)",
+        "string": "**Important Battles Notes:**\n▪️1526: First Battle of Panipat (Babur defeats Ibrahim Lodi; Mughal Empire founded)\n▪️1556: Second Battle of Panipat (Akbar defeats Hemu; Mughal control restored)\n▪️1565: Battle of ^^Talikota^^ (Deccan Sultanates defeat Vijayanagara Empire)\n▪️1576: Battle of ^^Haldighati^^ (Akbar defeats Maharana Pratap; Mewar resists)\n▪️1615: Mewar submits to Mughals (Treaty after prolonged resistance)\n▪️1659: Battle of Khajwa (Aurangzeb defeats Shah Shuja; consolidates power)\n▪️1664: Shivaji defeats Mughals at Battle of Surat (loots city)\n▪️1680: Battle of Sangamner (Shivaji’s last major victory)\n▪️1707: Battle of Jajau (Bahadur Shah I defeats Azam Shah; succession war)\n▪️1737: Battle of Bhopal (Bajirao I defeats Mughals; Maratha dominance rises)\n▪️1739: Battle of Karnal (Nadir Shah defeats Mughals; Delhi sacked)\n▪️1741: Battle of Colachel (Travancore defeats Dutch East India Company)\n▪️1757: Battle of ^^Plassey^^ (British defeat Siraj-ud-Daulah; East India Company gains Bengal)\n▪️1761: Third Battle of Panipat (Ahmad Shah Abdali defeats Marathas)\n▪️1764: Battle of ^^Buxar^^ (British defeat combined Indian forces; gains Diwani rights)\n▪️1775: First Anglo-Maratha War begins (ends 1782 with Treaty of Salbai)\n▪️1799: Fourth Anglo-Mysore War; Battle of Seringapatam (Tipu Sultan killed)\n▪️1803: Second Anglo-Maratha War; Battle of Assaye (Wellesley defeats Scindia & Bhonsle)\n▪️1817: Third Anglo-Maratha War (Maratha Confederacy dissolved)\n▪️1826: Siege of Bharatpur (British capture last major Indian stronghold)\n▪️1857: Siege of Delhi (British recapture Delhi from rebels)\n▪️1857: Siege of Lucknow (British relieve Residency during Revolt)\n▪️1858: Battle of Jhansi (British defeat Rani Lakshmibai’s forces)\n▪️1897: Battle of Saragarhi (36 Sikhs vs 10,000 Afghans; heroic last stand)\n▪️1914: Battle of Tanga (WW1; Indian troops under British vs Germans in East Africa)\n▪️1915: Battle of Neuve Chapelle (WW1; Indian troops in France)\n▪️1942: Fall of Singapore (WW2; largest British surrender; Indian troops involved)\n▪️1944: Battle of Imphal-Kohima (WW2; Allied victory halts Japanese advance)\n▪️1962: Battle of Rezang La (Sino-Indian War; 114 Indian soldiers vs 3000 Chinese)\n▪️1965: Battle of Phillora (Indo-Pak; largest tank battle since WW2)\n▪️1971: Battle of Longewala (Indo-Pak; 120 Indian troops vs 2000+ Pakistani)\n▪️1971: Battle of Basantar (Indo-Pak; major tank engagements)\n▪️1999: Kargil War – Battle of Tololing (Indian Army recaptures key peak)\n▪️1999: Kargil War – Tiger Hill captured (decisive high-altitude victory)",
         "uid": "9LW9SIyhj"
       },
       {
@@ -4228,7 +4250,7 @@
           },
           {
             "order": 9,
-            "string": "**Saturn:** It has 83 known satellites. Titan is the largest moon of Saturn.",
+            "string": "**Saturn:** \nTitan is the largest moon of Saturn.\n^^Very Important^^\n▪️ Astronomers discover 128 new moons orbiting Saturn\nThis article is more than 8 months old\nPlanet now has 274 moons, almost twice as many as all the other planets in the solar system combined",
             "uid": "sTMZ5fbDl"
           }
         ],
@@ -4633,7 +4655,7 @@
       },
       {
         "order": 1,
-        "string": "**RBI (Reserve Bank of India)**\n▪️ Founded April 1, 1935, under RBI Act 1934; \n▪️ RBI is a statutory body i.e established under an act of parliament\n▪️ HQ in Mumbai (shifted from Kolkata in 1937); \n▪️ Nationalized in 1949.\n▪️ Current Governor: Sanjay Malhotra (appointed Dec 2024; oversees monetary policy & banking regs).\n\n**Core Functions:**\n▪️ Issue & manage currency (regulates money supply).\n▪️ Formulate & implement monetary policy (e.g., repo rate, CRR, SLR to control inflation & growth).\n▪️ Banker to govt (manages public debt, accounts).\n▪️ Regulator of banks & NBFCs\n▪️ Forex management\n▪️ Promotes financial inclusion \n▪️ Bank of last resort for bankers",
+        "string": "**RBI (Reserve Bank of India)**\n▪️ Founded April 1, 1935, under RBI Act 1934; \n▪️ RBI is a statutory body i.e established under an act of parliament\n▪️ HQ in Mumbai (shifted from Kolkata in 1937); \n▪️ Nationalized in 1949.\n▪️ Current RBI governor: \n▪️ Current Governor: Sanjay Malhotra (appointed Dec 2024; oversees monetary policy & banking regs).\n\n**Core Functions:**\n▪️ Issue & manage currency (regulates money supply).\n▪️ Formulate & implement monetary policy (e.g., repo rate, CRR, SLR to control inflation & growth).\n▪️ Banker to govt (manages public debt, accounts).\n▪️ Regulator of banks & NBFCs\n▪️ Forex management\n▪️ Promotes financial inclusion \n▪️ Bank of last resort for bankers",
         "uid": "GFTa5LjWS"
       },
       {
