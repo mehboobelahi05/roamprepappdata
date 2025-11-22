@@ -1,7 +1,43 @@
 [
   {
+    "id": "bgcgZ4uTk",
+    "name": "GS Full Mock Test-2",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "X7v6ARjCE",
+      "mPGJt42nQ",
+      "noHObkbJJ",
+      "5zwwdXS9w",
+      "UZ_CeL6cD",
+      "HB7YEohqU",
+      "NMJB1AU2J",
+      "fAvtokY6V",
+      "9VQHT3rwu",
+      "gCAAe2op1",
+      "L0Teb7q4d",
+      "Hi3NToEL5",
+      "mkGhM10N8",
+      "gWlA5zsF4",
+      "qwaAiFYXH",
+      "nO7npMWcP",
+      "sQY9Tr8R0",
+      "s--FKle4P",
+      "x1XaxajJg",
+      "WQ0HtnITQ",
+      "NafB7f9JW",
+      "GrQV455Tk",
+      "8-ljcU7Cz",
+      "ic9EGN1fN",
+      "2XIq_C2DG"
+    ],
+    "pdf_link": "",
+    "visibility": "all",
+    "level": "medium",
+    "category": "general studies"
+  },
+  {
     "id": "IGxoz9vo7",
-    "name": "GK Full Mock 1 | Hard+",
+    "name": "GK Full Mock Test 1 - Hard+",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "fmsr2_CH5",
@@ -57,7 +93,7 @@
       "POOGypm9A"
     ],
     "pdf_link": "",
-    "visibility": "",
+    "visibility": "all",
     "level": "medium",
     "category": "general studies"
   },
@@ -453,7 +489,7 @@
       "_MFbVrgzb"
     ],
     "pdf_link": "",
-    "visibility": "",
+    "visibility": "all",
     "level": "medium",
     "category": "general studies"
   },
@@ -484,7 +520,7 @@
       "pHdvQ9BnG"
     ],
     "pdf_link": "",
-    "visibility": "",
+    "visibility": "all",
     "level": "medium",
     "category": "general studies"
   },
@@ -1530,7 +1566,7 @@
       "vKBIYIhNh"
     ],
     "pdf_link": null,
-    "visibility": "",
+    "visibility": "all",
     "level": "Medium"
   },
   {
