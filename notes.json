@@ -4981,6 +4981,82 @@
     ]
   },
   {
+    "page_title": "Vitamins",
+    "page_uid": "Hy8Wuk4CH",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Water-Soluble Vitamins**\n▪️ Dissolve in water, not stored in body, daily intake needed)\nVitamin C → Ascorbic Acid\nVitamin B1 → Thiamine\nVitamin B2 → Riboflavin\nVitamin B3 → Niacin\nVitamin B5 → Pantothenic Acid\nVitamin B6 → Pyridoxine\nVitamin B7 → Biotin\nVitamin B9 → Folic Acid\nVitamin B12 → Cobalamin\n\n\n**Fat-Soluble Vitamins: KEDA**\n▪️ Dissolve in fat, stored in liver & fatty tissues\nVitamin A → Retinol\nVitamin D → Calciferol\nVitamin E → Tocopherol\nVitamin K → Phylloquinone / Menaquinone",
+        "uid": "P-i7ubpf0"
+      },
+      {
+        "order": 1,
+        "string": "**Vitamin A:**  \n▪️ Chemical name: Retinol (animal source), Beta-carotene (plant source/provitamin A)  \n▪️ Functions: Essential for vision (especially night vision), growth & development, immune system, healthy skin & mucous membranes  \n▪️ Sources: Liver, fish oil, eggs, milk, carrot, pumpkin, spinach, mango, papaya, sweet potato  \n▪️ Diseases: Deficiency → Night blindness, Xerophthalmia, increased infections; Excess → Hypervitaminosis A (nausea, birth defects)",
+        "uid": "oITwtZScQ"
+      },
+      {
+        "order": 2,
+        "string": "**Vitamin B1:**  \n▪️ Chemical name: Thiamine  \n▪️ Functions: Carbohydrate metabolism, proper functioning of nerves, heart & muscles  \n▪️ Sources: Whole grains, pulses, nuts, pork, yeast, legumes  \n▪️ Diseases: Deficiency → Beriberi (wet & dry), Wernicke-Korsakoff syndrome",
+        "uid": "CScZ4jk6-"
+      },
+      {
+        "order": 3,
+        "string": "**Vitamin B2: ** \n▪️ Chemical name: Riboflavin  \n▪️ Functions: Energy production, healthy skin & eyes, works as antioxidant  \n▪️ Sources: Milk, eggs, green leafy vegetables, liver, mushrooms  \n▪️ Diseases: Deficiency → Ariboflavinosis (cracks at corners of mouth, sore tongue, photophobia",
+        "uid": "ACrF1qDKT"
+      },
+      {
+        "order": 4,
+        "string": "**Vitamin B3:**  \n▪️ Chemical name: Niacin (Nicotinic acid)  \n▪️ Functions: Energy metabolism, DNA repair, healthy skin & nerves  \n▪️ Sources: Meat, fish, poultry, peanuts, whole grains, mushrooms  \n▪️ Diseases: Deficiency → Pellagra (4D’s: Dermatitis, Diarrhoea, Dementia, Death)",
+        "uid": "nfJFhaNmr"
+      },
+      {
+        "order": 5,
+        "string": "**Vitamin B5:**  \n▪️ Chemical name: Pantothenic acid  \n▪️ Functions: Synthesis of coenzyme A, fat & carbohydrate metabolism  \n▪️ Sources: Widely present – meat, egg yolk, broccoli, avocado, whole grains  \n▪️ Diseases: Deficiency → Rare (burning feet syndrome)",
+        "uid": "Ne8mlzSXN"
+      },
+      {
+        "order": 6,
+        "string": "**Vitamin B6:**\n▪️ Chemical name: Pyridoxine  \n▪️ Functions: Protein metabolism, haemoglobin formation, neurotransmitter synthesis  \n▪️ Sources: Poultry, fish, banana, potato, chickpeas, fortified cereals  \n▪️ Diseases: Deficiency → Anaemia, dermatitis, depression, convulsions",
+        "uid": "cNx7ZYLnN"
+      },
+      {
+        "order": 7,
+        "string": "**Vitamin B7:**  \n▪️ Chemical name: Biotin  \n▪️ Functions: Metabolism of fats, carbohydrates & proteins, healthy hair & nails  \n▪️ Sources: Egg yolk, liver, nuts, soybeans, yeast  \n▪️ Diseases: Deficiency → Dermatitis, hair loss, neurological symptoms",
+        "uid": "ZiZve41p7"
+      },
+      {
+        "order": 8,
+        "string": "**Vitamin B9:**  \n▪️ Chemical name: Folic acid (synthetic), Folate (natural)  \n▪️ Functions: DNA synthesis, red blood cell formation, prevents neural tube defects in foetus  \n▪️ Sources: Green leafy vegetables, legumes, citrus fruits, fortified cereals  \n▪️ Diseases: Deficiency → Megaloblastic anaemia, neural tube defects in newborn",
+        "uid": "3qkFdAdFX"
+      },
+      {
+        "order": 9,
+        "string": "**Vitamin B12:**  \n▪️ Chemical name: Cobalamin (Cyanocobalamin/Methylcobalamin)  \n▪️ Functions: RBC formation, neurological function, DNA synthesis  \n▪️ Sources: Only animal sources – meat, fish, eggs, dairy (vegans need supplements)  \n▪️ Diseases: Deficiency → Pernicious anaemia, megaloblastic anaemia, neurological damage",
+        "uid": "LKRGrixZn"
+      },
+      {
+        "order": 10,
+        "string": "**Vitamin C:**  \n▪️ Chemical name: Ascorbic acid  \n▪️ Functions: Powerful antioxidant, collagen synthesis, iron absorption, immunity  \n▪️ Sources: Citrus fruits, amla, guava, kiwi, bell peppers, strawberries  \n▪️ Diseases: Deficiency → Scurvy (bleeding gums, poor wound healing); Excess → Usually safe (diarrhoea at high doses)",
+        "uid": "OW-10HyNp"
+      },
+      {
+        "order": 11,
+        "string": "**Vitamin D:**  \n▪️ Chemical name: Calciferol (D₂ = Ergocalciferol, D₃ = Cholecalciferol)  \n▪️ Functions: Calcium & phosphorus absorption, bone & teeth health, immunity  \n▪️ Sources: Sunlight exposure, fatty fish, egg yolk, fortified milk, mushrooms  \n▪️ Diseases: Deficiency → Rickets (children), Osteomalacia (adults); Excess → Hypercalcemia",
+        "uid": "vxP2XCUXx"
+      },
+      {
+        "order": 12,
+        "string": "**Vitamin E:**  \n▪️ Chemical name: Tocopherol  \n▪️ Functions: Antioxidant (protects cell membranes), prevents oxidation of LDL  \n▪️ Sources: Vegetable oils, nuts, seeds, wheat germ, spinach  \n▪️ Diseases: Deficiency → Rare (neurological problems, haemolytic anaemia in premature infants)",
+        "uid": "PgkoMgHfo"
+      },
+      {
+        "order": 13,
+        "string": "**Vitamin K:**  \n▪️ Chemical name: Phylloquinone (K₁), Menaquinone (K₂)  \n▪️ Functions: Blood clotting (synthesis of prothrombin), bone health  \n▪️ Sources: Green leafy vegetables (Kale, spinach, broccoli, fermented foods (natto for K₂)  \n▪️ Diseases: Deficiency → Bleeding tendency, haemorrhagic disease in newborns",
+        "uid": "SXZjBrgdq"
+      }
+    ]
+  },
+  {
     "page_title": "Unit Measurements",
     "page_uid": "cQMfcdbb0",
     "blocks": [
