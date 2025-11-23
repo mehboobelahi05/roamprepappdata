@@ -2612,13 +2612,18 @@
       },
       {
         "order": 1,
-        "string": "**Lok Sabha**\nWatch video: {video:oShrn9mU6wg:69}\n▪️ The lok sabha is the lower house of the parliament\n▪️ Its strength is 550 i.e maximum 550 members.\n▪️ Out of total 550 members, 530 members representing the States and 20 representing the Union Territories.\n▪️ The minimum age require to became a member of Lok Sabha is 25 years.\n▪️ The tenure of lok sabha members is 5 years.\n\n**Lok Sabha Speaker**\n▪️ The head of the lok sabha is called as speaker.\n▪️ Speaker is elected by the members of the house, from among them selves.\n▪️ The tenure of the speaker is same as the members i.e 5 years.",
+        "string": "**Lok Sabha**\nWatch video: {video:oShrn9mU6wg:69}\n▪️ The lok sabha is the lower house of the parliament\n▪️ Its strength is 550 i.e maximum 550 members.\n▪️ Out of total 550 members, 530 members representing the States and 20 representing the Union Territories.\n▪️ The minimum age require to became a member of Lok Sabha is 25 years.\n▪️ The tenure of lok sabha members is 5 years.\n\n**Lok Sabha Speaker**\n▪️ The head of the lok sabha is called as speaker.\n▪️ Speaker is elected by the members of the house, from among them selves.\n▪️ The tenure of the speaker is same as the members i.e 5 years.\n---\n((w9S-fcFNa))",
         "uid": "4Bo0lVdvW"
       },
       {
         "order": 2,
-        "string": "**Rajya Sabha**\nWatch video: {video:oShrn9mU6wg:69}\n▪️ The lok sabha is the upper house of the parliament\n▪️ Its strength is 250 i.e maximum 550 members\n▪️ Out of 250, 238 are indirectly elected, and 12 are nominated by the president. \n▪️ The tenure of rajya sabha members is 6 years.\n▪️ The minimum age require to became a member of Rajya Sabha is 30 years.\n\n**Rajya Sabha Chairman**\n▪️ The head of the rajye sabha is called as chairman.\n▪️ The  Vice President of India, acts as the chairman of the rajya sabha.\n▪️ The tenure of the rajya sabha chairman is thus same as the vice president i.e 5 years.",
+        "string": "**Rajya Sabha**\nWatch video: {video:oShrn9mU6wg:69}\n▪️ The lok sabha is the upper house of the parliament\n▪️ Its strength is 250 i.e maximum 550 members\n▪️ Out of 250, 238 are indirectly elected, and 12 are nominated by the president. \n▪️ The tenure of rajya sabha members is 6 years.\n▪️ The minimum age require to became a member of Rajya Sabha is 30 years.\n\n**Rajya Sabha Chairman**\n▪️ The head of the rajye sabha is called as chairman.\n▪️ The  Vice President of India, acts as the chairman of the rajya sabha.\n▪️ The tenure of the rajya sabha chairman is thus same as the vice president i.e 5 years.\n--\n((w9S-fcFNa))",
         "uid": "S0k7ysuhi"
+      },
+      {
+        "order": 3,
+        "string": "Minimum Ages:\n18 years: for voting\n21 years: for local bodies\n25 years: for member of lok sabha and legislative assemblies\n30 years: for members of rajya sabh and legislative councils.\n35 years: for president, vice president and governor. \n---\nMaximum age:\n62: HC judges\n65: SC judges",
+        "uid": "w9S-fcFNa"
       }
     ]
   },
@@ -2659,7 +2664,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Supreme Court of India**\n▪️ Established on Jan 28 1950\n▪️ SC is the final court of appeal in India.\n▪️ SC is the guardian of the constitution in India\n▪️ SC is the final interpreter of the constitution in India. \n\n**Strength of Judges in Supreme Court (SC):**\n▪️ Decide by the Parliament\n▪️ Current Sanctioned Strength: 34 (including Chief Justice of India – CJI).\n▪️ Current Status (as of Nov 2025): Full strength of 34 judges.\n▪️ Key Fact: Increased from 31 to 34 via Constitution (15th Amendment) Act, 2019.\n▪️ Article Reference: Article 124(1) of the Constitution.\n▪️ Current CIJ: Bhushan Ramkrishna Gavai (as of Nov 2025)\n\n**Strength of Judges in High Court (HC):**\n▪️ Decide by the President\n▪️ Total Sanctioned Strength Varies court by court.\n▪️ Article Reference: Article 216 of the Constitution.\n\n**Retirement Age of SC Judge:**\n▪️ Age: 65 years.\n▪️ Tenure: 6 years\n▪️ Holds office for 6 years or until the age  of 65 years, which ever is earlier\n\n**Retirement Age of HC Judge:**\n▪️ Age: 62 years.\n▪️ Tenure: 6 years\n▪️ Holds office for 6 years or until the age  of 62 years, which ever is earlier",
+        "string": "**Supreme Court of India**\n▪️ Established on Jan 28 1950\n▪️ SC is the final court of appeal in India.\n▪️ SC is the guardian of the constitution in India\n▪️ SC is the final interpreter of the constitution in India. \n\n**Strength of Judges in Supreme Court (SC):**\n▪️ Decide by the Parliament\n▪️ Current Sanctioned Strength: 34 (including Chief Justice of India – CJI).\n▪️ Current Status (as of Nov 2025): Full strength of 34 judges.\n▪️ Key Fact: Increased from 31 to 34 via Constitution (15th Amendment) Act, 2019.\n▪️ Article Reference: Article 124(1) of the Constitution.\n▪️ Current CIJ: Bhushan Ramkrishna Gavai (as of Nov 2025)\n\n**Strength of Judges in High Court (HC):**\n▪️ Decide by the President\n▪️ Total Sanctioned Strength Varies court by court.\n▪️ Article Reference: Article 216 of the Constitution.\n\n**Retirement Age of SC Judge:**\n▪️ Age: 65 years.\n▪️ Tenure: 6 years\n▪️ Holds office for 6 years or until the age  of 65 years, which ever is earlier\n\n**Retirement Age of HC Judge:**\n▪️ Age: 62 years.\n▪️ Tenure: 6 years\n▪️ Holds office for 6 years or until the age  of 62 years, which ever is earlier\n---\n((w9S-fcFNa))",
         "uid": "Z-1EHgvMU"
       },
       {
@@ -3226,6 +3231,11 @@
             "order": 4,
             "string": "**Death of Buddha**\n▪️ Buddha passed away at the age of 80 in Kushinagar, Uttar Pradesh, around 483 BCE. \n▪️ His death is referred to as Mahaparinirvana, marking his final release from the cycle of birth and rebirth.\n▪️ Immediately After his death 1st buddhist council was held at Rajgir patronaged by king Ajatashatru of Haryanka dynasty.",
             "uid": "Ph7bWzkIP"
+          },
+          {
+            "order": 5,
+            "string": "**Five Important Events in the Life of Buddha**\n**1. Birth (Janma):**\nBorn in 563 BCE (according to traditional accounts) in Lumbini, Kapilavastu (in present-day Nepal).\nSymbol: Lotus\n**2. Renunciation (mahābhiniṣkramaṇa):**\nRenounced worldly life at the age of 29.\nSymbol: Horse\n**3. Enlightenment (Nirvana):**\nAttained enlightenment at the age of 35 at Bodh Gaya, Bihar, under the Bodhi Tree, near the Niranjana River.\nSymbol: Bodhi Tree\n**4. First Sermon (Dharmachakra Parivartana):**\nLocation: Sarnath, near Varanasi.\nSymbol: Wheel (Dharmachakra)\n**5. Death (Mahaparinirvana):**\nPassed away at the age of 80, around 483 BCE, at Kusinagar, in UP.\nSymbol: Stupa\n\nImportant Stupas:\n**Sanchi Stupa:** Located in Madhya Pradesh, commissioned by Emperor Ashoka. \nIt is a UNESCO World Heritage Site.\n\n**Shanti Stupa:** Located in Ladakh, built as a symbol of peace.",
+            "uid": "7qJZEzxEK"
           }
         ],
         "heading": 3,
