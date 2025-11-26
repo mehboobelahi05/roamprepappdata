@@ -31,7 +31,7 @@
       "2XIq_C2DG"
     ],
     "pdf_link": "",
-    "visibility": "all",
+    "visibility": "",
     "level": "medium",
     "category": "general studies"
   },
@@ -93,7 +93,7 @@
       "POOGypm9A"
     ],
     "pdf_link": "",
-    "visibility": "all",
+    "visibility": "",
     "level": "medium",
     "category": "general studies"
   },
@@ -453,7 +453,7 @@
       "aD-3vAsuV"
     ],
     "pdf_link": "",
-    "visibility": "all",
+    "visibility": "",
     "level": "medium",
     "category": "general studies"
   },
@@ -489,7 +489,7 @@
       "_MFbVrgzb"
     ],
     "pdf_link": "",
-    "visibility": "all",
+    "visibility": "",
     "level": "medium",
     "category": "general studies"
   },
@@ -520,7 +520,7 @@
       "pHdvQ9BnG"
     ],
     "pdf_link": "",
-    "visibility": "all",
+    "visibility": "",
     "level": "medium",
     "category": "general studies"
   },
@@ -1460,8 +1460,118 @@
     "level": "Hard"
   },
   {
+    "id": "mSTQX25Kh",
+    "name": "KSSRB LSSRB Mock Test 11 (10th Level)",
+    "type": "kssrbMockTests",
+    "que_ids": [
+      "uLKPyKcaJ",
+      "znVxcPKxO",
+      "UTEjMpgwd",
+      "E-lZ8I7DO",
+      "Xtc04ZuM9",
+      "359dqxAVd",
+      "UToiGcEjd",
+      "oWI5h4sa5",
+      "VfNfQrbz0",
+      "vaOS_hFxu",
+      "Rmjql_2kJ",
+      "ovFKSFz7P",
+      "UnMu5gyVn",
+      "GUApLEW6M",
+      "edGqqEdNH",
+      "67ssY8Wt1",
+      "BwsYXkPfS",
+      "ybxN9_HCQ",
+      "4CoodspLx",
+      "3DbXe3lN6",
+      "9iEuNBzOL",
+      "HB7YEohqU",
+      "UVvFuQmgG",
+      "S6le6thxX",
+      "s6XJgM_Fy",
+      "-S66y8aVQ",
+      "Txe9l__st",
+      "eP-FObUTp",
+      "1xNflEyaX",
+      "nGwDu4Hpc",
+      "yKnfOJMBJ",
+      "foryn5uKX",
+      "SWTsnOqBq",
+      "4PsDnIT2j",
+      "h0E9X2E0n",
+      "wCmWaboq_",
+      "4uQ1JMevB",
+      "0UD4qspIC",
+      "iBQsRyGgV",
+      "p9zmFJMDx",
+      "p0bWPe5tw",
+      "e8PR94ui2",
+      "um8M8CwQb",
+      "xQlQygXHD",
+      "wJ7SrNaU9",
+      "2utSA3T6x",
+      "OGZe9eQII",
+      "iySEzbhal",
+      "LxrnwFa0G",
+      "IaswMbpeR",
+      "mG_GiPlIQ",
+      "9_nra-Qu4",
+      "yn3FV8Fm0",
+      "FoJcghDn-",
+      "HQ0EO3SCn",
+      "IyxZVWK15",
+      "LOD6drYlZ",
+      "5l8_vOEG_",
+      "0_WoUQXHQ",
+      "w3NcSCmCl",
+      "5d8wFL46S",
+      "E0ibA2DYD",
+      "p3Y9jEvlH",
+      "Gggfyl3xP",
+      "hEbSPT5yv",
+      "X5KQO2VQp",
+      "tRZep2X_g",
+      "mEu00P-yL",
+      "atpkMsOu1",
+      "Z2Lo1iPkU",
+      "O1U4IZw-o",
+      "NES8WsFHF",
+      "wlB46VhAW",
+      "oypWZ_ROm",
+      "v6-HwRcw5",
+      "8XMXAdsoR",
+      "IICj6hQLo",
+      "On9uPad9W",
+      "lPtfPg4Oj",
+      "aR1Itxgwq",
+      "qFubWyl9i",
+      "dVSI7qyWi",
+      "rfk8eyKYQ",
+      "yG3KQcEgW",
+      "oODFO1Q5o",
+      "OvHHneZ98",
+      "Qq8Kp-ZlS",
+      "RK3ghjOVm",
+      "A5k3G12E-",
+      "GZwA1op-t",
+      "NbG9t1kKG",
+      "GYwhF9LvS",
+      "N-MolRYaf",
+      "LrMlRjjU-",
+      "_Ks5dBrwH",
+      "ORJpwkHnl",
+      "G3WE83Ohp",
+      "Ub2G6Zyx2",
+      "1EuNWGS5F",
+      "WKHzJQP7a"
+    ],
+    "pdf_link": null,
+    "visibility": "",
+    "level": "Medium"
+  },
+  {
     "id": "YTa_fNswW",
-    "name": "KSSRB Mock Test 10 (10+2 Level)",
+    "name": "KSSRB LSSRB Mock Test 10 (10+2 Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "AYMmzBZzW",
@@ -1566,12 +1676,12 @@
       "vKBIYIhNh"
     ],
     "pdf_link": null,
-    "visibility": "all",
+    "visibility": "",
     "level": "Medium"
   },
   {
     "id": "6SkhTcZew",
-    "name": "KSSRB Mock Test 9 (10+2 Level)",
+    "name": "KSSRB LSSRB Mock Test 9 (10+2 Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "bZrT1CxUP",
@@ -1681,7 +1791,7 @@
   },
   {
     "id": "P1VQe8Ljo",
-    "name": "KSSRB Mock Test 8 (10+2 Level)",
+    "name": "KSSRB LSSRB Mock Test 8 (10+2 Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "gtzR9YTi7",
@@ -1791,7 +1901,7 @@
   },
   {
     "id": "HlFJZr0QT",
-    "name": "KSSRB Mock Test 7 (10th Level)",
+    "name": "KSSRB LSSRB Mock Test 7 (10th Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "6WfjAmV2k",
@@ -1901,7 +2011,7 @@
   },
   {
     "id": "gauwDLOqS",
-    "name": "KSSRB Mock Test 6 (10+2 Level)",
+    "name": "KSSRB LSSRB Mock Test 6 (10+2 Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "MJ-Dyvqnt",
@@ -2011,7 +2121,7 @@
   },
   {
     "id": "Q4fSnhV5F",
-    "name": "KSSRB Mock Test 5 (Graduation Level)",
+    "name": "KSSRB LSSRB Mock Test 5 (Graduation Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "cB-wx8TWp",
@@ -2121,7 +2231,7 @@
   },
   {
     "id": "AoqWbs83O",
-    "name": "KSSRB Mock Test 4 (10th Level)",
+    "name": "KSSRB LSSRB Mock Test 4 (10th Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "ilLN2Ojty",
@@ -2341,7 +2451,7 @@
   },
   {
     "id": "ylameAb7Y",
-    "name": "KSSRB Mock Test 2 (10+2 Level)",
+    "name": "KSSRB LSSRB Mock Test 2 (10+2 Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "YPqugVkC4",
@@ -2451,7 +2561,7 @@
   },
   {
     "id": "BD-EacuGz",
-    "name": "KSSRB Mock Test 1 (10th Level)",
+    "name": "KSSRB LSSRB Mock Test 1 (10th Level)",
     "type": "kssrbMockTests",
     "que_ids": [
       "KmhGnyafX",
@@ -3506,9 +3616,145 @@
     ]
   },
   {
+    "id": "mSTQX25Kh_gs",
+    "category": "general studies",
+    "name": "KSSRB LSSRB Mock Test 11 (10th Level) - GS",
+    "level": "Medium",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "uLKPyKcaJ",
+      "znVxcPKxO",
+      "UTEjMpgwd",
+      "E-lZ8I7DO",
+      "Xtc04ZuM9",
+      "359dqxAVd",
+      "UToiGcEjd",
+      "oWI5h4sa5",
+      "VfNfQrbz0",
+      "vaOS_hFxu",
+      "Rmjql_2kJ",
+      "ovFKSFz7P",
+      "UnMu5gyVn",
+      "GUApLEW6M",
+      "edGqqEdNH",
+      "67ssY8Wt1",
+      "BwsYXkPfS",
+      "ybxN9_HCQ",
+      "4CoodspLx",
+      "3DbXe3lN6",
+      "9iEuNBzOL",
+      "HB7YEohqU",
+      "UVvFuQmgG",
+      "S6le6thxX",
+      "s6XJgM_Fy"
+    ]
+  },
+  {
+    "id": "mSTQX25Kh_english",
+    "category": "english",
+    "level": "Medium",
+    "name": "KSSRB LSSRB Mock Test 11 (10th Level) - English",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "-S66y8aVQ",
+      "Txe9l__st",
+      "eP-FObUTp",
+      "1xNflEyaX",
+      "nGwDu4Hpc",
+      "yKnfOJMBJ",
+      "foryn5uKX",
+      "SWTsnOqBq",
+      "4PsDnIT2j",
+      "h0E9X2E0n",
+      "wCmWaboq_",
+      "4uQ1JMevB",
+      "0UD4qspIC",
+      "iBQsRyGgV",
+      "p9zmFJMDx",
+      "p0bWPe5tw",
+      "e8PR94ui2",
+      "um8M8CwQb",
+      "xQlQygXHD",
+      "wJ7SrNaU9",
+      "2utSA3T6x",
+      "OGZe9eQII",
+      "iySEzbhal",
+      "LxrnwFa0G",
+      "IaswMbpeR"
+    ]
+  },
+  {
+    "id": "mSTQX25Kh_aptitude",
+    "category": "aptitude",
+    "level": "Medium",
+    "name": "KSSRB LSSRB Mock Test 11 (10th Level) - Aptitude",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "mG_GiPlIQ",
+      "9_nra-Qu4",
+      "yn3FV8Fm0",
+      "FoJcghDn-",
+      "HQ0EO3SCn",
+      "IyxZVWK15",
+      "LOD6drYlZ",
+      "5l8_vOEG_",
+      "0_WoUQXHQ",
+      "w3NcSCmCl",
+      "5d8wFL46S",
+      "E0ibA2DYD",
+      "p3Y9jEvlH",
+      "Gggfyl3xP",
+      "hEbSPT5yv",
+      "X5KQO2VQp",
+      "tRZep2X_g",
+      "mEu00P-yL",
+      "atpkMsOu1",
+      "Z2Lo1iPkU",
+      "O1U4IZw-o",
+      "NES8WsFHF",
+      "wlB46VhAW",
+      "oypWZ_ROm",
+      "v6-HwRcw5"
+    ]
+  },
+  {
+    "id": "mSTQX25Kh_reasoning",
+    "category": "reasoning",
+    "level": "Medium",
+    "name": "KSSRB LSSRB Mock Test 11 (10th Level) - Reasoning",
+    "type": "subjectWiseMockTests",
+    "que_ids": [
+      "8XMXAdsoR",
+      "IICj6hQLo",
+      "On9uPad9W",
+      "lPtfPg4Oj",
+      "aR1Itxgwq",
+      "qFubWyl9i",
+      "dVSI7qyWi",
+      "rfk8eyKYQ",
+      "yG3KQcEgW",
+      "oODFO1Q5o",
+      "OvHHneZ98",
+      "Qq8Kp-ZlS",
+      "RK3ghjOVm",
+      "A5k3G12E-",
+      "GZwA1op-t",
+      "NbG9t1kKG",
+      "GYwhF9LvS",
+      "N-MolRYaf",
+      "LrMlRjjU-",
+      "_Ks5dBrwH",
+      "ORJpwkHnl",
+      "G3WE83Ohp",
+      "Ub2G6Zyx2",
+      "1EuNWGS5F",
+      "WKHzJQP7a"
+    ]
+  },
+  {
     "id": "YTa_fNswW_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 10 (10+2 Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 10 (10+2 Level) - GS",
     "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3543,7 +3789,7 @@
     "id": "YTa_fNswW_english",
     "category": "english",
     "level": "Medium",
-    "name": "KSSRB Mock Test 10 (10+2 Level) - English",
+    "name": "KSSRB LSSRB Mock Test 10 (10+2 Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "ic0bvdCOy",
@@ -3577,7 +3823,7 @@
     "id": "YTa_fNswW_aptitude",
     "category": "aptitude",
     "level": "Medium",
-    "name": "KSSRB Mock Test 10 (10+2 Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 10 (10+2 Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "zqvbQwTte",
@@ -3611,7 +3857,7 @@
     "id": "YTa_fNswW_reasoning",
     "category": "reasoning",
     "level": "Medium",
-    "name": "KSSRB Mock Test 10 (10+2 Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 10 (10+2 Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "SBYesNYxV",
@@ -3644,7 +3890,7 @@
   {
     "id": "6SkhTcZew_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 9 (10+2 Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 9 (10+2 Level) - GS",
     "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3679,7 +3925,7 @@
     "id": "6SkhTcZew_english",
     "category": "english",
     "level": "Medium",
-    "name": "KSSRB Mock Test 9 (10+2 Level) - English",
+    "name": "KSSRB LSSRB Mock Test 9 (10+2 Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "TZ5QsxMwT",
@@ -3713,7 +3959,7 @@
     "id": "6SkhTcZew_aptitude",
     "category": "aptitude",
     "level": "Medium",
-    "name": "KSSRB Mock Test 9 (10+2 Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 9 (10+2 Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "BZCsVLOoY",
@@ -3747,7 +3993,7 @@
     "id": "6SkhTcZew_reasoning",
     "category": "reasoning",
     "level": "Medium",
-    "name": "KSSRB Mock Test 9 (10+2 Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 9 (10+2 Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "7DJGNDviF",
@@ -3780,7 +4026,7 @@
   {
     "id": "P1VQe8Ljo_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 8 (10+2 Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 8 (10+2 Level) - GS",
     "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3815,7 +4061,7 @@
     "id": "P1VQe8Ljo_english",
     "category": "english",
     "level": "Medium",
-    "name": "KSSRB Mock Test 8 (10+2 Level) - English",
+    "name": "KSSRB LSSRB Mock Test 8 (10+2 Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "7jaYouKxG",
@@ -3849,7 +4095,7 @@
     "id": "P1VQe8Ljo_aptitude",
     "category": "aptitude",
     "level": "Medium",
-    "name": "KSSRB Mock Test 8 (10+2 Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 8 (10+2 Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "gvwidX-rp",
@@ -3883,7 +4129,7 @@
     "id": "P1VQe8Ljo_reasoning",
     "category": "reasoning",
     "level": "Medium",
-    "name": "KSSRB Mock Test 8 (10+2 Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 8 (10+2 Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "gtzR9YTi7",
@@ -3916,7 +4162,7 @@
   {
     "id": "HlFJZr0QT_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 7 (10th Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 7 (10th Level) - GS",
     "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -3951,7 +4197,7 @@
     "id": "HlFJZr0QT_english",
     "category": "english",
     "level": "Easy",
-    "name": "KSSRB Mock Test 7 (10th Level) - English",
+    "name": "KSSRB LSSRB Mock Test 7 (10th Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "qO10rgSzt",
@@ -3985,7 +4231,7 @@
     "id": "HlFJZr0QT_aptitude",
     "category": "aptitude",
     "level": "Easy",
-    "name": "KSSRB Mock Test 7 (10th Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 7 (10th Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "nm7i9unMR",
@@ -4019,7 +4265,7 @@
     "id": "HlFJZr0QT_reasoning",
     "category": "reasoning",
     "level": "Easy",
-    "name": "KSSRB Mock Test 7 (10th Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 7 (10th Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "LLRzWLCJK",
@@ -4052,7 +4298,7 @@
   {
     "id": "gauwDLOqS_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 6 (10+2 Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 6 (10+2 Level) - GS",
     "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -4087,7 +4333,7 @@
     "id": "gauwDLOqS_english",
     "category": "english",
     "level": "Medium",
-    "name": "KSSRB Mock Test 6 (10+2 Level) - English",
+    "name": "KSSRB LSSRB Mock Test 6 (10+2 Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "fR0inAQEJ",
@@ -4121,7 +4367,7 @@
     "id": "gauwDLOqS_aptitude",
     "category": "aptitude",
     "level": "Medium",
-    "name": "KSSRB Mock Test 6 (10+2 Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 6 (10+2 Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "7NwBCOXlW",
@@ -4155,7 +4401,7 @@
     "id": "gauwDLOqS_reasoning",
     "category": "reasoning",
     "level": "Medium",
-    "name": "KSSRB Mock Test 6 (10+2 Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 6 (10+2 Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "EgAssUdLU",
@@ -4188,7 +4434,7 @@
   {
     "id": "Q4fSnhV5F_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 5 (Graduation Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 5 (Graduation Level) - GS",
     "level": "Hard",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -4223,7 +4469,7 @@
     "id": "Q4fSnhV5F_english",
     "category": "english",
     "level": "Hard",
-    "name": "KSSRB Mock Test 5 (Graduation Level) - English",
+    "name": "KSSRB LSSRB Mock Test 5 (Graduation Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "z6-2EYLIV",
@@ -4257,7 +4503,7 @@
     "id": "Q4fSnhV5F_aptitude",
     "category": "aptitude",
     "level": "Hard",
-    "name": "KSSRB Mock Test 5 (Graduation Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 5 (Graduation Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "HcXzCrI26",
@@ -4291,7 +4537,7 @@
     "id": "Q4fSnhV5F_reasoning",
     "category": "reasoning",
     "level": "Hard",
-    "name": "KSSRB Mock Test 5 (Graduation Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 5 (Graduation Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "A6Qt087Lw",
@@ -4324,7 +4570,7 @@
   {
     "id": "AoqWbs83O_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 4 (10th Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 4 (10th Level) - GS",
     "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -4359,7 +4605,7 @@
     "id": "AoqWbs83O_english",
     "category": "english",
     "level": "Easy",
-    "name": "KSSRB Mock Test 4 (10th Level) - English",
+    "name": "KSSRB LSSRB Mock Test 4 (10th Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "LrBhUoCMC",
@@ -4393,7 +4639,7 @@
     "id": "AoqWbs83O_aptitude",
     "category": "aptitude",
     "level": "Easy",
-    "name": "KSSRB Mock Test 4 (10th Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 4 (10th Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "yryOBL2Ev",
@@ -4427,7 +4673,7 @@
     "id": "AoqWbs83O_reasoning",
     "category": "reasoning",
     "level": "Easy",
-    "name": "KSSRB Mock Test 4 (10th Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 4 (10th Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "nL5UNOBIu",
@@ -4596,7 +4842,7 @@
   {
     "id": "ylameAb7Y_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 2 (10+2 Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 2 (10+2 Level) - GS",
     "level": "Medium",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -4631,7 +4877,7 @@
     "id": "ylameAb7Y_english",
     "category": "english",
     "level": "Medium",
-    "name": "KSSRB Mock Test 2 (10+2 Level) - English",
+    "name": "KSSRB LSSRB Mock Test 2 (10+2 Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "dHTy3notU",
@@ -4665,7 +4911,7 @@
     "id": "ylameAb7Y_aptitude",
     "category": "aptitude",
     "level": "Medium",
-    "name": "KSSRB Mock Test 2 (10+2 Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 2 (10+2 Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "mJ9YIVSsS",
@@ -4699,7 +4945,7 @@
     "id": "ylameAb7Y_reasoning",
     "category": "reasoning",
     "level": "Medium",
-    "name": "KSSRB Mock Test 2 (10+2 Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 2 (10+2 Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "qO6-GtIwl",
@@ -4732,7 +4978,7 @@
   {
     "id": "BD-EacuGz_gs",
     "category": "general studies",
-    "name": "KSSRB Mock Test 1 (10th Level) - GS",
+    "name": "KSSRB LSSRB Mock Test 1 (10th Level) - GS",
     "level": "Easy",
     "type": "subjectWiseMockTests",
     "que_ids": [
@@ -4767,7 +5013,7 @@
     "id": "BD-EacuGz_english",
     "category": "english",
     "level": "Easy",
-    "name": "KSSRB Mock Test 1 (10th Level) - English",
+    "name": "KSSRB LSSRB Mock Test 1 (10th Level) - English",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "yXDczX5R1",
@@ -4801,7 +5047,7 @@
     "id": "BD-EacuGz_aptitude",
     "category": "aptitude",
     "level": "Easy",
-    "name": "KSSRB Mock Test 1 (10th Level) - Aptitude",
+    "name": "KSSRB LSSRB Mock Test 1 (10th Level) - Aptitude",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "IAyN5w1B_",
@@ -4835,7 +5081,7 @@
     "id": "BD-EacuGz_reasoning",
     "category": "reasoning",
     "level": "Easy",
-    "name": "KSSRB Mock Test 1 (10th Level) - Reasoning",
+    "name": "KSSRB LSSRB Mock Test 1 (10th Level) - Reasoning",
     "type": "subjectWiseMockTests",
     "que_ids": [
       "aLQLGbi5k",
