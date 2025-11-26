@@ -168,6 +168,10 @@
         "name": "Geography",
         "sub_chapters": [
           {
+            "name": "Structure of Earth",
+            "sub_chapters": []
+          },
+          {
             "name": "Solar System",
             "sub_chapters": []
           },
@@ -318,20 +322,21 @@
     "sub_chapters": [
       {
         "name": "Vocabulary",
-        "sub_chapters": []
-      },
-      {
-        "name": "Idioms",
         "sub_chapters": [
           {
-            "name": "Idioms by Rani Maam",
+            "name": "Spelling Error",
             "sub_chapters": []
+          },
+          {
+            "name": "Idioms",
+            "sub_chapters": [
+              {
+                "name": "Idioms by Rani Maam",
+                "sub_chapters": []
+              }
+            ]
           }
         ]
-      },
-      {
-        "name": "Spelling Error",
-        "sub_chapters": []
       },
       {
         "name": "Active Passive",
@@ -363,6 +368,10 @@
       },
       {
         "name": "Confusing Words - Verbs",
+        "sub_chapters": []
+      },
+      {
+        "name": "Para Jumbles",
         "sub_chapters": []
       }
     ]
