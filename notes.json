@@ -1930,6 +1930,13 @@
     "page_uid": "x77aPTPI-",
     "blocks": [
       {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Cabinet Mission Plan**\n▪️ Cabinet Mission was a high-powered mission sent in February 1946 to India by the Atlee Government.\n▪️ The mission had three British cabinet members – Pethick Lawrence, Stafford Cripps, & and A.V. Alexander.\n▪️ The Cabinet Mission’s aim was to discuss the transfer of power from British to Indian leadership.\n▪️ Clement Atlee decided to send a mission to India for the transfer of powers from the British Indian government to Indian leaders.\n▪️ The Cabinet Mission Plan was a statement made by the Cabinet Mission and the Viceroy, Lord Wavell, on May 16, 1946, that contained proposals regarding the constitutional future of India in the wake of Indian political parties and representatives not coming to an agreement.",
+            "uid": "Guk6o54eF"
+          }
+        ],
         "order": 0,
         "string": "**History of Making of Constituent Assembly**\n▪️ M.N. Roy,  in 1934 for the first time suggested for making a constitution assembly to draft a constitution for India. \n▪️ Then it was Jawaharlal Nehru, who in Lucknow session of INC 1936, first time officially demand for a Constituent Assembly to draft a constitution.\n▪️ The Britishers for the first time agreed to form Constituent Assembly  in \"August Offer 1940\" with mainly Indians.\n▪️ The Britishers for the first time agreed to form Constituent Assembly  in \"Cripps Mission 1946\" with majority Indians\n▪️ But the Constituent Assembly was finally established in 1946 as per the recommendation of \"Cabinet Mission Plan, 1946\". As per which the \"Constituent Assembly\" had 389 members.",
         "uid": "IQBqkFmLW"
@@ -1975,6 +1982,13 @@
         "uid": "-rwJodx1g"
       },
       {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Important Committees and Members**\n▪️ **Drafting committee:** 7 members and Chairman was DR B R Ambedkar\n▪️ **Simon committee:** 7 members\n▪️ **Motilal Nehru committee:** 9 members and the Chairman was Motilal Nehru and Secretary was Jawaharlal Nehru",
+            "uid": "zPusrAMoK"
+          }
+        ],
         "order": 9,
         "string": "**DRAFTING COMMITEE**\n▪️ Drafting committee was the most important committee of the constituent assembly.\n▪️ It has 7 members.\n▪️ Dr B.R. Ambedkar was the chairman of the drafting committee.\n▪️ Dr B.R. Ambedkar is also known as \"father of the Indian constitution\" or \"architect of the indian constitution\"",
         "uid": "0hzbQgCY3"
@@ -3871,7 +3885,7 @@
       },
       {
         "order": 2,
-        "string": "**Women Presidents of INC**\n\n**1917 – Annie Besant**\n▪️ First woman president of the Indian National Congress (INC)\n▪️ Presided over the Calcutta Session\n\n**1925 – Sarojini Naidu**\n▪️ Second woman president of the INC\n▪️ First Indian woman president of the INC\n▪️ Presided over the Kanpur Session\n\n**1933 – Nellie Sengupta**\n▪️ Third woman to preside over the INC\n▪️ Presided over the Calcutta Session",
+        "string": "**Women Presidents of INC**\n\n**1917 – Annie Besant**\n▪️ First woman president of the Indian National Congress (INC)\n▪️ Presided over the 1917 Calcutta Session.\n▪️ She was a British theosophist and women's rights activist.\n▪️ She was also the last foreigner to preside over the Indian National Congress (INC)\n\n\n**1925 – Sarojini Naidu**\n▪️ Second woman president of the INC\n▪️ First Indian woman president of the INC\n▪️ Presided over the Kanpur Session\n\n**1933 – Nellie Sengupta**\n▪️ Third woman to preside over the INC\n▪️ Presided over the Calcutta Session.\n▪️ Nellie Sengupta was an English-born activist and politician who was a prominent figure in the Indian independence movement. \n▪️ After marrying and moving to India, she became a dedicated partner to her husband, Jatindra Mohan Sengupta, in the freedom struggle, and continued her own activism after his death",
         "uid": "CAkweDKFp"
       },
       {
@@ -4324,7 +4338,7 @@
         "children": [
           {
             "order": 0,
-            "string": "**About Moon**\n▪️ The Moon is Earth's only natural satellite. \n▪️ It is the fifth largest moon in the Solar System.\n▪️ It is the largest natural satellite relative to the size of its planet. \n▪️ The approximate average distance between the Earth and the Moon is 384,400 kilometers (or 238,855 miles). This is also known as one lunar distance and is the average of the Moon's elliptical orbit, which means the distance varies between its closest point (perigee) and farthest point (apogee)\n\n**Synchronous Rotation:** \n▪️ The moon takes the same amount of time to rotate on its axis as it does to orbit the Earth. \n▪️ This period is approximately 27.3 days.\n\n**Same Face Always Seen:** \n▪️ Because the rotation period and the orbital period are the same, the same side of the Moon always faces the Earth. \n▪️ This phenomenon is known as tidal locking.",
+            "string": "**About Moon**\n▪️ The Moon is Earth's only natural satellite. \n▪️ It is the fifth largest moon in the Solar System.\n▪️ It is the largest natural satellite relative to the size of its planet. \n▪️ The approximate average distance between the Earth and the Moon is 384,400 kilometers (or 238,855 miles). This is also known as one lunar distance and is the average of the Moon's elliptical orbit, which means the distance varies between its closest point (perigee) and farthest point (apogee)\n\n**Synchronous Rotation:** \n▪️ The moon takes the same amount of time to rotate on its axis as it does to orbit the Earth. \n▪️ This period is approximately 27.3 days.\n▪️ **We always see the same side of the Moon** because its period of rotation on its axis is equal to its period of revolution around Earth, a phenomenon called synchronous rotation. This means the Moon takes the same amount of time to spin once on its axis as it does to orbit Earth, so the same hemisphere always faces us. \n\n\n**Same Face Always Seen:** \n▪️ Because the rotation period and the orbital period are the same, the same side of the Moon always faces the Earth. \n▪️ This phenomenon is known as tidal locking.",
             "uid": "Vaj8Bf3FM"
           },
           {
@@ -4380,7 +4394,7 @@
           },
           {
             "order": 4,
-            "string": "**Chenab river:**\n▪️ The ancient name of Chenab was \"Askini\".\n▪️ It originates from Baralacha pass. \n▪️ It is the largest tributary of Indus.",
+            "string": "**Chenab river:**\n▪️ The ancient name of Chenab was \"Askini\".\n▪️ It originates from Baralacha pass. \n▪️ It originates from Baralacha Pass in Himachal Pradesh, as two streams\n▪️ The two streams Chandra and Bhaga, merge to form the Chenab. \n▪️ Chenab is the ^^largest tributary^^ of Indus.",
             "uid": "UKmm61zf1"
           },
           {
@@ -4716,7 +4730,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Goods and Service Tax (GST)**\n▪️ It is an indirect tax used in India on the supply of goods and services.\n▪️ It is a value-added tax levied on most goods and services sold for domestic consumption.\n▪️ It was launched in India on 1 July 2017 as a comprehensive indirect tax for the entire country.\n▪️ It is a comprehensive, multistage, destination-based tax comprehensive because it has subsumed almost all the indirect taxes except a few state taxes. \n▪️ It is paid by the consumers and is remitted to the government by the businesses selling the goods and services.\n\n▪️ It is of three types i.e.\n▪️ 1. CGST to be levied by the Centre, \n▪️ 2. SGST to be levied by the States and \n▪️ 3. IGST is a tax levied on all Inter-State supplies of goods and/or services.  \n\n▪️ All these taxes are levied at rates mutually agreed upon by the Centre and the States. \n▪️ The GST Council headed by the Union Finance Minister is the governing and key decision-making body for GST. \n((hTYh8mPiT))",
+        "string": "**Goods and Service Tax (GST)**\n▪️ It is an indirect tax used in India on the supply of goods and services.\n▪️ It is a value-added tax levied on most goods and services sold for domestic consumption.\n▪️ It was ^^launched in India on 1 July 2017^^ as a comprehensive indirect tax for the entire country.\n▪️ It is a comprehensive, multistage, destination-based tax comprehensive because it has subsumed almost all the indirect taxes except a few state taxes. \n▪️ It is paid by the consumers and is remitted to the government by the businesses selling the goods and services.\n\n▪️ It is of three types i.e.\n▪️ 1. CGST to be levied by the Centre, \n▪️ 2. SGST to be levied by the States and \n▪️ 3. IGST is a tax levied on all Inter-State supplies of goods and/or services.  \n\n▪️ All these taxes are levied at rates mutually agreed upon by the Centre and the States. \n▪️ The GST Council headed by the Union Finance Minister is the governing and key decision-making body for GST. \n((hTYh8mPiT))",
         "uid": "elwjwQqu4"
       },
       {
@@ -4864,7 +4878,7 @@
     "blocks": [
       {
         "order": 0,
-        "string": "🏢 United Nations Bodies and their HQs : \n\n**6 Main Organs and their Headquarters**\n▪️ General Assembly : New York City, USA\n▪️ Security Council : New York City\n▪️ Economic and Social Council (ECOSOC) : New York City\n▪️ Secretariat : New York City\n▪️ Trusteeship Council : New York City\n▪️ International Court of Justice (ICJ) : The Hague, Netherlands\n\n\n**15 Specialized Agencies**\n▪️ International Labour Organization (ILO): Geneva, Switzerland\n▪️ International Telecommunication Union (ITU): Geneva, Switzerland\n▪️ World Health Organization (WHO): Geneva, Switzerland\n▪️ World Intellectual Property Organization (WIPO): Geneva, Switzerland\n▪️ World Intellectual Property Organization (WIPO): Geneva, Switzerland\n▪️ World Meteorological Organization (WMO): Geneva, Switzerland\n▪️ United Nations High Commissioner for Refugees (UNHCR): Geneva, Switzerland\n\n▪️ Food and Agriculture Organization (FAO): Rome, Italy\n▪️ International Fund for Agricultural Development (IFAD): Rome, Italy\n\n▪️ International Monetary Fund (IMF): Washington, D.C., USA\n▪️ World Bank: Washington, D.C., USA\n\n▪️ United Nations Industrial Development Organization (UNIDO): Vienna, Austria\n▪️ International Civil Aviation Organization (ICAO): Montreal, Canada\n▪️ International Maritime Organization (IMO): London, United Kingdom\n▪️ World Tourism Organization (UNWTO): Madrid, Spain\n▪️ United Nations Educational, Scientific and Cultural Organization (UNESCO): Paris, France\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnited Nations Children's Fund (UNICEF)",
+        "string": "🏢 United Nations Bodies and their HQs : \n\n**6 Main Organs and their Headquarters**\n▪️ General Assembly : New York City, USA\n▪️ Security Council : New York City\n▪️ Economic and Social Council (ECOSOC) : New York City\n▪️ Secretariat : New York City\n▪️ Trusteeship Council : New York City\n▪️ International Court of Justice (ICJ) : The Hague, Netherlands\n\n\n**15 Specialized Agencies**\n▪️ International Labour Organization (ILO): Geneva, Switzerland\n▪️ International Telecommunication Union (ITU): Geneva, Switzerland\n▪️ World Health Organization (WHO): Geneva, Switzerland\n▪️ World Intellectual Property Organization (WIPO): Geneva, Switzerland\n▪️ World Intellectual Property Organization (WIPO): Geneva, Switzerland\n▪️ World Meteorological Organization (WMO): Geneva, Switzerland\n▪️ United Nations High Commissioner for Refugees (UNHCR): Geneva, Switzerland\n\n▪️ Food and Agriculture Organization (FAO): Rome, Italy\n▪️ International Fund for Agricultural Development (IFAD): Rome, Italy\n\n▪️ International Monetary Fund (IMF): Washington, D.C., USA\n▪️ World Bank: Washington, D.C., USA\n\n▪️ United Nations Industrial Development Organization (UNIDO): Vienna, Austria\n▪️ International Civil Aviation Organization (ICAO): Montreal, Canada\n▪️ International Maritime Organization (IMO): London, United Kingdom\n▪️ World Tourism Organization (UNWTO): Madrid, Spain\n▪️ United Nations Educational, Scientific and Cultural Organization (UNESCO): Paris, France",
         "uid": "atKyn_44X"
       }
     ]
@@ -5208,8 +5222,15 @@
     "page_uid": "_854FURzh",
     "blocks": [
       {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Idioms Asked in SSC Exams:**\n\n**Like a dying duck in a thunderstorm**: \n▪️ Dejected or hopeless",
+            "uid": "sKkFS1P1K"
+          }
+        ],
         "order": 0,
-        "string": "**Common English idioms and their meanings**\n▪️ **A piece of cake**: Something very easy. \n▪️ **Under the weather**: Feeling sick or unwell. \n▪️ **Break the ice**: To initiate a conversation in a tense or awkward situation. \n▪️ **Spill the beans**: To reveal a secret. \n▪️ **Bite the bullet**: To face a difficult or unpleasant situation with courage. \n▪️ **Hit the nail on the head**: To describe exactly what is causing a problem. \n▪️ **Once in a blue moon**: Very rarely.\n▪️ **Kick the Bucket**: say that someone has died.\n▪️ **The ball is in your court**: It is your turn to make a decision or take action. \n▪️ **All bark and no bite**: Full of talk, but low on action\n▪️ **Cost an arm and a leg**: Something is very expensive. \n▪️ **Cut corners**: To do something in a way that saves time or money but lacks quality. \n▪️ **Pull someone's leg**: To joke with someone. \n▪️ **Blessing in disguise**: Something that seems bad at first but turns out to be good. \n▪️ **Hit the books**: To study hard. \n▪️ **Kill two birds with one stone**: To accomplish two things at once. \n▪️ **Let the cat out of the bag**: To accidentally reveal a secret. \n▪️ **On cloud nine**: To be extremely happy. \n▪️ **Burn the midnight oil**: To work late into the night. \n▪️ **To burn the midnight oil**: To stay up late to work or study\n▪️ **A blessing in disguise**: A misfortune that later results in something good. \n▪️ **Call it a day**: To stop working on something for the day. \n▪️ **Get two things done with a single action**: To accomplish two things at once.\n\n**Asked in SSC MTS:**\n▪️ **Like a dying duck in a thunderstorm**: Dejected or hopeless",
+        "string": "**Common English idioms and their meanings**\n\n**A piece of cake**\n▪️ Something very easy. \n\n**Under the weather**\n▪️ Feeling sick or unwell. \n\n**Break the ice**\n▪️ To initiate a conversation in a tense or awkward situation. \n\n**Spill the beans**\n▪️ To reveal a secret.\n \n**Bite the bullet**\n▪️ To face a difficult or unpleasant situation with courage. \n\n**Hit the nail on the head**\n▪️ To describe exactly what is causing a problem. \n\n**Once in a blue moon**\n▪️ Very rarely.\n\n**Kick the Bucket**\n▪️ say that someone has died.\n\n**The ball is in your court**\n▪️ It is your turn to make a decision or take action. \n\n**All bark and no bite**\n▪️ Full of talk, but low on action\n\n**Cost an arm and a leg**\n▪️ Something is very expensive. \n\n**Cut corners**: \n▪️ To do something in a way that saves time or money but lacks quality. \n\n**Pull someone's leg**\n▪️ To joke with someone. \n\n**Blessing in disguise**\n▪️ Something that seems bad at first but turns out to be good. \n\n**Hit the books**\n▪️ To study hard. \n\n**Kill two birds with one stone**\n▪️ To accomplish two things at once. \n\n**Let the cat out of the bag**\n▪️ To accidentally reveal a secret. \n\n**On cloud nine**\n▪️ To be extremely happy. \n\n**Burn the midnight oil**\n▪️ To work late into the night. \n\n**To burn the midnight oil**: \n▪️ To stay up late to work or study\n\n**A blessing in disguise**\n▪️ A misfortune that later results in something good. \n\n**Call it a day**\n▪️ To stop working on something for the day. \n\n**Get two things done with a single action**\n▪️ To accomplish two things at once.",
         "uid": "CpehOkiVh"
       },
       {
