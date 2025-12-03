@@ -8,7 +8,7 @@
     "sub_chapters": []
   },
   {
-    "name": "KSSRB Exam",
+    "name": "KSSRB",
     "sub_chapters": [
       {
         "name": "KSSRB Exam (Graduate) 2024",
@@ -37,7 +37,11 @@
     ]
   },
   {
-    "name": "JKSSB Exam",
+    "name": "LSSRB",
+    "sub_chapters": []
+  },
+  {
+    "name": "JKSSB",
     "sub_chapters": [
       {
         "name": "JKSSB Patwari Exam 2024",
