@@ -210,8 +210,12 @@
         ]
       },
       {
-        "name": "[[Economy]]",
+        "name": "Economy",
         "sub_chapters": [
+          {
+            "name": "[[Economy Notes]]",
+            "sub_chapters": []
+          },
           {
             "name": "[[GST Notes]]",
             "sub_chapters": []
@@ -224,12 +228,11 @@
       },
       {
         "name": "[[International Groupings]]",
-        "sub_chapters": [
-          {
-            "name": "[[United Nations]]",
-            "sub_chapters": []
-          }
-        ]
+        "sub_chapters": []
+      },
+      {
+        "name": "[[United Nations]]",
+        "sub_chapters": []
       },
       {
         "name": "[[National Symbols]]",
@@ -281,8 +284,17 @@
         "sub_chapters": []
       },
       {
-        "name": "[[Static GK]]",
-        "sub_chapters": []
+        "name": "General Static GS",
+        "sub_chapters": [
+          {
+            "name": "[[Static GK]]",
+            "sub_chapters": []
+          },
+          {
+            "name": "[[National & International Days]]",
+            "sub_chapters": []
+          }
+        ]
       }
     ]
   },
