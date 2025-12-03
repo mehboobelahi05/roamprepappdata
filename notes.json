@@ -4669,8 +4669,8 @@
     ]
   },
   {
-    "page_title": "Economy",
-    "page_uid": "zbD_Bs2gy",
+    "page_title": "Economy Notes",
+    "page_uid": "c0nldT51E",
     "blocks": [
       {
         "order": 0,
@@ -4679,7 +4679,7 @@
       },
       {
         "order": 1,
-        "string": "**RBI (Reserve Bank of India)**\n▪️ Founded April 1, 1935, under RBI Act 1934; \n▪️ RBI is a statutory body i.e established under an act of parliament\n▪️ HQ in Mumbai (shifted from Kolkata in 1937); \n▪️ Nationalized in 1949.\n▪️ Current RBI governor: \n▪️ Current Governor: Sanjay Malhotra (appointed Dec 2024; oversees monetary policy & banking regs).\n\n**Core Functions:**\n▪️ Issue & manage currency (regulates money supply).\n▪️ Formulate & implement monetary policy (e.g., repo rate, CRR, SLR to control inflation & growth).\n▪️ Banker to govt (manages public debt, accounts).\n▪️ Regulator of banks & NBFCs\n▪️ Forex management\n▪️ Promotes financial inclusion \n▪️ Bank of last resort for bankers",
+        "string": "**RBI (Reserve Bank of India)**\n▪️ Founded April 1, 1935, under RBI Act 1934; \n▪️ RBI is a statutory body i.e established under an act of parliament\n▪️ HQ in Mumbai (shifted from Kolkata in 1937); \n▪️ Nationalized in 1949.\n▪️ Current RBI governor: \n▪️ Current Governor: Sanjay Malhotra (appointed Dec 2024; oversees monetary policy & banking regs).\n\n**Primary Objective**\n▪️ Formulate \"monetary polity\" using monetary policy tools like repo rate, reverse repo rate etc.\n▪️ Maintain inflation in the indian market. \n\n**Core Functions:**\n▪️ Issue & manage currency (regulates money supply).\n▪️ Formulate & implement monetary policy (e.g., repo rate, CRR, SLR to control inflation & growth).\n▪️ Banker to govt (manages public debt, accounts).\n▪️ Regulator of banks & NBFCs\n▪️ Forex management\n▪️ Promotes financial inclusion \n▪️ Bank of last resort for bankers",
         "uid": "GFTa5LjWS"
       },
       {
@@ -5219,13 +5219,29 @@
       },
       {
         "order": 3,
-        "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 17: International Day for the Eradication of Poverty\n▪️ October 23: International Snow Leopard Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day)",
-        "uid": "sdtDIGkrS"
+        "string": "((sdtDIGkrS))",
+        "uid": "FcH1zEGzd"
       },
       {
         "order": 4,
         "string": "Frequently asked international days",
         "uid": "pAWovD8ip"
+      }
+    ]
+  },
+  {
+    "page_title": "National & International Days",
+    "page_uid": "_Ua1bfWwU",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Days Asked in Previous Exams**\n▪️ June 5: World Environment Day",
+        "uid": "IdnnLoQF8"
+      },
+      {
+        "order": 1,
+        "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 17: International Day for the Eradication of Poverty\n▪️ October 23: International Snow Leopard Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day)",
+        "uid": "sdtDIGkrS"
       }
     ]
   },
